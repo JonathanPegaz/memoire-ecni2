@@ -17,7 +17,7 @@ Les arguments clés dans ce document sont les suivants :
 
 Ces arguments mettent en lumière la complexité du plagiat et la manière dont il est appréhendé à la fois socialement et juridiquement.
 
-## Eléments retenus : 
+## Eléments retenus 
 1. Le plagiat est une pratique socialement réprouvée qui consiste à utiliser les travaux ou les idées d'autres personnes sans leur accorder le crédit qui leur revient.
 2. Le plagiat dépasse le domaine de la contrefaçon et englobe des comportements tels que la copie servile, les similitudes plus ou moins volontaires, l'imitation, le démarquage ou encore l'hommage.
 3. Le plagiat est une pratique déloyale qui vise à se faire passer pour l'auteur d'un travail intellectuel, en associant son nom à celui d'un autre.
@@ -27,11 +27,11 @@ Ces arguments mettent en lumière la complexité du plagiat et la manière dont 
 7. Le plagiat peut être sanctionné juridiquement, notamment par le biais de la contrefaçon, de la responsabilité civile, de la responsabilité pénale et de la responsabilité disciplinaire.
 8. Le droit offre une approche incomplète du plagiat et ne couvre pas tous les aspects de cette pratique sociale.
 9. L'utilisation des modèles de langage génératif dans l'apprentissage de la programmation peut être bénéfique, mais il est important de garantir une compréhension profonde des concepts et d'éviter le plagiat en citant correctement les sources et en respectant les droits d'auteur.
-## Citations :
+## Citations
 1. "Le plagiat est un faux ami. Dans le langage courant, il est le plus souvent confondu avec la contrefaçon."
 2. "Le plagiat serait constitué par la reprise des travaux ou des idées d'autrui." 
 3. "Le plagiat est donc d'abord un fait social, une pratique intellectuelle déloyale, et non un fait juridique."
 4. "Le plagiat est l'appropriation abusive de paternité entre pairs, sanctionnable au titre du droit d'auteur."
 5. "La contrefaçon représente le principal fondement permettant de sanctionner le plagiat." 
-## Mots clés : 
+## Mots clés
 Les mots clés de ce document sont : plagiat, contrefaçon, littérature, droit d'auteur, propriété intellectuelle, imitation, originalité, responsabilité civile, responsabilité pénale, responsabilité disciplinaire.

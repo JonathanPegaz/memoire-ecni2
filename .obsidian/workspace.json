@@ -11,9 +11,11 @@
             "id": "8623a86fcaf6649e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf"
+                "file": "Jonathan/Fiches de lecture/Education in the Era of Generative Artificial Intelligence/Education in the Era of Generative Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf",
+                "file": "Jonathan/Fiches de lecture/Education in the Era of Generative Artificial Intelligence/Education in the Era of Generative Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf",
+                "file": "Jonathan/Fiches de lecture/Education in the Era of Generative Artificial Intelligence/Education in the Era of Generative Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf"
+                "file": "Jonathan/Fiches de lecture/Education in the Era of Generative Artificial Intelligence/Education in the Era of Generative Artificial Intelligence.md"
               }
             }
           },
@@ -172,8 +174,11 @@
   },
   "active": "8623a86fcaf6649e",
   "lastOpenFiles": [
+    "Jonathan/Fiches de lecture/Education in the Era of Generative Artificial Intelligence/Education in the Era of Generative Artificial Intelligence.pdf",
     "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
+    "Jonathan/Fiches de lecture/Education in the Era of Generative Artificial Intelligence/Education in the Era of Generative Artificial Intelligence.md",
     "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf",
+    "Jonathan/Fiches de lecture/Education in the Era of Generative Artificial Intelligence",
     "README.md",
     "Jonathan/Fiches de lecture/Le plagiat au défi du droit",
     "Jonathan/Fiches de lecture",
