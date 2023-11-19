@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md"
               }
             }
           },
@@ -144,13 +144,22 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "fcf9df70c51574b7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +172,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2a6c886be44a08f9",
+  "active": "fcf9df70c51574b7",
   "lastOpenFiles": [
-    "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
     "README.md",
+    "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
     "Jonathan/Fiches de lecture/Le plagiat au défi du droit",
     "Jonathan/Fiches de lecture",
     "Jonathan"

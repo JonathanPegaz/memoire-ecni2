@@ -4,3 +4,15 @@ Ce document traite principalement du plagiat et de son rapport avec le droit. Il
 ## Problématique
 La problématique soulevée dans cet article est la définition et la distinction entre le plagiat et la contrefaçon dans le domaine de la littérature et du droit. L'auteur explore les différentes définitions et perceptions du plagiat, ainsi que son évolution historique à travers les siècles. Il met en évidence les différences entre le plagiat et la contrefaçon, en soulignant que le plagiat dépasse souvent le cadre strict de la contrefaçon. L'article examine également les aspects matériels et moraux du plagiat, ainsi que ses implications juridiques, notamment en termes de contrefaçon, de responsabilité civile, pénale et disciplinaire. Enfin, l'auteur soulève la question des sanctions juridiques du plagiat et de son traitement dans le système juridique. La problématique centrale est donc de comprendre la nature et les implications du plagiat dans le contexte littéraire et juridique, en examinant les différentes perspectives et en évaluant les réponses juridiques existantes.
 
+## Arguments
+Les arguments clés dans ce document sont les suivants :
+
+1. Le plagiat et la contrefaçon : Le plagiat est souvent confondu avec la contrefaçon, mais il y a des différences entre les deux. Le plagiat est l'acte de donner pour sien ce qui a été pris à l'œuvre d'un autre, tandis que la contrefaçon est l'appropriation illicite de tout ou partie de l'œuvre d'autrui. Bien que les deux soient socialement réprouvés, le plagiat dépasse le domaine de la contrefaçon.
+
+2. Éléments matériels et moraux du plagiat : Le plagiat peut prendre différentes formes, allant de la copie servile à l'imitation, à l'hommage, ou même à l'intertextualité. Il implique la reprise de tout ou partie d'un travail intellectuel, avec la volonté de se faire passer pour l'auteur. Le plagiat est donc à la fois un fait social et une pratique intellectuelle déloyale.
+
+3. Approche juridique du plagiat : Bien que le plagiat ne soit pas une notion juridique précise, il est sanctionné dans certains cas. La contrefaçon est le fondement principal pour sanctionner le plagiat, mais d'autres domaines du droit, tels que la responsabilité civile, pénale et disciplinaire, peuvent également être impliqués. Cependant, le droit ne couvre pas tous les aspects du plagiat de manière cohérente.
+
+4. Définitions et approches variées du plagiat : Les définitions du plagiat varient, mais elles soulignent généralement la reprise des travaux ou des idées d'autrui sans en attribuer le crédit approprié. Cela pose des problèmes juridiques car le droit d'auteur ne protège pas les idées, qui sont de libre parcours. Le plagiat peut donc être autorisé dans certains cas, ce qui met en évidence les limites de son assimilation à la contrefaçon.
+
+Ces arguments mettent en lumière la complexité du plagiat et la manière dont il est appréhendé à la fois socialement et juridiquement.
