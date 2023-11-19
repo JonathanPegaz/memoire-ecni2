@@ -11,11 +11,9 @@
             "id": "8623a86fcaf6649e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
-                "mode": "source",
-                "source": false
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md"
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf"
               }
             }
           },
@@ -138,7 +136,7 @@
             }
           },
           {
-            "id": "ab97bf3791098824",
+            "id": "05be310d48674a6e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -146,7 +144,7 @@
             }
           },
           {
-            "id": "fcf9df70c51574b7",
+            "id": "ba3b0f6f365918fc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -174,9 +172,9 @@
   },
   "active": "8623a86fcaf6649e",
   "lastOpenFiles": [
+    "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
     "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.pdf",
     "README.md",
-    "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
     "Jonathan/Fiches de lecture/Le plagiat au défi du droit",
     "Jonathan/Fiches de lecture",
     "Jonathan"

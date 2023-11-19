@@ -1,5 +1,5 @@
 {
-  "api_key": "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",
+  "api_key": "",
   "chat_open": true,
   "file_exclusions": "",
   "folder_exclusions": "",
@@ -16,5 +16,8 @@
   "smart_chat_model": "gpt-4-1106-preview",
   "view_open": true,
   "version": "1.6.37",
-  "failed_files": []
+  "failed_files": [
+    "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
+    "README.md"
+  ]
 }
