@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "e07660dd5c78a745",
+    "type": "split",
+    "children": [
+      {
+        "id": "58b4654517279444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a6c886be44a08f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7237cb20decee8b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d24d246a6a98632",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2f271139fe76fbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "176588f662023679",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e20e706c011cdc27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68c9677505fc8af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "92c3afc9982f5b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5500de10eeff3b86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e160659aba94052",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b1cff711ce60407",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efae8d2112e4c36e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "2a6c886be44a08f9",
+  "lastOpenFiles": [
+    "README.md",
+    "Jonathan/Fiches de lecture/Le plagiat au défi du droit/Le plagiat au défi du droit.md",
+    "Jonathan/Fiches de lecture/Le plagiat au défi du droit",
+    "Jonathan/Fiches de lecture",
+    "Jonathan"
+  ]
+}

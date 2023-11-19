@@ -1,0 +1,4 @@
+## Sujet
+Ce document traite principalement du plagiat et de son rapport avec le droit. Il explore les différentes définitions du plagiat et souligne les différences entre le plagiat et la contrefaçon. L'auteur souligne également les aspects matériels et moraux du plagiat, ainsi que les effets juridiques associés. Le document aborde les fondements juridiques du plagiat, tels que la contrefaçon, la responsabilité civile, la responsabilité pénale et la responsabilité disciplinaire. Il met en évidence les implications juridiques du plagiat et discute de la complexité de sa sanction. En résumé, ce document examine le concept du plagiat à la fois d'un point de vue social et juridique, en soulignant ses différentes facettes et ses enjeux dans notre société actuelle.
+
+## Problématique
