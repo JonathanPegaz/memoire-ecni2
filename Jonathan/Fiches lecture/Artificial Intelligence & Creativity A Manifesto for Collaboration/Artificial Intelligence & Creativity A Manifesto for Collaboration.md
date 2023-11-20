@@ -16,7 +16,10 @@ Dans ce manifeste, plusieurs problématiques sont soulevées concernant l'intég
 3. Éthique et responsabilité : Le manifeste met l'accent sur l'importance d'une utilisation responsable et éthique de l'IA dans le domaine de la créativité. Vous pouvez souligner que les étudiants en programmation doivent être conscients des limites et des implications éthiques liées à l'utilisation de modèles de langage génératif, en les encourageant à respecter les principes de l'intégrité académique et à éviter le plagiat.
 4. Problème de reconnaissance : Le document souligne que l'AI générée est limitée à certaines parties du processus créatif, et que l'intentionnalité créative et la capacité à trouver des problèmes sont des aspects uniques aux humains. Vous pouvez souligner que les étudiants en programmation doivent développer leurs propres compétences en résolution de problèmes et en compréhension des concepts, tout en utilisant les modèles de langage génératif comme une ressource complémentaire pour développer et affiner leurs propres idées.
 ## Citations
-
+- "Ce manifeste explore plusieurs scénarios de collaboration entre l'homme et la machine dans des tâches créatives et propose des « lois fondamentales de l'IA générative » pour renforcer l'utilisation responsable et éthique de l'IA dans le domaine de la créativité."
+- "Quatre scénarios sont proposés et discutés : « Co-Cré-AI-tion », « Organique », « Plagiat 3.0 » et « Arrêt », illustrant chacun différents futurs possibles basés sur la collaboration entre les humains et les machines."
+- "Les lois fondamentales proposées visent à empêcher les IA de générer du contenu nocif et de concurrencer directement les humains. La création d'étiquettes et de lois est également soulignée pour assurer une utilisation responsable des IA."
+- "Le futur positif de la créativité et de l'IA réside dans une collaboration harmonieuse qui peut profiter à tous, conduisant potentiellement à un nouveau niveau de productivité créative respectant les considérations éthiques et les valeurs humaines tout au long du processus créatif."
 ## Mots clés
 Les mots clés de ce document sont :
 - Intelligence artificielle
