@@ -11,9 +11,20 @@ Sujets principaux abordés :
 ## Problématique
 Cette étude explore les rôles de l'instruction humaine par rapport à l'instruction par l'intelligence artificielle (IA) dans les salles de classe améliorées par l'IA. Elle examine comment les systèmes d'apprentissage IA peuvent être conçus pour soutenir ces rôles complémentaires, en se basant sur des études de conception participative et de validation des besoins avec des enseignants et des élèves du primaire et du secondaire. Les résultats montrent que les enseignants souhaitent un soutien en temps réel des tuteurs IA pour identifier quand les élèves ont besoin d'aide humaine, évaluer les impacts de leur propre aide et gérer la motivation des élèves. Les élèves, quant à eux, souhaitent des mécanismes pour signaler qu'ils ont besoin d'aide sans perdre la face devant leurs pairs, recevoir un soutien émotionnel des enseignants humains plutôt que des tuteurs IA et avoir plus de contrôle sur l'utilisation de leurs analyses personnelles. Ces résultats fournissent des outils et des informations pour guider la conception de partenariats humain-IA plus efficaces dans l'éducation de la maternelle à la terminale.
 ## Arguments
+Dans ce document, l'article "Designing for Complementarity: Teacher and Student Needs for Orchestration Support in AI-Enhanced Classrooms" explore les besoins des enseignants et des élèves en matière de soutien à l'orchestration dans les salles de classe améliorées par l'intelligence artificielle (IA). L'objectif est de comprendre les rôles de l'instruction humaine par rapport à l'instruction basée sur l'IA et de concevoir des systèmes d'apprentissage améliorés par l'IA (AIED) qui soutiennent ces rôles complémentaires.
 
+L'étude utilise des méthodes de conception participative et de validation des besoins avec des enseignants et des élèves du primaire et du secondaire. Les chercheurs ont recueilli les réactions et les commentaires des participants sur 24 concepts de conception pour des systèmes intégrant l'instruction humaine et l'instruction basée sur l'IA. Ils ont également utilisé une méthode appelée "participatory speed dating" (PSD) pour générer et évaluer de nouveaux concepts technologiques en impliquant plusieurs parties prenantes.
+
+Les résultats de l'étude mettent en évidence plusieurs besoins et attentes des enseignants et des élèves. Les enseignants souhaitent un soutien en temps réel de la part des tuteurs IA pour identifier quand les élèves ont besoin d'aide humaine, évaluer l'impact de leur propre aide et gérer la motivation des élèves. Les élèves, quant à eux, souhaitent des mécanismes pour exprimer leur besoin d'aide en classe sans perdre la face devant leurs pairs, recevoir un soutien émotionnel de la part des tuteurs humains plutôt que des tuteurs IA, et avoir plus de contrôle sur l'utilisation de leurs données d'analyse personnelle.
+
+L'étude souligne l'importance de concevoir des partenariats efficaces entre l'humain et l'IA dans le domaine de l'éducation. Il propose des outils et des idées pour guider la conception de systèmes d'apprentissage qui exploitent les forces complémentaires des enseignants et de l'IA pour améliorer l'éducation au niveau primaire et secondaire.
 ## Eléments retenus 
 
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont :
+- Design
+- Orchestration en classe
+- Interaction humain-IA
+## Commentaire
