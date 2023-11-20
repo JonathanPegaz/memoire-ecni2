@@ -32,5 +32,5 @@ Les mots clés de ce document sont:
 - Conceptual case study
 - Natural language models
 - PT tactics
-
-
+## Commentaire
+Ce document intitulé "A new horizon for possibility thinking: A conceptual case study of Human × AI collaboration" par Ronald A. Beghetto, publié en 2023, explore le potentiel de la collaboration entre l'homme et l'intelligence artificielle (IA) dans le cadre de la pensée créative et de la génération de nouvelles possibilités. L'auteur met en avant l'idée que les modèles de langage génératif, tels que ceux développés par OpenAI, peuvent être considérés comme un "autre" possible avec lequel collaborer.
