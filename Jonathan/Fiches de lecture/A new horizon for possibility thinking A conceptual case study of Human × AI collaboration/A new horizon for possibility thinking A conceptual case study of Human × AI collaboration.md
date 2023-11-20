@@ -15,9 +15,22 @@ L'article souligne que les collaborations entre les humains et l'IA ne sont pas 
 L'étude de cas conceptuelle présentée dans l'article utilise l'OpenAI Playground pour illustrer comment les chatbots basés sur l'IA peuvent être utilisés pour soutenir la PT. Différents scripts basés sur des tactiques de PT sont développés pour guider les interactions entre les humains et les chatbots. Ces tactiques incluent la génération de possibilités d'action à travers des analogies et des déviations par rapport à ce qui est connu, ainsi que l'exploration de nouvelles possibilités pour l'action. L'article présente également les réglages utilisés dans l'OpenAI Playground pour ces interactions.
 
 En résumé, cet article explore comment la collaboration entre les humains et l'IA peut soutenir la pensée de possibilité. Il met en évidence l'importance de la PT dans l'expérience humaine et propose des tactiques et des exemples pour favoriser la génération de nouvelles possibilités d'action. Cette recherche est pertinente pour un large public dans divers domaines, tels que l'éducation, les sciences sociales et physiques, la philosophie, les humanités, les affaires et l'ingénierie, ainsi que pour toute personne intéressée par les nouvelles façons de générer de nouvelles possibilités dans son apprentissage, son travail et sa vie quotidienne.
-
 ## Eléments retenus 
+1. La collaboration entre humains et IA : Le document explore la collaboration entre l'homme et l'intelligence artificielle, en mettant en évidence comment cette collaboration peut soutenir la pensée axée sur les possibilités. Dans votre problématique, vous pourriez explorer comment les étudiants en programmation peuvent collaborer avec des modèles de langage génératif pour stimuler leur créativité et leur capacité à générer de nouvelles idées sans plagiat.
 
+2. La pensée axée sur les possibilités : Le document décrit la pensée axée sur les possibilités comme un processus imaginatif et axé sur l'action qui permet de passer de ce qui est à ce qui pourrait être. Vous pouvez utiliser cette notion pour montrer comment l'utilisation de modèles de langage génératif peut aider les étudiants en programmation à explorer de nouvelles idées et à envisager des solutions innovantes tout en garantissant une compréhension approfondie des concepts.
+
+3. Les tactiques de pensée axée sur les possibilités : Le document présente différentes tactiques qui favorisent la pensée axée sur les possibilités, telles que les analogies "comme si" et la génération de nouvelles actions à partir de ce qui est connu. Vous pourriez explorer comment les étudiants en programmation peuvent appliquer ces tactiques lorsqu'ils utilisent des modèles de langage génératif, en veillant à ce que leur apprentissage soit basé sur une compréhension approfondie des concepts et en évitant le plagiat.
+
+4. Approche éthique et principielle : Le document souligne l'importance d'adopter une approche éthique et principielle dans la collaboration avec l'IA. Vous pouvez mettre en avant l'importance pour les étudiants en programmation d'utiliser les modèles de langage génératif de manière responsable, en respectant les droits d'auteur et en veillant à ce que leur travail reflète une compréhension authentique des concepts plutôt que du simple plagiat.
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont:
+- Possibility thinking
+- Human × AI collaboration
+- Conceptual case study
+- Natural language models
+- PT tactics
+
+
