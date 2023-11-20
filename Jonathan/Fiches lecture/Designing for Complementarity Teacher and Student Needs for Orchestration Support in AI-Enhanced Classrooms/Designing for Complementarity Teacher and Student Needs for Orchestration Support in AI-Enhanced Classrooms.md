@@ -21,6 +21,12 @@ L'étude souligne l'importance de concevoir des partenariats efficaces entre l'h
 ## Eléments retenus 
 
 ## Citations
+- "As artificial intelligence (AI) increasingly enters K-12 classrooms, what do teachers and students see as the roles of human versus AI instruction, and how might educational AI (AIED) systems best be designed to support these complementary roles?"
+- "We explore these questions through participatory design and needs validation studies with K-12 teachers and students."
+- "Using human-centered design methods rarely employed in AIED research, this work builds on prior findings to contribute: (1) an analysis of teacher and student feedback on 24 design concepts for systems that integrate human and AI instruction; and (2) participatory speed dating (PSD): a new variant of the speed dating design method, involving iterative concept generation and evaluation with multiple stakeholders."
+- "Using PSD, we found that teachers desire greater real-time support from AI tutors in identifying when students need human help, in evaluating the impacts of their own help-giving, and in managing student motivation."
+- "Meanwhile, students desire better mechanisms to signal help-need during class without losing face to peers, to receive emotional support from human rather than AI tutors, and to have greater agency over how their personal analytics are used."
+- "This work provides tools and insights to guide the design of more effective human–AI partnerships for K-12 education."
 
 ## Mots clés
 Les mots clés de ce document sont :
@@ -28,3 +34,4 @@ Les mots clés de ce document sont :
 - Orchestration en classe
 - Interaction humain-IA
 ## Commentaire
+Ce document intitulé "Designing for Complementarity: Teacher and Student Needs for Orchestration Support in AI-Enhanced Classrooms" aborde la question de la conception de systèmes d'intelligence artificielle (IA) pour soutenir l'apprentissage dans les salles de classe. Bien que le document ne traite pas directement de l'utilisation de modèles de langage génératif dans l'apprentissage de la programmation, il offre des informations pertinentes sur la manière dont les enseignants et les étudiants peuvent tirer parti des systèmes d'IA pour soutenir leur collaboration et améliorer l'efficacité de l'enseignement et de l'apprentissage. Le document souligne l'importance de la collaboration entre les enseignants et les systèmes d'IA dans les salles de classe, en mettant en évidence les avantages de la complémentarité entre les forces humaines et les capacités de l'IA. Il propose des méthodes de conception participative pour explorer les besoins des enseignants et des étudiants, ainsi que des concepts de conception pour des systèmes d'orchestration humain-IA.
