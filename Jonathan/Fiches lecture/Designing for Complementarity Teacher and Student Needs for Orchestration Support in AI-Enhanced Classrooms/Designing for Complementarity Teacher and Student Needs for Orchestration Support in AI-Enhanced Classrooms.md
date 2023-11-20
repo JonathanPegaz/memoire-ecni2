@@ -18,8 +18,8 @@ L'étude utilise des méthodes de conception participative et de validation des 
 Les résultats de l'étude mettent en évidence plusieurs besoins et attentes des enseignants et des élèves. Les enseignants souhaitent un soutien en temps réel de la part des tuteurs IA pour identifier quand les élèves ont besoin d'aide humaine, évaluer l'impact de leur propre aide et gérer la motivation des élèves. Les élèves, quant à eux, souhaitent des mécanismes pour exprimer leur besoin d'aide en classe sans perdre la face devant leurs pairs, recevoir un soutien émotionnel de la part des tuteurs humains plutôt que des tuteurs IA, et avoir plus de contrôle sur l'utilisation de leurs données d'analyse personnelle.
 
 L'étude souligne l'importance de concevoir des partenariats efficaces entre l'humain et l'IA dans le domaine de l'éducation. Il propose des outils et des idées pour guider la conception de systèmes d'apprentissage qui exploitent les forces complémentaires des enseignants et de l'IA pour améliorer l'éducation au niveau primaire et secondaire.
-## Eléments retenus 
-
+## Eléments retenus
+Cet article aborde la question de la conception de systèmes AI (AIED) pour soutenir les rôles complémentaires des enseignants et des systèmes AI dans les salles de classe. Il met en évidence les besoins des enseignants en termes de soutien en temps réel de la part des tuteurs AI pour identifier quand les étudiants ont besoin d'aide humaine, évaluer les impacts de leur propre aide et gérer la motivation des étudiants. Il souligne également les besoins des étudiants en termes de mécanismes pour signaler leur besoin d'aide sans perdre la face devant leurs pairs, recevoir un soutien émotionnel des enseignants plutôt que des tuteurs AI et avoir plus de contrôle sur l'utilisation de leurs données personnelles. Ces résultats peuvent être pertinents pour votre problématique, car ils mettent en évidence l'importance de la compréhension des concepts et de la personnalisation de l'apprentissage, tout en soulignant les limites de l'automatisation excessive. Il peut être intéressant d'explorer comment les modèles de langage génératif peuvent être utilisés pour soutenir ces besoins tout en évitant le plagiat.
 ## Citations
 - "As artificial intelligence (AI) increasingly enters K-12 classrooms, what do teachers and students see as the roles of human versus AI instruction, and how might educational AI (AIED) systems best be designed to support these complementary roles?"
 - "We explore these questions through participatory design and needs validation studies with K-12 teachers and students."
@@ -27,7 +27,6 @@ L'étude souligne l'importance de concevoir des partenariats efficaces entre l'h
 - "Using PSD, we found that teachers desire greater real-time support from AI tutors in identifying when students need human help, in evaluating the impacts of their own help-giving, and in managing student motivation."
 - "Meanwhile, students desire better mechanisms to signal help-need during class without losing face to peers, to receive emotional support from human rather than AI tutors, and to have greater agency over how their personal analytics are used."
 - "This work provides tools and insights to guide the design of more effective human–AI partnerships for K-12 education."
-
 ## Mots clés
 Les mots clés de ce document sont :
 - Design
