@@ -27,3 +27,6 @@ La problématique soulevée dans ce document est de fournir des orientations th�
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont: Adaptivity, Human–AI hybrid, Orchestration, Collaboration, Framework.
+## Commentaire
+Ce document intitulé "A Conceptual Framework for Human–AI Hybrid Adaptivity in Education" propose un cadre conceptuel pour comprendre et explorer l'adaptabilité humain-IA dans le domaine de l'éducation. Il met en évidence l'importance de la collaboration entre les systèmes d'IA éducatifs et les facilitateurs humains tels que les enseignants pour créer des expériences d'apprentissage adaptatives efficaces. Le document souligne que l'adaptabilité peut être partagée entre les systèmes d'IA et les humains, et que cette collaboration peut conduire à des approches hybrides prometteuses dans l'éducation. Il propose un cadre conceptuel qui identifie les dimensions clés de l'adaptabilité humain-IA, telles que les objectifs et cibles, les capacités perceptuelles et l'espace d'action. Ce cadre permet de caractériser différentes approches hybrides et ouvre de nouvelles perspectives pour exploiter les avantages complémentaires des humains et des systèmes d'IA dans l'apprentissage adaptatif.
