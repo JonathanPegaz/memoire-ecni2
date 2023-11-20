@@ -11,7 +11,23 @@ Dans ce manifeste, plusieurs problématiques sont soulevées concernant l'intég
 6. Rôle de l'humain dans le processus créatif : Le document met l'accent sur le rôle central de l'humain dans le processus créatif, en particulier aux étapes de la recherche de problèmes et de l'estimation des idées générées par l'IA. Il souligne que la créativité humaine implique la régulation de soi et la co-régulation sociale, ainsi que la curiosité et la motivation.
 7. Importance de l'éthique et des valeurs humaines : Le manifeste insiste sur l'importance de l'éthique et des valeurs humaines dans la collaboration entre l'IA et la créativité. Il met en évidence des thèmes tels que l'accessibilité, la sensibilité culturelle et la responsabilité lors du processus créatif.
 ## Eléments retenus 
-
+1. Collaboration humain-AI : Ce manifeste promeut une vision de collaboration entre l'intelligence artificielle (IA) et les humains dans le domaine de la créativité. Vous pouvez tirer parti de cette approche de collaboration pour souligner l'importance d'utiliser les modèles de langage génératif comme un outil d'apprentissage et de soutien, plutôt que de simplement les considérer comme une source de plagiat.
+2. Créativité assistée par l'IA : Le document explore divers scénarios de collaboration entre humains et machines dans des tâches créatives. Vous pouvez souligner que l'utilisation de modèles de langage génératif peut favoriser la créativité des étudiants en programmation en leur fournissant des idées et des suggestions, tout en soulignant l'importance de la compréhension profonde des concepts et de la contribution personnelle.
+3. Éthique et responsabilité : Le manifeste met l'accent sur l'importance d'une utilisation responsable et éthique de l'IA dans le domaine de la créativité. Vous pouvez souligner que les étudiants en programmation doivent être conscients des limites et des implications éthiques liées à l'utilisation de modèles de langage génératif, en les encourageant à respecter les principes de l'intégrité académique et à éviter le plagiat.
+4. Problème de reconnaissance : Le document souligne que l'AI générée est limitée à certaines parties du processus créatif, et que l'intentionnalité créative et la capacité à trouver des problèmes sont des aspects uniques aux humains. Vous pouvez souligner que les étudiants en programmation doivent développer leurs propres compétences en résolution de problèmes et en compréhension des concepts, tout en utilisant les modèles de langage génératif comme une ressource complémentaire pour développer et affiner leurs propres idées.
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont :
+- Intelligence artificielle
+- Créativité
+- Collaboration homme-machine
+- Génération AI
+- Responsabilité
+- Éthique
+- Scénarios
+- Co-création
+- Plagiat
+- Futur
+- Productivité créative
+- Valeurs humaines
