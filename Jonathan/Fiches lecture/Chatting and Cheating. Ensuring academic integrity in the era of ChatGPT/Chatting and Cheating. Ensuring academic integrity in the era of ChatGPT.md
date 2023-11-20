@@ -17,7 +17,17 @@ Pour prévenir ou minimiser l'utilisation de ChatGPT par les étudiants, l'artic
 
 En conclusion, l'article souligne l'importance de peser les avantages et les défis liés à l'utilisation de ChatGPT et d'autres outils d'IA dans l'enseignement supérieur. Les universités doivent prendre des mesures pour garantir une utilisation éthique et responsable de ces outils, en développant des politiques et des procédures, en fournissant une formation et un soutien, et en utilisant diverses méthodes pour détecter et prévenir la malhonnêteté académique. Cela permet de profiter des opportunités offertes par ces outils tout en préservant l'intégrité des évaluations et la qualité des programmes éducatifs.
 ## Eléments retenus 
-
+- Les modèles de langage génératif, tels que GPT-3, offrent des opportunités pour l'apprentissage en programmation, notamment en aidant les étudiants à générer des idées et à surmonter le blocage de l'écrivain.
+- Les modèles de langage génératif peuvent être utilisés pour personnaliser les évaluations en générant des examens ou des quiz adaptés aux besoins et aux capacités de chaque étudiant.
+- Les modèles de langage génératif peuvent être utilisés pour créer des évaluations interactives basées sur des jeux, ce qui permet aux étudiants de démontrer leurs connaissances et leurs compétences de manière amusante et engageante.
+- Les modèles de langage génératif peuvent être utilisés pour noter les devoirs et fournir des commentaires aux étudiants en temps réel, ce qui permet une expérience d'apprentissage plus efficace et personnalisée.
+- Cependant, l'utilisation des modèles de langage génératif pose des défis en termes de plagiat, car les étudiants pourraient potentiellement utiliser ces modèles pour tricher en soumettant des travaux qui ne sont pas les leurs.
+- Il est important d'éduquer les étudiants sur le plagiat et d'établir des lignes directrices claires sur l'utilisation appropriée des modèles de langage génératif.
+- Les outils de détection de plagiat peuvent être utilisés pour identifier les instances de plagiat dans les travaux des étudiants.
+- Les enseignants peuvent concevoir des évaluations qui favorisent la réflexion critique, la résolution de problèmes et la créativité, ce qui rend plus difficile l'utilisation de modèles de langage génératif pour compléter les devoirs.
+- La surveillance étroite des travaux des étudiants est importante pour détecter l'utilisation de modèles de langage génératif.
+- Enfin, les établissements universitaires doivent prendre des mesures pour s'assurer que l'utilisation des modèles de langage génératif se fait de manière éthique et responsable, en développant des politiques et des procédures appropriées et en fournissant une formation et un soutien aux étudiants et aux enseignants.
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : machine-generated writing, plagiat, enseignement supérieur, détection et prévention.
