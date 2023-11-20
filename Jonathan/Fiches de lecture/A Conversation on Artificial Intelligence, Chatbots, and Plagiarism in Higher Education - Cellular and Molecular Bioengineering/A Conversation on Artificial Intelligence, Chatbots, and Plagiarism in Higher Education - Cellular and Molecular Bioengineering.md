@@ -18,7 +18,24 @@ La conversation sur l'intelligence artificielle, les chatbots et le plagiat dans
 7. Réflexion sur l'attribution et l'originalité : Dans un monde où des chatbots convaincants sont facilement accessibles, l'article soulève la question de l'attribution et de l'originalité de l'écriture. Avec l'avancement de la technologie, il devient de plus en plus difficile de déterminer si un texte est réellement original ou s'il a été généré par une machine. Cela remet en question la valeur de l'originalité et l'importance d'attribuer correctement les sources dans l'ère numérique. Il est donc essentiel que les individus soient plus critiques vis-à-vis des informations qu'ils consomment et qu'ils prennent soin de considérer les sources des informations qu'ils partagent.
 
 ## Eléments retenus 
+- L'introduction de l'historique de l'IA et des chatbots, qui montre comment ces technologies ont évolué au fil du temps et peuvent être utilisées de manière positive dans l'apprentissage.
+- La description de ChatGPT, un chatbot d'IA avancé qui permet des interactions conversationnelles et peut être utilisé comme outil d'apprentissage.
+- La discussion sur la préoccupation croissante du plagiat dans l'enseignement supérieur, soulignant l'importance de l'intégrité académique.
+- La mention de la possibilité pour les étudiants d'utiliser ChatGPT pour tricher dans la rédaction des essais, mettant en évidence les conséquences négatives et l'importance de l'intégrité académique.
+- La suggestion pour les professeurs de concevoir des devoirs qui minimisent les risques de tricherie en utilisant des méthodes d'évaluation variées.
+- La réflexion sur l'AI et les chatbots, soulignant leur potentiel d'utilisation inappropriée et la nécessité de réglementations et d'éducation sur l'éthique.
+- La réflexion philosophique sur la nature de l'attribution et de l'écriture originale à l'ère des chatbots convaincants.
 
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont :
+- Intelligence artificielle
+- Chatbots
+- Plagiat
+- Enseignement supérieur
+- Éthique
+- Originalité
+- Attribution
+- Technologies de l'information et de la communication
+- Intégrité académique
