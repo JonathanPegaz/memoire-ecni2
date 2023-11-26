@@ -1490,8 +1490,8 @@
 		},
 		{
 			"type": "text",
-			"version": 201,
-			"versionNonce": 1103818729,
+			"version": 239,
+			"versionNonce": 1143915847,
 			"isDeleted": false,
 			"id": "fXVhSC0Q",
 			"fillStyle": "solid",
@@ -1500,7 +1500,7 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 606.163251091452,
+			"x": 611.8775368057378,
 			"y": 82.94281045751632,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1511,7 +1511,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701039612990,
+			"updated": 1701040030508,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1660,8 +1660,8 @@
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 1452650055,
+			"version": 121,
+			"versionNonce": 1115700263,
 			"isDeleted": false,
 			"id": "7vok3YEN",
 			"fillStyle": "solid",
@@ -1680,8 +1680,13 @@
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1701039368453,
+			"boundElements": [
+				{
+					"id": "nzxHizLjMlCo7ZGfjjHW5",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701040044327,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2803,6 +2808,54 @@
 			"containerId": null,
 			"originalText": "Intégration de chatbots IA pour\nrépondre aux questions et guider\nles étudiants.",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "nzxHizLjMlCo7ZGfjjHW5",
+			"type": "arrow",
+			"x": 1756.7205882352944,
+			"y": 157.36986461251252,
+			"width": 604.2857142857144,
+			"height": 4.285714285714221,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1207015817,
+			"version": 78,
+			"versionNonce": 283538695,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701040044327,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-604.2857142857144,
+					4.285714285714221
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "7vok3YEN",
+				"focus": 0.6265349332993586,
+				"gap": 13.785086196344082
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
