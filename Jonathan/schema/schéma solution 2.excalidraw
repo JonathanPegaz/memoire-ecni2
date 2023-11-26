@@ -2482,10 +2482,10 @@
 		{
 			"id": "3t6vK1iNsIfURjwiQZ2Pi",
 			"type": "arrow",
-			"x": 167.4212515246515,
-			"y": 104.51272175536957,
-			"width": 150.02588404332175,
-			"height": 135.04064683503654,
+			"x": 214.02059320279977,
+			"y": 108.79843604108385,
+			"width": 116.47237996841903,
+			"height": 128.57142857142856,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2500,11 +2500,11 @@
 				"type": 2
 			},
 			"seed": 425892743,
-			"version": 309,
-			"versionNonce": 104398473,
+			"version": 359,
+			"versionNonce": 124305799,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701039827024,
+			"updated": 1701040182253,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2513,8 +2513,8 @@
 					0
 				],
 				[
-					150.02588404332175,
-					135.04064683503654
+					116.47237996841903,
+					128.57142857142856
 				]
 			],
 			"lastCommittedPoint": null,
@@ -2534,8 +2534,8 @@
 		{
 			"id": "W36L75PW",
 			"type": "text",
-			"x": -23.279411764706182,
-			"y": 47.3698646125124,
+			"x": 31.006302521008124,
+			"y": 51.65557889822668,
 			"width": 234.95980834960938,
 			"height": 50,
 			"angle": 0,
@@ -2550,8 +2550,8 @@
 			"frameId": null,
 			"roundness": null,
 			"seed": 525621737,
-			"version": 126,
-			"versionNonce": 1054137545,
+			"version": 151,
+			"versionNonce": 150120263,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2559,7 +2559,7 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1701039827024,
+			"updated": 1701040182253,
 			"link": null,
 			"locked": false,
 			"text": "Feed avec les activités\ndes membres de l'écoles",
@@ -3000,6 +3000,96 @@
 			"baseline": 93,
 			"containerId": null,
 			"originalText": "Proposition de projets de codage\nbasés sur les intérêts et les\ncompétences de l'apprenant ainsi\nque ceux de sa formation.",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "cFbf8Tslj27iVK4drNcN_",
+			"type": "arrow",
+			"x": 691.0063025210084,
+			"y": -5.487278244630431,
+			"width": 44.285714285714334,
+			"height": 90,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 478930057,
+			"version": 34,
+			"versionNonce": 195113513,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701040169160,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-44.285714285714334,
+					90
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "ghbf9oW1",
+				"focus": 0.2771297222815033,
+				"gap": 4.285714285714334
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "ghbf9oW1",
+			"type": "text",
+			"x": 628.1491596638655,
+			"y": -109.77299253034477,
+			"width": 266.67974853515625,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 767788905,
+			"version": 54,
+			"versionNonce": 1659569417,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "cFbf8Tslj27iVK4drNcN_",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701040169160,
+			"link": null,
+			"locked": false,
+			"text": "Introduction de défis de\ncodage et de missions pour\nrendre l'apprentissage plus\nengageant.",
+			"rawText": "Introduction de défis de\ncodage et de missions pour\nrendre l'apprentissage plus\nengageant.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 93,
+			"containerId": null,
+			"originalText": "Introduction de défis de\ncodage et de missions pour\nrendre l'apprentissage plus\nengageant.",
 			"lineHeight": 1.25
 		}
 	],
