@@ -100,8 +100,8 @@
 		},
 		{
 			"type": "ellipse",
-			"version": 57,
-			"versionNonce": 2084144649,
+			"version": 58,
+			"versionNonce": 881272681,
 			"isDeleted": false,
 			"id": "LAhxCntX79j9_W78AH721",
 			"fillStyle": "solid",
@@ -122,8 +122,13 @@
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": [],
-			"updated": 1701039368453,
+			"boundElements": [
+				{
+					"id": "-iMVibpM4KofpIGX7aQYM",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701039847432,
 			"link": null,
 			"locked": false
 		},
@@ -2578,6 +2583,54 @@
 			"containerId": null,
 			"originalText": "Feed avec les activités\ndes membres de l'écoles",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "-iMVibpM4KofpIGX7aQYM",
+			"type": "arrow",
+			"x": 1638.149159663866,
+			"y": -96.9158496732017,
+			"width": 231.42857142857156,
+			"height": 185.71428571428578,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 724100071,
+			"version": 110,
+			"versionNonce": 464134281,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701039847432,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-231.42857142857156,
+					185.71428571428578
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "LAhxCntX79j9_W78AH721",
+				"focus": 0.6398829815038509,
+				"gap": 3.511401499050546
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
