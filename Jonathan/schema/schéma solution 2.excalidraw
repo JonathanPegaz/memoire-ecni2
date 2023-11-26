@@ -1453,8 +1453,8 @@
 		},
 		{
 			"type": "text",
-			"version": 25,
-			"versionNonce": 1001370825,
+			"version": 26,
+			"versionNonce": 1022270441,
 			"isDeleted": false,
 			"id": "tBdB61ZH",
 			"fillStyle": "solid",
@@ -1473,8 +1473,13 @@
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1701039413504,
+			"boundElements": [
+				{
+					"id": "rgdj7RSSktM8hmj45dkFb",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701040097873,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2830,11 +2835,11 @@
 				"type": 2
 			},
 			"seed": 1207015817,
-			"version": 78,
-			"versionNonce": 283538695,
+			"version": 79,
+			"versionNonce": 869914089,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701040044327,
+			"updated": 1701040086895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2848,7 +2853,11 @@
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "9Cd5r6I7",
+				"focus": -0.061411863727581804,
+				"gap": 14.285714285714448
+			},
 			"endBinding": {
 				"elementId": "7vok3YEN",
 				"focus": 0.6265349332993586,
@@ -2856,6 +2865,142 @@
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "9Cd5r6I7",
+			"type": "text",
+			"x": 1771.0063025210088,
+			"y": 103.08415032679807,
+			"width": 295.91973876953125,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1656069289,
+			"version": 164,
+			"versionNonce": 198783177,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "nzxHizLjMlCo7ZGfjjHW5",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701040086895,
+			"link": null,
+			"locked": false,
+			"text": "Création d'exercices \nde programmation qui evoluent\nen fonction des performances\nde l'étudiant",
+			"rawText": "Création d'exercices \nde programmation qui evoluent\nen fonction des performances\nde l'étudiant",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 93,
+			"containerId": null,
+			"originalText": "Création d'exercices \nde programmation qui evoluent\nen fonction des performances\nde l'étudiant",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "rgdj7RSSktM8hmj45dkFb",
+			"type": "arrow",
+			"x": 439.5777310924368,
+			"y": -9.772992530344766,
+			"width": 74.28571428571433,
+			"height": 85.71428571428578,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 433109863,
+			"version": 79,
+			"versionNonce": 302081831,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701040111551,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-74.28571428571433,
+					85.71428571428578
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "xQ79bFrq",
+				"focus": -0.5566459564220305,
+				"gap": 10
+			},
+			"endBinding": {
+				"elementId": "tBdB61ZH",
+				"focus": -0.43665522355547975,
+				"gap": 5.668183940241988
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "xQ79bFrq",
+			"type": "text",
+			"x": 213.86344537815097,
+			"y": -119.77299253034477,
+			"width": 325.8197021484375,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1254438471,
+			"version": 153,
+			"versionNonce": 1672997447,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "rgdj7RSSktM8hmj45dkFb",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701040111551,
+			"link": null,
+			"locked": false,
+			"text": "Proposition de projets de codage\nbasés sur les intérêts et les\ncompétences de l'apprenant ainsi\nque ceux de sa formation.",
+			"rawText": "Proposition de projets de codage\nbasés sur les intérêts et les\ncompétences de l'apprenant ainsi\nque ceux de sa formation.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 93,
+			"containerId": null,
+			"originalText": "Proposition de projets de codage\nbasés sur les intérêts et les\ncompétences de l'apprenant ainsi\nque ceux de sa formation.",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
