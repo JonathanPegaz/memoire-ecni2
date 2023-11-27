@@ -142,8 +142,8 @@
 		},
 		{
 			"type": "text",
-			"version": 80,
-			"versionNonce": 1711950705,
+			"version": 81,
+			"versionNonce": 1399726431,
 			"isDeleted": false,
 			"id": "VYXWueWq",
 			"fillStyle": "solid",
@@ -162,8 +162,13 @@
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1701078813632,
+			"boundElements": [
+				{
+					"id": "rzaMs3nQybAZ72z93rjwF",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701079594409,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -408,8 +413,8 @@
 		},
 		{
 			"type": "text",
-			"version": 44,
-			"versionNonce": 29950079,
+			"version": 241,
+			"versionNonce": 1258921247,
 			"isDeleted": false,
 			"id": "ZAMQu2On",
 			"fillStyle": "solid",
@@ -418,35 +423,40 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 316.60937499999983,
-			"y": -282.20925378302564,
+			"x": 296.79403409090895,
+			"y": -122.47203787393471,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 900.51904296875,
-			"height": 25,
+			"width": 364.85968017578125,
+			"height": 75,
 			"seed": 1132051935,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1701078813632,
+			"boundElements": [
+				{
+					"id": "rzaMs3nQybAZ72z93rjwF",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701079594409,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Proposition de parcours d'apprentissage individualisés et de défis de codage personnalisés.",
-			"rawText": "Proposition de parcours d'apprentissage individualisés et de défis de codage personnalisés.",
+			"text": "Proposition de parcours\nd'apprentissage individualisés\net de défis de codage personnalisés.",
+			"rawText": "Proposition de parcours\nd'apprentissage individualisés\net de défis de codage personnalisés.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Proposition de parcours d'apprentissage individualisés et de défis de codage personnalisés.",
+			"originalText": "Proposition de parcours\nd'apprentissage individualisés\net de défis de codage personnalisés.",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 68
 		},
 		{
 			"type": "text",
-			"version": 31,
-			"versionNonce": 463768305,
+			"version": 82,
+			"versionNonce": 967496831,
 			"isDeleted": false,
 			"id": "bPGH15Pu",
 			"fillStyle": "solid",
@@ -455,30 +465,30 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 320.5850694444442,
-			"y": -237.96446211635907,
+			"x": 1247.5808080808083,
+			"y": -262.8863371163591,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1126.698974609375,
-			"height": 25,
+			"width": 414.4796447753906,
+			"height": 100,
 			"seed": 487300625,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701078813632,
+			"updated": 1701079624520,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Outils pour suivre les progrès des étudiants et identifier les domaines nécessitant une attention supplémentaire.",
-			"rawText": "Outils pour suivre les progrès des étudiants et identifier les domaines nécessitant une attention supplémentaire.",
+			"text": "Outils pour suivre les\nprogrès des étudiants\net identifier les domaines\nnécessitant une attention supplémentaire.",
+			"rawText": "Outils pour suivre les\nprogrès des étudiants\net identifier les domaines\nnécessitant une attention supplémentaire.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Outils pour suivre les progrès des étudiants et identifier les domaines nécessitant une attention supplémentaire.",
+			"originalText": "Outils pour suivre les\nprogrès des étudiants\net identifier les domaines\nnécessitant une attention supplémentaire.",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 93
 		},
 		{
 			"type": "text",
@@ -2013,6 +2023,58 @@
 			"containerId": null,
 			"originalText": "Aude à publier un nouveau post sur Questions python",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "rzaMs3nQybAZ72z93rjwF",
+			"type": "arrow",
+			"x": 526.9076704545437,
+			"y": -38.724655300604866,
+			"width": 7.223011363636374,
+			"height": 118.92755681818176,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1987855729,
+			"version": 58,
+			"versionNonce": 590782783,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701079594409,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					7.223011363636374,
+					118.92755681818176
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "ZAMQu2On",
+				"focus": -0.24295174913925807,
+				"gap": 8.747382573329844
+			},
+			"endBinding": {
+				"elementId": "VYXWueWq",
+				"focus": 0.10039011949186823,
+				"gap": 4.46881551051564
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
