@@ -213,8 +213,8 @@
 		},
 		{
 			"type": "text",
-			"version": 156,
-			"versionNonce": 846312785,
+			"version": 157,
+			"versionNonce": 1820560127,
 			"isDeleted": false,
 			"id": "rRwrUeeY",
 			"fillStyle": "solid",
@@ -233,8 +233,13 @@
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1701078813632,
+			"boundElements": [
+				{
+					"id": "q4MFrTEbw644Enc3RZdOC",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701079638892,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -455,8 +460,8 @@
 		},
 		{
 			"type": "text",
-			"version": 82,
-			"versionNonce": 967496831,
+			"version": 302,
+			"versionNonce": 714572351,
 			"isDeleted": false,
 			"id": "bPGH15Pu",
 			"fillStyle": "solid",
@@ -465,30 +470,35 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1247.5808080808083,
-			"y": -262.8863371163591,
+			"x": 1152.9998421717173,
+			"y": -120.49997347999545,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 414.4796447753906,
-			"height": 100,
+			"width": 257.97979736328125,
+			"height": 125,
 			"seed": 487300625,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1701079624520,
+			"boundElements": [
+				{
+					"id": "q4MFrTEbw644Enc3RZdOC",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701079687836,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Outils pour suivre les\nprogrès des étudiants\net identifier les domaines\nnécessitant une attention supplémentaire.",
-			"rawText": "Outils pour suivre les\nprogrès des étudiants\net identifier les domaines\nnécessitant une attention supplémentaire.",
+			"text": "Outils pour suivre les\nprogrès des étudiants\net identifier les domaines\nnécessitant une attention\nsupplémentaire.",
+			"rawText": "Outils pour suivre les\nprogrès des étudiants\net identifier les domaines\nnécessitant une attention\nsupplémentaire.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Outils pour suivre les\nprogrès des étudiants\net identifier les domaines\nnécessitant une attention supplémentaire.",
+			"originalText": "Outils pour suivre les\nprogrès des étudiants\net identifier les domaines\nnécessitant une attention\nsupplémentaire.",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 118
 		},
 		{
 			"type": "text",
@@ -2072,6 +2082,58 @@
 				"elementId": "VYXWueWq",
 				"focus": 0.10039011949186823,
 				"gap": 4.46881551051564
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "q4MFrTEbw644Enc3RZdOC",
+			"type": "arrow",
+			"x": 1399.343284348107,
+			"y": 22.653185608486012,
+			"width": 33.764488379932345,
+			"height": 47.386363636363626,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 194225841,
+			"version": 365,
+			"versionNonce": 1750941311,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701079687836,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					33.764488379932345,
+					47.386363636363626
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "bPGH15Pu",
+				"focus": -0.34586341065455556,
+				"gap": 18.15315908848146
+			},
+			"endBinding": {
+				"elementId": "rRwrUeeY",
+				"focus": -0.4551442248884977,
+				"gap": 2.5949469721248306
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
