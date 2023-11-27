@@ -817,7 +817,7 @@
 		{
 			"id": "CwtS-vPJnrp0GiLfY-s9M",
 			"type": "rectangle",
-			"x": 478.1805555555551,
+			"x": 477.9114583333329,
 			"y": 632.5476906614192,
 			"width": 176.2673611111111,
 			"height": 48.83680555555554,
@@ -835,11 +835,11 @@
 				"type": 3
 			},
 			"seed": 1196459665,
-			"version": 186,
-			"versionNonce": 1272243409,
+			"version": 187,
+			"versionNonce": 1763257663,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701076758193,
+			"updated": 1701076959773,
 			"link": null,
 			"locked": false
 		},
@@ -1057,8 +1057,8 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -218.6666666666663,
-		"scrollY": 464.99571211635885,
+		"scrollX": -258.666666666666,
+		"scrollY": 598.3290454496926,
 		"zoom": {
 			"value": 0.45
 		},
