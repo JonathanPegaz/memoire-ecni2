@@ -1,0 +1,9 @@
+L'IA en éducation suscite des préoccupations éthiques liées à la collecte de données, à la diversité dans la conception, et à l'automatisation des actions pédagogiques, remettant en question l'autonomie des enseignants et l'agentivité des élèves.
+
+Premièrement, la collecte massive de données pour l'IA peut entraîner des biais et soulever des préoccupations quant au respect de la vie privée des élèves et du personnel scolaire.
+
+Deuxièmement, l'IA en éducation est souvent développée par des entreprises privées plutôt que par des institutions éducatives, et cela soulève des questions sur les expertises et les représentations éducatives impliquées dans la conception de ces systèmes. Un manque de diversité au sein de ses équipes créé une sous-représentation.
+
+Troisièmement, l'automatisation croissante de l'IA peut conduire à une prise en charge croissante des actions pédagogiques traditionnellement effectuées par les enseignants et les élèves. Soulevant des préoccupations quant à l'autonomie professionnelle des enseignants et à l'agentivité des élèves, notamment dans des domaines tels que la gestion des comportements, où des systèmes automatisés peuvent avoir un impact sur la justice et la cohérence éducatives.
+
+Pour anticiper les problèmes éthiques liés à l'IA en éducation, il est crucial d'intégrer des perspectives éducatives diverses dès la phase de conception. Les équipes de conception devraient privilégier des modèles centrés sur l'utilisateur et respecter des principes éthiques, comme l'obligation d'informer clairement les utilisateurs sur l'interaction avec des systèmes d'IA.
