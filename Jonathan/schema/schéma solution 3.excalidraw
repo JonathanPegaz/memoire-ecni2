@@ -536,8 +536,8 @@
 		},
 		{
 			"type": "text",
-			"version": 93,
-			"versionNonce": 1123789151,
+			"version": 213,
+			"versionNonce": 761339519,
 			"isDeleted": false,
 			"id": "hPM5DSB5",
 			"fillStyle": "solid",
@@ -546,30 +546,35 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 643.5277777777774,
-			"y": -129.84814267191462,
+			"x": 711.8480902777774,
+			"y": -124.18408017191462,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1146.47900390625,
-			"height": 25,
+			"width": 324.35968017578125,
+			"height": 100,
 			"seed": 1258926047,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1701077248771,
+			"boundElements": [
+				{
+					"id": "YiO-7RYw_WE1Thxut6GSv",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701078408056,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Forums de discussion IA-modérés pour encourager la collaboration et le partage de connaissances entre étudiants.",
-			"rawText": "Forums de discussion IA-modérés pour encourager la collaboration et le partage de connaissances entre étudiants.",
+			"text": "Forums de discussion IA-modérés\npour encourager la collaboration\net le partage de connaissances\nentre étudiants.",
+			"rawText": "Forums de discussion IA-modérés\npour encourager la collaboration\net le partage de connaissances\nentre étudiants.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Forums de discussion IA-modérés pour encourager la collaboration et le partage de connaissances entre étudiants.",
+			"originalText": "Forums de discussion IA-modérés\npour encourager la collaboration\net le partage de connaissances\nentre étudiants.",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 93
 		},
 		{
 			"type": "rectangle",
@@ -1043,8 +1048,8 @@
 		},
 		{
 			"type": "text",
-			"version": 55,
-			"versionNonce": 2084987007,
+			"version": 56,
+			"versionNonce": 782312095,
 			"isDeleted": false,
 			"id": "ft4XazlK",
 			"fillStyle": "solid",
@@ -1063,8 +1068,13 @@
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1701077078458,
+			"boundElements": [
+				{
+					"id": "YiO-7RYw_WE1Thxut6GSv",
+					"type": "arrow"
+				}
+			],
+			"updated": 1701078404125,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1106,6 +1116,58 @@
 			"updated": 1701077124440,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "YiO-7RYw_WE1Thxut6GSv",
+			"type": "arrow",
+			"x": 821.9488107910411,
+			"y": -23.51826525178377,
+			"width": 24.248308188802184,
+			"height": 112.0641278033888,
+			"angle": 0.3583563774820835,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 64153855,
+			"version": 200,
+			"versionNonce": 1578945215,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701078408056,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-24.248308188802184,
+					112.0641278033888
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "hPM5DSB5",
+				"focus": -0.022407477617888995,
+				"gap": 8.191465541874251
+			},
+			"endBinding": {
+				"elementId": "ft4XazlK",
+				"focus": -0.7092367359037289,
+				"gap": 4.391785548913219
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -1123,10 +1185,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -218.66666666666663,
-		"scrollY": 617.4075782804017,
+		"scrollX": -191.0033908420137,
+		"scrollY": 717.6788456415128,
 		"zoom": {
-			"value": 0.45
+			"value": 0.4
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
