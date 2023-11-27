@@ -1077,6 +1077,35 @@
 			"containerId": null,
 			"originalText": "Discussions",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "xoyz-UR_U1gRP7kK7H1Bu",
+			"type": "rectangle",
+			"x": 910.6111111111104,
+			"y": 159.11887121697407,
+			"width": 683.5243055555557,
+			"height": 563.2465277777777,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1872880305,
+			"version": 323,
+			"versionNonce": 619545201,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701077124440,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
