@@ -25,3 +25,4 @@
 
 > [...] it is a mnemonic phenomenon that involves imagination.
 
+> In cases of cryptomnesia, one takes oneself to be imagining, but the thought or idea that one entertains actually involves remembered content.
