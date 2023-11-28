@@ -16,3 +16,4 @@ Les écrivains ont pu se mettre sur un terrain d'entente : "chaque apparition de
 
 Mais ce n'est toujours pas admis comme une definition, car bien trop large encore. 
 
+Les defintions proposées se rangent dans 2 catégories : 
