@@ -19,6 +19,7 @@ Mais ce n'est toujours pas admis comme une definition, car bien trop large encor
 Les defintions proposées se rangent dans 2 catégories : 
 
 **Catégorie 1 :** 
+
 Guilford (1950), qui a déclaré : [...] La conviction psychologique générale semble être que tous les individus possèdent dans une certaine mesure toutes les capacités, à l'exception de l'apparition de pathologies. On peut donc s'attendre à des actes créatifs, aussi faibles ou rares soient-ils, de presque tous les individus.
 
 > It is probably only a layman’s idea that the creative per- son is peculiarly gifted with a certain quality that ordi- nary people do not have. This conception can be dismissed by psychologists, very likely by common con- sent. The general psychological conviction seems to be that all individuals possess in some degree all abilities, except for the occurrence of pathologies. Creative acts can therefore be expected, no matter how feeble or infre- quent, of almost all individuals (p. 446).
@@ -27,3 +28,7 @@ Guilford (1950), qui a déclaré : [...] La conviction psychologique générale 
 
 Thurstone ajoute que la créativité a lieu indépendamment de ce que la société juge comme nouveau, tant que ça l'est pour la personne concernée. 
 
+Torrance et Goff (1989) ont convenu en disant : "Une certaine dose de créativité se produit chaque fois qu'une personne résout un problème pour lequel elle n'avait aucune solution préalable apprise ou pratique".
+
+
+**Catégorie 1 :** 
