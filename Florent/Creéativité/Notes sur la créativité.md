@@ -17,3 +17,10 @@ Les écrivains ont pu se mettre sur un terrain d'entente : "chaque apparition de
 Mais ce n'est toujours pas admis comme une definition, car bien trop large encore. 
 
 Les defintions proposées se rangent dans 2 catégories : 
+
+**Catégorie 1 :** 
+Guilford (1950), qui a déclaré : [...] La conviction psychologique générale semble être que tous les individus possèdent dans une certaine mesure toutes les capacités, à l'exception de l'apparition de pathologies. On peut donc s'attendre à des actes créatifs, aussi faibles ou rares soient-ils, de presque tous les individus.
+> It is probably only a layman’s idea that the creative per- son is peculiarly gifted with a certain quality that ordi- nary people do not have. This conception can be dismissed by psychologists, very likely by common con- sent. The general psychological conviction seems to be that all individuals possess in some degree all abilities, except for the occurrence of pathologies. Creative acts can therefore be expected, no matter how feeble or infre- quent, of almost all individuals (p. 446).
+
+[[Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a.pdf#page=3&selection=32,0,40,42|Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a, page 3]]
+
