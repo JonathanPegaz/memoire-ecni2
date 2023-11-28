@@ -1,0 +1,30 @@
+#### Reprise du sujet (définitions et mises en relation des termes) jusqu’à l’élaboration d’une question de départ.
+
+Le plagiat, dérivé du terme "plagiarius" en latin, évoque historiquement le vol d'esclaves ou la réduction en esclavage d'une personne libre. Dans le domaine scientifique contemporain, il désigne la pratique de présenter des travaux ou idées d'autrui comme siens sans donner le crédit approprié. Il peut s'agir de copier-coller direct ou de paraphraser sans ajouter de réflexion personnelle. Il n'est pas nécessaire que l'œuvre originale soit publiée pour qu'il y ait plagiat. Ne pas citer ses sources prive également le lecteur de l'accès à l'information original. L'innovation, étymologiquement dérivée du latin "innovatio", signifie le renouvellement ou l'introduction de quelque chose de nouveau. Dans un contexte moderne, elle désigne le processus par lequel des idées, des solutions ou des produits nouveaux ou améliorés sont développés et introduits sur un marché ou dans la pratique courante. L'innovation peut être technologique, procédurale, organisationnelle ou conceptuelle. Elle vise généralement à apporter une valeur ajoutée, à résoudre un problème ou à répondre à un besoin non satisfait. L'innovation est souvent considérée comme un moteur essentiel de la croissance économique. La créativité, dérivant du latin "creare" qui signifie créer, évoque l'aptitude à produire des idées, des concepts, des œuvres originales ou à voir les choses sous un nouvel angle. Dans un contexte contemporain, elle représente la capacité à imaginer ou construire au-delà des perspectives traditionnelles, souvent associée à l'originalité et à l'innovation. La créativité peut se manifester dans des domaines variés tels que l'art, la science, l'éducation ou les affaires. Elle est intrinsèquement liée à la pensée divergente, permettant d'explorer de multiples solutions possibles à un problème donné. L'apprentissage, issu du latin "apprendere" signifiant saisir ou comprendre, évoque le processus par lequel un individu acquiert de nouvelles connaissances, compétences, comportements ou attitudes. Dans un contexte contemporain, il désigne l'acte d'assimiler de l'information ou des compétences à travers l'expérience, l'étude ou l'enseignement. L'apprentissage peut être formel, comme dans le cadre scolaire, ou informel, survenant dans la vie quotidienne. Il est continu, s'adaptant aux besoins et aux contextes changeants d'un individu. L'apprentissage est fondamental pour le développement personnel et professionnel, permettant aux individus d'évoluer et de s'adapter aux nouvelles situations et défis.
+
+L'apprentissage est un pilier de notre développement, nous permettant d'assimiler de nouvelles connaissances et compétences. La créativité enrichit ce processus en nous encourageant à voir les choses sous de nouveaux angles. L'innovation, elle, repose largement sur la créativité, cherchant à introduire de nouvelles solutions. Cependant, le plagiat, en imitant le travail d'autrui, détériore les processus d'apprentissage et d'innovation. Pour véritablement innover et apprendre, il est essentiel de s'inspirer tout en restant authentique, reconnaissant les contributions des autres tout en apportant sa propre valeur ajoutée.
+
+#### Exploitation de vos références bibliographiques et développement de votre question de départ (citations, notes de bas de page) jusqu’à l’élaboration de la problématique n°1.
+
+Lors de mes premières réflexions pour mon mémoire, j'étais intrigué par les interactions entre des notions aussi divers que le plagiat, l'innovation, la créativité et l'apprentissage. Ces thèmes, bien qu'interconnectés, nécessites un axe central pour donner une direction à ma recherche. L'univers de la programmation, étant mon domaine de prédilection, m'est apparu comme le point d'ancrage pour explorer ces concepts. Je me suis alors posé une question essentielle : comment l'apprentissage d'un développeur pourrait-il façonner sa capacité à être créatif dans son code ? De là, il était évident que le moment le plus critique et le plus influent pour un développeur est le stade "junior", où les bases et les habitudes se forment. En réalisant de nombreuse recherche en bibliothèque et sur les différentes bases de données mis à disposition par l’université j’ai pu trouver un certain nombre d’article, de thèses et de mémoire en lien avec ces idées. J’ai ainsi pu formuler une liste d’ouvrage dans une bibliographie. Avec comme pilier dans ma bibliographie structurante :
+
+- Ajib, Nadia Baron. L’apprentissage de l’informatique par le projet en mode coopératif (agilité). 
+- Benabid, Myriam. Les modes informels d’apprentissage numérique : le cas des travailleurs du savoir. 
+- Bobillier-Chaumon, Marc-Eric. Les transferts d’apprentissage dans le cadre des transferts technologiques informatiques : le cas du maquettage en conception informatique. 
+- Henda, Mokhtar Ben. L’enseignement du code informatique à l’école. 
+
+Après plusieurs discussions, réflexions et ajustements, j'ai finalement formulé ma problématique centrale : 
+
+- **Comment les différentes méthodes d'apprentissage de la programmation influencent-elles la créativité du code chez les développeurs juniors ?**
+Les développeurs ont des styles de programmation différent, 
+
+
+- **Quels sont les types d'apprentissage informel des développeurs dans leur processus de veille ?**
+
+**Problématique**
+Il a été constaté que certains types d'apprentissage informel ne sont pas efficaces pour les développeurs, ce qui peut impacter leur capacité à acquérir des compétences extra-éducatives essentielles à leur évolution professionnelle.
+
+**En quoi l’apprentissage informel impacte il la capacité à acquérir des compétences ?** 
+
+**Question centrale de la recherche**
+Existe-t-il des types d'apprentissage informel pertinent afin d'aider les développeur à développer des compétences extra-éducatif ?
