@@ -1,0 +1,6 @@
+#### Définition d'après [cnrtl](https://www.cnrtl.fr/definition/%C3%A9pist%C3%A9mologie)
+- **A.−** _Vieilli._ Étude de la connaissance scientifique en général :
+... c'est (...) l'**épistémologie** qui est seule compétente pour décider si les cadres de référence du vrai correspondent, oui ou non, aux cadres du réel... _Traité sociol.,_1968, p. 135.
+- **B.−** _Usuel._ Partie de la philosophie qui a pour objet l'étude critique des postulats, conclusions et méthodes d'une science particulière, considérée du point de vue de son évolution, afin d'en déterminer l'origine logique, la valeur et la portée scientifique et philosophique _(cf. philosophie_* _des sciences, empirisme_* _logique)._ _Épistémologie générale, scientifique; épistémologie de la sociologie._ _L'épistémologie non-cartésienne est donc par essence, et non par accident, en état de crise_ (Bachelard, _Le Nouvel esprit scientifique,_Paris, P.U.F., 1941, p. 162).
+-  _Spéc._ (dans le vocab. de J. Piaget). _Épistémologie génétique._ _L'épistémologie génétique ou théorie de la connaissance scientifique fondée sur l'analyse du développement même de cette connaissance_ (J. Piaget, _Introduction à l'épistémologie génétique,_Paris, P.U.F., t. 1, 1950, p. 7).
+

@@ -1,0 +1,3 @@
+Le terme « programmation » regroupe généralement un ensemble d’activités relativement disparates qui convergent vers un but identique : développer la capacité de l’élève à produire des algorithmes, c’est-à-dire des successions d’actions qui constituent autant d’étapes vers la résolution d’un problème algorithmique. [[ENF2_224_0479.pdf#page=5&selection=21,0,25,10|ENF2_224_0479, page 5]]
+
+D’un point de vue psychologique, programmer c’est élaborer une conception fonctionnelle de la relation entre la solution d’un problème et la représentation opératoire de cette solution dans un langage de programmation [[ENF2_224_0479.pdf#page=5&selection=31,0,51,13|ENF2_224_0479, page 5]]
