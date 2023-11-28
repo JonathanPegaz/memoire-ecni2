@@ -33,5 +33,11 @@ Torrance et Goff (1989) ont convenu en disant : "Une certaine dose de créativit
 
 **Catégorie 2 :** 
 
+[[Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a.pdf#page=4&selection=9,0,21,9|Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a, page 4]]
 À l'autre extrémité du spectre se trouve la définition proposée par Stein (1953), qui estimait que la créativité devait être définie en fonction de la culture dans laquelle elle apparaît, et qu'une œuvre devait être nouvelle ou nouvelle pour cette culture pour être créative. Par "nouvelle" ou "nouvelle", il entendait que l'œuvre ne devait pas avoir existé précédemment sous la même forme. Il ajouta la condition supplémentaire que l'œuvre nouvelle devait également être "acceptée comme tenable ou utile ou satisfaisante par un groupe dans le temps" (p. 322). Cette vision de ce qui constitue la créativité limite de manière effective l'application du terme à un groupe restreint de personnes et de produits. Apparemment, même les artistes et les inventeurs dont le travail n'a tout simplement pas été accepté ou apprécié par les autres ne seraient pas considérés comme créatifs selon Stein.
+
+
+
+[[Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a.pdf#page=4&selection=22,0,28,11|Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a, page 4]]
+Ceux qui adhèrent à cette vision de la créativité sont peu susceptibles de considérer comme utiles ou efficaces les tentatives de préparer les étudiants à penser de manière plus créative en raison du nombre limité de personnes susceptibles d'être influencées par une telle préparation. De plus, comme l'ont souligné Getzels et Jackson (1962), des définitions comme celle de Stein rendraient presque impossible l'étude empirique de la créativité chez les enfants.
 
