@@ -12,4 +12,5 @@ Finalement, il n'y a pas eu de définition proposée pour ce qu'est la créativi
 
 [[Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a.pdf#page=3&selection=4,50,7,31|Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a, page 3]]
 
-Les écrivains ont pu se mettre sur un terrain d'entente : chaque 
+Les écrivains ont pu se mettre sur un terrain d'entente : "chaque apparition de quelque chose de réellement nouveau est signe de créativité"
+
