@@ -1,6 +1,10 @@
 Sociologique
 
-No one likes a copycat: A cross-cultural investigation of children’s response to plagiarism - F. Yang, A. Shaw, E. Garduno, K. R. Olson - 2014 - Journal of Experimental Child Psychology, Vol. 121, May 2014, p. 111-119
+> Sociologique
+> No one likes a copycat: A cross-cultural investigation of children’s response to plagiarism
+> F. Yang, A. Shaw, E. Garduno, K. R. Olson
+> 2014
+> Journal of Experimental Child Psychology, Vol. 121, May 2014, p. 111-119 
 
 Article d’une revue scientifique
 
