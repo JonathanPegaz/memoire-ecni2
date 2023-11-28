@@ -31,4 +31,4 @@ Thurstone ajoute que la créativité a lieu indépendamment de ce que la sociét
 Torrance et Goff (1989) ont convenu en disant : "Une certaine dose de créativité se produit chaque fois qu'une personne résout un problème pour lequel elle n'avait aucune solution préalable apprise ou pratique".
 
 
-**Catégorie 1 :** 
+**Catégorie 2 :** 
