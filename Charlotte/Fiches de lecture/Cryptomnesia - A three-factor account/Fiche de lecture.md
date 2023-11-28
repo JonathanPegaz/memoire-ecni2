@@ -3,6 +3,7 @@
 > C. J. McCarroll, A. Sant'Anna, 2023
 > Synthese, 201, 23
 >  http://journals.openedition.org/transposition/1569
+>  Mots clés : Cryptomnesia · Remembering · Imagining · Metacognition · Causal theory · Simulation theory
 
 # 1/ Le sujet traité
 
@@ -21,3 +22,6 @@
 ## Citations
 
 > Cryptomnesia presents us with a strange phenomenon in which we take ourselves to be imagining, but the thought or idea that we entertain actually involves remembered content.
+
+> [...] it is a mnemonic phenomenon that involves imagination.
+
