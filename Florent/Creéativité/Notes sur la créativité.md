@@ -41,3 +41,5 @@ Torrance et Goff (1989) ont convenu en disant : "Une certaine dose de créativit
 [[Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a.pdf#page=4&selection=22,0,28,11|Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a, page 4]]
 Ceux qui adhèrent à cette vision de la créativité sont peu susceptibles de considérer comme utiles ou efficaces les tentatives de préparer les étudiants à penser de manière plus créative en raison du nombre limité de personnes susceptibles d'être influencées par une telle préparation. De plus, comme l'ont souligné Getzels et Jackson (1962), des définitions comme celle de Stein rendraient presque impossible l'étude empirique de la créativité chez les enfants.
 
+
+Ainsi, la première définition est celle qui est la plus retenue par la population générale. La créativité est déterminée par ce que est nouveau 
