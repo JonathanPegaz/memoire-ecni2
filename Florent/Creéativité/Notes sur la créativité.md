@@ -14,3 +14,5 @@ Finalement, il n'y a pas eu de définition proposée pour ce qu'est la créativi
 
 Les écrivains ont pu se mettre sur un terrain d'entente : "chaque apparition de quelque chose de réellement nouveau est signe de créativité"
 
+Mais ce n'est toujours pas admis comme une definition, car bien trop large encore. 
+
