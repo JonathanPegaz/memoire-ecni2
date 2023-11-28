@@ -25,4 +25,5 @@ Guilford (1950), qui a déclaré : [...] La conviction psychologique générale 
 
 [[Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a.pdf#page=3&selection=32,0,40,42|Journal of Creative Behavior - 2011 - PARKHURST - Confusion  Lack of Consensus  and the Definition of Creativity as a, page 3]]
 
-Thrustone ajoute que la créativité a lieu indépendamment de ce que la société
+Thurstone ajoute que la créativité a lieu indépendamment de ce que la société juge comme nouveau, tant que ça l'est pour la personne concernée. 
+
