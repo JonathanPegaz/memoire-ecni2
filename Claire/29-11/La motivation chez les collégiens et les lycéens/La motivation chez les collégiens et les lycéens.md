@@ -1,0 +1,26 @@
+## Sujet
+Ce document traite de la motivation chez les collégiens et les lycéens. Il aborde différentes perspectives sur le concept de motivation, notamment en lien avec l'intérêt professionnel et l'intérêt intrinsèque pour une activité. L'auteur examine également l'influence de l'orientation scolaire sur l'intérêt des élèves et la corrélation entre l'intérêt et la réussite scolaire. Le document présente les différentes conceptions de l'intérêt professionnel, telles que la typologie de Holland, qui identifie six types d'intérêts professionnels. Il explore également la relation entre l'intérêt et le niveau de connaissance, en soulignant que l'intérêt cognitif peut varier en fonction du degré de familiarité avec un sujet. Enfin, le document met en évidence l'importance de la sensation de compétence dans le développement de l'intérêt et la motivation des élèves.
+## Problématique
+La problématique soulevée dans ce document concerne la motivation des collégiens et des lycéens. Plus précisément, l'auteur explore les différentes conceptions de la motivation et de l'intérêt chez les élèves, ainsi que leur impact sur la performance scolaire et l'orientation professionnelle. Le document aborde également les théories de la curiosité et de la compétence, et leur relation avec l'intérêt intrinsèque des élèves pour les activités d'apprentissage. L'objectif est de mieux comprendre les facteurs qui influencent la motivation des élèves et d'explorer comment les enseignants peuvent favoriser un environnement motivant pour l'apprentissage.
+## Arguments
+Ce document traite de la motivation chez les collégiens et les lycéens. Il aborde différentes théories et concepts liés à la motivation, notamment l'intérêt professionnel, la curiosité, la sensation de compétence et l'engagement intrinsèque.
+
+L'intérêt professionnel est défini comme la relation entre l'intérêt déclaré pour une profession et l'engagement effectif de l'individu dans cette profession. Différentes typologies et modèles, tels que celui de Holland, cherchent à expliquer l'intérêt professionnel en identifiant des orientations professionnelles spécifiques, telles que l'orientation réaliste, intellectuelle, artistique, sociale et entrepreneuriale. 
+
+L'intérêt cognitif, quant à lui, est lié à la curiosité et à la sensation de compétence. La curiosité est vue comme un conflit cognitif qui génère une excitation et une recherche de réduction du conflit. L'intérêt est donc associé à la curiosité pour des stimuli complexes et inconnus. La sensation de compétence est la capacité de l'individu à interagir efficacement avec son environnement, ce qui lui procure un sentiment d'efficacité et de plaisir. 
+
+L'intérêt est également lié à la sensation de progresser ou de ne pas régresser dans une activité. Les activités les plus intéressantes pour les élèves sont celles où ils ont le sentiment de développer leurs compétences ou de maintenir leur niveau de compétence. 
+
+Ces concepts sont importants dans le contexte scolaire car le manque d'intérêt pour une discipline peut expliquer la faible performance des élèves. Les enseignants peuvent chercher à susciter l'intérêt des élèves en favorisant la curiosité, en renforçant leur sensation de compétence et en proposant des activités où ils peuvent progresser.
+
+Il est essentiel de comprendre les différentes facettes de la motivation chez les collégiens et les lycéens afin de pouvoir agir de manière appropriée pour favoriser leur engagement et leur réussite scolaire.
+## Eléments retenus 
+Dans le document, plusieurs arguments et concepts clés peuvent être utiles pour votre problématique sur la garantie de l'originalité des productions intellectuelles en encadrant la production : 
+1. L'intérêt et la motivation : Le document aborde l'importance de l'intérêt dans l'apprentissage et la performance des élèves. En favorisant l'intérêt des étudiants pour le sujet traité, vous pouvez stimuler leur créativité et les encourager à produire des travaux originaux. 
+2. La curiosité : Selon Berlyne, la curiosité est un élément essentiel de l'intérêt. En suscitant la curiosité des étudiants par le biais de questions intrigantes, de défis intellectuels ou de problèmes complexes, vous pouvez les encourager à explorer de nouvelles idées et à produire des travaux originaux. 
+3. La sensation de compétence : La théorie de White souligne l'importance de la sensation de compétence dans la motivation intrinsèque. En créant un environnement d'apprentissage qui favorise un sentiment d'efficacité chez les étudiants, vous pouvez les inciter à prendre des risques créatifs et à produire des travaux originaux. 
+4. L'intérêt cognitif et la connaissance : Selon Kintsch, l'intérêt pour un sujet est influencé par le niveau de connaissance préalable de l'individu. En adaptant vos approches pédagogiques en fonction du niveau de connaissance des étudiants, vous pouvez maintenir leur intérêt et les encourager à développer des idées originales.
+## Citations
+
+## Mots clés
+Les mots clés de ce document sont : - Motivation chez les collégiens et les lycéens - Études sur l'intérêt professionnel - Typologie de l'intérêt professionnel - Curiosité et intérêt cognitif - Sensation de compétence et motivation intrinsèque

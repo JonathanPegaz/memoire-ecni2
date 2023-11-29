@@ -1,0 +1,31 @@
+## Sujet
+Ce document traite du bien-être et de la motivation des collégiens avant et pendant la crise de la COVID-19. Il explore comment la pandémie et les mesures de distanciation physique ont affecté la santé mentale des enfants et leur satisfaction de vie à l'école. L'article examine également le lien entre le sentiment d'efficacité personnelle et l'intérêt des élèves, et comment ces facteurs sont liés au bien-être. L'étude utilise des questionnaires pour recueillir des données auprès de 377 élèves de collège dans deux départements français. Les résultats fournissent des informations sur les interactions entre la motivation, le bien-être et le contexte du confinement.
+## Problématique
+La problématique soulevée dans cet article est de comprendre l'impact de la crise de la COVID-19 sur le bien-être et la motivation des collégiens. Plus précisément, l'étude vise à explorer les interactions entre le bien-être, le sentiment d'efficacité personnelle et l'intérêt scolaire chez les élèves pendant cette période de confinement. Les chercheurs s'appuient sur des échelles validées pour mesurer ces concepts et recueillent des données auprès d'un échantillon d'élèves de deux collèges. L'objectif est de mieux comprendre les conséquences de la situation de distanciation physique sur le rapport à l'école des collégiens et leur bien-être global.
+## Arguments
+Dans ce document, plusieurs arguments clés sont abordés concernant le bien-être et la motivation des collégiens avant et pendant la crise de la COVID-19. Voici une explication détaillée des concepts basée sur le document : 
+1. Bien-être : Selon la définition de l'OMS, le bien-être est une composante essentielle de la santé. Il englobe un état de complet bien-être physique, mental et social. Chez les élèves, le bien-être est construit à partir de l'appréciation de différents domaines importants de leur vie, tels que l'estime de soi, la famille, les amis, l'école et l'environnement. Des niveaux élevés de bien-être sont associés à une prévalence moindre de problèmes sociaux et psychologiques, à une meilleure santé physique et à des comportements favorables à la santé. 
+2. Motivation : La motivation des élèves est liée à deux concepts clés : le sentiment d'efficacité personnelle (SEP) et l'intérêt. Le SEP, théorisé par Bandura, est la croyance en sa capacité à réussir une tâche. Il influence l'engagement de l'élève et sa réussite scolaire. L'intérêt scolaire, quant à lui, est la relation entre l'élève et les domaines d'apprentissage spécifiques. L'intérêt est influencé par les expériences vécues et la satisfaction que ces expériences procurent. 
+3. Liens entre bien-être, SEP et intérêt : Ces trois concepts sont interconnectés. Le bien-être influence le SEP, car se sentir bien et sans stress favorise la confiance en ses capacités. L'intérêt est également lié au bien-être, car il est composé d'affects positifs et négatifs qui peuvent varier selon la personne et la situation vécue. L'intérêt joue un rôle de médiateur entre le SEP et le bien-être. 
+4. Contexte de confinement : Lors de la crise de la COVID-19 et du confinement, le lien entre bien-être et motivation des élèves a été potentiellement transformé. Les restrictions et la distanciation physique ont pu affecter le bien-être mental et social des élèves, malgré les mesures visant à protéger leur santé physique. Cette période de confinement a donc eu des conséquences sur le rapport des élèves à l'école et sur leur bien-être, qui dépendent fortement du contexte, du SEP et de l'intérêt. Ces arguments clés soulignent l'importance de comprendre l'impact de la crise de la COVID-19 sur le bien-être et la motivation des collégiens. Il est crucial de prendre en compte ces aspects pour soutenir leur développement global pendant et après cette période difficile.
+## Eléments retenus 
+Pour votre problématique "Comment garantir l’originalité des productions intellectuelles en encadrant la production ?", certains arguments et concepts clés de ce document peuvent être utiles : 
+• La santé et le bien-être des élèves sont essentiels pour favoriser leur engagement et leur créativité dans les tâches intellectuelles. 
+• Le bien-être des élèves est lié à leur satisfaction de vie générale, y compris à l'école.
+• Le sentiment d'efficacité personnelle (SEP) joue un rôle important dans l'engagement et la réussite des élèves. 
+• L'intérêt scolaire est influencé par le SEP et contribue au bien-être des élèves.
+• Le contexte, tel que le confinement lié à la pandémie de Covid-19, peut avoir un impact sur le bien-être des élèves et leur rapport à l'école. 
+• L'encadrement et le soutien appropriés peuvent favoriser le bien-être, le SEP et l'intérêt des élèves, ce qui peut contribuer à garantir l'originalité de leurs productions intellectuelles. Veuillez noter que ces informations sont extraites d'un document spécifique et peuvent nécessiter une analyse plus approfondie et une adaptation à votre problématique spécifique.
+
+## Exemple
+Les exemples réels cités dans cet article incluent : 
+- La définition de la santé telle que décrite par l'OMS (1946) faisant du bien-être une composante principale de la santé. 
+- L'annonce du confinement obligatoire en France du 17 mars au 11 mai 2020 en raison de la pandémie de coronavirus.
+- La méta-analyse de Bücker, Nuraydin, Simonsmeier, Schneider et Luhmann (2018) qui montre une corrélation entre le bien-être et la santé physique, les comportements favorables à la santé, ainsi que des corrélations négatives avec la consommation d'alcool, de tabac et de drogue chez les adolescents.
+- Le lien entre le sentiment d'efficacité personnelle (SEP) et l'engagement dans une action, ainsi que son impact sur la réussite scolaire. 
+- Le lien entre l'intérêt scolaire et le bien-être, et son rôle médiateur entre le SEP et le bien-être. 
+- L'étude menée auprès de 377 élèves de collège dans le département de la Loire et de l'Ain, avec un questionnaire comprenant une partie "avant le confinement" et une partie "pendant le confinement".
+## Citations
+
+## Mots clés
+Les mots clés de ce document sont : • Bien-être • Motivation • Crise de la covid-19 • Collégiens • Santé • Pandémie • Confinement • Éducation • Psychologie sociale • Satisfaction de vie • Sentiment d'efficacité personnelle • Intérêt scolaire • Échelles de mesure • Recherche qualitative

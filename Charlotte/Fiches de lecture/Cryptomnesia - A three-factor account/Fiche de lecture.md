@@ -34,3 +34,13 @@
 > What matters for cryptomnesia is that one experiences that content as being the result of one’s own creative act
 
 > Episodic memory may frequently be about memories of repeated events (Andonovski, 2020).
+
+> [...] it doesn’t seem to follow from this that the song is entertained as ‘real’, at least not in the sense that it is entertained as being a part of the mind-independent world. This becomes clear when we consider the fact that even after a collection of sentences is entertained as a song during the creative process, the contents of the song are still under the subject’s control
+
+> Thus, if by ‘real’ we mean that the song becomes a part of the mind-independent world, then it is not true that the objects of cryptomnesia are entertained as real.
+
+> On our view, the mental state that a subject enjoys on a given situation is fundamental in determining whether they are remembering, imagining, or in a state of cryptomnesia.
+
+> [...] a subject successfully remembers when they adopt the attitude of remembering towards a retained content and there is no source-monitoring error involved
+
+> A first type is what we call pure creative imaginings: when a subject adopts an attitude of imagining towards a non-retained content and there is no source-error involved. For instance, when a musician composes a completely new song.
