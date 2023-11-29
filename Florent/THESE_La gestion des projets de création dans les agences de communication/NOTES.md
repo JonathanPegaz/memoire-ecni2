@@ -156,4 +156,8 @@ _"Literature, art and their respective producers do not exist independently of a
 [[La gestion des projets de création dans les agences de communication.pdf#page=178&selection=47,0,92,57|La gestion des projets de création dans les agences de communication, page 178]]
 
 
+**Organisation en début de projet** Créatif 
+
+Système d'aller et retours 
+
 
