@@ -9,8 +9,21 @@ Dans ce document, plusieurs arguments clés sont abordés concernant le bien-êt
 3. Liens entre bien-être, SEP et intérêt : Ces trois concepts sont interconnectés. Le bien-être influence le SEP, car se sentir bien et sans stress favorise la confiance en ses capacités. L'intérêt est également lié au bien-être, car il est composé d'affects positifs et négatifs qui peuvent varier selon la personne et la situation vécue. L'intérêt joue un rôle de médiateur entre le SEP et le bien-être. 
 4. Contexte de confinement : Lors de la crise de la COVID-19 et du confinement, le lien entre bien-être et motivation des élèves a été potentiellement transformé. Les restrictions et la distanciation physique ont pu affecter le bien-être mental et social des élèves, malgré les mesures visant à protéger leur santé physique. Cette période de confinement a donc eu des conséquences sur le rapport des élèves à l'école et sur leur bien-être, qui dépendent fortement du contexte, du SEP et de l'intérêt. Ces arguments clés soulignent l'importance de comprendre l'impact de la crise de la COVID-19 sur le bien-être et la motivation des collégiens. Il est crucial de prendre en compte ces aspects pour soutenir leur développement global pendant et après cette période difficile.
 ## Eléments retenus 
+Pour votre problématique "Comment garantir l’originalité des productions intellectuelles en encadrant la production ?", certains arguments et concepts clés de ce document peuvent être utiles : 
+• La santé et le bien-être des élèves sont essentiels pour favoriser leur engagement et leur créativité dans les tâches intellectuelles. 
+• Le bien-être des élèves est lié à leur satisfaction de vie générale, y compris à l'école. • Le sentiment d'efficacité personnelle (SEP) joue un rôle important dans l'engagement et la réussite des élèves. 
+• L'intérêt scolaire est influencé par le SEP et contribue au bien-être des élèves. • Le contexte, tel que le confinement lié à la pandémie de Covid-19, peut avoir un impact sur le bien-être des élèves et leur rapport à l'école. 
+• L'encadrement et le soutien appropriés peuvent favoriser le bien-être, le SEP et l'intérêt des élèves, ce qui peut contribuer à garantir l'originalité de leurs productions intellectuelles. Veuillez noter que ces informations sont extraites d'un document spécifique et peuvent nécessiter une analyse plus approfondie et une adaptation à votre problématique spécifique.
 
-## Exem
+## Exemple
+Les exemples réels cités dans cet article incluent : 
+- La définition de la santé telle que décrite par l'OMS (1946) faisant du bien-être une composante principale de la santé. 
+- L'annonce du confinement obligatoire en France du 17 mars au 11 mai 2020 en raison de la pandémie de coronavirus.
+- La méta-analyse de Bücker, Nuraydin, Simonsmeier, Schneider et Luhmann (2018) qui montre une corrélation entre le bien-être et la santé physique, les comportements favorables à la santé, ainsi que des corrélations négatives avec la consommation d'alcool, de tabac et de drogue chez les adolescents.
+- Le lien entre le sentiment d'efficacité personnelle (SEP) et l'engagement dans une action, ainsi que son impact sur la réussite scolaire. 
+- Le lien entre l'intérêt scolaire et le bien-être, et son rôle médiateur entre le SEP et le bien-être. 
+- L'étude menée auprès de 377 élèves de collège dans le département de la Loire et de l'Ain, avec un questionnaire comprenant une partie "avant le confinement" et une partie "pendant le confinement".
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : • Bien-être • Motivation • Crise de la covid-19 • Collégiens • Santé • Pandémie • Confinement • Éducation • Psychologie sociale • Satisfaction de vie • Sentiment d'efficacité personnelle • Intérêt scolaire • Échelles de mesure • Recherche qualitative
