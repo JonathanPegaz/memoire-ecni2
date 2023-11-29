@@ -32,3 +32,5 @@
 > The world of musical creation, too, is littered with examples of cryptomnesia. One of the most famous legal cases of copyright infringement involved George Harrison, of the Beatles. Harrison’s song, My Sweet Lord, seemed to bear an uncanny resemblance to an earlier song composed by Ronald Mack for the Chiffons, entitled He’s So Fine.
 
 > What matters for cryptomnesia is that one experiences that content as being the result of one’s own creative act
+
+> Episodic memory may frequently be about memories of repeated events (Andonovski, 2020).
