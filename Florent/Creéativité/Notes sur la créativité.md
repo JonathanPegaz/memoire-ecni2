@@ -1,4 +1,4 @@
-
+  
 La notion de créativité a toujours été très difficile à définir clairement.
 
 > As early as 1960, Repucci counted between 50 and 60 defi- nitions extant in the literature on creativity. Commenting on the situation in 1961, Rhodes said that “The profusion [of defi- nitions] was enough to give one the impression that creativity is a province for pseudo-intellectuals” (p. 306). Twenty years later, an extensive literature review forced Welsch (1981) to conclude that “the literature contains such a variance of defi- nitional statements that the task of defining the concept of creativity is a challenging one” (p. 3)
