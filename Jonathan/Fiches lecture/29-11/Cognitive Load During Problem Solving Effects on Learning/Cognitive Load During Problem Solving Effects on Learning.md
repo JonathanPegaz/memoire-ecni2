@@ -20,3 +20,4 @@ En conclusion, ce document met en évidence l'importance des schémas dans la r�
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont: - Charge cognitive - Résolution de problème - Apprentissage - Connaissances spécialisées - Acquisition de schémas - Méthodes de recherche
