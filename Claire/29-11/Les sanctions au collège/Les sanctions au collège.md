@@ -21,3 +21,4 @@ Dans le contexte de votre problématique "Comment garantir l'originalité des pr
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : - Sanctions au collège - Punition - Recherche empirique - Pratiques de sanction - Discipline scolaire - Établissements scolaires - Gestion de classe - Références théoriques - Éducation nationale - Élèves - Enseignants - Étude quantitative - Déterminants sociaux - Enquête - Terrains d'enquête - Niveaux enseignés - Comportement en classe - Niveau scolaire
