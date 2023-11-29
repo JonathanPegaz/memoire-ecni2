@@ -158,6 +158,29 @@ _"Literature, art and their respective producers do not exist independently of a
 
 **Organisation en début de projet** Créatif 
 
-Système d'aller et retours 
+Système d'aller et retours entre équipe de création et la diretion dans un échange non hierarchique mais de partage d'expérience et d'objectivité 
+
+
+**Créativité dans un cadre organisationnel**
+
+> ension individuelle en traitant principalement des caractéristiques des personnes créatives. Ce n'est qu'au début des années quatre-vingt-dix que les chercheurs ont poussé les frontières de la créativité en soulignant le rôle et l’importance des influences socio-environnementales (Amabile et al. 1996; Perry-Smith et Shalley 2003) ou du contexte organisationnel (Woodman et al. 1993) qui peuvent faciliter ou inhiber la créativité individuelle (Jia et al., 2012). Ces recherches supportent l’approche déterministe de la créativité qui trouve ses origines dans la pensée institutionnelle où les actions des acteurs sont cadrées par les normes et standards. Les résultats de la présente confirment cette convergent avec la littérature sur la créativité dans les organisations traduisant une vision plus déterministe de la relation créativité- organisation. Ce qui coïncide avec la version institutionnelle de la créativité.
+
+[[La gestion des projets de création dans les agences de communication.pdf#page=186&selection=13,20,78,80|La gestion des projets de création dans les agences de communication, page 186]]
+
+**Trois types de créativités existent : **
+- La créativité individuelle
+- La créativité de groupe, collective
+- La créativité organisationnelle
+
+Se poser la question du poids décisionnel laissé aux créatifs dans une agence de communication, tant sur la stratégie que la structure. 
+
+
+**Une culture d'entreprise semble **
+à l'expérimentation créative semble réunir plus de prix et de reconnaissances au niveau national ainsi qu'un meilleur épanouissement**
+[[La gestion des projets de création dans les agences de communication.pdf#page=188&selection=6,0,77,58|La gestion des projets de création dans les agences de communication, page 188]]
+
+> Ces résultats confirment les résultats des travaux antérieurs (Eisenbeid & Boerner, 2010; A. Y. Zhang et al., 2011) qui ont montré que les styles de leadership basés sur l'autocratie ont tendance à limiter les comportements créatifs
+
+[[La gestion des projets de création dans les agences de communication.pdf#page=188&selection=109,0,124,45|La gestion des projets de création dans les agences de communication, page 188]]
 
 
