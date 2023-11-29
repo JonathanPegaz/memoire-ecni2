@@ -172,4 +172,4 @@ Système d'aller et retours entre équipe de création et la diretion dans un é
 - La créativité de groupe, collective
 - La créativité organisationnelle
 
-Se poser la question du poids décisionnel laissé aux créatifs dans une agence de communication, tant sur la stratégie de
+Se poser la question du poids décisionnel laissé aux créatifs dans une agence de communication, tant sur la stratégie que la structure. 
