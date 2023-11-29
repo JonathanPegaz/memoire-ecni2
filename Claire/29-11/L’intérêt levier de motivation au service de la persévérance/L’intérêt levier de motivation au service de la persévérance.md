@@ -12,9 +12,13 @@ Les résultats de la recherche ont montré que les étudiants du groupe expérim
 L'article souligne également l'importance de la contrôlabilité dans le processus d'évaluation des compétences en éducation physique. En donnant aux étudiants la possibilité de choisir leur test cardiorespiratoire, ils se sentent plus autonomes et motivés à s'engager dans la pratique d'activités physiques. Cette approche pédagogique permet de mettre en valeur les habiletés de gestion personnelle de la condition physique de l'étudiant, tout en favorisant un environnement d'évaluation positif. 
 
 En conclusion, cet article met en avant l'idée que l'intérêt, suscité par le choix et la contrôlabilité dans l'apprentissage et l'évaluation, est un levier puissant pour favoriser la motivation et la persévérance des étudiants dans la pratique de l'activité physique. Il encourage les enseignants à concevoir des pratiques pédagogiques motivantes, basées sur les intérêts des étudiants, afin de favoriser un engagement durable dans l'apprentissage et la prise en charge de leur santé et de leur bien-être physique.
-
 ## Eléments retenus 
-
+Dans ce document, plusieurs arguments et concepts clés peuvent être utiles pour votre problématique "Comment garantir l’originalité des productions intellectuelles en encadrant la production ?". Voici quelques éléments pertinents : 
+1. L'intérêt comme levier de motivation : Le document met en évidence l'importance de l'intérêt des étudiants dans leur engagement et leur persévérance. Vous pouvez vous appuyer sur cette idée pour encourager vos étudiants à développer un réel intérêt pour leur sujet de recherche, ce qui favorisera l'originalité de leurs productions intellectuelles. 
+2. Les choix basés sur les intérêts des étudiants : La recherche mentionnée dans le document a permis aux étudiants de choisir les tests cardiorespiratoires qui les intéressaient le plus. Vous pouvez appliquer ce principe en permettant à vos étudiants de choisir des sujets de recherche qui les passionnent, ce qui stimulera leur créativité et favorisera l'originalité de leurs productions. 
+3. L'autonomie dans la pratique d'activités physiques : Le cours d'éducation physique mentionné dans le document visait à développer l'autonomie des étudiants dans leur pratique d'activités physiques. Vous pouvez vous inspirer de cette approche en encourageant vos étudiants à prendre en charge leur propre processus de production intellectuelle, en les incitant à explorer différentes perspectives et en leur donnant suffisamment de liberté pour exprimer leurs idées de manière originale. 
+4. La relation pédagogique : Le document souligne l'importance de la relation pédagogique dans la motivation des étudiants. Vous pouvez veiller à établir une relation de confiance avec vos étudiants, les accompagner dans leur réflexion et leurs recherches, et les encourager à exprimer leurs idées de manière authentique et originale. 
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : - L’intérêt - Levier de motivation - Persévérance - Pédagogie collégiale - Motivation - Engagement - Activité physique - Évaluation - Compétences - Autonomie - Santé - Choix
