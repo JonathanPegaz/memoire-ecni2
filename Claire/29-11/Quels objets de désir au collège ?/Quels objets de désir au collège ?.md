@@ -16,4 +16,4 @@ Dans cet article, plusieurs exemples réels sont cités : [1](https://www-cairn-
 ## Citations
 
 ## Mots clés
-
+Les mots clés de ce document sont: objets de désir, collège, recherche collective, désarrimage scolaire, analyse de la pratique professionnelle, espaces internes et externes.
