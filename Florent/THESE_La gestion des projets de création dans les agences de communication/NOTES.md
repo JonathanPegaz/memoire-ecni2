@@ -158,6 +158,8 @@ _"Literature, art and their respective producers do not exist independently of a
 
 **Organisation en début de projet** Créatif 
 
-Système d'aller et retours 
+Système d'aller et retours entre équipe de création et la diretion dans un échange non hierarchique mais de partage d'expérience et d'objectivité 
+
+
 
 
