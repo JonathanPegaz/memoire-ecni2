@@ -28,11 +28,11 @@ Votre tâche est de développer un système de réservation de salles de confér
 
 Exigences Spécifiques
 
-Interface Utilisateur :
+Interface Utilisateur
 - Une interface web simple et intuitive pour réserver des salles.
 - Affichage du calendrier des disponibilités pour chaque salle.
 
-Gestion des Réservations :
+Gestion des Réservations
 - Capacité à réserver une salle pour une date et une heure spécifiques.
 - Fonctionnalité pour modifier ou annuler une réservation existante.
 
@@ -167,6 +167,24 @@ Suivre ^XzW1aqJq
 
 Suivre ^wteAbthG
 
+60/100 ^D8rYccDU
+
+Repo link ^1ByGdymp
+
+https://www.github.com/ ^klZSwKxF
+
+Exigences ^adHSKCpe
+
+Interface web simple et intuitive pour reserver une salle ^HkcP7RX2
+
+Affichage du calendrier des disponibilités pour chaque salle. ^0d9GrBjP
+
+Interface web simple et intuitive pour reserver une salle ^sfEATl7j
+
+Interface utilisateur ^foTEWb1f
+
+Interface utilisateur ^2TUWhRuI
+
 
 # Embedded files
 ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]]
@@ -182,8 +200,79 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 269,
-			"versionNonce": 1792201610,
+			"version": 495,
+			"versionNonce": 8448778,
+			"isDeleted": false,
+			"id": "9StSAGtZw8cM5cXMIAMyE",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5464.540476925735,
+			"y": -2120.5248172837387,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1962.662785191768,
+			"height": 2406.000619873706,
+			"seed": 1761168534,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "7AUwj06n"
+				}
+			],
+			"updated": 1701249419240,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 135,
+			"versionNonce": 604174794,
+			"isDeleted": false,
+			"id": "7AUwj06n",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5469.540476925735,
+			"y": -2115.5248172837387,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 172.51194763183594,
+			"height": 45,
+			"seed": 1955547606,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701249419241,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": " MENTOR",
+			"rawText": " MENTOR",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": "9StSAGtZw8cM5cXMIAMyE",
+			"originalText": " MENTOR",
+			"lineHeight": 1.25,
+			"baseline": 32
+		},
+		{
+			"type": "rectangle",
+			"version": 273,
+			"versionNonce": 2027249366,
 			"isDeleted": false,
 			"id": "y_D3AsldMVBHHnA4rsFjb",
 			"fillStyle": "hachure",
@@ -210,7 +299,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "XRQi7wdI"
 				}
 			],
-			"updated": 1701246506614,
+			"updated": 1701249347814,
 			"link": null,
 			"locked": false
 		},
@@ -233,11 +322,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 2090082890,
-			"version": 13,
-			"versionNonce": 2132640278,
+			"version": 17,
+			"versionNonce": 819274122,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246506614,
+			"updated": 1701249347814,
 			"link": null,
 			"locked": false,
 			"text": " BOTH",
@@ -253,8 +342,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 128,
-			"versionNonce": 1405148618,
+			"version": 132,
+			"versionNonce": 1269765142,
 			"isDeleted": false,
 			"id": "Sr6xNf27wsXvk80vTl8VJ",
 			"fillStyle": "solid",
@@ -281,7 +370,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "fnT66UrV"
 				}
 			],
-			"updated": 1701246688630,
+			"updated": 1701249347814,
 			"link": null,
 			"locked": false
 		},
@@ -304,11 +393,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 164116630,
-			"version": 15,
-			"versionNonce": 1479971978,
+			"version": 19,
+			"versionNonce": 1502371914,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246688630,
+			"updated": 1701249347814,
 			"link": null,
 			"locked": false,
 			"text": " LEARNER",
@@ -324,8 +413,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 447,
-			"versionNonce": 1672752726,
+			"version": 451,
+			"versionNonce": 471867734,
 			"isDeleted": false,
 			"id": "tJMlPzCMR0iuZouxGaDaF",
 			"fillStyle": "solid",
@@ -345,14 +434,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246625224,
+			"updated": 1701249347814,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 236,
-			"versionNonce": 782791830,
+			"version": 240,
+			"versionNonce": 1315817226,
 			"isDeleted": false,
 			"id": "sjUv7WLpUTydvvpV_pA3g",
 			"fillStyle": "solid",
@@ -379,14 +468,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506614,
+			"updated": 1701249347814,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 1169639370,
+			"version": 172,
+			"versionNonce": 1836942998,
 			"isDeleted": false,
 			"id": "qdZhZdLB",
 			"fillStyle": "solid",
@@ -406,7 +495,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506614,
+			"updated": 1701249347814,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -422,8 +511,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 58,
-			"versionNonce": 169439702,
+			"version": 62,
+			"versionNonce": 1475630538,
 			"isDeleted": false,
 			"id": "RyqYWSXk",
 			"fillStyle": "solid",
@@ -448,7 +537,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506614,
+			"updated": 1701249347814,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -464,8 +553,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 49,
-			"versionNonce": 1406123658,
+			"version": 53,
+			"versionNonce": 276579286,
 			"isDeleted": false,
 			"id": "kWSdDEXC",
 			"fillStyle": "solid",
@@ -485,7 +574,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506614,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -501,8 +590,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 166,
-			"versionNonce": 1626916630,
+			"version": 170,
+			"versionNonce": 2000358538,
 			"isDeleted": false,
 			"id": "e7QFQsIQ",
 			"fillStyle": "solid",
@@ -522,7 +611,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506614,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -538,8 +627,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 144,
-			"versionNonce": 1563123018,
+			"version": 148,
+			"versionNonce": 1999722774,
 			"isDeleted": false,
 			"id": "RRrXzYTA",
 			"fillStyle": "solid",
@@ -559,7 +648,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506614,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -575,8 +664,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 224,
-			"versionNonce": 1673229398,
+			"version": 228,
+			"versionNonce": 1375529802,
 			"isDeleted": false,
 			"id": "F00rZxWy",
 			"fillStyle": "solid",
@@ -596,7 +685,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506614,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.369020257404546,
@@ -612,8 +701,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 98,
-			"versionNonce": 1596269578,
+			"version": 102,
+			"versionNonce": 152159830,
 			"isDeleted": false,
 			"id": "rLvamQZl",
 			"fillStyle": "solid",
@@ -633,7 +722,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -649,8 +738,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "image",
-			"version": 494,
-			"versionNonce": 1815509398,
+			"version": 498,
+			"versionNonce": 513077770,
 			"isDeleted": false,
 			"id": "5sxcK0lEip3YxgmrZ1Qiw",
 			"fillStyle": "solid",
@@ -675,7 +764,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -687,8 +776,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "image",
-			"version": 324,
-			"versionNonce": 1941443274,
+			"version": 328,
+			"versionNonce": 1995606934,
 			"isDeleted": false,
 			"id": "Aax657_D2jMJTMZIbyhMg",
 			"fillStyle": "solid",
@@ -713,7 +802,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -725,8 +814,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "line",
-			"version": 244,
-			"versionNonce": 1369364182,
+			"version": 248,
+			"versionNonce": 268312778,
 			"isDeleted": false,
 			"id": "iGubDo9Vr97Iy565of4B1",
 			"fillStyle": "solid",
@@ -748,7 +837,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -769,8 +858,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 63,
-			"versionNonce": 1031743882,
+			"version": 80,
+			"versionNonce": 252225750,
 			"isDeleted": false,
 			"id": "9lDGuib8",
 			"fillStyle": "solid",
@@ -779,7 +868,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -837.8164395401449,
+			"x": -837.9398074579016,
 			"y": -1123.5447332714523,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -790,24 +879,24 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "Exigences Spécifiques\n\nInterface Utilisateur :\n- Une interface web simple et intuitive pour réserver des salles.\n- Affichage du calendrier des disponibilités pour chaque salle.\n\nGestion des Réservations :\n- Capacité à réserver une salle pour une date et une heure spécifiques.\n- Fonctionnalité pour modifier ou annuler une réservation existante.\n\nGestion des Conflits :\n- Le système doit automatiquement détecter et prévenir les conflits de réservation.\n- Proposer des solutions alternatives en cas de conflit (comme une autre salle ou un autre horaire).\n\nBase de Données :\n- Stockage sécurisé des informations de réservation.\n- Capacité à gérer plusieurs salles et réservations simultanées.\n\nAuthentification :\n- Système d'authentification pour les employés afin de sécuriser l'accès aux réservations.\nNotification :\n- Envoi automatique de confirmations de réservation et de rappels par e-mail\n\nDéfis Techniques :\n- Optimisation de l'algorithme de gestion des conflits pour garantir l'efficacité.\n- Conception d'une base de données capable de gérer de grandes quantités de données de réservation de manière efficace.\n- Assurer la sécurité des données et l'authentification des utilisateurs.\n\nLangages et Outils Suggérés :\nBackend : Java, Node.js, ou Python.\nFrontend : React, Angular, ou Vue.js.\nBase de données : MySQL, PostgreSQL, ou MongoDB.\nSécurité : JWT pour l'authentification, SSL pour la sécurisation des communications.\n\nCe projet vise à tester et à améliorer vos compétences en développement web, gestion de base de données,\n conception d'interface utilisateur, et résolution de problèmes complexes. Il vous donne également l'opportunité\n d'expérimenter avec différentes technologies et de comprendre les aspects pratiques de la gestion de\n projet informatique.",
-			"rawText": "Exigences Spécifiques\n\nInterface Utilisateur :\n- Une interface web simple et intuitive pour réserver des salles.\n- Affichage du calendrier des disponibilités pour chaque salle.\n\nGestion des Réservations :\n- Capacité à réserver une salle pour une date et une heure spécifiques.\n- Fonctionnalité pour modifier ou annuler une réservation existante.\n\nGestion des Conflits :\n- Le système doit automatiquement détecter et prévenir les conflits de réservation.\n- Proposer des solutions alternatives en cas de conflit (comme une autre salle ou un autre horaire).\n\nBase de Données :\n- Stockage sécurisé des informations de réservation.\n- Capacité à gérer plusieurs salles et réservations simultanées.\n\nAuthentification :\n- Système d'authentification pour les employés afin de sécuriser l'accès aux réservations.\nNotification :\n- Envoi automatique de confirmations de réservation et de rappels par e-mail\n\nDéfis Techniques :\n- Optimisation de l'algorithme de gestion des conflits pour garantir l'efficacité.\n- Conception d'une base de données capable de gérer de grandes quantités de données de réservation de manière efficace.\n- Assurer la sécurité des données et l'authentification des utilisateurs.\n\nLangages et Outils Suggérés :\nBackend : Java, Node.js, ou Python.\nFrontend : React, Angular, ou Vue.js.\nBase de données : MySQL, PostgreSQL, ou MongoDB.\nSécurité : JWT pour l'authentification, SSL pour la sécurisation des communications.\n\nCe projet vise à tester et à améliorer vos compétences en développement web, gestion de base de données,\n conception d'interface utilisateur, et résolution de problèmes complexes. Il vous donne également l'opportunité\n d'expérimenter avec différentes technologies et de comprendre les aspects pratiques de la gestion de\n projet informatique.",
+			"text": "Exigences Spécifiques\n\nInterface Utilisateur\n- Une interface web simple et intuitive pour réserver des salles.\n- Affichage du calendrier des disponibilités pour chaque salle.\n\nGestion des Réservations\n- Capacité à réserver une salle pour une date et une heure spécifiques.\n- Fonctionnalité pour modifier ou annuler une réservation existante.\n\nGestion des Conflits :\n- Le système doit automatiquement détecter et prévenir les conflits de réservation.\n- Proposer des solutions alternatives en cas de conflit (comme une autre salle ou un autre horaire).\n\nBase de Données :\n- Stockage sécurisé des informations de réservation.\n- Capacité à gérer plusieurs salles et réservations simultanées.\n\nAuthentification :\n- Système d'authentification pour les employés afin de sécuriser l'accès aux réservations.\nNotification :\n- Envoi automatique de confirmations de réservation et de rappels par e-mail\n\nDéfis Techniques :\n- Optimisation de l'algorithme de gestion des conflits pour garantir l'efficacité.\n- Conception d'une base de données capable de gérer de grandes quantités de données de réservation de manière efficace.\n- Assurer la sécurité des données et l'authentification des utilisateurs.\n\nLangages et Outils Suggérés :\nBackend : Java, Node.js, ou Python.\nFrontend : React, Angular, ou Vue.js.\nBase de données : MySQL, PostgreSQL, ou MongoDB.\nSécurité : JWT pour l'authentification, SSL pour la sécurisation des communications.\n\nCe projet vise à tester et à améliorer vos compétences en développement web, gestion de base de données,\n conception d'interface utilisateur, et résolution de problèmes complexes. Il vous donne également l'opportunité\n d'expérimenter avec différentes technologies et de comprendre les aspects pratiques de la gestion de\n projet informatique.",
+			"rawText": "Exigences Spécifiques\n\nInterface Utilisateur\n- Une interface web simple et intuitive pour réserver des salles.\n- Affichage du calendrier des disponibilités pour chaque salle.\n\nGestion des Réservations\n- Capacité à réserver une salle pour une date et une heure spécifiques.\n- Fonctionnalité pour modifier ou annuler une réservation existante.\n\nGestion des Conflits :\n- Le système doit automatiquement détecter et prévenir les conflits de réservation.\n- Proposer des solutions alternatives en cas de conflit (comme une autre salle ou un autre horaire).\n\nBase de Données :\n- Stockage sécurisé des informations de réservation.\n- Capacité à gérer plusieurs salles et réservations simultanées.\n\nAuthentification :\n- Système d'authentification pour les employés afin de sécuriser l'accès aux réservations.\nNotification :\n- Envoi automatique de confirmations de réservation et de rappels par e-mail\n\nDéfis Techniques :\n- Optimisation de l'algorithme de gestion des conflits pour garantir l'efficacité.\n- Conception d'une base de données capable de gérer de grandes quantités de données de réservation de manière efficace.\n- Assurer la sécurité des données et l'authentification des utilisateurs.\n\nLangages et Outils Suggérés :\nBackend : Java, Node.js, ou Python.\nFrontend : React, Angular, ou Vue.js.\nBase de données : MySQL, PostgreSQL, ou MongoDB.\nSécurité : JWT pour l'authentification, SSL pour la sécurisation des communications.\n\nCe projet vise à tester et à améliorer vos compétences en développement web, gestion de base de données,\n conception d'interface utilisateur, et résolution de problèmes complexes. Il vous donne également l'opportunité\n d'expérimenter avec différentes technologies et de comprendre les aspects pratiques de la gestion de\n projet informatique.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Exigences Spécifiques\n\nInterface Utilisateur :\n- Une interface web simple et intuitive pour réserver des salles.\n- Affichage du calendrier des disponibilités pour chaque salle.\n\nGestion des Réservations :\n- Capacité à réserver une salle pour une date et une heure spécifiques.\n- Fonctionnalité pour modifier ou annuler une réservation existante.\n\nGestion des Conflits :\n- Le système doit automatiquement détecter et prévenir les conflits de réservation.\n- Proposer des solutions alternatives en cas de conflit (comme une autre salle ou un autre horaire).\n\nBase de Données :\n- Stockage sécurisé des informations de réservation.\n- Capacité à gérer plusieurs salles et réservations simultanées.\n\nAuthentification :\n- Système d'authentification pour les employés afin de sécuriser l'accès aux réservations.\nNotification :\n- Envoi automatique de confirmations de réservation et de rappels par e-mail\n\nDéfis Techniques :\n- Optimisation de l'algorithme de gestion des conflits pour garantir l'efficacité.\n- Conception d'une base de données capable de gérer de grandes quantités de données de réservation de manière efficace.\n- Assurer la sécurité des données et l'authentification des utilisateurs.\n\nLangages et Outils Suggérés :\nBackend : Java, Node.js, ou Python.\nFrontend : React, Angular, ou Vue.js.\nBase de données : MySQL, PostgreSQL, ou MongoDB.\nSécurité : JWT pour l'authentification, SSL pour la sécurisation des communications.\n\nCe projet vise à tester et à améliorer vos compétences en développement web, gestion de base de données,\n conception d'interface utilisateur, et résolution de problèmes complexes. Il vous donne également l'opportunité\n d'expérimenter avec différentes technologies et de comprendre les aspects pratiques de la gestion de\n projet informatique.",
+			"originalText": "Exigences Spécifiques\n\nInterface Utilisateur\n- Une interface web simple et intuitive pour réserver des salles.\n- Affichage du calendrier des disponibilités pour chaque salle.\n\nGestion des Réservations\n- Capacité à réserver une salle pour une date et une heure spécifiques.\n- Fonctionnalité pour modifier ou annuler une réservation existante.\n\nGestion des Conflits :\n- Le système doit automatiquement détecter et prévenir les conflits de réservation.\n- Proposer des solutions alternatives en cas de conflit (comme une autre salle ou un autre horaire).\n\nBase de Données :\n- Stockage sécurisé des informations de réservation.\n- Capacité à gérer plusieurs salles et réservations simultanées.\n\nAuthentification :\n- Système d'authentification pour les employés afin de sécuriser l'accès aux réservations.\nNotification :\n- Envoi automatique de confirmations de réservation et de rappels par e-mail\n\nDéfis Techniques :\n- Optimisation de l'algorithme de gestion des conflits pour garantir l'efficacité.\n- Conception d'une base de données capable de gérer de grandes quantités de données de réservation de manière efficace.\n- Assurer la sécurité des données et l'authentification des utilisateurs.\n\nLangages et Outils Suggérés :\nBackend : Java, Node.js, ou Python.\nFrontend : React, Angular, ou Vue.js.\nBase de données : MySQL, PostgreSQL, ou MongoDB.\nSécurité : JWT pour l'authentification, SSL pour la sécurisation des communications.\n\nCe projet vise à tester et à améliorer vos compétences en développement web, gestion de base de données,\n conception d'interface utilisateur, et résolution de problèmes complexes. Il vous donne également l'opportunité\n d'expérimenter avec différentes technologies et de comprendre les aspects pratiques de la gestion de\n projet informatique.",
 			"lineHeight": 1.25,
 			"baseline": 754
 		},
 		{
 			"type": "text",
-			"version": 143,
-			"versionNonce": 1015647254,
+			"version": 147,
+			"versionNonce": 1104377738,
 			"isDeleted": false,
 			"id": "HrB3TNFr",
 			"fillStyle": "solid",
@@ -827,7 +916,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": "https://www.github.com/",
 			"locked": false,
 			"fontSize": 20,
@@ -843,8 +932,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 93,
-			"versionNonce": 1404397642,
+			"version": 97,
+			"versionNonce": 283713046,
 			"isDeleted": false,
 			"id": "UgHWYkcoJBDWmNTVFwupy",
 			"fillStyle": "solid",
@@ -873,14 +962,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 60,
-			"versionNonce": 2062260566,
+			"version": 64,
+			"versionNonce": 609220170,
 			"isDeleted": false,
 			"id": "2jhhaqbi",
 			"fillStyle": "solid",
@@ -902,7 +991,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -918,8 +1007,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 44,
-			"versionNonce": 775278346,
+			"version": 48,
+			"versionNonce": 25750358,
 			"isDeleted": false,
 			"id": "zesrXouz",
 			"fillStyle": "solid",
@@ -946,7 +1035,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -962,8 +1051,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 146,
-			"versionNonce": 1410989718,
+			"version": 150,
+			"versionNonce": 1749982474,
 			"isDeleted": false,
 			"id": "xOCXDVPiRW5W73Dx2HwAZ",
 			"fillStyle": "solid",
@@ -990,7 +1079,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "4DcWvUfQ"
 				}
 			],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false
 		},
@@ -1013,11 +1102,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 2087832138,
-			"version": 4,
-			"versionNonce": 293297610,
+			"version": 8,
+			"versionNonce": 2134708374,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"text": "- Permet de réaliser des projets à réel valeur avec des problématiques\n professionel, qu'il ne retrouve pas dans un cursus académique \nclassique  \n- Pratique de l'apprentissage informel par la pratique et l'expérience.\n- Mise en avant sur le CV pour signifier de sa capacité à résoudre \ndes problèmes du monde réel.",
@@ -1033,8 +1122,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 1556724694,
+			"version": 172,
+			"versionNonce": 1800039370,
 			"isDeleted": false,
 			"id": "ogGy4iWS",
 			"fillStyle": "solid",
@@ -1054,7 +1143,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1070,8 +1159,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 341,
-			"versionNonce": 2057376906,
+			"version": 345,
+			"versionNonce": 364547542,
 			"isDeleted": false,
 			"id": "B5nE23G6r32zq25IXt150",
 			"fillStyle": "solid",
@@ -1098,7 +1187,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "AmFMM2tF"
 				}
 			],
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false
 		},
@@ -1121,11 +1210,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1548779734,
-			"version": 6,
-			"versionNonce": 1259327766,
+			"version": 10,
+			"versionNonce": 593388170,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246506615,
+			"updated": 1701249347815,
 			"link": null,
 			"locked": false,
 			"text": "- Obligation d'approfondir ses connaissances afin de diriger et de\nrépondre aux\n apprenants\n- Mise en avant de leur statut de Mentor sur le CV afin d'apporter une\nplus\nvalue en terme d'expertise.\n- Développe à la fois des compétences de transmission et de\ncollaboration,\n2 choses dont les entreprises rafôle",
@@ -1141,8 +1230,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 378,
-			"versionNonce": 190968650,
+			"version": 382,
+			"versionNonce": 303457046,
 			"isDeleted": false,
 			"id": "HAC4d7Oq",
 			"fillStyle": "solid",
@@ -1162,7 +1251,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1178,8 +1267,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 164,
-			"versionNonce": 1247886934,
+			"version": 168,
+			"versionNonce": 189104458,
 			"isDeleted": false,
 			"id": "q9AN3zpt",
 			"fillStyle": "solid",
@@ -1199,7 +1288,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1215,8 +1304,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 1981348362,
+			"version": 103,
+			"versionNonce": 1455788118,
 			"isDeleted": false,
 			"id": "xgWUtN6E",
 			"fillStyle": "solid",
@@ -1236,7 +1325,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1252,8 +1341,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "arrow",
-			"version": 264,
-			"versionNonce": 1335034774,
+			"version": 268,
+			"versionNonce": 240830474,
 			"isDeleted": false,
 			"id": "jcxfXrVb2-Af9jQB_c6xA",
 			"fillStyle": "solid",
@@ -1273,7 +1362,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506615,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1302,8 +1391,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 196,
-			"versionNonce": 1774266570,
+			"version": 200,
+			"versionNonce": 798823830,
 			"isDeleted": false,
 			"id": "AOCMOPNa",
 			"fillStyle": "solid",
@@ -1328,7 +1417,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506615,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1344,8 +1433,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "arrow",
-			"version": 160,
-			"versionNonce": 1826234582,
+			"version": 164,
+			"versionNonce": 1956198090,
 			"isDeleted": false,
 			"id": "OviNh4KZv5i9BcDZ7Lpat",
 			"fillStyle": "solid",
@@ -1365,7 +1454,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1394,8 +1483,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 183,
-			"versionNonce": 2113240970,
+			"version": 187,
+			"versionNonce": 634516182,
 			"isDeleted": false,
 			"id": "MUSLNt8q",
 			"fillStyle": "solid",
@@ -1420,7 +1509,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1436,8 +1525,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "arrow",
-			"version": 75,
-			"versionNonce": 634099222,
+			"version": 79,
+			"versionNonce": 1318833546,
 			"isDeleted": false,
 			"id": "4iOIdyH4CDqsISSYTq3pJ",
 			"fillStyle": "solid",
@@ -1457,7 +1546,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1486,8 +1575,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 91,
-			"versionNonce": 519110218,
+			"version": 95,
+			"versionNonce": 1408837654,
 			"isDeleted": false,
 			"id": "BL4YZoCC",
 			"fillStyle": "solid",
@@ -1512,7 +1601,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1528,8 +1617,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "arrow",
-			"version": 87,
-			"versionNonce": 1130128214,
+			"version": 91,
+			"versionNonce": 1637715018,
 			"isDeleted": false,
 			"id": "noZgAmhJEYHEhrRrdRZOK",
 			"fillStyle": "solid",
@@ -1549,7 +1638,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1578,8 +1667,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 101,
-			"versionNonce": 2039391498,
+			"version": 105,
+			"versionNonce": 973583702,
 			"isDeleted": false,
 			"id": "rGncCtLK",
 			"fillStyle": "solid",
@@ -1604,7 +1693,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1620,8 +1709,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 209,
-			"versionNonce": 616403658,
+			"version": 213,
+			"versionNonce": 326726410,
 			"isDeleted": false,
 			"id": "zT_taXwek_aCVVJodORuB",
 			"fillStyle": "solid",
@@ -1648,14 +1737,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246686973,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 257,
-			"versionNonce": 559605834,
+			"version": 261,
+			"versionNonce": 290626198,
 			"isDeleted": false,
 			"id": "NGgvEBSCxa07284tsl1Ej",
 			"fillStyle": "solid",
@@ -1677,7 +1766,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246686973,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1706,8 +1795,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 588252630,
+			"version": 79,
+			"versionNonce": 1454014922,
 			"isDeleted": false,
 			"id": "mrKeGI4w",
 			"fillStyle": "solid",
@@ -1732,7 +1821,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1748,8 +1837,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "arrow",
-			"version": 190,
-			"versionNonce": 1513908874,
+			"version": 194,
+			"versionNonce": 546232278,
 			"isDeleted": false,
 			"id": "UGzE_9R4IwbyfXjmwM5LD",
 			"fillStyle": "solid",
@@ -1771,7 +1860,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1800,8 +1889,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 76,
-			"versionNonce": 1174199062,
+			"version": 80,
+			"versionNonce": 374061194,
 			"isDeleted": false,
 			"id": "OWQXkXvh",
 			"fillStyle": "solid",
@@ -1826,7 +1915,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1842,8 +1931,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "arrow",
-			"version": 40,
-			"versionNonce": 1227000138,
+			"version": 44,
+			"versionNonce": 265383190,
 			"isDeleted": false,
 			"id": "mnS5s8ke8x8csIyg8MRP6",
 			"fillStyle": "solid",
@@ -1865,7 +1954,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1890,8 +1979,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 109,
-			"versionNonce": 924649558,
+			"version": 113,
+			"versionNonce": 572004170,
 			"isDeleted": false,
 			"id": "jjy4ISSo",
 			"fillStyle": "solid",
@@ -1911,7 +2000,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506616,
+			"updated": 1701249347816,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1927,8 +2016,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 388,
-			"versionNonce": 516497482,
+			"version": 402,
+			"versionNonce": 299184266,
 			"isDeleted": false,
 			"id": "x9mSfmOCxcvsDKuSv-Spy",
 			"fillStyle": "solid",
@@ -1937,8 +2026,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3372.701097665566,
-			"y": -2127.897596740452,
+			"x": 3372.779586346297,
+			"y": -2127.9760266721705,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1962.662785191768,
@@ -1955,15 +2044,15 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "cWf6Sy0C"
 				}
 			],
-			"updated": 1701246567335,
+			"updated": 1701249419248,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "cWf6Sy0C",
 			"type": "text",
-			"x": 3377.701097665566,
-			"y": -2122.897596740452,
+			"x": 3377.779586346297,
+			"y": -2122.9760266721705,
 			"width": 172.51194763183594,
 			"height": 45,
 			"angle": 0,
@@ -1978,11 +2067,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1834217994,
-			"version": 28,
-			"versionNonce": 1309837066,
+			"version": 42,
+			"versionNonce": 1571983178,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246567335,
+			"updated": 1701249419249,
 			"link": null,
 			"locked": false,
 			"text": " MENTOR",
@@ -1998,8 +2087,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 234,
-			"versionNonce": 895081302,
+			"version": 238,
+			"versionNonce": 228433814,
 			"isDeleted": false,
 			"id": "4RWMjGjguR1WY_lG6enMI",
 			"fillStyle": "solid",
@@ -2030,14 +2119,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246516331,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 173,
-			"versionNonce": 11234006,
+			"version": 177,
+			"versionNonce": 1547586762,
 			"isDeleted": false,
 			"id": "3R11PWyg",
 			"fillStyle": "solid",
@@ -2057,7 +2146,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506616,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2073,8 +2162,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 310,
-			"versionNonce": 1110824330,
+			"version": 314,
+			"versionNonce": 1194409174,
 			"isDeleted": false,
 			"id": "LzDmsvscJtwheNVmAPwPp",
 			"fillStyle": "solid",
@@ -2101,14 +2190,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "PY5IAGdD"
 				}
 			],
-			"updated": 1701246506616,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 156,
-			"versionNonce": 82026518,
+			"version": 160,
+			"versionNonce": 1831740298,
 			"isDeleted": false,
 			"id": "PY5IAGdD",
 			"fillStyle": "solid",
@@ -2128,7 +2217,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506616,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2144,8 +2233,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 299,
-			"versionNonce": 1689687114,
+			"version": 312,
+			"versionNonce": 1811289610,
 			"isDeleted": false,
 			"id": "G97ZUZB-kHyAQjpeO8CM7",
 			"fillStyle": "solid",
@@ -2154,7 +2243,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3897.020197336152,
+			"x": 3897.0201973361513,
 			"y": -1230.5225651463327,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -2172,14 +2261,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "6V6tTLXc"
 				}
 			],
-			"updated": 1701246506616,
+			"updated": 1701249419254,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 1457728854,
+			"version": 195,
+			"versionNonce": 1570424010,
 			"isDeleted": false,
 			"id": "6V6tTLXc",
 			"fillStyle": "solid",
@@ -2188,7 +2277,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3902.020197336152,
+			"x": 3902.0201973361513,
 			"y": -1204.192918172534,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -2199,7 +2288,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249419255,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2215,8 +2304,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 584,
-			"versionNonce": 1925482006,
+			"version": 588,
+			"versionNonce": 1335656278,
 			"isDeleted": false,
 			"id": "cvjptShju6_d2EjRHSbcl",
 			"fillStyle": "solid",
@@ -2236,14 +2325,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246630625,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 194,
-			"versionNonce": 1946096278,
+			"version": 198,
+			"versionNonce": 1710115082,
 			"isDeleted": false,
 			"id": "ABeIlits",
 			"fillStyle": "solid",
@@ -2263,7 +2352,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2279,8 +2368,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "line",
-			"version": 380,
-			"versionNonce": 488737226,
+			"version": 384,
+			"versionNonce": 1841177750,
 			"isDeleted": false,
 			"id": "VI49GDS3CbvubO-9d5IF0",
 			"fillStyle": "solid",
@@ -2302,7 +2391,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2323,8 +2412,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "line",
-			"version": 152,
-			"versionNonce": 1228310870,
+			"version": 156,
+			"versionNonce": 1880397770,
 			"isDeleted": false,
 			"id": "ganqW8SNLCimInJffzR67",
 			"fillStyle": "solid",
@@ -2346,7 +2435,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246601875,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2367,8 +2456,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "ellipse",
-			"version": 74,
-			"versionNonce": 144818314,
+			"version": 78,
+			"versionNonce": 989405654,
 			"isDeleted": false,
 			"id": "482YrZ1Cn8esEF2FSGYs_",
 			"fillStyle": "solid",
@@ -2390,14 +2479,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 40,
-			"versionNonce": 465560854,
+			"version": 44,
+			"versionNonce": 1711476362,
 			"isDeleted": false,
 			"id": "6u9sXhlt",
 			"fillStyle": "solid",
@@ -2417,7 +2506,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2433,8 +2522,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "ellipse",
-			"version": 147,
-			"versionNonce": 1819090762,
+			"version": 151,
+			"versionNonce": 979531542,
 			"isDeleted": false,
 			"id": "PiohI4YERDE-zsB9y4-j0",
 			"fillStyle": "solid",
@@ -2456,14 +2545,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 871289430,
+			"version": 107,
+			"versionNonce": 1819585866,
 			"isDeleted": false,
 			"id": "f4SOBKaF",
 			"fillStyle": "solid",
@@ -2483,7 +2572,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2518,18 +2607,18 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 3
 			},
 			"seed": 69928778,
-			"version": 112,
-			"versionNonce": 1692313098,
+			"version": 116,
+			"versionNonce": 1148134486,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 222,
-			"versionNonce": 1515067286,
+			"version": 226,
+			"versionNonce": 1489269770,
 			"isDeleted": false,
 			"id": "jDO4i7V2CfLqAROH6QYGI",
 			"fillStyle": "solid",
@@ -2551,14 +2640,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 174,
-			"versionNonce": 1257329866,
+			"version": 178,
+			"versionNonce": 1525950870,
 			"isDeleted": false,
 			"id": "NaXGqkcu",
 			"fillStyle": "solid",
@@ -2578,7 +2667,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2613,11 +2702,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"seed": 298930582,
-			"version": 125,
-			"versionNonce": 387101910,
+			"version": 129,
+			"versionNonce": 485319370,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false
 		},
@@ -2642,8 +2731,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 3
 			},
 			"seed": 773915850,
-			"version": 209,
-			"versionNonce": 541076362,
+			"version": 213,
+			"versionNonce": 2099676886,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2651,7 +2740,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "joMm99U4"
 				}
 			],
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false
 		},
@@ -2674,11 +2763,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 802796810,
-			"version": 157,
-			"versionNonce": 600943126,
+			"version": 161,
+			"versionNonce": 864713098,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246506617,
+			"updated": 1701249347817,
 			"link": null,
 			"locked": false,
 			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada\net justo ut mattis. Nam posuere felis eu eros mattis, non suscipit\nmetus blandit. Mauris id imperdiet neque, at tincidunt lacus. Sed\ntortor orci, tempus a justo vel, sagittis semper tortor. Sed id justo\nauctor nisi ornare egestas. Proin sed leo aliquam, molestie nisi ut,\nporta justo. Nullam tristique lobortis tincidunt. Sed volutpat diam\nturpis, ut imperdiet lacus ultricies quis. Proin et pulvinar risus. Donec\npharetra sed neque quis efficitur. In quis tincidunt lectus.",
@@ -2694,8 +2783,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "ellipse",
-			"version": 214,
-			"versionNonce": 2064001610,
+			"version": 218,
+			"versionNonce": 2073771030,
 			"isDeleted": false,
 			"id": "EXZSdTZTaRuFAbPBjY06p",
 			"fillStyle": "solid",
@@ -2717,7 +2806,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false
 		},
@@ -2742,8 +2831,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 3
 			},
 			"seed": 1714774102,
-			"version": 165,
-			"versionNonce": 1065350998,
+			"version": 169,
+			"versionNonce": 198621258,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2751,7 +2840,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "k4lQThjt"
 				}
 			],
-			"updated": 1701246506617,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false
 		},
@@ -2774,11 +2863,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 875387542,
-			"version": 19,
-			"versionNonce": 1914589450,
+			"version": 23,
+			"versionNonce": 1279740246,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246506617,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In\nmalesuada et justo ut mattis. Nam posuere felis eu eros mattis,\nnon suscipit metus blandit. Mauris id imperdiet neque, at tincidunt\nlacus. Sed tortor orci, tempus a justo vel, sagittis semper tortor.\nSed id justo auctor nisi ornare egestas. Proin sed leo aliquam,\nmolestie nisi ut, porta justo. Nullam tristique lobortis tincidunt. Sed\nvolutpat diam turpis, ut imperdiet lacus ultricies quis. Proin et\npulvinar risus. Donec pharetra sed neque quis efficitur. In quis\ntincidunt lectus.",
@@ -2794,8 +2883,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "ellipse",
-			"version": 287,
-			"versionNonce": 41065622,
+			"version": 291,
+			"versionNonce": 1974279946,
 			"isDeleted": false,
 			"id": "jl3A9TFm3dK2axBnN6WxI",
 			"fillStyle": "solid",
@@ -2817,14 +2906,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 219,
-			"versionNonce": 151232458,
+			"version": 223,
+			"versionNonce": 1585426070,
 			"isDeleted": false,
 			"id": "pXFPAPXf",
 			"fillStyle": "solid",
@@ -2844,7 +2933,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2860,8 +2949,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "image",
-			"version": 545,
-			"versionNonce": 845060566,
+			"version": 549,
+			"versionNonce": 227061194,
 			"isDeleted": false,
 			"id": "yifOCnJAX6nboZbjFBXJl",
 			"fillStyle": "solid",
@@ -2881,7 +2970,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506617,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2893,8 +2982,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "image",
-			"version": 375,
-			"versionNonce": 466687626,
+			"version": 379,
+			"versionNonce": 1861839830,
 			"isDeleted": false,
 			"id": "fvyC-hu6cab7TQhDNeUPg",
 			"fillStyle": "solid",
@@ -2914,7 +3003,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506618,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2926,8 +3015,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 215,
-			"versionNonce": 374927126,
+			"version": 219,
+			"versionNonce": 679765130,
 			"isDeleted": false,
 			"id": "587z1pMX",
 			"fillStyle": "solid",
@@ -2947,7 +3036,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506618,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2963,8 +3052,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 150,
-			"versionNonce": 1262597450,
+			"version": 154,
+			"versionNonce": 1539932438,
 			"isDeleted": false,
 			"id": "GsCrMDwc",
 			"fillStyle": "solid",
@@ -2984,7 +3073,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506618,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3000,8 +3089,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 623,
-			"versionNonce": 1419425034,
+			"version": 627,
+			"versionNonce": 1079722826,
 			"isDeleted": false,
 			"id": "ZrzCA-PCYiIFX0JMBsjdw",
 			"fillStyle": "solid",
@@ -3021,14 +3110,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246634617,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 232,
-			"versionNonce": 2048292490,
+			"version": 236,
+			"versionNonce": 2019880534,
 			"isDeleted": false,
 			"id": "4h5ExWDW",
 			"fillStyle": "solid",
@@ -3048,7 +3137,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246566348,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3064,8 +3153,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "line",
-			"version": 419,
-			"versionNonce": 832147222,
+			"version": 423,
+			"versionNonce": 1600670218,
 			"isDeleted": false,
 			"id": "SXAGQTQ2EWpAQls_idfYq",
 			"fillStyle": "solid",
@@ -3087,7 +3176,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246566348,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3108,8 +3197,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "ellipse",
-			"version": 289,
-			"versionNonce": 2044400970,
+			"version": 293,
+			"versionNonce": 1637921686,
 			"isDeleted": false,
 			"id": "tMZY-tLE7nW6Iu0GkLfXP",
 			"fillStyle": "solid",
@@ -3131,14 +3220,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246566348,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 221,
-			"versionNonce": 1963146326,
+			"version": 225,
+			"versionNonce": 212236490,
 			"isDeleted": false,
 			"id": "qejLBS5V",
 			"fillStyle": "solid",
@@ -3158,7 +3247,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246566348,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3174,8 +3263,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "image",
-			"version": 547,
-			"versionNonce": 1025367050,
+			"version": 551,
+			"versionNonce": 1370607830,
 			"isDeleted": false,
 			"id": "l1Lb1spPQqMx4fq5Qg9yK",
 			"fillStyle": "solid",
@@ -3195,7 +3284,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246566348,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3207,8 +3296,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "image",
-			"version": 377,
-			"versionNonce": 289751446,
+			"version": 381,
+			"versionNonce": 934334346,
 			"isDeleted": false,
 			"id": "t0iiui3Yltk_ob_GqOVTA",
 			"fillStyle": "solid",
@@ -3228,7 +3317,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246566348,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3240,8 +3329,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 217,
-			"versionNonce": 31050442,
+			"version": 221,
+			"versionNonce": 1949124118,
 			"isDeleted": false,
 			"id": "ReHk4L3W",
 			"fillStyle": "solid",
@@ -3261,7 +3350,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246566348,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3277,8 +3366,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 151,
-			"versionNonce": 2039783126,
+			"version": 155,
+			"versionNonce": 616713802,
 			"isDeleted": false,
 			"id": "KDKSlYi5",
 			"fillStyle": "solid",
@@ -3298,7 +3387,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246566348,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3314,79 +3403,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 447,
-			"versionNonce": 1263871754,
-			"isDeleted": false,
-			"id": "9StSAGtZw8cM5cXMIAMyE",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5464.677126967974,
-			"y": -2120.862286346634,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1962.662785191768,
-			"height": 2406.000619873706,
-			"seed": 1761168534,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "7AUwj06n"
-				}
-			],
-			"updated": 1701246506618,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 87,
-			"versionNonce": 490481302,
-			"isDeleted": false,
-			"id": "7AUwj06n",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5469.677126967974,
-			"y": -2115.862286346634,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 172.51194763183594,
-			"height": 45,
-			"seed": 1955547606,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1701246506618,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": " MENTOR",
-			"rawText": " MENTOR",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": "9StSAGtZw8cM5cXMIAMyE",
-			"originalText": " MENTOR",
-			"lineHeight": 1.25,
-			"baseline": 32
-		},
-		{
-			"type": "rectangle",
-			"version": 668,
-			"versionNonce": 1030682070,
+			"version": 672,
+			"versionNonce": 973607766,
 			"isDeleted": false,
 			"id": "f6FUNhyr_yi1cJSl-UP17",
 			"fillStyle": "solid",
@@ -3411,14 +3429,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246639585,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 275,
-			"versionNonce": 1630410710,
+			"version": 279,
+			"versionNonce": 1488319754,
 			"isDeleted": false,
 			"id": "gLqasXin",
 			"fillStyle": "solid",
@@ -3438,7 +3456,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246587080,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3454,8 +3472,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "line",
-			"version": 462,
-			"versionNonce": 574650506,
+			"version": 466,
+			"versionNonce": 764885142,
 			"isDeleted": false,
 			"id": "GNTXO1qJ1G-Ui08-0ZuPs",
 			"fillStyle": "solid",
@@ -3477,7 +3495,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246587080,
+			"updated": 1701249347818,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3498,8 +3516,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "ellipse",
-			"version": 332,
-			"versionNonce": 2055777558,
+			"version": 336,
+			"versionNonce": 84329418,
 			"isDeleted": false,
 			"id": "FlIi8Xcs1_U1-pfoKZGUT",
 			"fillStyle": "solid",
@@ -3521,14 +3539,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701246587080,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 264,
-			"versionNonce": 1366611786,
+			"version": 268,
+			"versionNonce": 1183823318,
 			"isDeleted": false,
 			"id": "Zf0BW2Qe",
 			"fillStyle": "solid",
@@ -3548,7 +3566,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246587080,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3564,8 +3582,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "image",
-			"version": 590,
-			"versionNonce": 1314822742,
+			"version": 594,
+			"versionNonce": 1942993546,
 			"isDeleted": false,
 			"id": "V0njK8lFnMzKx7sS2g_ko",
 			"fillStyle": "solid",
@@ -3585,7 +3603,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246587080,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3597,8 +3615,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "image",
-			"version": 420,
-			"versionNonce": 1076846090,
+			"version": 424,
+			"versionNonce": 1040616214,
 			"isDeleted": false,
 			"id": "HtEnDLWkMXp_r5h49khqn",
 			"fillStyle": "solid",
@@ -3618,7 +3636,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246587080,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3630,8 +3648,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 260,
-			"versionNonce": 595910550,
+			"version": 264,
+			"versionNonce": 1942739274,
 			"isDeleted": false,
 			"id": "EnJ7tF3F",
 			"fillStyle": "solid",
@@ -3651,7 +3669,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246587080,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3667,8 +3685,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "text",
-			"version": 194,
-			"versionNonce": 1802177738,
+			"version": 198,
+			"versionNonce": 1651554390,
 			"isDeleted": false,
 			"id": "evRehuid",
 			"fillStyle": "solid",
@@ -3688,7 +3706,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246587080,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3723,8 +3741,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 3
 			},
 			"seed": 2068291798,
-			"version": 105,
-			"versionNonce": 1064712202,
+			"version": 109,
+			"versionNonce": 1146494986,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3736,7 +3754,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701246659914,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false
 		},
@@ -3759,11 +3777,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1774393558,
-			"version": 14,
-			"versionNonce": 28497802,
+			"version": 18,
+			"versionNonce": 1805860246,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246506619,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false,
 			"text": "Suivre",
@@ -3779,8 +3797,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 160,
-			"versionNonce": 1227865622,
+			"version": 165,
+			"versionNonce": 23695050,
 			"isDeleted": false,
 			"id": "RoR2t11u4634dEAi5HqWY",
 			"fillStyle": "solid",
@@ -3805,16 +3823,20 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				{
 					"type": "text",
 					"id": "XzW1aqJq"
+				},
+				{
+					"id": "-wgI-HAyUInU16uuIL0AM",
+					"type": "arrow"
 				}
 			],
-			"updated": 1701246506619,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 1900238410,
+			"version": 76,
+			"versionNonce": 1322457814,
 			"isDeleted": false,
 			"id": "XzW1aqJq",
 			"fillStyle": "solid",
@@ -3834,7 +3856,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506619,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3850,8 +3872,8 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 210,
-			"versionNonce": 939232086,
+			"version": 214,
+			"versionNonce": 262219146,
 			"isDeleted": false,
 			"id": "fTuWQATTr4A6buOdJYTb3",
 			"fillStyle": "solid",
@@ -3878,14 +3900,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					"id": "wteAbthG"
 				}
 			],
-			"updated": 1701246506619,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 122,
-			"versionNonce": 2144730378,
+			"version": 126,
+			"versionNonce": 311775254,
 			"isDeleted": false,
 			"id": "wteAbthG",
 			"fillStyle": "solid",
@@ -3905,7 +3927,7 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701246506619,
+			"updated": 1701249347819,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3923,9 +3945,9 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 			"id": "-wgI-HAyUInU16uuIL0AM",
 			"type": "arrow",
 			"x": 5880.10582745536,
-			"y": -1342.746877464007,
-			"width": 1176.2259523802213,
-			"height": 83.2123158765819,
+			"y": -1342.7468774640072,
+			"width": 1177.3019526381104,
+			"height": 36.898121092132214,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
@@ -3940,11 +3962,11 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 				"type": 2
 			},
 			"seed": 102259990,
-			"version": 130,
-			"versionNonce": 1160707146,
+			"version": 250,
+			"versionNonce": 638818890,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246660312,
+			"updated": 1701249419261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3953,77 +3975,628 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 					0
 				],
 				[
-					-1176.2259523802213,
-					-83.2123158765819
+					-1177.3019526381104,
+					36.898121092132214
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "f6FUNhyr_yi1cJSl-UP17",
-				"focus": 0.35807697957789897,
-				"gap": 9.251359072417017
+				"gap": 9.251359072417017,
+				"focus": 0.43740768492641047
 			},
 			"endBinding": {
-				"elementId": "t04lm_jlexboTM1JwXl0W",
-				"focus": -0.05878812303855315,
-				"gap": 4.437323976549578
+				"elementId": "RoR2t11u4634dEAi5HqWY",
+				"gap": 3.3613237186605147,
+				"focus": 0.13363160628396753
 			},
 			"startArrowhead": "arrow",
 			"endArrowhead": null
 		},
 		{
-			"id": "xLBnp8c5Mu3LNy_Imkce7",
-			"type": "arrow",
-			"x": 4702.835006903184,
-			"y": -1425.528393607593,
-			"width": 144.5193673865615,
-			"height": 14.623510417917032,
+			"id": "D8rYccDU",
+			"type": "text",
+			"x": 6837.699116582919,
+			"y": -1639.3964986389042,
+			"width": 125.09996032714844,
+			"height": 45,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 0,
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2102541770,
+			"version": 119,
+			"versionNonce": 585030998,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701249347819,
+			"link": null,
+			"locked": false,
+			"text": "60/100",
+			"rawText": "60/100",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32,
+			"containerId": null,
+			"originalText": "60/100",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 240,
+			"versionNonce": 621333258,
+			"isDeleted": false,
+			"id": "1ByGdymp",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5999.498217901437,
+			"y": -1531.295605241681,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 117.82392883300781,
+			"height": 35,
+			"seed": 1427911830,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701249347819,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "Repo link",
+			"rawText": "Repo link",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Repo link",
+			"lineHeight": 1.25,
+			"baseline": 25
+		},
+		{
+			"type": "text",
+			"version": 253,
+			"versionNonce": 621068950,
+			"isDeleted": false,
+			"id": "klZSwKxF",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6131.974866961028,
+			"y": -1523.8675814227665,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 248.4197998046875,
+			"height": 25,
+			"seed": 300117770,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701249347819,
+			"link": "https://www.github.com/",
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "🌐https://www.github.com/",
+			"rawText": "https://www.github.com/",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "🌐https://www.github.com/",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"id": "FXvRzX4HeMaEu2ATHz5lb",
+			"type": "rectangle",
+			"x": 6006.657923318507,
+			"y": -1364.7460865973317,
+			"width": 19.949903154014464,
+			"height": 18.929138540645454,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
-				"type": 2
+				"type": 3
 			},
-			"seed": 1869674710,
-			"version": 17,
-			"versionNonce": 240890006,
-			"isDeleted": true,
+			"seed": 1506016458,
+			"version": 54,
+			"versionNonce": 978073610,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701246506619,
+			"updated": 1701249396568,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 287,
+			"versionNonce": 1270611926,
+			"isDeleted": false,
+			"id": "adHSKCpe",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6001.6967505581215,
+			"y": -1468.5525043426414,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 127.73594665527344,
+			"height": 35,
+			"seed": 1015979978,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701249347819,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "Exigences",
+			"rawText": "Exigences",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Exigences",
+			"lineHeight": 1.25,
+			"baseline": 25
+		},
+		{
+			"type": "text",
+			"version": 380,
+			"versionNonce": 1511111882,
+			"isDeleted": false,
+			"id": "HkcP7RX2",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6042.094627416897,
+			"y": -1367.4490546555976,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 560.5795288085938,
+			"height": 25,
+			"seed": 1641375766,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701249399170,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Interface web simple et intuitive pour reserver une salle",
+			"rawText": "Interface web simple et intuitive pour reserver une salle",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Interface web simple et intuitive pour reserver une salle",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "rectangle",
+			"version": 132,
+			"versionNonce": 1626422666,
+			"isDeleted": false,
+			"id": "YpoGWt4Uj6mdXmuUxKnqW",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6007.088930798803,
+			"y": -1327.098834608716,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 19.949903154014464,
+			"height": 18.929138540645454,
+			"seed": 1056296266,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1701249396569,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 463,
+			"versionNonce": 1740962890,
+			"isDeleted": false,
+			"id": "0d9GrBjP",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6042.5031270159825,
+			"y": -1329.8822788753591,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 588.3594360351562,
+			"height": 25,
+			"seed": 2116129802,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701249396569,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Affichage du calendrier des disponibilités pour chaque salle.",
+			"rawText": "Affichage du calendrier des disponibilités pour chaque salle.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Affichage du calendrier des disponibilités pour chaque salle.",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"id": "IkAFWVeKzL0CdtOEUSWEu",
+			"type": "freedraw",
+			"x": 6008.1840500177605,
+			"y": -1308.5882304754107,
+			"width": 22.876106901009734,
+			"height": 27.95087924870745,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 854623062,
+			"version": 143,
+			"versionNonce": 1127408394,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1701249396569,
 			"link": null,
 			"locked": false,
 			"points": [
 				[
 					0,
-					0
+					-10.920364667836903
 				],
 				[
-					144.5193673865615,
-					14.623510417917032
+					0.07344224022169248,
+					-10.920364667836903
+				],
+				[
+					0.32790592174707484,
+					-10.920364667836903
+				],
+				[
+					0.8135541359161012,
+					-10.920364667836903
+				],
+				[
+					1.343285066717452,
+					-10.920364667836903
+				],
+				[
+					1.6450888084683266,
+					-10.920364667836903
+				],
+				[
+					1.804177469575531,
+					-10.920364667836903
+				],
+				[
+					2.0679354381542994,
+					-10.920364667836903
+				],
+				[
+					2.787764941072799,
+					-10.920364667836903
+				],
+				[
+					3.967097046916714,
+					-10.410532763211014
+				],
+				[
+					5.213921312018074,
+					-9.167411667698097
+				],
+				[
+					6.616837482120808,
+					-7.471397733587595
+				],
+				[
+					8.004900165436629,
+					-5.767950150274789
+				],
+				[
+					9.030746241154278,
+					-4.584969963669296
+				],
+				[
+					9.74197635698601,
+					-3.857770991405844
+				],
+				[
+					10.18097941089616,
+					-3.4051244484143215
+				],
+				[
+					10.343586003084448,
+					-3.400153755273096
+				],
+				[
+					10.343586003084448,
+					-3.7759336786518984
+				],
+				[
+					10.343586003084448,
+					-4.247365859235951
+				],
+				[
+					10.343586003084448,
+					-4.701669299941166
+				],
+				[
+					10.343586003084448,
+					-5.054633293991394
+				],
+				[
+					10.343586003084448,
+					-5.346247291613118
+				],
+				[
+					10.343586003084448,
+					-5.579825088234018
+				],
+				[
+					10.343586003084448,
+					-6.2313441378959995
+				],
+				[
+					10.586106091433349,
+					-7.657574821289097
+				],
+				[
+					11.342113823864027,
+					-9.602862299282027
+				],
+				[
+					12.795453672794052,
+					-12.704216571286493
+				],
+				[
+					14.781998952358524,
+					-16.571214320615614
+				],
+				[
+					16.74682860796644,
+					-20.00247036173552
+				],
+				[
+					18.655371366278214,
+					-23.38592266476249
+				],
+				[
+					20.367604884020672,
+					-26.847629799000117
+				],
+				[
+					21.53842446527322,
+					-29.345918084215157
+				],
+				[
+					22.260425530587543,
+					-30.62193083839719
+				],
+				[
+					22.668939848462433,
+					-31.21145056685106
+				],
+				[
+					22.876106901009734,
+					-31.351033003980547
+				],
+				[
+					22.876106901009734,
+					-31.351033003980547
 				]
 			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "t04lm_jlexboTM1JwXl0W",
-				"focus": -0.11450707077612067,
-				"gap": 3.3924558045951017
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				36.19454032210706,
+				-31.351033003980547
+			]
+		},
+		{
+			"type": "rectangle",
+			"version": 126,
+			"versionNonce": 2131217174,
+			"isDeleted": false,
+			"id": "YQL-vh0ofb6jtNkhDa2wB",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6007.508413029816,
+			"y": -1220.3234921180092,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 19.949903154014464,
+			"height": 18.929138540645454,
+			"seed": 1828888342,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
 			},
-			"endBinding": null,
-			"startArrowhead": "arrow",
-			"endArrowhead": null
+			"boundElements": [],
+			"updated": 1701249387513,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 454,
+			"versionNonce": 1900673110,
+			"isDeleted": false,
+			"id": "sfEATl7j",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6042.933522109546,
+			"y": -1223.0245916543213,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 560.5795288085938,
+			"height": 25,
+			"seed": 13257814,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701249387513,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Interface web simple et intuitive pour reserver une salle",
+			"rawText": "Interface web simple et intuitive pour reserver une salle",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Interface web simple et intuitive pour reserver une salle",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "text",
+			"version": 349,
+			"versionNonce": 1477921750,
+			"isDeleted": false,
+			"id": "foTEWb1f",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6003.724287979583,
+			"y": -1404.094140573681,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 208.19979858398438,
+			"height": 25,
+			"seed": 565214858,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701249412778,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Interface utilisateur",
+			"rawText": "Interface utilisateur",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Interface utilisateur",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "text",
+			"version": 418,
+			"versionNonce": 237293334,
+			"isDeleted": false,
+			"id": "2TUWhRuI",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 6001.7413335505,
+			"y": -1256.5903192230414,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"width": 208.19979858398438,
+			"height": 25,
+			"seed": 1445001942,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701249420917,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Interface utilisateur",
+			"rawText": "Interface utilisateur",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Interface utilisateur",
+			"lineHeight": 1.25,
+			"baseline": 18
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#2f9e44",
 		"currentItemBackgroundColor": "#ffffff",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -4031,14 +4604,14 @@ ad3301b82911b931c5a09cb9bedd1b6da90084a7: [[Pasted Image 20231128141703_403.png]
 		"currentItemRoughness": 2,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 28,
+		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": null,
-		"scrollX": 2496.051416487158,
-		"scrollY": 1973.208375766493,
+		"scrollX": -5504.382590308521,
+		"scrollY": 1589.635294494929,
 		"zoom": {
-			"value": 0.4198393002221955
+			"value": 1.258907483551617
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
