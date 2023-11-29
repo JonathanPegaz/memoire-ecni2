@@ -14,10 +14,18 @@ Le document met également en lumière l'importance de l'intérêt scolaire pour
 En conclusion, ce document met en évidence l'importance de l'intérêt scolaire dans la motivation des collégiens en difficulté. Il explore les différentes dimensions de l'intérêt, tant sur le plan situationnel que personnel, ainsi que son influence sur l'apprentissage et le développement des étudiants. Les recherches présentées visent à mieux comprendre le rôle de l'intérêt dans l'expérience motivationnelle des étudiants considérés "à risque" et à fournir des pistes pour stimuler positivement la motivation et l'apprentissage.
 
 ## Eléments retenus 
+Dans ce document, plusieurs arguments et concepts clés peuvent être utiles pour votre problématique "Comment garantir l'originalité des productions intellectuelles en encadrant la production ?". Voici quelques éléments pertinents : 
 
+• L'intérêt scolaire : L'article explore l'importance de l'intérêt dans la motivation des étudiants en difficulté. Vous pouvez considérer l'intérêt comme un élément clé pour favoriser l'originalité des productions intellectuelles en suscitant l'engagement des étudiants dans leurs travaux. 
 
+• Composante affective de l'intérêt : L'intérêt est décrit comme ayant une composante émotionnelle importante. Vous pouvez envisager d'encadrer la production intellectuelle en intégrant des éléments qui suscitent des émotions positives chez les étudiants, ce qui peut favoriser leur créativité et originalité. 
+
+• Lien entre l'intérêt et la motivation : L'article souligne que l'intérêt est lié à la motivation scolaire. En encadrant la production intellectuelle de manière à stimuler l'intérêt des étudiants, vous pouvez également renforcer leur motivation à produire des travaux originaux. 
+
+• Stimuler un nouvel intérêt : L'article mentionne des stratégies pour susciter un nouvel intérêt situationnel. Vous pouvez envisager d'appliquer ces stratégies dans votre encadrement en proposant des activités d'apprentissage qui présentent des éléments inattendus, concrets, surprenants, imagés, cohérents, vulgarisés et valorisés. 
+
+• Importance de l'identification des intérêts personnels : L'article souligne l'importance de connaître les intérêts personnels des étudiants pour les intégrer dans l'apprentissage. Vous pouvez prendre en compte cette dimension en encourageant les étudiants à choisir des sujets qui les passionnent et en les aidant à établir des liens entre leurs intérêts et la production intellectuelle.
 ## Citations
 
 ## Mots clés
-  
 Les mots clés de ce document sont: - Intérêt scolaire - Motivation - Collégiens en difficulté - Recherche - Études appliquées - Composante affective - Composante cognitive - Développement de l'intérêt
