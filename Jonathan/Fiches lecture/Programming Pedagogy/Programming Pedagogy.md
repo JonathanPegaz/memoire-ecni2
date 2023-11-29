@@ -9,3 +9,4 @@ Cette recherche examine la problématique de savoir s'il est possible de transfo
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont: - Programming pedagogy (Pédagogie de programmation) - Novices vs. Experts (Novices vs. Experts) - Learning Problem Solving (Apprentissage de la résolution de problèmes) - Pedagogy (Pédagogie)
