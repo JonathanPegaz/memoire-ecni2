@@ -149,9 +149,12 @@ En outre, Bourdieu, (1993) met l'accent sur l**'importance de la structure socia
 _"Literature, art and their respective producers do not exist independently of an institutional framework which authorizes, enables, empowers and legitimizes them. This framework must be incorporated into any analysis that pretends to provide a thorough understanding of cultural goods and practices" (Bourdieu, 1993: 10)_
 
 
-**Organisation en début de projet**
+**Organisation en début de projet** cadré
 
 > Pour la phase de la présentation client, c’est le directeur de compte qui prend en charge la proposition du concept validé avec le client avant de passer à la production, à la réalisation de ce concept et livrer le produit final. Dans ce sens, Martin de EPSILON, explique : « Par exemple, quand l’image du « brand » est bien assise, bien claire, j’ai tendance à aller avec quelqu’un pour faire la production très rapidement, qui va me donner du volume. Car la production est très importante, elle aide à mettre des choses sur la table ». Durant la phase de production, le directeur de compte supervise la réalisation du concept choisi et assure la livraison du produit final au client.
 
 [[La gestion des projets de création dans les agences de communication.pdf#page=178&selection=47,0,92,57|La gestion des projets de création dans les agences de communication, page 178]]
+
+
+**Organisation en début de projet** **créatif**
 
