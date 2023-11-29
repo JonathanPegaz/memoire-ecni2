@@ -41,3 +41,5 @@
 
 > On our view, the mental state that a subject enjoys on a given situation is fundamental in determining whether they are remembering, imagining, or in a state of cryptomnesia.
 
+> [...] a subject successfully remembers when they adopt the attitude of remembering towards a retained content and there is no source-monitoring error involved
+
