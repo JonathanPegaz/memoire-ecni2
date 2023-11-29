@@ -34,3 +34,7 @@
 > What matters for cryptomnesia is that one experiences that content as being the result of one’s own creative act
 
 > Episodic memory may frequently be about memories of repeated events (Andonovski, 2020).
+
+> [...] it doesn’t seem to follow from this that the song is entertained as ‘real’, at least not in the sense that it is entertained as being a part of the mind-independent world. This becomes clear when we consider the fact that even after a collection of sentences is entertained as a song during the creative process, the contents of the song are still under the subject’s control
+
+> Thus, if by ‘real’ we mean that the song becomes a part of the mind-independent world, then it is not true that the objects of cryptomnesia are entertained as real.
