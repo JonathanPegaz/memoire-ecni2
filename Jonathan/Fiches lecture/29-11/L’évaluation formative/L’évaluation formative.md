@@ -16,3 +16,4 @@ Cette recherche met en évidence l'importance de l'évaluation formative dans le
 ## Citations
 
 ## Mots clés
+Les mots-clés de ce document sont : évaluation formative, renouveau pédagogique, pratiques d'évaluation, régulation de l'apprentissage, enseignants du primaire, apprentissage-enseignement, disciplines, processus sollicités, dispositifs mis en œuvre, contenus traités, réussite scolaire, contexte scolaire, pratiques enseignantes, pratiques d'enseignement.**
