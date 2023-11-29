@@ -19,6 +19,7 @@ Les arguments clés dans ce document sont les suivants :
 Ces arguments sont développés dans le document à travers une analyse des données recueillies auprès d'enseignants, d'universitaires et de professionnels, ainsi que par la proposition d'une taxonomie de la pensée computationnelle et d'un modèle illustrant les relations entre les processus cognitifs, la pédagogie de la programmation et les niveaux de difficulté perçus des compétences en pensée computationnelle. Ces résultats peuvent être utilisés par les éducateurs pour concevoir des programmes d'apprentissage axés sur les compétences de pensée computationnelle, ainsi que pour informer la conception de programmes d'études en informatique, en TIC ou en sciences informatiques.
 
 ## Eléments retenus 
+Dans ce document, Cynthia C. Selby explore la relation entre la pensée computationnelle, l'enseignement de la programmation et la taxonomie de Bloom. Elle recueille des données auprès d'enseignants, d'universitaires et de professionnels, sélectionnés de manière ciblée en raison de leurs connaissances en matière de résolution de problèmes, de pensée computationnelle ou d'enseignement de la programmation. Les résultats de cette étude sont analysés selon une approche de théorie ancrée et permettent de développer une taxonomie de la pensée computationnelle. Les relations entre les processus cognitifs, la pédagogie de la programmation et les niveaux de difficulté perçus des compétences en pensée computationnelle sont illustrées par un modèle. 
 
 ## Citations
 
