@@ -173,3 +173,7 @@ Système d'aller et retours entre équipe de création et la diretion dans un é
 - La créativité organisationnelle
 
 Se poser la question du poids décisionnel laissé aux créatifs dans une agence de communication, tant sur la stratégie que la structure. 
+
+
+**Une culture d'entreprise semble **
+
