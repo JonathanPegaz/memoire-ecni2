@@ -147,3 +147,6 @@ La créativité ne part pas de rien. Elle repose sur les connaissances et l’ex
 En outre, Bourdieu, (1993) met l'accent sur l**'importance de la structure sociale** dans la reconnaissance de la valeur du bien culturel. Une analyse des produits culturels doit tenir compte de leur importance dans le champ artistique, mais aussi dans le champ sociologique représenté par le pouvoir relationnel (Bourdieu, 1993). Les œuvres de création ne sont pas des objets isolés offrant une réflexion sur la « condition humaine », malgré qu'ils puissent fonctionner comme tel. **Ils sont impliqués dans les structures de dominance et dans la reproduction de ces structures.**
 
 _"Literature, art and their respective producers do not exist independently of an institutional framework which authorizes, enables, empowers and legitimizes them. This framework must be incorporated into any analysis that pretends to provide a thorough understanding of cultural goods and practices" (Bourdieu, 1993: 10)_
+
+
+**Organisation en d**
