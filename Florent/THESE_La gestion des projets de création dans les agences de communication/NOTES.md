@@ -149,4 +149,4 @@ En outre, Bourdieu, (1993) met l'accent sur l**'importance de la structure socia
 _"Literature, art and their respective producers do not exist independently of an institutional framework which authorizes, enables, empowers and legitimizes them. This framework must be incorporated into any analysis that pretends to provide a thorough understanding of cultural goods and practices" (Bourdieu, 1993: 10)_
 
 
-**Organisation en d**
+**Organisation en début de projet**
