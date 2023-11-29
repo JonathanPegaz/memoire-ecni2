@@ -179,5 +179,8 @@ Se poser la question du poids décisionnel laissé aux créatifs dans une agence
 à l'expérimentation créative semble réunir plus de prix et de reconnaissances au niveau national ainsi qu'un meilleur épanouissement**
 [[La gestion des projets de création dans les agences de communication.pdf#page=188&selection=6,0,77,58|La gestion des projets de création dans les agences de communication, page 188]]
 
+> Ces résultats confirment les résultats des travaux antérieurs (Eisenbeid & Boerner, 2010; A. Y. Zhang et al., 2011) qui ont montré que les styles de leadership basés sur l'autocratie ont tendance à limiter les comportements créatifs
+
+[[La gestion des projets de création dans les agences de communication.pdf#page=188&selection=109,0,124,45|La gestion des projets de création dans les agences de communication, page 188]]
 
 
