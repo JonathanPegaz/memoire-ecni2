@@ -43,3 +43,4 @@
 
 > [...] a subject successfully remembers when they adopt the attitude of remembering towards a retained content and there is no source-monitoring error involved
 
+> A first type is what we call pure creative imaginings: when a subject adopts an attitude of imagining towards a non-retained content and there is no source-error involved. For instance, when a musician composes a completely new song.
