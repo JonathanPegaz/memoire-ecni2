@@ -1,5 +1,8 @@
 
 
+Lien vers la thèse : https://theses.hal.science/tel-00643455/
+
+
 RÉSUMÉ MAISON
 
 ---
