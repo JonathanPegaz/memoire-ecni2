@@ -24,3 +24,4 @@ Dans ce document, Cynthia C. Selby explore la relation entre la pensée computat
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : computational thinking, pedagogy, programming, Bloom’s Taxonomy.
