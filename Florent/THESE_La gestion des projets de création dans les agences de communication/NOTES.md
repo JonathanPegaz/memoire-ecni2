@@ -150,3 +150,8 @@ _"Literature, art and their respective producers do not exist independently of a
 
 
 **Organisation en début de projet**
+
+> Pour la phase de la présentation client, c’est le directeur de compte qui prend en charge la proposition du concept validé avec le client avant de passer à la production, à la réalisation de ce concept et livrer le produit final. Dans ce sens, Martin de EPSILON, explique : « Par exemple, quand l’image du « brand » est bien assise, bien claire, j’ai tendance à aller avec quelqu’un pour faire la production très rapidement, qui va me donner du volume. Car la production est très importante, elle aide à mettre des choses sur la table ». Durant la phase de production, le directeur de compte supervise la réalisation du concept choisi et assure la livraison du produit final au client.
+
+[[La gestion des projets de création dans les agences de communication.pdf#page=178&selection=47,0,92,57|La gestion des projets de création dans les agences de communication, page 178]]
+
