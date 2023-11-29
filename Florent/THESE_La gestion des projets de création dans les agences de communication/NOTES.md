@@ -176,5 +176,8 @@ Se poser la question du poids décisionnel laissé aux créatifs dans une agence
 
 
 **Une culture d'entreprise semble **
-à l'expérimentation créative semble réunir plus de prix et de reconnaissances au niveau national ainsi qu'une meilleu**
+à l'expérimentation créative semble réunir plus de prix et de reconnaissances au niveau national ainsi qu'un meilleur épanouissement**
+[[La gestion des projets de création dans les agences de communication.pdf#page=188&selection=6,0,77,58|La gestion des projets de création dans les agences de communication, page 188]]
+
+
 
