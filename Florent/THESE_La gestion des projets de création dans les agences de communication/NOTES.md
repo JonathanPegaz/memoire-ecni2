@@ -169,4 +169,5 @@ Système d'aller et retours entre équipe de création et la diretion dans un é
 
 **Trois types de créativités existent : **
 - La créativité individuelle
-- La créativité 
+- La créativité de groupe, collective
+- La créativité organisationnelle
