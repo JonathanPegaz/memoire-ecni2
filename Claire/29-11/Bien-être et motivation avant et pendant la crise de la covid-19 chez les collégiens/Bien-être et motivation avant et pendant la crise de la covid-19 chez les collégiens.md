@@ -11,8 +11,10 @@ Dans ce document, plusieurs arguments clés sont abordés concernant le bien-êt
 ## Eléments retenus 
 Pour votre problématique "Comment garantir l’originalité des productions intellectuelles en encadrant la production ?", certains arguments et concepts clés de ce document peuvent être utiles : 
 • La santé et le bien-être des élèves sont essentiels pour favoriser leur engagement et leur créativité dans les tâches intellectuelles. 
-• Le bien-être des élèves est lié à leur satisfaction de vie générale, y compris à l'école. • Le sentiment d'efficacité personnelle (SEP) joue un rôle important dans l'engagement et la réussite des élèves. 
-• L'intérêt scolaire est influencé par le SEP et contribue au bien-être des élèves. • Le contexte, tel que le confinement lié à la pandémie de Covid-19, peut avoir un impact sur le bien-être des élèves et leur rapport à l'école. 
+• Le bien-être des élèves est lié à leur satisfaction de vie générale, y compris à l'école.
+• Le sentiment d'efficacité personnelle (SEP) joue un rôle important dans l'engagement et la réussite des élèves. 
+• L'intérêt scolaire est influencé par le SEP et contribue au bien-être des élèves.
+• Le contexte, tel que le confinement lié à la pandémie de Covid-19, peut avoir un impact sur le bien-être des élèves et leur rapport à l'école. 
 • L'encadrement et le soutien appropriés peuvent favoriser le bien-être, le SEP et l'intérêt des élèves, ce qui peut contribuer à garantir l'originalité de leurs productions intellectuelles. Veuillez noter que ces informations sont extraites d'un document spécifique et peuvent nécessiter une analyse plus approfondie et une adaptation à votre problématique spécifique.
 
 ## Exemple
