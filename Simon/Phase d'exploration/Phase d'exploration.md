@@ -137,7 +137,9 @@ Pour ce qui est du processus d’extraction des données de références :
 
   
 
-Dans les analyses, nous retenons que d’une manière générale, les novices évoquent moins d’aspectsutiles par source (les novices extraient 1.38 éléments intéressants par source contre 2.29 pour les experts). Les novices savent plus facilement les sources intra-domaine que les interdomaines qui sont plus développés chez les expérimentés
+Dans les 
+
+analyses, nous retenons que d’une manière générale, les novices évoquent moins d’aspectsutiles par source (les novices extraient 1.38 éléments intéressants par source contre 2.29 pour les experts). Les novices savent plus facilement les sources intra-domaine que les interdomaines qui sont plus développés chez les expérimentés
 
   
 
