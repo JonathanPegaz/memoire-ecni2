@@ -39,3 +39,7 @@ Un designer travaille dans un CHAMPS (field) :
 
 
 **CHAMP**
+
+> Getzels and Csikszentmihalyi (1968) and Csikszentmihalyi et al. (1984) have shown how social roles interact with artists’ personalities to determine success in the field. Simonton (1978, 1984) has conducted extensive studies of the relationship between features of the social system and the frequency of creative behavior.
+
+[[Une vue systémique de la créativité.pdf#page=14&selection=24,1,49,77|Une vue systémique de la créativité, page 14]]
