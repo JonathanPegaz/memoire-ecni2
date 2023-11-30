@@ -1,0 +1,1 @@
+L'EMSPHR gauche du cerveau sert à la logique pure
