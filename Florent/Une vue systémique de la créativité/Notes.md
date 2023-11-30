@@ -15,4 +15,6 @@ Un designer travaille dans un CHAMPS (field) :
 - La créativité du designer dépend donc aussi de la sensibilité et l'ouverture d'esprit de son environnement 
 - Un champs avec des critères douteux ou avec une hierarchie douteuse/défaillante ne laissera pas grande place à l'établissement d'une nouvelle idée innovante.
 - La créativité peut être bloquée par des facteurs encore supérieurs à la hierarchie ou la fermeté d'esprit de la structure
-- 
+
+
+**Le temps dans la phase créative**
