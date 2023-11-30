@@ -1,6 +1,7 @@
 - [ ] Trouver la représentation des développeurs par rapport aux lead dev / CTO en terme de nombre. Avoir un pourcentage de représentation de ces métiers dans le monde professionnel.
 	- [ ] Éventuellement adapter mon échantillon pour qu'il soit plus représentatif des pourcentages de la population
 - [ ] Faire de la recherche
+	- [ ] Différence entre étudier et apprendre
 	- [ ] l'aspect sociologique (éducation)
 	- [ ] Philosophique
 - [ ] Redéfinir ma problématique de manière plus précise
