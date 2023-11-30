@@ -47,3 +47,5 @@
 
 > [...] that cryptomnesia is not remembering.
 
+> [...] one can adopt a different attitude (e.g., counterfactual thinking) towards the same content and this will result in a different set of beliefs or judgements about the event.
+
