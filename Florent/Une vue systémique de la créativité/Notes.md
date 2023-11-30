@@ -13,4 +13,4 @@ La personne doit avoir une culture du domaine de base avant de pouvoir émettre 
 Un designer travaille dans un CHAMPS (field) : 
 - Défini par toutes les personnes qui ont un impact sur la création du designer, ses collègues, sa hierarchie, les clients, également la culture graphique dans laquelle il baigne. 
 - La créativité du designer dépend donc aussi de la sensibilité et l'ouverture d'esprit de son environnement 
-- Un champs avec des c
+- Un champs avec des critères douteux ou avec une hierarchie douteuse/défaillante ne laissera pas grande place à l'établissement d'une nouvelle idée innovante
