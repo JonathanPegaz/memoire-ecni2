@@ -1,10 +1,29 @@
 ## Sujet
 Ce document traite de la production d'écrits narratifs en classe, en se focalisant sur la production d'un écrit scolaire spécifique. Il aborde différentes recherches sur l'enseignement et l'apprentissage de l'écriture, mettant en évidence la complexité cognitive du travail d'écriture et les processus mentaux impliqués. Il examine également l'utilisation des organisateurs textuels et les processus de réécriture. De plus, le document aborde la question des pratiques d'enseignement selon les milieux socioculturels et souligne l'importance de prendre en compte le contexte d'écriture dans l'analyse des productions d'élèves. Le corpus analysé porte spécifiquement sur la gestion de l'écriture d'un texte chronologiquement et temporellement cadré, simultanément fictionnel et vraisemblable, en lien avec la préparation en classe. Les analyses visent à identifier les modalités différenciées de réalisation des écrits des élèves et les types d'étayage ou d'accompagnement des enseignants qui influencent ces productions textuelles.
 ## Problématique
+La problématique soulevée dans cet article est l'enseignement et l'apprentissage de l'écriture narrative en classe. Les chercheurs se penchent sur les difficultés rencontrées par les élèves, en particulier ceux issus de milieux socioculturels défavorisés, face aux consignes d'écriture et de réécriture. Ils examinent également les pratiques d'enseignement et les différentes approches pédagogiques qui favorisent ou entravent la production de textes narratifs cohérents et bien structurés. L'objectif est de comprendre les processus cognitifs et langagiers impliqués dans l'écriture narrative et d'identifier les facteurs qui influencent la qualité des productions écrites des élèves.
 ## Arguments
-
+Les arguments clés dans ce document sont les suivants : 
+- Les recherches en psychologie et en didactique mettent en évidence la complexité cognitive du travail d'écriture et les différents processus mentaux impliqués dans l'activité rédactionnelle.
+- La production de langage écrit est plus complexe que la production de langage oral pour les élèves d'école élémentaire.
+- L'utilisation des organisateurs textuels varie selon le contenu du texte à écrire, et les enfants plus âgés ont tendance à utiliser moins d'organisateurs textuels. 
+- La réécriture des textes permet aux élèves de développer une liberté d'écriture, une écriture-pensée et de produire des textes plus riches en émotions, en argumentations et en explications. 
+- Les pratiques d'enseignement peuvent influencer la manière dont les élèves s'approprient les situations et les outils d'écriture.
+- Les pratiques d'enseignement qui impliquent un travail régulier sur les écrits des élèves et qui abordent différents aspects de l'écriture favorisent la réécriture des textes.
+- Les pratiques d'enseignement qui proposent des exercices d'écriture peu engageants et qui ne permettent pas aux élèves de s'approprier la culture écrite peuvent être contre-productives. 
+- Les pratiques d'enseignement doivent trouver un équilibre entre des situations trop ouvertes et des situations trop fermées afin de favoriser les apprentissages des élèves.
+- Les productions écrites des élèves sont influencées par le contexte d'écriture, y compris la consigne donnée, la préparation des enseignants et la correction des productions. 
+- Les enseignants peuvent mettre en place des étayages et des accompagnements spécifiques pour faciliter les productions textuelles des élèves.
+Ces arguments sont basés sur les recherches citées dans le document, qui portent principalement sur l'enseignement et l'apprentissage de l'écriture en milieu scolaire, en prenant en compte les diversités des élèves, les pratiques enseignantes et le contexte d'écriture.
 ## Eléments retenus 
-
+Dans ce document, plusieurs arguments et concepts clés peuvent être utiles pour votre problématique "Comment garantir l'originalité des productions intellectuelles en encadrant la production ?". Voici quelques éléments pertinents :
+- Les recherches en psychologie et en didactique soulignent la complexité cognitive du travail d'écriture, notamment en ce qui concerne la planification, la mise en texte et la révision. Il est important de comprendre ces processus pour encadrer efficacement la production écrite.
+- Les pratiques d'enseignement qui favorisent la réécriture des textes et qui permettent aux élèves d'élaborer leurs propres idées et arguments sont essentielles pour développer l'originalité des productions intellectuelles.
+- Les pratiques pédagogiques qui reviennent à plusieurs reprises sur les écrits des élèves en adoptant des points de vue différents favorisent et améliorent la réécriture des textes, ainsi que le développement d'une liberté d'écriture et d'une écriture-pensée. 
+- Les pratiques d'enseignement qui permettent aux élèves de comprendre l'utilité des outils d'écriture dans différents contextes et de construire une position énonciative pertinente favorisent l'utilisation efficace de ces outils pour garantir l'originalité des productions intellectuelles.
+- Il est également important de prendre en compte les différences socioculturelles des élèves et les contextes d'écriture dans lesquels ils évoluent, afin d'adapter les pratiques d'encadrement pour favoriser l'originalité des productions intellectuelles. 
+Ces arguments et concepts peuvent vous aider à réfléchir à des stratégies d'encadrement de la production intellectuelle qui garantissent l'originalité des travaux réalisés.
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : production d'écrits narratifs, écrit scolaire, enseignement, apprentissage, psychologie, didactique, processus d'écriture, réécriture, organisateurs textuels, pratiques d'enseignement, contexte socioculturel, consigne d'écriture, correction, élaboration cognitive, types d'écrits, préparation, gestion de l'écrit, réflexivité, analyse des données, pratiques enseignantes, phases d'écriture, corpus recueilli.
