@@ -19,4 +19,9 @@ Un designer travaille dans un CHAMPS (field) :
 
 **Le temps dans la phase créative**
 - Une nouvelle idée vient du fait de baigner dans le sujet/domaine depuis un moment 
-- 
+
+
+> In terms of the domain, the basic question is “What are the various ways in which information can be stored and transmitted, and how does the structuring of information affect creativity?” We need to develop concepts and measures to evaluate the structuring of information, so as to discover which symbol systems are better able to store creative ideas, and to transmit them over time. The work of Feldman (1980) was a pioneering attempt in this direction, and so is the direction of research pursued by Project Zero at Harvard (Perkins 1981). The newly emerging fields of cognitive science and artificial intelligence (Gardner 1985) also will have much to contribute to answering such questions.
+
+[[Une vue systémique de la créativité.pdf#page=12&selection=27,0,35,57|Une vue systémique de la créativité, page 12]]
+
