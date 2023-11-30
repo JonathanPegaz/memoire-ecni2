@@ -49,3 +49,4 @@
 
 > [...] one can adopt a different attitude (e.g., counterfactual thinking) towards the same content and this will result in a different set of beliefs or judgements about the event.
 
+> Cryptomnesia is a complex phenomenon, which is somehow both simultaneously imaginative and mnemonic.
