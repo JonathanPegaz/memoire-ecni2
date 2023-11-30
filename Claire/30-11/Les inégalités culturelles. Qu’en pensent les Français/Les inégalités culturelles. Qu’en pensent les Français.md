@@ -18,3 +18,4 @@ Dans ce document sur les inégalités culturelles en France, plusieurs arguments
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : inégalités culturelles, représentations, opinions, Français, accès à la culture, jugement, perception, société, élite, justice sociale.
