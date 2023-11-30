@@ -12,7 +12,55 @@ La problématique soulevée dans cet extrait est l'analyse des liens entre les p
 7. Profil des internautes et intérêt pour la culture : Les facteurs qui favorisent l'accès à internet comprennent le genre masculin, les jeunes générations, un revenu élevé, un niveau de diplôme élevé et la résidence en région parisienne.
 
 ## Eléments retenus 
+Dans ce document, plusieurs arguments et concepts clés peuvent être utiles pour aborder la problématique de "Comment garantir l’originalité des productions intellectuelles en encadrant la production ?". Voici quelques éléments :
+1. Les pratiques culturelles et les pratiques numériques sont liées et ne se substituent pas forcément les unes aux autres. Il est important de comprendre comment ces pratiques s'intègrent et se complètent. 
+2. L'utilisation d'internet et la numérisation remettent en question les catégories et partages traditionnels liés aux activités culturelles. Les pratiques culturelles ne se limitent plus à un support physique ou à un lieu spécifique.
+3. L'accès à internet et l'usage d'internet sont liés à l'intérêt pour l'art et la culture. Les internautes tendent à présenter un profil proche des "publics de la culture". Il existe une relation complexe entre l'intérêt préalable pour la culture et l'usage régulier d'internet. 
+4. L'usage d'internet est lié au niveau de pratiques culturelles traditionnelles. Plus l'engagement dans les pratiques culturelles est élevé, plus la probabilité d'être internaute est forte. 
+5. L'accès à internet est favorisé par des facteurs tels que le genre, l'âge, le niveau de revenu et de diplôme, et la région de résidence.
 
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : 
+- Pratiques culturelles 
+- Usages d'internet 
+- Connexion à internet haut débit 
+- Enquête Tic 
+- Pratiques numériques
+- Liaisons entre pratiques culturelles et pratiques numériques 
+- Culture traditionnelle 
+- Pratiques juvéniles 
+- Pratiques culturelles classiques 
+- Natifs du numérique 
+- Vieillissement
+- Modes de vie et de consommation 
+- Média à tout faire
+- Œuvres du passé 
+- Diffusion et partage d'images, textes et musiques
+- Communication
+- Tâches de la vie quotidienne 
+- Numérisation 
+- Catégories et partages
+- Support physique
+- Lieu 
+- Culture numérique 
+- Activités culturelles
+- Usages d'internet
+- Nomenclatures 
+- Mesure des usages d'internet 
+- Recettes publicitaires 
+- Approche traditionnelle des pratiques culturelles
+- Transformation des pratiques culturelles 
+- Nouveaux et anciens modes d'accès à l'art et à la culture
+- Reconfiguration en cours 
+- Niveau de pratiques culturelles
+- Lecture de livres 
+- Fréquentation d'équipements culturels 
+- Pratique en amateur d'activités artistiques 
+- Internet à domicile 
+- Média de sortie 
+- Consommation de télévision 
+- Profil des internautes 
+- Facteurs favorisant l'accès à internet 
+- Équipement et usage d'internet
