@@ -17,7 +17,15 @@ Enfin, l'impact de la méritocratie scolaire sur le marché du travail est abord
 
 Ces arguments remettent en question la notion de méritocratie scolaire en mettant en évidence les inégalités sociales et les limites de l'évaluation du mérite dans le système éducatif.
 ## Eléments retenus 
+Dans ce document, plusieurs arguments et concepts clés peuvent être utiles pour aborder votre problématique "Comment garantir l’originalité des productions intellectuelles en encadrant la production ?". Voici quelques points pertinents :
+- Inégalités sociales et méritocratie scolaire : Le document souligne les inégalités sociales qui influencent les parcours scolaires et remettent en question l'idée de méritocratie. Ces inégalités peuvent également avoir un impact sur l'originalité des productions intellectuelles, car les opportunités et les ressources ne sont pas réparties de manière équitable. 
+- Fabrication du mérite scolaire : Le texte met en évidence le processus de "fabrication" du mérite scolaire, soulignant que les évaluations et les critères de mérite ne sont pas neutres. Cela suggère que l'encadrement de la production intellectuelle peut également être influencé par des facteurs subjectifs, ce qui peut limiter l'originalité. 
+- Rôle de l'école et des institutions d'enseignement : Le document aborde le rôle de l'école dans la sélection et la promotion des élèves, ainsi que dans la valorisation de certaines compétences et disciplines au détriment d'autres. Cela peut avoir un impact sur la diversité et l'originalité des productions intellectuelles, car certaines perspectives ou approches peuvent être privilégiées. 
+- Effets néfastes de l'idéologie méritocratique : Le texte souligne les effets néfastes de l'idéologie méritocratique sur le fonctionnement du système scolaire, notamment en termes de pression, d'inégalités et de dévalorisation de certaines compétences non scolaires. Ces effets peuvent également influencer la manière dont la production intellectuelle est encadrée et évaluée. 
+
+Il est important de noter que ce document aborde la problématique de la méritocratie scolaire, mais il peut fournir des perspectives et des réflexions intéressantes pour votre propre problématique sur l'encadrement de la production intellectuelle et la garantie de l'originalité.
 
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont: méritocratie scolaire, biais sociaux, sélection, fabrication, évaluation, diplômes, attributs scolaires, stratification sociale, économie, emplois, enquêtes sociologiques, marché, régulation, talents, employeurs, institutions d'enseignement, étudiants, parents, justice sociale, efficacité, inégalités, carrières scolaires, inégalités sociales, origine sociale, évaluation, performances, connaissances, qualités, évaluations, hiérarchie, critères, compétences, infériorité, plaisir d'étudier, marché du travail, formation, emplois, gaspillages, destinées.
