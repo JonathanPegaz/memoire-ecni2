@@ -29,3 +29,11 @@ Un designer travaille dans un CHAMPS (field) :
 
 
 **ETUDE DU DOMAINE - MOTIVATION**
+> The other side of the coin is the question ‘‘How can we motivate people to become involved in a particular domain?” The issue here is not how to provide extrinsic motivation like money and recognition, which more properly belong to the concerns of the field, but rather how to ensure intrinsic motivation, which hinges on the inherent attractiveness with which the information is presented.
+
+[[Une vue systémique de la créativité.pdf#page=13&selection=0,0,4,78|Une vue systémique de la créativité, page 13]]
+
+> How motivation and personality more generally are impli- cated in creativity has been extensively studied (Amabite 1983; Csikszentmihalyi 1986; Csikszentmihalyi and Getzels 1973; Roe 1946), but we still know very little, about the specific motivational values of different ways of patterning information.
+
+[[Une vue systémique de la créativité.pdf#page=13&selection=8,22,11,82|Une vue systémique de la créativité, page 13]]
+
