@@ -11,3 +11,5 @@ La personne doit avoir une culture du domaine de base avant de pouvoir émettre 
 [[Une vue systémique de la créativité.pdf#page=5&selection=20,0,27,7|Une vue systémique de la créativité, page 5]]
 
 Un designer travaille dans un CHAMPS (field) : 
+- Défini par toutes les personnes qui ont un impact sur la création du designer, ses collègues, sa hierarchie, les clients, également la culture graphique dans laquelle il baigne. 
+- 
