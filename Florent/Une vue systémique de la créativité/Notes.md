@@ -14,4 +14,5 @@ Un designer travaille dans un CHAMPS (field) :
 - Défini par toutes les personnes qui ont un impact sur la création du designer, ses collègues, sa hierarchie, les clients, également la culture graphique dans laquelle il baigne. 
 - La créativité du designer dépend donc aussi de la sensibilité et l'ouverture d'esprit de son environnement 
 - Un champs avec des critères douteux ou avec une hierarchie douteuse/défaillante ne laissera pas grande place à l'établissement d'une nouvelle idée innovante.
-- La créativité peut être bloquée par des facteurs encore supérieurs à la hierarchie ou la feme
+- La créativité peut être bloquée par des facteurs encore supérieurs à la hierarchie ou la fermeté d'esprit de la structure
+- 
