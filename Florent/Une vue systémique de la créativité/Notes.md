@@ -25,3 +25,5 @@ Un designer travaille dans un CHAMPS (field) :
 
 [[Une vue systémique de la créativité.pdf#page=12&selection=27,0,35,57|Une vue systémique de la créativité, page 12]]
 
+
+**ETUDE **
