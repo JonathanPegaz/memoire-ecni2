@@ -7,3 +7,6 @@ Ce que nous appelons créatif est le résultat de **trois forces principales** :
 
 Une copie conforme d'une oeuvre originale n'est pas créative, car l'originale propose une chose nouvelle, qui innove dans le milieu, la copie qui vient après n'ajoute aucune valeur dans le tout
 
+La personne doit avoir une culture du domaine de base avant de pouvoir émettre une idée 
+[[Une vue systémique de la créativité.pdf#page=5&selection=20,0,27,7|Une vue systémique de la créativité, page 5]]
+
