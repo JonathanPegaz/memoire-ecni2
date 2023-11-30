@@ -5,4 +5,5 @@ Ce que nous appelons créatif est le résultat de **trois forces principales** :
 - un domaine culturel stable qui préserve et transmet les nouvelles idées ou formes sélectionnées, 
 - et enfin l'individu qui provoque un changement considéré comme créatif par le champ.
 
-Une copie conforme d'une oeuvre originale n'est pas créative, car l'originale est sortie de 
+Une copie conforme d'une oeuvre originale n'est pas créative, car l'originale propose une chose nouvelle, qui innove dans le milieu, la copie qui vient après n'ajoute aucune valeur dans le tout
+
