@@ -18,3 +18,5 @@ Un designer travaille dans un CHAMPS (field) :
 
 
 **Le temps dans la phase créative**
+- Une nouvelle idée vient du fait de baigner dans le sujet/domaine depuis un moment 
+- 
