@@ -96,3 +96,4 @@ La **Flexibilité** correspond à la façon d'appréhender sous plusieurs angles
 Elle reflete la souplesse de pensée ainsi que la capacité (et volonté) de changer de registre (Zabelinn et Robinson, 2010). 
 
 
+
