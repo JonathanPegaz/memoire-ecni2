@@ -7,4 +7,6 @@ Les start-ups visent constamment à l'innovation
 **La créativité**
 Avant la révolution industrielle : 
 - Ignorée dans un contexte obscurantiste 
-- 
+
+A la révolution industrielle : 
+- valorisation, innovation, devient un su
