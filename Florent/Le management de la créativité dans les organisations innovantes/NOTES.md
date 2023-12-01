@@ -21,6 +21,7 @@ Freud dit que les créatifs sont des gens tristes qui frisent la névrose.
 - Des idées toutes organisées existent dans le préconscient , qu'un stimulus vient injecter dans la conscience
 - L'activité créatrice se déroule quasiment que dans le préconscient, où l'inconscient est lui destructeur. 
 
-**Le behaviorisme**
 
+**Le behaviorisme**
 L'environnement social conditionne la personnalité et les comportements. L'homme stocke dans sa mémoire les divers stimulis, fruits de l'environnement qui l'entoure, qui lui permettront d'être créatif, de penser, sans qu'il en soit directement conscient. 
+  
