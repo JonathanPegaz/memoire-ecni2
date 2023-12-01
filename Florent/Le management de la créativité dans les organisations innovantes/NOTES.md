@@ -57,4 +57,5 @@ Les 6 chapeaux pour exploiter les idées créatives :
 - Jaune : avantages, bénéfices de telle approche ou de tel plan 
 - Noir : prudence, logique négative et difficultés à prévoir
 - Vert : alternative : créativité, propositions, exploration 
-- Bleu : coordina
+- Bleu : coordination, encadrement et processus de réflexion 
+
