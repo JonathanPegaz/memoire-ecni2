@@ -81,3 +81,5 @@ Trois grandes interprétations quand à la créativité :
 
 
 **Capacités cognitives à la créativité**
+
+8 qualités essentielles du créatif, parmis elles, ;a flexibil
