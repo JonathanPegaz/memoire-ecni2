@@ -10,3 +10,7 @@ Avant la révolution industrielle :
 
 A la révolution industrielle : 
 - valorisation, innovation, devient un su
+- sujet d'étude des chercheurs
+[[Le management de la créativité dans les organisations innovantes.pdf#page=36&selection=19,0,36,90|Le management de la créativité dans les organisations innovantes, page 36]]
+
+**C**
