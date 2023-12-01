@@ -24,4 +24,6 @@ Freud dit que les créatifs sont des gens tristes qui frisent la névrose.
 
 **Le behaviorisme**
 L'environnement social conditionne la personnalité et les comportements. L'homme stocke dans sa mémoire les divers stimulis, fruits de l'environnement qui l'entoure, qui lui permettront d'être créatif, de penser, sans qu'il en soit directement conscient. 
-  
+
+**Théorie gestalt**
+On qualifie 
