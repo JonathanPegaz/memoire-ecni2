@@ -17,8 +17,11 @@ Concepts clés : Copilot, modèles de génération de code, mode d'accélératio
 ## Eléments retenus
 Dans ce document, l'article aborde l'interaction des programmeurs avec les modèles de génération de code, en se concentrant sur l'assistant d'IA Github Copilot. Bien que l'article ne traite pas directement de l'apprentissage des étudiants en programmation, il peut fournir des informations pertinentes pour votre problématique. Certains arguments et concepts clés qui pourraient être utiles pour votre problématique sont les suivants : 
 1. Les programmeurs interagissent avec Copilot de manière bimodale : en mode accélération, ils utilisent Copilot pour aller plus vite vers leur objectif, et en mode exploration, ils utilisent Copilot pour explorer leurs options. 
-2. L'utilisation de Copilot peut aider les programmeurs à compléter rapidement des tâches lorsqu'ils ont déjà une idée claire de ce qu'ils veulent faire. 3. Copilot peut être utilisé comme un outil d'exploration pour les programmeurs qui ne sont pas sûrs de la meilleure façon de procéder. 4. La validation des suggestions générées par Copilot est importante pour s'assurer que le code correspond à l'intention du programmeur. 5. L'amélioration de la convivialité des assistants de programmation basés sur l'IA est un sujet de recherche important. Gardez à l'esprit que ces informations sont basées sur l'analyse spécifique de l'interaction avec Copilot et ne traitent pas directement de l'apprentissage des étudiants en programmation. Cependant, elles peuvent vous donner une idée des différentes façons dont les modèles de langage génératif peuvent être utilisés par les étudiants en programmation tout en garantissant une compréhension approfondie des concepts et en évitant le plagiat.
-
+2. L'utilisation de Copilot peut aider les programmeurs à compléter rapidement des tâches lorsqu'ils ont déjà une idée claire de ce qu'ils veulent faire. 
+3. Copilot peut être utilisé comme un outil d'exploration pour les programmeurs qui ne sont pas sûrs de la meilleure façon de procéder.
+4. La validation des suggestions générées par Copilot est importante pour s'assurer que le code correspond à l'intention du programmeur. 
+5. L'amélioration de la convivialité des assistants de programmation basés sur l'IA est un sujet de recherche important. 
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : "Grounded Copilot", "programmers", "code-generating models", "AI assistants", "program synthesis", "grounded theory", "usability study", "acceleration mode", "exploration mode", "validation", "software engineering", "programming languages".
