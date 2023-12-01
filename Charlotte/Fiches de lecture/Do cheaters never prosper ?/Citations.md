@@ -6,3 +6,5 @@
 
 > Cryptomnesia may result from a failure in sourcemonitoring (Defeldre, 2005) given excess cognitive load (Marsh, Landau, & Hicks, 1997)
 
+> [...] in standard recall tasks, examples can lead to cryptomnesia (Christensen & Schunn, 2007; Marsh et al., 1999; Smith et al., 1993), novices may be more likely to plagiarize (Plucker, Kaufman, Temple, & Qian, 2009) and cognitive load may increase this risk (Defeldre, 2005; Marsh & Bower, 1993).
+
