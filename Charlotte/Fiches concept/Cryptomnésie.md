@@ -17,8 +17,17 @@ Ils relèvent 4 caractéristiques de la cryptomnésie :
 - l'erreur, l'échec : échec à identifier que cela provient d'une expérience passée
 
 A la suite de ça, ils se basent sur 2 théories : 
-- la théorie de la causalité : explicatin p
-- la théorie de la simulation 
+### Théorie de la causalité 
+Explication partielle de la dimension mnémonique de la cryptomnésie mais pas satisfaisante car elle n'explique pas la dimension imaginaire
+
+### Théorie de la simulation 
+On va définir le but de la simulation pour déterminer l'état du sujet 
+
+Pour expliquer les erreurs possibles, on nous présente 2 types d'erreurs de contrôle : 
+- source-monitoring 
+- process-monitoring
+
+Pas 
 
 
 ## Les éléments de contenu retenus pour votre travail
