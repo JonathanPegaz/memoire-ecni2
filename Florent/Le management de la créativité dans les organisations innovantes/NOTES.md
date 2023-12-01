@@ -70,6 +70,8 @@ Les sources de la **Créativité indivuduelle**
 Trois grandes interprétations quand à la créativité : 
 - L'action de créer quelque chose de nouveau 
 - La faculté de trouver des solutions originales (problème - processus de réflexion - solutions inédites)
-- La volonté de modifier ou de transformer le monde : avoir un résultat concrèt qui impacte la perception, l'usage ou la matériabilité auprès d'un public donné 
+- La volonté de modifier ou de transformer le monde : avoir un résultat concrèt qui impacte la perception, l'usage ou la matériabilité auprès d'un public donné (Deriaz, 2006)
+
+[[Le management de la créativité dans les organisations innovantes.pdf#page=59&selection=32,0,34,41|Le management de la créativité dans les organisations innovantes, page 59]]
 
 
