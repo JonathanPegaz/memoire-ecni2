@@ -10,8 +10,16 @@ Les avantages perçus des outils basés sur l'IA générative incluent une rédu
 Cependant, des préoccupations ont également été exprimées concernant une dépendance excessive à ces outils. Certains étudiants ont souligné que l'utilisation de ces outils pouvait réduire leur compréhension des sujets et la qualité de leur apprentissage. Ils ont exprimé des inquiétudes quant à la possibilité de devenir trop dépendants de ces outils sans vraiment comprendre les réponses obtenues. 
 
 Ce document met en évidence des thèmes importants liés à l'utilisation des outils basés sur l'IA générative dans l'enseignement informatique. Les résultats soulignent la nécessité d'adapter les programmes, les méthodes d'évaluation et les pratiques pédagogiques pour tirer parti de ces outils tout en évitant les éventuels préjudices. Les auteurs appellent à une compréhension approfondie des préférences et des valeurs des acteurs de l'éducation pour garantir que ces outils soient utilisés de manière responsable et bénéfique.
-## Eléments retenus 
+## Eléments retenus
+Les arguments et concepts clés de ce document qui sont utiles pour votre problématique sont les suivants : 
+1. Les outils basés sur l'IA générative (GAI) peuvent réduire l'effort nécessaire pour écrire du code et trouver des ressources d'apprentissage, ce qui peut être bénéfique pour les étudiants en programmation. 
+2. Les outils GAI peuvent déplacer l'attention des étudiants vers des niveaux d'abstraction plus élevés, en leur permettant de se concentrer sur des compétences telles que la conception, l'analyse et l'évaluation du code. 
+3. Les outils GAI peuvent fournir des perspectives alternatives et des sources d'assistance en dehors des instructeurs et des assistants d'enseignement, ce qui peut être utile pour les étudiants qui ont du mal à comprendre certains concepts. 
+4. Cependant, il y a des préoccupations concernant la sur-reliance sur les outils GAI, qui pourraient empêcher les étudiants de développer une compréhension approfondie du matériel et les conduire à ne pas apprendre de manière significative. 
+5. Il est important de développer des outils GAI qui sont compréhensibles, fiables et évitent une dépendance excessive, afin de garantir que les étudiants en programmation puissent exploiter ces outils de manière bénéfique et éviter le plagiat. 
+Ces arguments et concepts peuvent vous aider à formuler des recommandations pour les étudiants en programmation afin de tirer le meilleur parti des modèles de langage génératif tout en garantissant une compréhension approfondie des concepts et en évitant le plagiat.
 
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : Generative AI, computing education, perspectives, students, instructors, benefits, concerns, over-reliance, quality of education, machine learning, interview study, implications.
