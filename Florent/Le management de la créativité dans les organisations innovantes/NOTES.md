@@ -69,4 +69,5 @@ Les sources de la **Créativité indivuduelle**
 
 Trois grandes interprétations quand à la créativité : 
 - L'action de créer quelque chose de nouveau 
-- 
+- La faculté de trouver des solutions originales (problème - processus de réflexion - solutions inédites)
+- La volonté de modifier ou de transformer le monde
