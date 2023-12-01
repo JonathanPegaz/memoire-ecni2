@@ -29,4 +29,6 @@ L'environnement social conditionne la personnalité et les comportements. L'homm
 Le phénomère Gestalt "Insight" est qualifié en psychologie comme le fait de découvrir soudainement la solution dans une situation de résolution de problématique, après une période plus ou moins longue de tâtonnement
 
 
-Mais en gros, la créativité est presque infinie, selon le psychologue américain Paul E. Torrance
+Mais en gros, la créativité est presque infinie, selon le psychologue américain Paul E. Torrance, qu'on aura toujours des difficultés à exprimer le concept de créativité. 
+
+Mais ce qui en ressort, c'est la volonter de crer quelque chose de nouveau. C'
