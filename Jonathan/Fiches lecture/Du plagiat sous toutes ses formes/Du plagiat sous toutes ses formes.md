@@ -1,0 +1,21 @@
+## Sujet
+Le document traite du sujet du plagiat sous toutes ses formes. Il aborde la conception du plagiat, son lien avec la création, son existence dans le monde de la science, et le plagiat des textes. Le document mentionne également l'augmentation des révélations de plagiat, l'utilisation de logiciels de détection de similarité, les conséquences du plagiat dans le milieu académique, ainsi que les réactions des éditeurs face à ce phénomène. Le plagiat est décrit comme une pratique controversée, suscitant des conflits entre auteurs et remettant en question l'intégrité scientifique. Le document souligne également les différences culturelles et historiques dans la perception du plagiat.
+## Problématique
+La problématique soulevée dans cet article est la question du plagiat sous toutes ses formes. L'auteur explore la notion de plagiat, ses implications dans le domaine de la création artistique et littéraire, ainsi que son existence dans le monde de la science. Il aborde également les différentes perceptions culturelles du plagiat et les conséquences légales et éthiques qui en découlent. Le texte souligne la nécessité d'éviter le plagiat, notamment dans le milieu académique, et met en évidence les moyens de détection et de prévention utilisés par les éditeurs et les institutions de recherche.
+## Arguments
+Les arguments clés dans ce document sont les suivants : 
+1. Le plagiat est un phénomène qui concerne tous les domaines de la création, y compris les arts, la littérature et la science. Il peut susciter perplexité, amusement ou indignation. 
+2. La définition du plagiat varie et peut être délicate à formuler. Il implique des emprunts non déclarés à une source sans faire référence à celle-ci. Bien qu'il soit souvent associé à une intention de tromperie, il peut parfois résulter de négligence ou de la simple ignorance. 
+3. Le plagiat a existé de tout temps, mais sa perception varie selon les époques et les cultures. Les avancées technologiques, telles que l'imprimerie et internet, ont eu un impact sur sa pratique et sa détection. 
+4. Le plagiat peut entraîner des conflits entre auteurs et est considéré comme une violation de la propriété intellectuelle. Les publications scientifiques ne font pas exception, et des procès peuvent être engagés pour contrefaçon. 
+5. Les éditeurs et les réseaux sociaux sont de plus en plus vigilants pour éviter le plagiat. Les logiciels de détection de similarité sont largement utilisés pour identifier les cas de plagiat.
+6. Malgré l'augmentation du nombre de publications, il est difficile de conclure que la pratique du plagiat a augmenté dans la recherche. Les moyens de détection se sont améliorés, mais la paraphrase reste un défi pour les logiciels.
+7. Le plagiat des textes peut prendre différentes formes, comme la reprise de textes sans citation, le piratage sur le web ou les emprunts non indiqués. Les conventions typographiques sont utilisées pour signaler les emprunts, mais elles ne sont pas toujours correctement appliquées. 
+8. Dans la littérature, certaines citations de textes classiques sont considérées comme évidentes et ne nécessitent pas de référence explicite. Cependant, il existe des nuances de plagiat et la susceptibilité des plagiés peut perdurer pendant des années. 
+Ces concepts soulignent l'importance de l'intégrité intellectuelle, de la reconnaissance des sources et de l'éthique dans la création et la recherche.
+
+## Eléments retenus 
+
+## Citations
+
+## Mots clés
