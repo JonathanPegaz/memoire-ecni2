@@ -62,3 +62,4 @@ Les 6 chapeaux pour exploiter les idées créatives :
 Permet de produire de nombreuses idées, d'envisager des chemins alternatifs -> idée originale et adaptée
 
 **AXE : La créativité comme un résultat**
+Une partie d'experts affirme que la créativité est associée à un résultat 
