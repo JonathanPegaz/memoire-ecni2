@@ -13,9 +13,16 @@ Les arguments clés dans ce document sont les suivants :
 7. Le plagiat des textes peut prendre différentes formes, comme la reprise de textes sans citation, le piratage sur le web ou les emprunts non indiqués. Les conventions typographiques sont utilisées pour signaler les emprunts, mais elles ne sont pas toujours correctement appliquées. 
 8. Dans la littérature, certaines citations de textes classiques sont considérées comme évidentes et ne nécessitent pas de référence explicite. Cependant, il existe des nuances de plagiat et la susceptibilité des plagiés peut perdurer pendant des années. 
 Ces concepts soulignent l'importance de l'intégrité intellectuelle, de la reconnaissance des sources et de l'éthique dans la création et la recherche.
-
 ## Eléments retenus 
-
+Dans le contexte de votre problématique sur l'utilisation des modèles de langage génératif par les étudiants en programmation, voici quelques arguments clés tirés du document qui pourraient être pertinents :
+1. Le plagiat est un phénomène qui concerne différents domaines, y compris la création artistique et littéraire, ce qui souligne l'importance de comprendre les enjeux éthiques liés à l'utilisation de modèles de langage génératif dans l'apprentissage. 
+2. Le plagiat est souvent associé à une intention de tromper le public en ne citant pas les sources d'inspiration, ce qui souligne l'importance de développer une compréhension profonde des concepts plutôt que de simplement copier-coller du contenu généré par des modèles. 
+3. Le phénomène du plagiat existe également dans le milieu académique, y compris dans la recherche scientifique, ce qui met en évidence la nécessité d'éviter le plagiat et de favoriser l'intégrité en science. 
+4. Les éditeurs et les institutions académiques prennent des mesures pour détecter et sanctionner le plagiat, ce qui souligne l'importance de respecter les règles et les normes éthiques dans l'utilisation des modèles de langage génératif (paragraphe 6 et 7). 
+5. Les logiciels de détection de similitude peuvent identifier certains cas de plagiat, mais ils peuvent être limités en cas de paraphrase ou de traduction dans d'autres langues, ce qui soulève la question de la nécessité d'une vigilance continue dans l'utilisation des modèles génératifs. 
+6. Le respect des conventions de citation et des références est crucial pour éviter le plagiat, et il est important de sensibiliser les étudiants à l'importance de citer correctement les sources lors de l'utilisation de modèles de langage génératif. 
+Ces arguments peuvent vous aider à aborder la problématique de l'utilisation des modèles de langage génératif en programmation tout en garantissant la compréhension profonde des concepts et en évitant le plagiat.
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont: - Plagiat - Création - Auteur - Propriété intellectuelle - Éthique - Recherche scientifique
