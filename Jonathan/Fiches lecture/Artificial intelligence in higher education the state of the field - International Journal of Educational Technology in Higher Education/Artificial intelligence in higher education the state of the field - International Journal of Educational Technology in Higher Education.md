@@ -21,3 +21,4 @@ Cependant, il est important de noter que l'utilisation des modèles de langage g
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : - Intelligence artificielle - Éducation supérieure - Apprentissage automatique - Évaluation - Prédiction - Assistance IA - Systèmes de tutorat intelligents - Gestion de l'apprentissage des étudiants
