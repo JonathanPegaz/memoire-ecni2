@@ -37,8 +37,5 @@ Les différents concepts et perspectives  :
 	[[ENF2_224_0479.pdf#page=9&selection=30,0,78,8|ENF2_224_0479, page 9]]
 
 
-test
-
-
 Sources
 - SIGAYRET Kevin, BLANC Nathalie, TRICOT André, « L’apprentissage de la programmation : quels outils pour évaluer le développement de la pensée informatique à l’école ? », _Enfance_, 2022/4 (N° 4), p. 479-500. DOI : 10.3917/enf2.224.0479. URL : https://www-cairn-info.univ-smb.idm.oclc.org/revue-enfance-2022-4-page-479.htm
