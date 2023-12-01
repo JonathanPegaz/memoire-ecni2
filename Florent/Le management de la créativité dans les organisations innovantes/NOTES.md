@@ -63,3 +63,6 @@ Permet de produire de nombreuses idées, d'envisager des chemins alternatifs -> 
 
 **AXE : La créativité comme un résultat**
 Une partie d'experts affirme que la créativité est associée à un résultat 
+
+
+Les sources de la **Créativité indivuduelle** 
