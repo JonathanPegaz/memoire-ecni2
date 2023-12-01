@@ -39,5 +39,3 @@ Il faut ajouter à cela des formes de motivation, de connaissances, d'intérêt 
 
 
 
-
-
