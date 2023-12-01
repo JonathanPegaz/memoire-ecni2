@@ -27,7 +27,7 @@ Pour expliquer les erreurs possibles, on nous présente 2 types d'erreurs de con
 - source-monitoring 
 - process-monitoring
 
-Pas 
+Pas non plus satisfaisant, mais elle montre qu'il y a des erreurs de source-monitoring impliquées dans la cryptomnésie. 
 
 
 ## Les éléments de contenu retenus pour votre travail
