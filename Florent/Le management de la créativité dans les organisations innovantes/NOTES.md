@@ -37,5 +37,4 @@ Il faut ajouter à cela des formes de motivation, de connaissances, d'intérêt 
 [[Le management de la créativité dans les organisations innovantes.pdf#page=39&selection=46,0,48,29|Le management de la créativité dans les organisations innovantes, page 39]]
 
 
-
-
+**AXE : La créativité comme un processus**
