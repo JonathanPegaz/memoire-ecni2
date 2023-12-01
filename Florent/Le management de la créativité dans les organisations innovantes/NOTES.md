@@ -49,3 +49,4 @@ Le professeur théoricien Graham Wallas a établi 4 phases :
 
 
 **AXE : La créativité comme une méthode**
+La pensée latérale consiste à prendre comme base une solution impossible pour arriver à une solution viable
