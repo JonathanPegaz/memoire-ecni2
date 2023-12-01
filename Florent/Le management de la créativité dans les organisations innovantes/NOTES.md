@@ -14,3 +14,6 @@ A la révolution industrielle :
 [[Le management de la créativité dans les organisations innovantes.pdf#page=36&selection=19,0,36,90|Le management de la créativité en psycholté dans les organisations innovantes, page 36]]
 
 **Créativité en psychologie**
+
+Freud dit que les créatifs sont des gens tristes qui frisent la névrose. 
+3 courants découlent de cette pen
