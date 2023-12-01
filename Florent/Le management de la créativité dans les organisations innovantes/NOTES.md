@@ -34,5 +34,9 @@ Mais en gros, la créativité est presque infinie, selon le psychologue américa
 Mais ce qui en ressort, c'est la volonté de créer quelque chose de nouveau, de renouveler ou d'améliorer, mais également que ce soit une idée adaptée à une situation donnée. 
 
 Il faut ajouter à cela des formes de motivation, de connaissances, d'intérêt et d'enthousiasme
+[[Le management de la créativité dans les organisations innovantes.pdf#page=39&selection=46,0,48,29|Le management de la créativité dans les organisations innovantes, page 39]]
+
+
+
 
 
