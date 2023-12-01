@@ -25,7 +25,7 @@ Sur la base de ces arguments et concepts clés, vous pouvez envisager les approc
 - Mettre en place des mécanismes de validation et d'évaluation individuelle, afin de prévenir le plagiat et de garantir l'originalité des travaux des étudiants. 
 
 Ces approches peuvent contribuer à l'utilisation responsable et bénéfique des modèles de langage génératif dans l'apprentissage de la programmation.
-
 ## Citations
 
 ## Mots clés
+Les mots clés de ce document sont : - Github Copilot - AI Assistance - Computer Science - Programming - Code completion - Artificial intelligence-driven development environments (AIDEs) - Learning to code - Novice programmers - Introductory courses - Code generation - Evaluation metrics - Grades - Plagiarism detection - Copilot-generated solutions - Academic integrity - Debugging - Testing techniques - Future work - References
