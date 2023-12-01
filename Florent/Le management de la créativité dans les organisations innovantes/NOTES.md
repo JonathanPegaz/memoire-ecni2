@@ -28,3 +28,5 @@ L'environnement social conditionne la personnalité et les comportements. L'homm
 **Théorie gestalt**
 Le phénomère Gestalt "Insight" est qualifié en psychologie comme le fait de découvrir soudainement la solution dans une situation de résolution de problématique, après une période plus ou moins longue de tâtonnement
 
+
+Mais en gros, la créativité est presque infinie, selon le psychologue américain Paul E. Torrance
