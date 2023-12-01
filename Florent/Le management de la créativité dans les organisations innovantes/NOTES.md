@@ -92,4 +92,7 @@ Trois grandes interprétations quand à la créativité :
 
 La **Flexibilité** correspond à la façon d'appréhender sous plusieurs angles : passer d'une idée à une autre pour explorer de nouvelles pistes. 
 - La flexibilité spontannée : produire des idées variées
-- La flexibilité adaptative
+- La flexibilité adaptative : changer de pdv sur un problème 
+Elle reflete la souplesse de pensée ainsi que la capacité (et volonté) de changer de registre (Zabelinn et Robinson, 2010). 
+
+
