@@ -31,4 +31,5 @@ Le phénomère Gestalt "Insight" est qualifié en psychologie comme le fait de d
 
 Mais en gros, la créativité est presque infinie, selon le psychologue américain Paul E. Torrance, qu'on aura toujours des difficultés à exprimer le concept de créativité. 
 
-Mais ce qui en ressort, c'est la volonté de créer quelque chose de nouveau, de renouveler ou d'améliorer, mais également e 
+Mais ce qui en ressort, c'est la volonté de créer quelque chose de nouveau, de renouveler ou d'améliorer, mais également que ce soit une idée adaptée à une situation donnée. 
+
