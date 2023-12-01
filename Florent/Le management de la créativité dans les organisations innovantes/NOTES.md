@@ -5,4 +5,6 @@ Les start-ups visent constamment à l'innovation
 [[Le management de la créativité dans les organisations innovantes.pdf#page=24&selection=35,0,57,4|Le management de la créativité dans les organisations innovantes, page 24]]
 
 **La créativité**
-Avant la révolution indust
+Avant la révolution industrielle : 
+- Ignorée dans un contexte obscurantiste 
+- 
