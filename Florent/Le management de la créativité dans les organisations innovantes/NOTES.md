@@ -86,3 +86,6 @@ Trois grandes interprétations quand à la créativité :
 
 **La pensée divergente** (pouvoir explorer de multiples directions) est essentielle à l'expression de la créativité. Produire un grand nombre d'idées fait monter les chances de trouver des idées nouvelles et adaptées, qualifiées de créatives. 
 
+> ergente et performance créative (Baer, 1991 ; Barron et Harrington, 1991 ; Brown, 198
+
+[[Le management de la créativité dans les organisations innovantes.pdf#page=60&selection=47,51,48,39|Le management de la créativité dans les organisations innovantes, page 60]]
