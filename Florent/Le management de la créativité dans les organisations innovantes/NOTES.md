@@ -46,3 +46,6 @@ Le professeur théoricien Graham Wallas a établi 4 phases :
 - L'illumination : La solution apparait de manière non prévisible
 
 - La vérification : confronter la solution à la réalité, la vérifier et l'appliquer
+
+
+**AXE : La créativité comme une méthode**
