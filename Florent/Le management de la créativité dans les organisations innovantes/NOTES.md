@@ -75,6 +75,9 @@ Trois grandes interprétations quand à la créativité :
 [[Le management de la créativité dans les organisations innovantes.pdf#page=59&selection=32,0,34,41|Le management de la créativité dans les organisations innovantes, page 59]]
 
 
-> En outre, les personnes créatives peuvent avoir des comportements différents, ou encore venir de milieu différents, mais elles auront néanmoins une chose en commun : la passion dans ce (Csikszentmihalyi, 2013) qui les motivent dans leur travail.
+> En outre, les personnes créatives peuvent avoir des comportements différents, ou encore venir de milieu différents, mais elles auront néanmoins une chose en commun : la passion dans ce qu'elles font (Csikszentmihalyi, 2013). L'argent ou les récompenses ne sont pas des choses qui les motivent dans leur travail.
 
 [[Le management de la créativité dans les organisations innovantes.pdf#page=60&selection=12,0,18,35|Le management de la créativité dans les organisations innovantes, page 60]]
+
+
+**Capacités cognitives à la créativité**
