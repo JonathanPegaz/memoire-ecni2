@@ -66,3 +66,7 @@ Une partie d'experts affirme que la créativité est associée à un résultat
 
 
 Les sources de la **Créativité indivuduelle** 
+
+Trois grandes interprétations quand à la créativité : 
+- L'action de créer quelque chose de nouveau 
+- 
