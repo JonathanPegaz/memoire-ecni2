@@ -90,4 +90,6 @@ Trois grandes interprétations quand à la créativité :
 
 [[Le management de la créativité dans les organisations innovantes.pdf#page=60&selection=47,51,48,39|Le management de la créativité dans les organisations innovantes, page 60]]
 
-La **Flexibilité** correspond à la façon d'appréhender sous plusieurs angles
+La **Flexibilité** correspond à la façon d'appréhender sous plusieurs angles : passer d'une idée à une autre pour explorer de nouvelles pistes. 
+- La flexibilité spontannée : produire des idées variées
+- La flexibilité adaptative
