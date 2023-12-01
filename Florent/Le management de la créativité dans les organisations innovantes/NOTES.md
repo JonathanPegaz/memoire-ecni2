@@ -39,7 +39,7 @@ Il faut ajouter à cela des formes de motivation, de connaissances, d'intérêt 
 
 **AXE : La créativité comme un processus**
 Le professeur théoricien Graham Wallas a établi 4 phases : 
-- La préparation
-- L'incubation
+- La préparation : l'étape pendant laquelle l'individu se fait la représentation du problème (ici l'expérience et les connaissances antérieures sont mises à contribution)
+- L'incubation : 
 - L'illumination
 - La vérification
