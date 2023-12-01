@@ -19,4 +19,7 @@ Freud dit que les créatifs sont des gens tristes qui frisent la névrose.
 3 courants découlent de cette pensée : 
 - La pensée créative est liée à l'inconscient 
 - Des idées toutes organisées existent dans le préconscient , qu'un stimulus vient injecter dans la conscience
-- L'activité créatrice se déroule quasiment que dans le préconscient, où l'inconscie
+- L'activité créatrice se déroule quasiment que dans le préconscient, où l'inconscient est lui destructeur. 
+
+**Le behaviorisme**
+
