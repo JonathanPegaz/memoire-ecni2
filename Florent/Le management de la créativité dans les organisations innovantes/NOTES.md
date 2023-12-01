@@ -86,6 +86,8 @@ Trois grandes interprétations quand à la créativité :
 
 **La pensée divergente** (pouvoir explorer de multiples directions) est essentielle à l'expression de la créativité. Produire un grand nombre d'idées fait monter les chances de trouver des idées nouvelles et adaptées, qualifiées de créatives. 
 
-> ergente et performance créative (Baer, 1991 ; Barron et Harrington, 1991 ; Brown, 198
+> Plusieurs auteurs ont soutenu cette position selon laquelle il y a une relation entre pensée divergente et performance créative (Baer, 1991 ; Barron et Harrington, 1991; Brown, 1989; Rossman et Horn, 1972; Runco et Albert, 1985; Torrance, 1988). L'aptitude à penser de manière divergente est donc une composante capitale dans l'expression de son potentiel créatif.
 
 [[Le management de la créativité dans les organisations innovantes.pdf#page=60&selection=47,51,48,39|Le management de la créativité dans les organisations innovantes, page 60]]
+
+La **Flexibilité** correspond à la façon d'appréhender sous plusieurs angles
