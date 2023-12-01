@@ -8,3 +8,4 @@
 
 > [...] in standard recall tasks, examples can lead to cryptomnesia (Christensen & Schunn, 2007; Marsh et al., 1999; Smith et al., 1993), novices may be more likely to plagiarize (Plucker, Kaufman, Temple, & Qian, 2009) and cognitive load may increase this risk (Defeldre, 2005; Marsh & Bower, 1993).
 
+> It has been well established that cognitive taxation reduces the ability to encode, store, and retrieve information (Ayres & Sweller, 2005; Chandler & Sweller, 1991, 1992, Mayer & Moreno, 2003, 2010).
