@@ -59,3 +59,4 @@ Les 6 chapeaux pour exploiter les idées créatives :
 - Vert : alternative : créativité, propositions, exploration 
 - Bleu : coordination, encadrement et processus de réflexion 
 
+Permet de produire de nombreuses idées, d'envisager des chemins alternatifs 
