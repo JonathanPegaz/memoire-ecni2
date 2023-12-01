@@ -1,9 +1,15 @@
-- [ ] Trouver la représentation des développeurs par rapport aux lead dev / CTO en terme de nombre. Avoir un pourcentage de représentation de ces métiers dans le monde professionnel.
-	- [ ] Éventuellement adapter mon échantillon pour qu'il soit plus représentatif des pourcentages de la population
+- [x] Trouver la représentation des développeurs par rapport aux lead dev / CTO en terme de nombre. Avoir un pourcentage de représentation de ces métiers dans le monde professionnel.
+	- [x] Éventuellement adapter mon échantillon pour qu'il soit plus représentatif des pourcentages de la population
+	- [ ] Interroger un autre développeur (démarcher)
+	- [ ] Retranscrire l'interview de Nicolas
 - [ ] Faire de la recherche
+	- [ ] Lire la partie informatique du livre sur l'épistémologie
+	- [ ] Lire le livre sur l'ingénieur pédagogique dans le supérieur
 	- [ ] Différence entre étudier et apprendre
+		- [ ] Définir l'étude
+		- [x] Définir l'[[Apprentissage]]
 	- [ ] l'aspect sociologique (éducation)
-	- [ ] Philosophique
+	- [ ] l'aspect Philosophique de l'apprentissage (informel)
 - [ ] Redéfinir ma problématique de manière plus précise
 	- [ ] "efficacité ?" C'est quoi l'efficacité ? appliqué au travail ?
 	- [ ] Cible les développeurs ? Lead développeur ?`
