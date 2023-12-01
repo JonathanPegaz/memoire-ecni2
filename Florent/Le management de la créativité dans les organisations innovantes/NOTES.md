@@ -54,4 +54,7 @@ La pensée latérale consiste à prendre comme base une solution impossible pour
 Les 6 chapeaux pour exploiter les idées créatives : 
 - Blanc : informations, idées et faits
 - Rouge : sentiments, intuitions et émotions ressenties
-- Jaune : avantages, bénéfices de telle appro
+- Jaune : avantages, bénéfices de telle approche ou de tel plan 
+- Noir : prudence, logique négative et difficultés à prévoir
+- Vert : alternative : créativité, propositions, exploration 
+- Bleu : coordina
