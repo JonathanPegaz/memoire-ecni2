@@ -84,4 +84,5 @@ Trois grandes interprétations quand à la créativité :
 
 8 qualités essentielles du créatif, parmis elles, la flexibilité cognitive. 
 
-La pensée divergente (pouvoir explorer de multiples directions) est essentielle à l'expression de la créa
+**La pensée divergente** (pouvoir explorer de multiples directions) est essentielle à l'expression de la créativité. Produire un grand nombre d'idées fait monter les chances de trouver des idées nouvelles et adaptées, qualifiées de créatives. 
+
