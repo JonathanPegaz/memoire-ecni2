@@ -6,3 +6,5 @@
 
 > Another area of creative endeavor in which cryptomnesia apparently occurs is music.
 
+> Johnson et al. (1981) found that source identification accuracy dropped substantially after a week to 10 days
+
