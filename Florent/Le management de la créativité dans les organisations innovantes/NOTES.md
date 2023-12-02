@@ -95,5 +95,6 @@ La **Flexibilité** correspond à la façon d'appréhender sous plusieurs angles
 - La flexibilité adaptative : changer de pdv sur un problème 
 Elle reflete la souplesse de pensée ainsi que la capacité (et volonté) de changer de registre (Zabelinn et Robinson, 2010). 
 
+![[Pasted image 20231202010243.png]]
 
 
