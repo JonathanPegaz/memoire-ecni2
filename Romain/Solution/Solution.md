@@ -1,0 +1,3 @@
+- [ ] Profile type pour chaque type d'apprentissage informel
+- [ ] Questionnaire qui permet d'identifier un profil compatible avec son type d'apprentissage informel
+- [ ] 
