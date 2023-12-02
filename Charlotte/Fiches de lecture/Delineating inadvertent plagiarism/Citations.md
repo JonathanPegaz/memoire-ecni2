@@ -4,3 +4,5 @@
 
 > Cryptomnesia has practical implications, particularly in the areas that demand the output of creative products. One such area is the generation of research ideas.
 
+> Another area of creative endeavor in which cryptomnesia apparently occurs is music.
+
