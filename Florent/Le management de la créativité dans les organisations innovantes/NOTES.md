@@ -98,3 +98,4 @@ Elle reflete la souplesse de pensée ainsi que la capacité (et volonté) de cha
 ![[Pasted image 20231202010243.png]]
 
 
+**La motivation**
