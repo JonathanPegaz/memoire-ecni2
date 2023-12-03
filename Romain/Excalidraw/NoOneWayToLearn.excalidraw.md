@@ -26,7 +26,7 @@ Open source contribution ? ^sj8BGbVc
 
 SELECT ^w7z9RaEp
 
-Get Result ^ALYWArbC
+Get Results ^ALYWArbC
 
 %%
 # Drawing
@@ -146,8 +146,8 @@ Get Result ^ALYWArbC
 		},
 		{
 			"type": "rectangle",
-			"version": 142,
-			"versionNonce": 1826706993,
+			"version": 143,
+			"versionNonce": 476091790,
 			"isDeleted": false,
 			"id": "KUh-vgbuLIbQlo3uUa44V",
 			"fillStyle": "solid",
@@ -156,7 +156,7 @@ Get Result ^ALYWArbC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 111.9467657988096,
+			"x": 111.94676579880957,
 			"y": -425.6793300653594,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -177,7 +177,7 @@ Get Result ^ALYWArbC
 					"id": "txrSQL5j"
 				}
 			],
-			"updated": 1701615982693,
+			"updated": 1701616005751,
 			"link": null,
 			"locked": false
 		},
@@ -263,8 +263,8 @@ Get Result ^ALYWArbC
 		},
 		{
 			"type": "rectangle",
-			"version": 108,
-			"versionNonce": 1201235985,
+			"version": 109,
+			"versionNonce": 1460843470,
 			"isDeleted": false,
 			"id": "SNE7uE9dwrjI0OzFIHn5V",
 			"fillStyle": "solid",
@@ -273,7 +273,7 @@ Get Result ^ALYWArbC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 202.93305126603835,
+			"x": 202.93305126603832,
 			"y": -366.616475169503,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -294,7 +294,7 @@ Get Result ^ALYWArbC
 					"id": "p1U71YSp"
 				}
 			],
-			"updated": 1701615982694,
+			"updated": 1701616005753,
 			"link": null,
 			"locked": false
 		},
@@ -380,8 +380,8 @@ Get Result ^ALYWArbC
 		},
 		{
 			"type": "rectangle",
-			"version": 188,
-			"versionNonce": 12146641,
+			"version": 189,
+			"versionNonce": 711395854,
 			"isDeleted": false,
 			"id": "juMq16so1JC8TglRyFzf5",
 			"fillStyle": "solid",
@@ -390,7 +390,7 @@ Get Result ^ALYWArbC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 202.93305126603846,
+			"x": 202.93305126603843,
 			"y": -310.89106089307614,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -411,7 +411,7 @@ Get Result ^ALYWArbC
 					"id": "HXbrMGl1"
 				}
 			],
-			"updated": 1701615982695,
+			"updated": 1701616005754,
 			"link": null,
 			"locked": false
 		},
@@ -608,8 +608,8 @@ Get Result ^ALYWArbC
 		},
 		{
 			"type": "text",
-			"version": 27,
-			"versionNonce": 1096146015,
+			"version": 28,
+			"versionNonce": 1850432718,
 			"isDeleted": false,
 			"id": "ALYWArbC",
 			"fillStyle": "solid",
@@ -618,28 +618,28 @@ Get Result ^ALYWArbC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 247.42545905302563,
+			"x": 241.99546637724438,
 			"y": -168.3703472526588,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 111.29991149902344,
+			"width": 122.15989685058594,
 			"height": 25,
 			"seed": 1121049855,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701615961249,
+			"updated": 1701616047278,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Get Result",
-			"rawText": "Get Result",
+			"text": "Get Results",
+			"rawText": "Get Results",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "86N7YlPU2sbDylatbJ8ZE",
-			"originalText": "Get Result",
+			"originalText": "Get Results",
 			"lineHeight": 1.25,
 			"baseline": 18
 		}
@@ -659,10 +659,10 @@ Get Result ^ALYWArbC
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 421.20449125597395,
-		"scrollY": 744.3184049096009,
+		"scrollX": 773.5740678521096,
+		"scrollY": 1071.3409698821124,
 		"zoom": {
-			"value": 0.9236368103830176
+			"value": 0.9109497521355483
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
