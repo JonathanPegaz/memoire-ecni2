@@ -15,5 +15,5 @@
 	- [ ] Cible les développeurs ? Lead développeur ?`
 - [ ] Solution
 	- [x] Lister les facteurs qui détermine le type d'apprentissage informel le plus efficace pour une personne -> determiner des profiles
-	- [ ] Imaginer un questionnaire afin de déterminer ses profiles pour n'importe qui
+	- [x] Imaginer un questionnaire afin de déterminer ses profiles pour n'importe qui
 	- [ ] Database Schema
