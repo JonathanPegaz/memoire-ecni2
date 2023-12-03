@@ -14,6 +14,6 @@
 	- [ ] "efficacité ?" C'est quoi l'efficacité ? appliqué au travail ?
 	- [ ] Cible les développeurs ? Lead développeur ?`
 - [ ] Solution
-	- [ ] Lister les facteurs qui détermine le type d'apprentissage informel le plus efficace pour une personne -> determiner des profiles
+	- [x] Lister les facteurs qui détermine le type d'apprentissage informel le plus efficace pour une personne -> determiner des profiles
 	- [ ] Imaginer un questionnaire afin de déterminer ses profiles pour n'importe qui
 	- [ ] Database Schema
