@@ -99,3 +99,5 @@ Elle reflete la souplesse de pensée ainsi que la capacité (et volonté) de cha
 
 
 **La motivation**
+
+Amabile (1996)
