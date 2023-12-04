@@ -100,4 +100,6 @@ Elle reflete la souplesse de pensée ainsi que la capacité (et volonté) de cha
 
 **La motivation**
 
-Amabile (1996)
+Amabile (1996) : La motivation est l'ensemble des processus physiologiques et psychologiques responsable du déclenchement, de l'entretien et de la cessation d'un comportement. 
+
+Des 
