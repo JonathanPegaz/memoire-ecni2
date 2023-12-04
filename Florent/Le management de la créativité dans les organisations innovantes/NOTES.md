@@ -106,3 +106,4 @@ Les facteurs propres à l'individu et ceux liés à son environnement peuvent ag
 Facteurs internes : les besoins, les émotions, la cognition. 
 
 **La motivation Intrasèque**
+Désurs internes
