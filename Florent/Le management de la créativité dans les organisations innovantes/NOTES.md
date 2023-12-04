@@ -105,3 +105,4 @@ Amabile (1996) : La motivation est l'ensemble des processus physiologiques et ps
 Les facteurs propres à l'individu et ceux liés à son environnement peuvent agir sur sa motivation. 
 Facteurs internes : les besoins, les émotions, la cognition. 
 
+**La motivation Intrasèque**
