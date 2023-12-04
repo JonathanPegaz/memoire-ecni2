@@ -102,4 +102,6 @@ Elle reflete la souplesse de pensée ainsi que la capacité (et volonté) de cha
 
 Amabile (1996) : La motivation est l'ensemble des processus physiologiques et psychologiques responsable du déclenchement, de l'entretien et de la cessation d'un comportement. 
 
-Des 
+Les facteurs propres à l'individu et ceux liés à son environnement peuvent agir sur sa motivation. 
+Facteurs internes : les besoins, les émotions, la cognition. 
+
