@@ -107,3 +107,5 @@ Facteurs internes : les besoins, les émotions, la cognition.
 
 **La motivation Intrasèque**
 Désurs internes
+
+P50
