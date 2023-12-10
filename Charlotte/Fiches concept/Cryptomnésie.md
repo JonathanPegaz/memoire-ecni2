@@ -43,8 +43,13 @@ Pas non plus satisfaisant, mais elle montre qu'il y a des erreurs de source-moni
 
 ## La problématique soulevée
 
-Ce document présente l'expérience de Brown et Murphy qui est l'une des plus emblématiques dans le domaine de la cryptomnésie. Elle est très souvent citée voire quasiment tout le temps dans les autres articles scientifiques, il était donc 
+Ce document présente l'expérience de Brown et Murphy qui est l'une des plus emblématiques dans le domaine de la cryptomnésie. Elle est très souvent citée voire quasiment tout le temps dans les autres articles scientifiques, il était donc intéressant de l'étudier. 
 ## Les différents arguments énoncés
+
+Avant de passer à l'expérience, on nous explique que la cryptomnésie est très proche de l'amnésie de la source (ou *source amnesia*) puisque dans les 2 cas, l'individu oublie d'où provient l'info. 
+La différence entre les 2 est que dans le cas de la cryptomnésie, l'individu pense que l'info/l'idée provient de lui. 
+
+Ils se basent alors que les expériences de Thorn (1960), Evans (1979) et Cooper (1966) pour montrer que la cryptomnésie est une forme extrême de l'amnésie de la source. 
 
 
 ## Les éléments de contenu retenus pour votre travail
