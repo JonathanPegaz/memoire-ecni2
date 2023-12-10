@@ -38,4 +38,4 @@ Pas non plus satisfaisant, mais elle montre qu'il y a des erreurs de source-moni
 
 # Définition n°2 
 
-> 
+>Brown, Alan S., et Dana R. Murphy. « Cryptomnesia: Delineating Inadvertent Plagiarism. » _Journal of Experimental Psychology: Learning, Memory, and Cognition_ 15, no 3 (mai 1989): 432‑42. [https://doi.org/10.1037/0278-7393.15.3.432](https://doi.org/10.1037/0278-7393.15.3.432).
