@@ -43,7 +43,7 @@ Pas non plus satisfaisant, mais elle montre qu'il y a des erreurs de source-moni
 
 ## La problématique soulevée
 
-Ce document présente l'expérience de Brown et Murphy qui est l'une des plus emblématiques dans le domaine de la cryptomnésie. 
+Ce document présente l'expérience de Brown et Murphy qui est l'une des plus emblématiques dans le domaine de la cryptomnésie. Elle est très souvent citée voire quasiment tout le temps dans les autres articles scientifiques, il était donc 
 ## Les différents arguments énoncés
 
 
