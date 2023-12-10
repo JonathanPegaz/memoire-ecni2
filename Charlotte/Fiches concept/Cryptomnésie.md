@@ -54,7 +54,10 @@ Ils se basent alors que les expériences de Thorn (1960), Evans (1979) et Cooper
 Quelques faits sur la cryptomnésie :
 - apparaît que l'info soit écrite ou orale
 - prévaut + quand le sujet doit générer à partir d'une catégorie orthographique que sémantique (≠ Johnson et al. 1982, meilleure mémoire de la source pour des associations orthographiques)
-- effet d'amnésie retrograde, car les sujets savaient qua
+- effet d'amnésie retrograde, car les sujets savaient quand ils allaient passer, donner une réponse
+- du mal à id la source quand les mots sont utilisés fréquemment (effet de la fréquence de mots, Underwood & Freund 1970, mots fréquents sont mieux rappelés mais moins reconnus)
+- particulièrement présente dans les domaines créatifs et surtout la musique (Reed, 1974 et l'affaire Harrison, Dannay, 1980)
+- selon les résultats de l'xp, les observateurs arrivent mieux à recall
 ## Les éléments de contenu retenus pour votre travail
 `
 
