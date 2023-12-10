@@ -52,7 +52,9 @@ La différence entre les 2 est que dans le cas de la cryptomnésie, l'individu p
 Ils se basent alors que les expériences de Thorn (1960), Evans (1979) et Cooper (1966) pour montrer que la cryptomnésie est une forme extrême de l'amnésie de la source. 
 
 Quelques faits sur la cryptomnésie :
-- 
+- apparaît que l'info soit écrite ou orale
+- prévaut + quand le sujet doit générer à partir d'une catégorie orthographique que sémantique (≠ Johnson et al. 1982, meilleure mémoire de la source pour des associations orthographiques)
+- effet d'amnésie retrograde, car les sujets savaient qua
 ## Les éléments de contenu retenus pour votre travail
 `
 
