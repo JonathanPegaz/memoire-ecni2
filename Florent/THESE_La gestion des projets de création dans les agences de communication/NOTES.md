@@ -185,4 +185,4 @@ Se poser la question du poids décisionnel laissé aux créatifs dans une agence
 
 
 
-****
+**Créativité de groupe**
