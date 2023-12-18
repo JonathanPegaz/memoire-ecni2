@@ -184,3 +184,5 @@ Se poser la question du poids décisionnel laissé aux créatifs dans une agence
 [[La gestion des projets de création dans les agences de communication.pdf#page=188&selection=109,0,124,45|La gestion des projets de création dans les agences de communication, page 188]]
 
 
+
+****
