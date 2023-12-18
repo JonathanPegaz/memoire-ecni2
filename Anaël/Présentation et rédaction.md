@@ -4,3 +4,4 @@
 Intro : 5 - 7 pages
 Conclusion : 2 - 3 pages
 Pas de numéro de page sur la page de titre
+Conclusion de partie et conclusion à la fin de la partie 1
