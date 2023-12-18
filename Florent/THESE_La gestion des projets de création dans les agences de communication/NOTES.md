@@ -188,3 +188,5 @@ Se poser la question du poids décisionnel laissé aux créatifs dans une agence
 **Créativité de groupe**
 Les retours et commentaires de managers sont nécessaires à la créativité -> attente d'un retour informel = plus de créativité car ils ont de la reconnaissance VS ceux qui se font juste contrôler
 
+![[Pasted image 20231218191212.png]]
+
