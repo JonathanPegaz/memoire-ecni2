@@ -186,3 +186,4 @@ Se poser la question du poids décisionnel laissé aux créatifs dans une agence
 
 
 **Créativité de groupe**
+Les retours et commentaires de managers sont nécessaires à la créativité -> 
