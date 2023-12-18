@@ -190,3 +190,7 @@ Les retours et commentaires de managers sont nécessaires à la créativité -> 
 
 ![[Pasted image 20231218191212.png]]
 
+
+**VOIR LES PROJETS DE CREATION CREATIF ET NON ORDINAIRES POUR CE GENRE DE TRUC**
+[[La gestion des projets de création dans les agences de communication.pdf#page=184&selection=19,0,93,18|La gestion des projets de création dans les agences de communication, page 184]]
+
