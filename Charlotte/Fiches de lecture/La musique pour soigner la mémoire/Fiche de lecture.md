@@ -14,3 +14,4 @@
 
 ## Une persistance étonnante chez les malades d'Alzheimer
 
+Apprentissage d'une chanson en moins de huit semaines (de quelques lignes) et pouvant 
