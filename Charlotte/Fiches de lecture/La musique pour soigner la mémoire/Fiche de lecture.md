@@ -9,3 +9,8 @@
 - Son d'abord traité par le système auditif 
 - Aires cérébrales impliquées dans la mémoire, émotions, motricité, langage
 - Activation des circuits neuronaux de la récompense si la musique est plaisante  
+
+> La musique permet de réveiller la mémoire et les évènements qui lui sont associés
+
+## Une persistance étonnante chez les malades d'Alzheimer
+

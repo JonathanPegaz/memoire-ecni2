@@ -1,0 +1,1 @@
+> La musique permet de réveiller la mémoire et les évènements qui lui sont associés
