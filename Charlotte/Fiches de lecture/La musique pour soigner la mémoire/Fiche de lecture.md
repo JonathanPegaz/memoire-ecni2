@@ -14,4 +14,5 @@
 
 ## Une persistance étonnante chez les malades d'Alzheimer
 
-Apprentissage d'une chanson en moins de huit semaines (de quelques lignes) et pouvant 
+Apprentissage d'une chanson en moins de huit semaines (de quelques lignes) et pouvant entonner les mélodies 4 mois après les séances 
+
