@@ -1,4 +1,4 @@
- Définition générale : 
+Définition générale : 
 Etymologie : 
 
 # 1/ Définition n°1
