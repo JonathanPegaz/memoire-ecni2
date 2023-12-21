@@ -17,3 +17,16 @@
 	- [x] Lister les facteurs qui détermine le type d'apprentissage informel le plus efficace pour une personne -> determiner des profiles
 	- [x] Imaginer un questionnaire afin de déterminer ses profiles pour n'importe qui
 	- [ ] Database Schema
+
+
+Parcours de mon utilisateur
+
+- Inscription (récupération des données) ajouter des datas plus variable (qui ne soit pas conditionnel)
+	- Age
+		- experience temps dev équivalent (custom métric)
+	- cursus
+	- open-source
+	- side-project
+	- 
+- Demander à langchain une corrélation
+- 
