@@ -66,8 +66,6 @@ SELECT ^51TAwFTo
 
 Résultats ! ^yKmCuvXX
 
-Exercice adapté au profil ^u0sofVxl
-
  Exercice adapté selon le profile ^BzDb4VNc
 
 Parmis tous les projets informatiques auxquels vous
@@ -128,9 +126,22 @@ Blockchain côté entreprise (Hyperledger) : Plongez dans les technologies de bl
 
 Traitement d'image avancé : Approfondissez vos compétences en traitement d'image en travaillant sur des projets qui impliquent la détection d'objets, la segmentation d'image ou la création de modèles GAN (Generative Adversarial Networks). ^EKl3yIRI
 
+Template prompt
+
 Intéressant sur lesquels travailler pour apprendre. Pour une personne qui fait un cursus d'ingénieur, à déja réalisé beaucoup de side project. ^JqeW1KIo
 
 Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
+
+Proposition des idées
+à l'utilisateur ^M4IpPQ08
+
+Convergence
+
+Récupération des idées les plus pertinentes
+
+(Self-improvement) ^78aWKsZI
+
+Profile utilisateur ^2IG4ItYO
 
 %%
 # Drawing
@@ -142,8 +153,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 870,
-			"versionNonce": 535322322,
+			"version": 872,
+			"versionNonce": 946027022,
 			"isDeleted": false,
 			"id": "pKsl7wyQqUnUayB3pdVxi",
 			"fillStyle": "solid",
@@ -165,14 +176,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646549,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 415,
-			"versionNonce": 2020552526,
+			"version": 417,
+			"versionNonce": 1578087890,
 			"isDeleted": false,
 			"id": "wI8Cbs5C",
 			"fillStyle": "solid",
@@ -192,7 +203,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646549,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -208,8 +219,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 199,
-			"versionNonce": 1826141330,
+			"version": 201,
+			"versionNonce": 340576334,
 			"isDeleted": false,
 			"id": "bibEFJAn",
 			"fillStyle": "solid",
@@ -231,7 +242,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646549,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -247,8 +258,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 317,
-			"versionNonce": 1906840974,
+			"version": 319,
+			"versionNonce": 972893074,
 			"isDeleted": false,
 			"id": "KUh-vgbuLIbQlo3uUa44V",
 			"fillStyle": "solid",
@@ -277,14 +288,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "txrSQL5j"
 				}
 			],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 197,
-			"versionNonce": 1824019026,
+			"version": 199,
+			"versionNonce": 1349160590,
 			"isDeleted": false,
 			"id": "txrSQL5j",
 			"fillStyle": "solid",
@@ -306,7 +317,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -322,8 +333,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 215,
-			"versionNonce": 392836046,
+			"version": 217,
+			"versionNonce": 741730642,
 			"isDeleted": false,
 			"id": "G2zz7dWK",
 			"fillStyle": "solid",
@@ -345,7 +356,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -361,8 +372,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 283,
-			"versionNonce": 308164626,
+			"version": 285,
+			"versionNonce": 1232440526,
 			"isDeleted": false,
 			"id": "SNE7uE9dwrjI0OzFIHn5V",
 			"fillStyle": "solid",
@@ -391,14 +402,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "p1U71YSp"
 				}
 			],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 224,
-			"versionNonce": 1942915598,
+			"version": 226,
+			"versionNonce": 1544613650,
 			"isDeleted": false,
 			"id": "p1U71YSp",
 			"fillStyle": "solid",
@@ -420,7 +431,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -436,8 +447,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 263,
-			"versionNonce": 1572955602,
+			"version": 265,
+			"versionNonce": 1560724238,
 			"isDeleted": false,
 			"id": "TZm7RFnx",
 			"fillStyle": "solid",
@@ -459,7 +470,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -475,8 +486,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 363,
-			"versionNonce": 1708005454,
+			"version": 365,
+			"versionNonce": 1845837010,
 			"isDeleted": false,
 			"id": "juMq16so1JC8TglRyFzf5",
 			"fillStyle": "solid",
@@ -505,14 +516,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "HXbrMGl1"
 				}
 			],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 304,
-			"versionNonce": 939056018,
+			"version": 306,
+			"versionNonce": 1301754190,
 			"isDeleted": false,
 			"id": "HXbrMGl1",
 			"fillStyle": "solid",
@@ -534,7 +545,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -550,8 +561,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 320,
-			"versionNonce": 88202894,
+			"version": 322,
+			"versionNonce": 1604965010,
 			"isDeleted": false,
 			"id": "sj8BGbVc",
 			"fillStyle": "solid",
@@ -573,7 +584,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -589,8 +600,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 454,
-			"versionNonce": 1329305938,
+			"version": 456,
+			"versionNonce": 645912462,
 			"isDeleted": false,
 			"id": "w5arLD6KnYGZS62ivU9GR",
 			"fillStyle": "solid",
@@ -619,14 +630,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "w7z9RaEp"
 				}
 			],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 398,
-			"versionNonce": 115530958,
+			"version": 400,
+			"versionNonce": 1672851538,
 			"isDeleted": false,
 			"id": "w7z9RaEp",
 			"fillStyle": "solid",
@@ -648,7 +659,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -664,8 +675,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 436,
-			"versionNonce": 1927323410,
+			"version": 438,
+			"versionNonce": 536458702,
 			"isDeleted": false,
 			"id": "86N7YlPU2sbDylatbJ8ZE",
 			"fillStyle": "solid",
@@ -696,14 +707,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"type": "arrow"
 				}
 			],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 382,
-			"versionNonce": 541725454,
+			"version": 384,
+			"versionNonce": 1040176658,
 			"isDeleted": false,
 			"id": "ALYWArbC",
 			"fillStyle": "solid",
@@ -723,7 +734,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -739,8 +750,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 227,
-			"versionNonce": 1868491986,
+			"version": 229,
+			"versionNonce": 52284430,
 			"isDeleted": false,
 			"id": "oI9vkstq",
 			"fillStyle": "solid",
@@ -760,7 +771,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -776,8 +787,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "arrow",
-			"version": 1212,
-			"versionNonce": 1810923854,
+			"version": 1214,
+			"versionNonce": 528434130,
 			"isDeleted": false,
 			"id": "UAcjvopcZRjqv_hxKM_Mv",
 			"fillStyle": "solid",
@@ -799,7 +810,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -828,8 +839,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 424,
-			"versionNonce": 1783464594,
+			"version": 426,
+			"versionNonce": 233118286,
 			"isDeleted": false,
 			"id": "6K16IajFGyqyb1KSb7kAk",
 			"fillStyle": "solid",
@@ -856,14 +867,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"type": "arrow"
 				}
 			],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 417,
-			"versionNonce": 1294935950,
+			"version": 419,
+			"versionNonce": 38467986,
 			"isDeleted": false,
 			"id": "Gi0wgSjHoqOERbgeffuU8",
 			"fillStyle": "solid",
@@ -890,14 +901,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "PxK5JtFz"
 				}
 			],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 178,
-			"versionNonce": 1046700114,
+			"version": 180,
+			"versionNonce": 1462280334,
 			"isDeleted": false,
 			"id": "PxK5JtFz",
 			"fillStyle": "solid",
@@ -917,7 +928,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -933,8 +944,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 175,
-			"versionNonce": 1413416398,
+			"version": 177,
+			"versionNonce": 93976402,
 			"isDeleted": false,
 			"id": "Y9xLPD4N",
 			"fillStyle": "solid",
@@ -954,7 +965,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -970,8 +981,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 131,
-			"versionNonce": 1467450898,
+			"version": 133,
+			"versionNonce": 849436366,
 			"isDeleted": false,
 			"id": "9Pntq_mX0bmtOpCJa4KUC",
 			"fillStyle": "solid",
@@ -1002,14 +1013,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"type": "arrow"
 				}
 			],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 574168078,
+			"version": 86,
+			"versionNonce": 1237531922,
 			"isDeleted": false,
 			"id": "8dmrl7sD",
 			"fillStyle": "solid",
@@ -1029,7 +1040,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1045,8 +1056,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 144,
-			"versionNonce": 243332050,
+			"version": 146,
+			"versionNonce": 350770446,
 			"isDeleted": false,
 			"id": "20SOmUBu",
 			"fillStyle": "solid",
@@ -1066,7 +1077,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1082,8 +1093,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "arrow",
-			"version": 523,
-			"versionNonce": 1293314638,
+			"version": 525,
+			"versionNonce": 1279118034,
 			"isDeleted": false,
 			"id": "ALLr2jULkX0_rXisvwcQx",
 			"fillStyle": "solid",
@@ -1105,7 +1116,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1134,8 +1145,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 246,
-			"versionNonce": 93759890,
+			"version": 248,
+			"versionNonce": 2004255566,
 			"isDeleted": false,
 			"id": "sl0lZT7P57Ylc-S-LFWXN",
 			"fillStyle": "solid",
@@ -1157,14 +1168,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 315,
-			"versionNonce": 1135603854,
+			"version": 317,
+			"versionNonce": 1134600338,
 			"isDeleted": false,
 			"id": "V82hYxku",
 			"fillStyle": "solid",
@@ -1184,7 +1195,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244867,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1200,8 +1211,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 970,
-			"versionNonce": 66037586,
+			"version": 972,
+			"versionNonce": 1017440654,
 			"isDeleted": false,
 			"id": "5cqgQHoo4hZU_tJdHHBZp",
 			"fillStyle": "solid",
@@ -1225,14 +1236,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 679,
-			"versionNonce": 834580174,
+			"version": 681,
+			"versionNonce": 2074263122,
 			"isDeleted": false,
 			"id": "elFvMCn9",
 			"fillStyle": "solid",
@@ -1255,7 +1266,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1271,8 +1282,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 358,
-			"versionNonce": 1373826322,
+			"version": 360,
+			"versionNonce": 330074062,
 			"isDeleted": false,
 			"id": "37AvBUc3",
 			"fillStyle": "solid",
@@ -1296,7 +1307,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1312,8 +1323,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 476,
-			"versionNonce": 1675339022,
+			"version": 478,
+			"versionNonce": 823862290,
 			"isDeleted": false,
 			"id": "2r-ujw4kK1is65kaYtYZl",
 			"fillStyle": "solid",
@@ -1344,14 +1355,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "7BTr1mgc"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 356,
-			"versionNonce": 350714578,
+			"version": 358,
+			"versionNonce": 1554406926,
 			"isDeleted": false,
 			"id": "7BTr1mgc",
 			"fillStyle": "solid",
@@ -1375,7 +1386,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1391,8 +1402,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 374,
-			"versionNonce": 729797454,
+			"version": 376,
+			"versionNonce": 1845547474,
 			"isDeleted": false,
 			"id": "9bjU6iiG",
 			"fillStyle": "solid",
@@ -1416,7 +1427,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1432,8 +1443,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 442,
-			"versionNonce": 731140242,
+			"version": 444,
+			"versionNonce": 210463822,
 			"isDeleted": false,
 			"id": "U5DQATlFecz1B_J28-YDc",
 			"fillStyle": "solid",
@@ -1464,14 +1475,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "y406OXdE"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 384,
-			"versionNonce": 1124350350,
+			"version": 386,
+			"versionNonce": 1701496722,
 			"isDeleted": false,
 			"id": "y406OXdE",
 			"fillStyle": "solid",
@@ -1495,7 +1506,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1511,8 +1522,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 422,
-			"versionNonce": 161508946,
+			"version": 424,
+			"versionNonce": 288666254,
 			"isDeleted": false,
 			"id": "57VTVw4K",
 			"fillStyle": "solid",
@@ -1536,7 +1547,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1552,8 +1563,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 522,
-			"versionNonce": 832690126,
+			"version": 524,
+			"versionNonce": 1334838610,
 			"isDeleted": false,
 			"id": "zjs2Wq3Km__0icC5lb5qo",
 			"fillStyle": "solid",
@@ -1584,14 +1595,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "uuqY9vRM"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 464,
-			"versionNonce": 333632530,
+			"version": 466,
+			"versionNonce": 895168718,
 			"isDeleted": false,
 			"id": "uuqY9vRM",
 			"fillStyle": "solid",
@@ -1615,7 +1626,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1631,8 +1642,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 479,
-			"versionNonce": 795979278,
+			"version": 481,
+			"versionNonce": 1170705170,
 			"isDeleted": false,
 			"id": "jwognhOS",
 			"fillStyle": "solid",
@@ -1656,7 +1667,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1672,8 +1683,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 614,
-			"versionNonce": 2085781970,
+			"version": 616,
+			"versionNonce": 77063950,
 			"isDeleted": false,
 			"id": "n6Yr6QmqAnG0MY0k8UQEg",
 			"fillStyle": "solid",
@@ -1704,14 +1715,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "51TAwFTo"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 559,
-			"versionNonce": 158121038,
+			"version": 561,
+			"versionNonce": 512252114,
 			"isDeleted": false,
 			"id": "51TAwFTo",
 			"fillStyle": "solid",
@@ -1735,7 +1746,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1751,8 +1762,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 469,
-			"versionNonce": 503740306,
+			"version": 471,
+			"versionNonce": 795071822,
 			"isDeleted": false,
 			"id": "vBSh6_8-Hze-WwVfCn3MR",
 			"fillStyle": "solid",
@@ -1782,14 +1793,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "yKmCuvXX"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 419,
-			"versionNonce": 90964622,
+			"version": 421,
+			"versionNonce": 1231646354,
 			"isDeleted": false,
 			"id": "yKmCuvXX",
 			"fillStyle": "solid",
@@ -1812,7 +1823,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1828,8 +1839,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 141,
-			"versionNonce": 1496692050,
+			"version": 143,
+			"versionNonce": 1863842702,
 			"isDeleted": false,
 			"id": "j3V7K6RKEw_Nx_bu3LoyZ",
 			"fillStyle": "solid",
@@ -1858,14 +1869,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"type": "arrow"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 292,
-			"versionNonce": 1177059534,
+			"version": 294,
+			"versionNonce": 723635282,
 			"isDeleted": false,
 			"id": "qgzhhTs0",
 			"fillStyle": "solid",
@@ -1887,7 +1898,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1903,8 +1914,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 344,
-			"versionNonce": 1865890578,
+			"version": 346,
+			"versionNonce": 1777162702,
 			"isDeleted": false,
 			"id": "HcIMWCEUH0YnTKGHQAzjL",
 			"fillStyle": "solid",
@@ -1933,14 +1944,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "zUongiHi"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 298,
-			"versionNonce": 792409870,
+			"version": 300,
+			"versionNonce": 2038985234,
 			"isDeleted": false,
 			"id": "zUongiHi",
 			"fillStyle": "solid",
@@ -1962,7 +1973,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1978,8 +1989,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "text",
-			"version": 82,
-			"versionNonce": 1585580242,
+			"version": 84,
+			"versionNonce": 385675278,
 			"isDeleted": false,
 			"id": "AC1ULsMY",
 			"fillStyle": "solid",
@@ -2001,7 +2012,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2017,8 +2028,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 266,
-			"versionNonce": 1226646862,
+			"version": 268,
+			"versionNonce": 395599826,
 			"isDeleted": false,
 			"id": "5wffmOGnuazeblk9fGPST",
 			"fillStyle": "solid",
@@ -2047,7 +2058,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "BzDb4VNc"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
@@ -2072,11 +2083,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 1767389902,
-			"version": 123,
-			"versionNonce": 1051532946,
+			"version": 125,
+			"versionNonce": 574602830,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"text": " Exercice adapté selon le profile",
@@ -2089,72 +2100,6 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"containerId": "5wffmOGnuazeblk9fGPST",
 			"originalText": " Exercice adapté selon le profile",
 			"lineHeight": 1.25
-		},
-		{
-			"type": "rectangle",
-			"version": 48,
-			"versionNonce": 623332238,
-			"isDeleted": false,
-			"id": "_DAlArnSvlVwkuP9edjtN",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 7360.848957085322,
-			"y": -3371.997598438739,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1351.520808500476,
-			"height": 1427.1263669798336,
-			"seed": 66353232,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1703943244868,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 97,
-			"versionNonce": 477068370,
-			"isDeleted": false,
-			"id": "u0sofVxl",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 7502.6089223205345,
-			"y": -3273.3022609555837,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 458.63983154296875,
-			"height": 45,
-			"seed": 960403120,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1703943244868,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "Exercice adapté au profil",
-			"rawText": "Exercice adapté au profil",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Exercice adapté au profil",
-			"lineHeight": 1.25,
-			"baseline": 32
 		},
 		{
 			"id": "fcNtmNUe",
@@ -2175,11 +2120,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 832548434,
-			"version": 457,
-			"versionNonce": 1100130766,
+			"version": 459,
+			"versionNonce": 1477972818,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"text": "Parmis tous les projets informatiques auxquels vous\navez participé (perso, profesionnel, POC, side project)\nlesquels vous ont le plus donné de plaisir à réaliser\net pourquoi ?\n\nCes informations nous permettrons de vous proposer\ndes exercices adapté à vos goûts.",
@@ -2214,11 +2159,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 3
 			},
 			"seed": 987091598,
-			"version": 69,
-			"versionNonce": 1436557842,
+			"version": 71,
+			"versionNonce": 1671627470,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
@@ -2243,8 +2188,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 3
 			},
 			"seed": 1668747790,
-			"version": 117,
-			"versionNonce": 1836597262,
+			"version": 119,
+			"versionNonce": 1579014418,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2252,7 +2197,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "kfjUeBlw"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false
 		},
@@ -2275,11 +2220,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 805881870,
-			"version": 261,
-			"versionNonce": 1966477266,
+			"version": 263,
+			"versionNonce": 2115336462,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244868,
+			"updated": 1703944646550,
 			"link": null,
 			"locked": false,
 			"text": "Source d'information\nregroupant les dernières\ntechnologies tendance.",
@@ -2296,15 +2241,15 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		{
 			"id": "oFggns6fZGfAWfhjFJuxE",
 			"type": "rectangle",
-			"x": 10037.678992103138,
-			"y": -4215.666851756278,
+			"x": 8372.387681326176,
+			"y": -3804.191242696226,
 			"width": 465.7468505229098,
 			"height": 131.197698698983,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -2314,8 +2259,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 3
 			},
 			"seed": 1638035982,
-			"version": 274,
-			"versionNonce": 751898190,
+			"version": 322,
+			"versionNonce": 2123078798,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2327,17 +2272,17 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"type": "arrow"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944661463,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "vXVRuslB",
 			"type": "text",
-			"x": 10072.172595587248,
-			"y": -4175.068002406787,
-			"width": 396.7596435546875,
-			"height": 50,
+			"x": 8391.845197774153,
+			"y": -3791.0923933467343,
+			"width": 426.8318176269531,
+			"height": 105,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2350,20 +2295,20 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 252387086,
-			"version": 266,
-			"versionNonce": 256394642,
+			"version": 315,
+			"versionNonce": 2002132430,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244868,
+			"updated": 1703944662950,
 			"link": null,
 			"locked": false,
-			"text": "Réalisation de side project, de poc pour\ntester des technologies.",
+			"text": "Réalisation de side project, de\npoc pour tester des\ntechnologies.",
 			"rawText": "Réalisation de side project, de poc pour tester des technologies.",
-			"fontSize": 20,
+			"fontSize": 28,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 43,
+			"baseline": 95,
 			"containerId": "oFggns6fZGfAWfhjFJuxE",
 			"originalText": "Réalisation de side project, de poc pour tester des technologies.",
 			"lineHeight": 1.25
@@ -2371,15 +2316,15 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		{
 			"id": "NZMg5n9lLupEjyGjkXcTB",
 			"type": "rectangle",
-			"x": 10159.615391897183,
-			"y": -3976.3836476609054,
+			"x": 8494.324081120221,
+			"y": -3564.9080386008527,
 			"width": 221.87405093482084,
 			"height": 83.73665051539865,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -2389,8 +2334,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 3
 			},
 			"seed": 235131278,
-			"version": 71,
-			"versionNonce": 477500558,
+			"version": 120,
+			"versionNonce": 1286202766,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2404,19 +2349,23 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				{
 					"id": "UXJ7-QC_3JIo4QrpYAoo7",
 					"type": "arrow"
+				},
+				{
+					"id": "-v_0zNb95hzgjEb5Hq7RC",
+					"type": "arrow"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944661463,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "Rql0ESqm",
 			"type": "text",
-			"x": 10168.962504950043,
-			"y": -3959.515322403206,
-			"width": 203.17982482910156,
-			"height": 50,
+			"x": 8502.165151692612,
+			"y": -3558.0397133431534,
+			"width": 206.19190979003906,
+			"height": 70,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -2429,20 +2378,20 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 234458638,
-			"version": 60,
-			"versionNonce": 487441234,
+			"version": 109,
+			"versionNonce": 44905486,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244868,
+			"updated": 1703944662951,
 			"link": null,
 			"locked": false,
-			"text": "Extraction des mots\nclés",
+			"text": "Extraction des\nmots clés",
 			"rawText": "Extraction des mots clés",
-			"fontSize": 20,
+			"fontSize": 28,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 43,
+			"baseline": 60,
 			"containerId": "NZMg5n9lLupEjyGjkXcTB",
 			"originalText": "Extraction des mots clés",
 			"lineHeight": 1.25
@@ -2450,15 +2399,15 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		{
 			"id": "yIF1auVG5Q604ORt9xVgE",
 			"type": "arrow",
-			"x": 10270.062203085368,
-			"y": -4082.250170204762,
-			"width": 3.5974364800877083,
-			"height": 101.18038842743954,
+			"x": 8604.766839184014,
+			"y": -3670.7745611447094,
+			"width": 3.600246106958366,
+			"height": 101.18038842743908,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -2468,11 +2417,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 2
 			},
 			"seed": 674918802,
-			"version": 457,
-			"versionNonce": 1444958926,
+			"version": 598,
+			"versionNonce": 1818355790,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244868,
+			"updated": 1703944661463,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2481,8 +2430,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					0
 				],
 				[
-					3.5974364800877083,
-					101.18038842743954
+					3.600246106958366,
+					101.18038842743908
 				]
 			],
 			"lastCommittedPoint": [
@@ -2491,12 +2440,12 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			],
 			"startBinding": {
 				"elementId": "oFggns6fZGfAWfhjFJuxE",
-				"focus": 0.04218427649908935,
+				"focus": 0.012335818471791075,
 				"gap": 2.2189828525333724
 			},
 			"endBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"focus": 0.06163153898536829,
+				"focus": 0.04236089877555522,
 				"gap": 4.686134116417179
 			},
 			"startArrowhead": null,
@@ -2505,15 +2454,15 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		{
 			"id": "5IV3I5H0Mf1Sp0j6KxN4C",
 			"type": "rectangle",
-			"x": 10106.061748150343,
-			"y": -3763.302724139911,
-			"width": 328.98133842850075,
-			"height": 108.08874713870046,
+			"x": 8437.225378734824,
+			"y": -3351.9586929239645,
+			"width": 335.54187439124144,
+			"height": 115,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -2523,8 +2472,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 3
 			},
 			"seed": 1972315410,
-			"version": 72,
-			"versionNonce": 1490913554,
+			"version": 210,
+			"versionNonce": 1967218962,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2540,17 +2489,17 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"type": "arrow"
 				}
 			],
-			"updated": 1703943244868,
+			"updated": 1703944679002,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "15YpLjk4",
 			"type": "text",
-			"x": 10124.462558355805,
-			"y": -3734.2583505705607,
-			"width": 292.1797180175781,
-			"height": 50,
+			"x": 8442.428383801538,
+			"y": -3329.4586929239645,
+			"width": 325.1358642578125,
+			"height": 70,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2563,42 +2512,42 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 652836818,
-			"version": 88,
-			"versionNonce": 1416153358,
+			"version": 311,
+			"versionNonce": 1291709330,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244869,
+			"updated": 1703944679003,
 			"link": null,
 			"locked": false,
-			"text": "side-project, POC, tester des\ntechnologies",
+			"text": "side-project, POC,\ntester des technologies",
 			"rawText": "side-project, POC, tester des technologies",
-			"fontSize": 20,
+			"fontSize": 28,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 43,
+			"baseline": 60,
 			"containerId": "5IV3I5H0Mf1Sp0j6KxN4C",
 			"originalText": "side-project, POC, tester des technologies",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "arrow",
-			"version": 173,
-			"versionNonce": 439260882,
+			"version": 494,
+			"versionNonce": 954582162,
 			"isDeleted": false,
 			"id": "UXJ7-QC_3JIo4QrpYAoo7",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10271.871032707326,
-			"y": -3887.5218641458105,
+			"x": 8606.532038045974,
+			"y": -3476.046255085758,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.35434461108161486,
-			"height": 115.10069548310457,
+			"width": 0.23319974094920326,
+			"height": 114.96911763899834,
 			"seed": 598038286,
 			"groupIds": [],
 			"frameId": null,
@@ -2606,18 +2555,18 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703943244869,
+			"updated": 1703944679002,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"focus": 0.026982926108302347,
-				"gap": 5.125132999696234
+				"gap": 5.125132999696234,
+				"focus": -0.010569786643062688
 			},
 			"endBinding": {
 				"elementId": "5IV3I5H0Mf1Sp0j6KxN4C",
-				"focus": -0.007990614331973346,
-				"gap": 9.118444522795016
+				"gap": 9.118444522795016,
+				"focus": 0.011341212643877763
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2628,29 +2577,29 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					0
 				],
 				[
-					0.35434461108161486,
-					115.10069548310457
+					0.23319974094920326,
+					114.96911763899834
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 167,
-			"versionNonce": 1455978318,
+			"version": 256,
+			"versionNonce": 133779218,
 			"isDeleted": false,
 			"id": "Pn0YoozQtSEwcguMicfsX",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10136.23320098735,
-			"y": -3535.66810152151,
+			"x": 8437.149459632605,
+			"y": -3124.1924924614573,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 268.63843275448744,
-			"height": 85,
+			"width": 336.22329391005405,
+			"height": 115,
 			"seed": 933986318,
 			"groupIds": [],
 			"frameId": null,
@@ -2677,16 +2626,20 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				{
 					"id": "sG11kpPqBGReuNSCddbSp",
 					"type": "arrow"
+				},
+				{
+					"id": "UJoQfZP6mHIVmQ5ER6Xqj",
+					"type": "arrow"
 				}
 			],
-			"updated": 1703943244869,
+			"updated": 1703944671573,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 230,
-			"versionNonce": 832040082,
+			"version": 319,
+			"versionNonce": 1869841426,
 			"isDeleted": false,
 			"id": "y1LJFR59",
 			"fillStyle": "solid",
@@ -2695,43 +2648,43 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10149.292514410492,
-			"y": -3518.16810152151,
+			"x": 8456.693174458725,
+			"y": -3101.6924924614573,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 242.51980590820312,
-			"height": 50,
+			"width": 297.1358642578125,
+			"height": 70,
 			"seed": 1318866510,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244869,
+			"updated": 1703944671575,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "Recherche sémantique en\nlien avec les mots",
+			"text": "Recherche sémantique\nen lien avec les mots",
 			"rawText": "Recherche sémantique en lien avec les mots",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "Pn0YoozQtSEwcguMicfsX",
 			"originalText": "Recherche sémantique en lien avec les mots",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 60
 		},
 		{
 			"id": "4AYzGEyd-pk9Ob_5DeXUr",
 			"type": "arrow",
-			"x": 10270.42922900785,
-			"y": -3647.6398283996023,
-			"width": 2.915710244449656,
-			"height": 108.33910834468043,
+			"x": 8605.21647560521,
+			"y": -3229.3845443223563,
+			"width": 3.186583451108163,
+			"height": 101.55943332748666,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -2741,11 +2694,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 2
 			},
 			"seed": 1862834574,
-			"version": 155,
-			"versionNonce": 1167613326,
+			"version": 556,
+			"versionNonce": 1785153554,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244869,
+			"updated": 1703944679002,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2754,8 +2707,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					0
 				],
 				[
-					2.915710244449656,
-					108.33910834468043
+					3.186583451108163,
+					101.55943332748666
 				]
 			],
 			"lastCommittedPoint": [
@@ -2764,13 +2717,13 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			],
 			"startBinding": {
 				"elementId": "5IV3I5H0Mf1Sp0j6KxN4C",
-				"focus": 0.0450053154893234,
-				"gap": 7.574148601608158
+				"gap": 7.574148601608158,
+				"focus": 0.010735572022627506
 			},
 			"endBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": 0.01828320656246079,
-				"gap": 3.6326185334119145
+				"gap": 3.6326185334119145,
+				"focus": 0.029779940880881404
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -2778,15 +2731,15 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		{
 			"id": "N3in6thOdbTMOrU75DgSJ",
 			"type": "rectangle",
-			"x": 9197.84981956642,
-			"y": -3195.256014693547,
+			"x": 7532.209130748221,
+			"y": -2783.4288631438867,
 			"width": 587.3464874506989,
 			"height": 490,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -2798,8 +2751,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				"type": 3
 			},
 			"seed": 1167550802,
-			"version": 752,
-			"versionNonce": 1154517586,
+			"version": 811,
+			"versionNonce": 1596636110,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2809,24 +2762,28 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				{
 					"id": "sG11kpPqBGReuNSCddbSp",
 					"type": "arrow"
+				},
+				{
+					"id": "U3ZGSrlud6jSy5rfAeMrx",
+					"type": "arrow"
 				}
 			],
-			"updated": 1703943244869,
+			"updated": 1703944651681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "DiReFZ9e",
 			"type": "text",
-			"x": 9203.555228819112,
-			"y": -3190.256014693547,
+			"x": 7537.914540000913,
+			"y": -2778.4288631438867,
 			"width": 575.9356689453125,
 			"height": 480,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -2836,11 +2793,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 615504210,
-			"version": 559,
-			"versionNonce": 370244558,
+			"version": 618,
+			"versionNonce": 1454742286,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244869,
+			"updated": 1703944651681,
 			"link": null,
 			"locked": false,
 			"text": "Liste side-project\n\nSystème de recommandation de contenu : Créez un système de\nrecommandation basé sur l'apprentissage automatique pour recommander\ndes articles de blog, des livres, des vidéos ou des produits en fonction\ndes préférences de l'utilisateur.\n\nApplication mobile de suivi de la santé : Concevez une application qui\npermet aux utilisateurs de suivre leur activité physique, leur\nalimentation et leurs habitudes de sommeil, en fournissant des analyses\net des conseils pour améliorer leur bien-être.\n\nJeu vidéo en 2D/3D : Développez un jeu vidéo en utilisant un moteur\nde jeu populaire comme Unity ou Unreal Engine. Cela vous permettra\nd'explorer la programmation de jeux, les graphiques 2D/3D et l'IA.\n\nPlateforme de blogging personnalisée : Créez votre propre plateforme de\nblogging avec des fonctionnalités avancées telles que la gestion des\nutilisateurs, la publication collaborative, les commentaires en temps réel,\netc.\n\nApplication de messagerie chiffrée : Concevez une application de\nmessagerie sécurisée qui chiffre automatiquement les messages et les\nfichiers partagés pour garantir la confidentialité des utilisateurs.",
@@ -2856,18 +2813,18 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 581,
-			"versionNonce": 716140562,
+			"version": 640,
+			"versionNonce": 1537935694,
 			"isDeleted": false,
 			"id": "WUkshayA-X9HPpPkUeAPl",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9912.240782224797,
-			"y": -3195.256014693547,
+			"x": 8246.600093406598,
+			"y": -2783.4288631438867,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 694.2052231625107,
@@ -2888,26 +2845,30 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				{
 					"id": "QWra48uUobur5W7y_ox6E",
 					"type": "arrow"
+				},
+				{
+					"id": "ZopHZvIW-XiQOsKPB0rvK",
+					"type": "arrow"
 				}
 			],
-			"updated": 1703943244869,
+			"updated": 1703944651681,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 485,
-			"versionNonce": 776786446,
+			"version": 544,
+			"versionNonce": 1708488846,
 			"isDeleted": false,
 			"id": "xwZBROpe",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9926.199594977927,
-			"y": -3190.256014693547,
+			"x": 8260.558906159727,
+			"y": -2778.4288631438867,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 666.28759765625,
@@ -2919,7 +2880,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244869,
+			"updated": 1703944651682,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2935,18 +2896,18 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 544,
-			"versionNonce": 1194040786,
+			"version": 603,
+			"versionNonce": 99825358,
 			"isDeleted": false,
 			"id": "2r96K-3joVT3jaL3LZOlx",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10733.490480594986,
-			"y": -3195.256014693547,
+			"x": 9067.849791776787,
+			"y": -2783.4288631438867,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 609.7645345677812,
@@ -2967,26 +2928,30 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 				{
 					"id": "UvOjIm3aCof38iQvfK4Sy",
 					"type": "arrow"
+				},
+				{
+					"id": "5e6CnGUnEZnAajRbX-ZU6",
+					"type": "arrow"
 				}
 			],
-			"updated": 1703943244869,
+			"updated": 1703944651682,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 533,
-			"versionNonce": 1229152334,
+			"version": 592,
+			"versionNonce": 701576718,
 			"isDeleted": false,
 			"id": "EKl3yIRI",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10738.660925369111,
-			"y": -3190.256014693547,
+			"x": 9073.020236550912,
+			"y": -2778.4288631438867,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 599.4236450195312,
@@ -2998,7 +2963,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244869,
+			"updated": 1703944651683,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3015,15 +2980,15 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		{
 			"id": "mKIuSWH_u9AdJ-elHBjeh",
 			"type": "rectangle",
-			"x": 10560.169445416897,
-			"y": -3429.7571603028537,
+			"x": 8939.276034392768,
+			"y": -3143.919968080688,
 			"width": 327.9189533606351,
-			"height": 90,
+			"height": 130,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -3031,26 +2996,30 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 967080594,
-			"version": 383,
-			"versionNonce": 1100007826,
+			"version": 616,
+			"versionNonce": 513492046,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "JqeW1KIo"
+				},
+				{
+					"id": "UJoQfZP6mHIVmQ5ER6Xqj",
+					"type": "arrow"
 				}
 			],
-			"updated": 1703943350046,
+			"updated": 1703944651683,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "JqeW1KIo",
 			"type": "text",
-			"x": 10575.0250097437,
-			"y": -3424.7571603028537,
+			"x": 8954.13159871957,
+			"y": -3138.919968080688,
 			"width": 298.20782470703125,
-			"height": 80,
+			"height": 120,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3063,36 +3032,36 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 613406546,
-			"version": 528,
-			"versionNonce": 2074462034,
+			"version": 777,
+			"versionNonce": 59345550,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943350046,
+			"updated": 1703944651683,
 			"link": null,
 			"locked": false,
-			"text": "Intéressant sur lesquels travailler\npour apprendre. Pour une personne qui\nfait un cursus d'ingénieur, à déja\nréalisé beaucoup de side project.",
-			"rawText": "Intéressant sur lesquels travailler pour apprendre. Pour une personne qui fait un cursus d'ingénieur, à déja réalisé beaucoup de side project.",
+			"text": "Template prompt\n\nIntéressant sur lesquels travailler\npour apprendre. Pour une personne qui\nfait un cursus d'ingénieur, à déja\nréalisé beaucoup de side project.",
+			"rawText": "Template prompt\n\nIntéressant sur lesquels travailler pour apprendre. Pour une personne qui fait un cursus d'ingénieur, à déja réalisé beaucoup de side project.",
 			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 74,
+			"baseline": 114,
 			"containerId": "mKIuSWH_u9AdJ-elHBjeh",
-			"originalText": "Intéressant sur lesquels travailler pour apprendre. Pour une personne qui fait un cursus d'ingénieur, à déja réalisé beaucoup de side project.",
+			"originalText": "Template prompt\n\nIntéressant sur lesquels travailler pour apprendre. Pour une personne qui fait un cursus d'ingénieur, à déja réalisé beaucoup de side project.",
 			"lineHeight": 1.25
 		},
 		{
 			"id": "UvOjIm3aCof38iQvfK4Sy",
 			"type": "arrow",
-			"x": 10281.7505497944,
-			"y": -3446.1672443922025,
-			"width": 481.8706352014724,
-			"height": 243.5238311471635,
+			"x": 8753.760646416511,
+			"y": -3006.1501640911115,
+			"width": 339.63970200369295,
+			"height": 215.33390239573282,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -3100,11 +3069,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 2071369618,
-			"version": 509,
-			"versionNonce": 282587790,
+			"version": 793,
+			"versionNonce": 45626898,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943308264,
+			"updated": 1703944671574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3113,8 +3082,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					0
 				],
 				[
-					481.8706352014724,
-					243.5238311471635
+					339.63970200369295,
+					215.33390239573282
 				]
 			],
 			"lastCommittedPoint": [
@@ -3123,13 +3092,13 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			],
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": 0.3745353157209811,
-				"gap": 4.500857129307406
+				"gap": 3.0423283703457855,
+				"focus": -0.20481903472522212
 			},
 			"endBinding": {
 				"elementId": "2r96K-3joVT3jaL3LZOlx",
-				"focus": 0.30198503501777496,
-				"gap": 7.38739855149197
+				"gap": 7.38739855149197,
+				"focus": 0.1902513088174727
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -3137,15 +3106,15 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		{
 			"id": "QWra48uUobur5W7y_ox6E",
 			"type": "arrow",
-			"x": 10271.810332038998,
-			"y": -3447.4131507853053,
-			"width": 3.7541862532762025,
-			"height": 246.4275150728572,
+			"x": 8606.667402458992,
+			"y": -3005.9375417252527,
+			"width": 3.721714258816064,
+			"height": 216.7790575624649,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -3153,11 +3122,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 981348882,
-			"version": 534,
-			"versionNonce": 1940268238,
+			"version": 773,
+			"versionNonce": 2087410066,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943244869,
+			"updated": 1703944671574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3166,8 +3135,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					0
 				],
 				[
-					-3.7541862532762025,
-					246.4275150728572
+					-3.721714258816064,
+					216.7790575624649
 				]
 			],
 			"lastCommittedPoint": [
@@ -3176,13 +3145,13 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			],
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": -0.015659149396632283,
-				"gap": 3.2549507362045915
+				"gap": 3.2549507362045915,
+				"focus": -0.01448480409568943
 			},
 			"endBinding": {
 				"elementId": "WUkshayA-X9HPpPkUeAPl",
-				"focus": -0.02082725383665864,
-				"gap": 5.729621018901071
+				"gap": 5.729621018901071,
+				"focus": 0.013066981982038553
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -3190,15 +3159,15 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		{
 			"id": "sG11kpPqBGReuNSCddbSp",
 			"type": "arrow",
-			"x": 10264.24544719546,
-			"y": -3446.9572706891063,
-			"width": 506.73311537700465,
-			"height": 240.46581745750018,
+			"x": 8453.42834428281,
+			"y": -3007.8482383797204,
+			"width": 356.21333265653993,
+			"height": 213.1839366977747,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -3206,11 +3175,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 183741394,
-			"version": 885,
-			"versionNonce": 1236124818,
+			"version": 1185,
+			"versionNonce": 1061920018,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943305700,
+			"updated": 1703944671574,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3219,8 +3188,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					0
 				],
 				[
-					-506.73311537700465,
-					240.46581745750018
+					-356.21333265653993,
+					213.1839366977747
 				]
 			],
 			"lastCommittedPoint": [
@@ -3229,13 +3198,13 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			],
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": -0.4067950257768308,
-				"gap": 3.7108308324036443
+				"gap": 1.3442540817368354,
+				"focus": 0.20253972912958332
 			},
 			"endBinding": {
 				"elementId": "N3in6thOdbTMOrU75DgSJ",
-				"focus": -0.3382570985511068,
-				"gap": 11.235438538059043
+				"gap": 11.235438538059043,
+				"focus": -0.2230518624462008
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -3243,15 +3212,15 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		{
 			"id": "olOaYrvl4_AQ1qvyBlbe1",
 			"type": "rectangle",
-			"x": 10540.062696627834,
-			"y": -3964.4461434001423,
+			"x": 8903.555728952317,
+			"y": -3551.9094362821183,
 			"width": 302.93131745955,
 			"height": 61.89671776975092,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
@@ -3259,24 +3228,28 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 763528082,
-			"version": 171,
-			"versionNonce": 440292946,
+			"version": 271,
+			"versionNonce": 1001795986,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "gwhA2BFN"
+				},
+				{
+					"id": "-v_0zNb95hzgjEb5Hq7RC",
+					"type": "arrow"
 				}
 			],
-			"updated": 1703943348366,
+			"updated": 1703944646551,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "gwhA2BFN",
 			"type": "text",
-			"x": 10553.672444102727,
-			"y": -3953.497784515267,
+			"x": 8917.16547642721,
+			"y": -3540.961077397243,
 			"width": 275.7118225097656,
 			"height": 40,
 			"angle": 0,
@@ -3291,11 +3264,11 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"seed": 1325631890,
-			"version": 244,
-			"versionNonce": 679722002,
+			"version": 344,
+			"versionNonce": 657254542,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703943348366,
+			"updated": 1703944646551,
 			"link": null,
 			"locked": false,
 			"text": "Extrait les mots clès pertinent de\ncette phrase.",
@@ -3310,9 +3283,636 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"lineHeight": 1.25
 		},
 		{
+			"id": "-v_0zNb95hzgjEb5Hq7RC",
+			"type": "arrow",
+			"x": 8720.510018509083,
+			"y": -3520.945427643093,
+			"width": 179.8097362157023,
+			"height": 2.699967600113723,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2062232654,
+			"version": 227,
+			"versionNonce": 1646022990,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703944661463,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					179.8097362157023,
+					2.699967600113723
+				]
+			],
+			"lastCommittedPoint": [
+				146.919802019107,
+				2.5943758880621317
+			],
+			"startBinding": {
+				"elementId": "NZMg5n9lLupEjyGjkXcTB",
+				"focus": 0.007016222194489418,
+				"gap": 4.311886454041087
+			},
+			"endBinding": {
+				"elementId": "olOaYrvl4_AQ1qvyBlbe1",
+				"focus": -0.15166034954832497,
+				"gap": 3.235974227532097
+			},
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "ALQgJLBh9BGd2xMbsceuW",
 			"type": "rectangle",
-			"version": 293,
-			"versionNonce": 166289934,
+			"x": 8473.888835608823,
+			"y": -1571.6500115884753,
+			"width": 261.99832960230015,
+			"height": 118.27430160157155,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 2144973778,
+			"version": 305,
+			"versionNonce": 165023758,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "M4IpPQ08"
+				},
+				{
+					"id": "Tdviut1XD64GQ_izRrWKk",
+					"type": "arrow"
+				}
+			],
+			"updated": 1703944661464,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "M4IpPQ08",
+			"type": "text",
+			"x": 8501.036056440247,
+			"y": -1565.0128607876895,
+			"width": 207.70388793945312,
+			"height": 105,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1134931598,
+			"version": 290,
+			"versionNonce": 1214573390,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703944662954,
+			"link": null,
+			"locked": false,
+			"text": "Proposition des\nidées\nà l'utilisateur",
+			"rawText": "Proposition des idées\nà l'utilisateur",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 95,
+			"containerId": "ALQgJLBh9BGd2xMbsceuW",
+			"originalText": "Proposition des idées\nà l'utilisateur",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "TRTqel4zJJp6TmMJMqedZ",
+			"type": "rectangle",
+			"x": 8402.489821675726,
+			"y": -1933.1341594938913,
+			"width": 405.78869987996325,
+			"height": 220,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1292620562,
+			"version": 268,
+			"versionNonce": 864440718,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "78aWKsZI"
+				},
+				{
+					"id": "ZopHZvIW-XiQOsKPB0rvK",
+					"type": "arrow"
+				},
+				{
+					"id": "5e6CnGUnEZnAajRbX-ZU6",
+					"type": "arrow"
+				},
+				{
+					"id": "U3ZGSrlud6jSy5rfAeMrx",
+					"type": "arrow"
+				},
+				{
+					"id": "Tdviut1XD64GQ_izRrWKk",
+					"type": "arrow"
+				}
+			],
+			"updated": 1703944662955,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "78aWKsZI",
+			"type": "text",
+			"x": 8418.050278793442,
+			"y": -1928.1341594938913,
+			"width": 374.66778564453125,
+			"height": 210,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1764856658,
+			"version": 302,
+			"versionNonce": 2048978894,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703944662955,
+			"link": null,
+			"locked": false,
+			"text": "Convergence\n\nRécupération des idées les\nplus pertinentes\n\n(Self-improvement)",
+			"rawText": "Convergence\n\nRécupération des idées les plus pertinentes\n\n(Self-improvement)",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 200,
+			"containerId": "TRTqel4zJJp6TmMJMqedZ",
+			"originalText": "Convergence\n\nRécupération des idées les plus pertinentes\n\n(Self-improvement)",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "ZopHZvIW-XiQOsKPB0rvK",
+			"type": "arrow",
+			"x": 8603.013613855455,
+			"y": -2250.5351304290107,
+			"width": 2.289474154233176,
+			"height": 315.3339942667785,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 674288658,
+			"version": 555,
+			"versionNonce": 756632526,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703944661465,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.289474154233176,
+					315.3339942667785
+				]
+			],
+			"lastCommittedPoint": [
+				-12.470429271328612,
+				294.79500860322287
+			],
+			"startBinding": {
+				"elementId": "WUkshayA-X9HPpPkUeAPl",
+				"focus": -0.03223448405923075,
+				"gap": 2.8937327148760232
+			},
+			"endBinding": {
+				"elementId": "TRTqel4zJJp6TmMJMqedZ",
+				"focus": -0.026264869543378554,
+				"gap": 2.0669766683408852
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "5e6CnGUnEZnAajRbX-ZU6",
+			"type": "arrow",
+			"x": 9125.113262826688,
+			"y": -2269.454595077045,
+			"width": 384.69313467091524,
+			"height": 330.2294133600458,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 244951566,
+			"version": 505,
+			"versionNonce": 2090283086,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703944661465,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-384.69313467091524,
+					330.2294133600458
+				]
+			],
+			"lastCommittedPoint": [
+				-538.1567744414169,
+				311.02888429231416
+			],
+			"startBinding": {
+				"elementId": "2r96K-3joVT3jaL3LZOlx",
+				"focus": -0.08944691986548231,
+				"gap": 3.974268066841887
+			},
+			"endBinding": {
+				"elementId": "TRTqel4zJJp6TmMJMqedZ",
+				"focus": 0.06497542066234381,
+				"gap": 6.091022223107757
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "U3ZGSrlud6jSy5rfAeMrx",
+			"type": "arrow",
+			"x": 8080.358884252542,
+			"y": -2285.4647078223406,
+			"width": 387.8177614532942,
+			"height": 347.2042131557441,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1892299086,
+			"version": 457,
+			"versionNonce": 541455566,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703944661465,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					387.8177614532942,
+					347.2042131557441
+				]
+			],
+			"lastCommittedPoint": [
+				494.57079058231466,
+				336.67936267995674
+			],
+			"startBinding": {
+				"elementId": "N3in6thOdbTMOrU75DgSJ",
+				"focus": 0.04912880785511977,
+				"gap": 7.964155321546059
+			},
+			"endBinding": {
+				"elementId": "TRTqel4zJJp6TmMJMqedZ",
+				"focus": -0.09196674185035239,
+				"gap": 5.1263351727052395
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Tdviut1XD64GQ_izRrWKk",
+			"type": "arrow",
+			"x": 8605.16534812496,
+			"y": -1744.8249763100089,
+			"width": 1.7141924805837334,
+			"height": 171.91248200928226,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1082424402,
+			"version": 411,
+			"versionNonce": 695048526,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703944661465,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.7141924805837334,
+					171.91248200928226
+				]
+			],
+			"lastCommittedPoint": [
+				-1.0811363892717054,
+				162.82528678651647
+			],
+			"startBinding": {
+				"elementId": "TRTqel4zJJp6TmMJMqedZ",
+				"focus": 0.005758671931351268,
+				"gap": 3.3091831838823964
+			},
+			"endBinding": {
+				"elementId": "ALQgJLBh9BGd2xMbsceuW",
+				"focus": 0.019711425475881086,
+				"gap": 1.2624827122513125
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "UJoQfZP6mHIVmQ5ER6Xqj",
+			"type": "arrow",
+			"x": 8780.509573737045,
+			"y": -3064.4727608314815,
+			"width": 154.62012427925947,
+			"height": 6.435309986189168,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 220065234,
+			"version": 480,
+			"versionNonce": 2056323218,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703944671574,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					154.62012427925947,
+					-6.435309986189168
+				]
+			],
+			"lastCommittedPoint": [
+				148.11783917072353,
+				67.33145469102419
+			],
+			"startBinding": {
+				"elementId": "Pn0YoozQtSEwcguMicfsX",
+				"gap": 7.136820194386019,
+				"focus": 0.14750535395365655
+			},
+			"endBinding": {
+				"elementId": "mKIuSWH_u9AdJ-elHBjeh",
+				"gap": 4.146336376464205,
+				"focus": -0.014136095406629438
+			},
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "OqrJpci-QhcsWTm_Oe1oI",
+			"type": "rectangle",
+			"x": 7973.004014209959,
+			"y": -1228.4091492281023,
+			"width": 1129.295011218128,
+			"height": 787.4924183297046,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1839247442,
+			"version": 94,
+			"versionNonce": 1589402642,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "2IG4ItYO"
+				}
+			],
+			"updated": 1703944646551,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "2IG4ItYO",
+			"type": "text",
+			"x": 8414.255584760429,
+			"y": -1223.4091492281023,
+			"width": 246.7918701171875,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 412950866,
+			"version": 113,
+			"versionNonce": 1054123534,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703944646551,
+			"link": null,
+			"locked": false,
+			"text": "Profile utilisateur",
+			"rawText": "Profile utilisateur",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": "OqrJpci-QhcsWTm_Oe1oI",
+			"originalText": "Profile utilisateur",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "rectangle",
+			"version": 51,
+			"versionNonce": 1901893010,
+			"isDeleted": true,
+			"id": "_DAlArnSvlVwkuP9edjtN",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7360.848957085322,
+			"y": -3371.997598438739,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1351.520808500476,
+			"height": 1427.1263669798336,
+			"seed": 66353232,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1703944646550,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 100,
+			"versionNonce": 1351533710,
+			"isDeleted": true,
+			"id": "u0sofVxl",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 7502.6089223205345,
+			"y": -3273.3022609555837,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 458.63983154296875,
+			"height": 45,
+			"seed": 960403120,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1703944646550,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "Exercice adapté au profil",
+			"rawText": "Exercice adapté au profil",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Exercice adapté au profil",
+			"lineHeight": 1.25,
+			"baseline": 32
+		},
+		{
+			"type": "rectangle",
+			"version": 295,
+			"versionNonce": 1113132562,
 			"isDeleted": true,
 			"id": "6X5sIlH1w7NQ6afuftK2o",
 			"fillStyle": "solid",
@@ -3337,14 +3937,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "QDkoL4gIrOtMyqvCHYjWs"
 				}
 			],
-			"updated": 1703943252279,
+			"updated": 1703944646551,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 419,
-			"versionNonce": 1835011538,
+			"version": 421,
+			"versionNonce": 1981027342,
 			"isDeleted": true,
 			"id": "O2uUGZUq",
 			"fillStyle": "solid",
@@ -3364,7 +3964,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943252279,
+			"updated": 1703944646551,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3380,8 +3980,8 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		},
 		{
 			"type": "rectangle",
-			"version": 390,
-			"versionNonce": 1719781710,
+			"version": 392,
+			"versionNonce": 871463890,
 			"isDeleted": true,
 			"id": "ZdwNs0o0tdzwUS_HeyXpd",
 			"fillStyle": "solid",
@@ -3408,14 +4008,14 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 					"id": "l7Lxu8QC"
 				}
 			],
-			"updated": 1703943244869,
+			"updated": 1703944646551,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 348,
-			"versionNonce": 307542674,
+			"version": 350,
+			"versionNonce": 1523737166,
 			"isDeleted": true,
 			"id": "l7Lxu8QC",
 			"fillStyle": "solid",
@@ -3435,7 +4035,7 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703943244869,
+			"updated": 1703944646551,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3456,21 +4056,21 @@ Extrait les mots clès pertinent de cette phrase. ^gwhA2BFN
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 1,
+		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 2,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 16,
+		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": -8969.388633318014,
-		"scrollY": 4364.328379789555,
+		"currentItemEndArrowhead": null,
+		"scrollX": -7054.579053845323,
+		"scrollY": 3865.93053868407,
 		"zoom": {
-			"value": 0.627954645323923
+			"value": 0.4512251170166825
 		},
-		"currentItemRoundness": "sharp",
+		"currentItemRoundness": "round",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
