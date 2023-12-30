@@ -88,7 +88,7 @@ Résultats ! ^yKmCuvXX
 
 Exercice adapté au profil ^u0sofVxl
 
- Exercice  ^BzDb4VNc
+ Exercice adapté selon le profile ^BzDb4VNc
 
 %%
 # Drawing
@@ -1348,8 +1348,8 @@ Exercice adapté au profil ^u0sofVxl
 		},
 		{
 			"type": "rectangle",
-			"version": 277,
-			"versionNonce": 1818206767,
+			"version": 293,
+			"versionNonce": 395685714,
 			"isDeleted": false,
 			"id": "HcIMWCEUH0YnTKGHQAzjL",
 			"fillStyle": "solid",
@@ -1358,8 +1358,8 @@ Exercice adapté au profil ^u0sofVxl
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3024.4162206465426,
-			"y": 75.18889127992998,
+			"x": 3075.9727341165635,
+			"y": 94.58623444865543,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 503.8818626509851,
@@ -1376,14 +1376,14 @@ Exercice adapté au profil ^u0sofVxl
 					"id": "zUongiHi"
 				}
 			],
-			"updated": 1702974242002,
+			"updated": 1703940638988,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 231,
-			"versionNonce": 1905723425,
+			"version": 247,
+			"versionNonce": 327677202,
 			"isDeleted": false,
 			"id": "zUongiHi",
 			"fillStyle": "solid",
@@ -1392,8 +1392,8 @@ Exercice adapté au profil ^u0sofVxl
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3182.127194391469,
-			"y": 100.2923130901666,
+			"x": 3233.68370786149,
+			"y": 119.68965625889206,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 188.4599151611328,
@@ -1403,7 +1403,7 @@ Exercice adapté au profil ^u0sofVxl
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702974334517,
+			"updated": 1703940638988,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2612,8 +2612,8 @@ Exercice adapté au profil ^u0sofVxl
 		},
 		{
 			"type": "rectangle",
-			"version": 191,
-			"versionNonce": 595075346,
+			"version": 192,
+			"versionNonce": 2107070610,
 			"isDeleted": false,
 			"id": "5wffmOGnuazeblk9fGPST",
 			"fillStyle": "solid",
@@ -2622,8 +2622,8 @@ Exercice adapté au profil ^u0sofVxl
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2795.3614953913598,
-			"y": -728.5020731238794,
+			"x": 2794.9637166918465,
+			"y": -728.7009624736359,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1129.6323452362203,
@@ -2640,16 +2640,16 @@ Exercice adapté au profil ^u0sofVxl
 					"id": "BzDb4VNc"
 				}
 			],
-			"updated": 1703938910308,
+			"updated": 1703940639647,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "BzDb4VNc",
 			"type": "text",
-			"x": 2800.3614953913598,
-			"y": -723.5020731238794,
-			"width": 179.38792419433594,
+			"x": 2799.9637166918465,
+			"y": -723.7009624736359,
+			"width": 584.4957275390625,
 			"height": 45,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -2663,22 +2663,22 @@ Exercice adapté au profil ^u0sofVxl
 			"frameId": null,
 			"roundness": null,
 			"seed": 1767389902,
-			"version": 15,
-			"versionNonce": 468875666,
+			"version": 49,
+			"versionNonce": 822080850,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703938917552,
+			"updated": 1703940648440,
 			"link": null,
 			"locked": false,
-			"text": " Exercice ",
-			"rawText": " Exercice ",
+			"text": " Exercice adapté selon le profile",
+			"rawText": " Exercice adapté selon le profile",
 			"fontSize": 36,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 32,
 			"containerId": "5wffmOGnuazeblk9fGPST",
-			"originalText": " Exercice ",
+			"originalText": " Exercice adapté selon le profile",
 			"lineHeight": 1.25
 		},
 		{
@@ -3013,8 +3013,8 @@ Exercice adapté au profil ^u0sofVxl
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2416.333947084273,
-		"scrollY": 1292.9633599689448,
+		"scrollX": -2437.5972626236576,
+		"scrollY": 1198.7972482945286,
 		"zoom": {
 			"value": 0.6584109601378442
 		},
