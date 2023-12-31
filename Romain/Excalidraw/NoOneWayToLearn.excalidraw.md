@@ -141,8 +141,6 @@ Récupération des idées les plus pertinentes
 
 (Self-improvement) ^78aWKsZI
 
-Profile utilisateur ^2IG4ItYO
-
 Réalisation de side project, de poc pour tester des technologies. ^OqXOrkRO
 
 Recherche de projet en lien avec l'énoncé ^y0FMb98H
@@ -183,6 +181,8 @@ Détaillage complet du sujet ^nzuIKuJZ
 
 Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 
+Selon résultat custom IA ^vsjGwid6
+
 %%
 # Drawing
 ```json
@@ -193,8 +193,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 874,
-			"versionNonce": 1904064325,
+			"version": 875,
+			"versionNonce": 2125715947,
 			"isDeleted": false,
 			"id": "pKsl7wyQqUnUayB3pdVxi",
 			"fillStyle": "solid",
@@ -216,14 +216,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 419,
-			"versionNonce": 936381323,
+			"version": 420,
+			"versionNonce": 1518292549,
 			"isDeleted": false,
 			"id": "wI8Cbs5C",
 			"fillStyle": "solid",
@@ -243,7 +243,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -259,8 +259,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 203,
-			"versionNonce": 1974503077,
+			"version": 204,
+			"versionNonce": 177693835,
 			"isDeleted": false,
 			"id": "bibEFJAn",
 			"fillStyle": "solid",
@@ -282,7 +282,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -298,8 +298,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 321,
-			"versionNonce": 1618764331,
+			"version": 322,
+			"versionNonce": 409419173,
 			"isDeleted": false,
 			"id": "KUh-vgbuLIbQlo3uUa44V",
 			"fillStyle": "solid",
@@ -328,14 +328,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "txrSQL5j"
 				}
 			],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 201,
-			"versionNonce": 1033005573,
+			"version": 202,
+			"versionNonce": 1928370987,
 			"isDeleted": false,
 			"id": "txrSQL5j",
 			"fillStyle": "solid",
@@ -357,7 +357,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -373,8 +373,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 219,
-			"versionNonce": 1789191371,
+			"version": 220,
+			"versionNonce": 1717190917,
 			"isDeleted": false,
 			"id": "G2zz7dWK",
 			"fillStyle": "solid",
@@ -396,7 +396,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -412,8 +412,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 287,
-			"versionNonce": 706797925,
+			"version": 288,
+			"versionNonce": 1948909003,
 			"isDeleted": false,
 			"id": "SNE7uE9dwrjI0OzFIHn5V",
 			"fillStyle": "solid",
@@ -442,14 +442,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "p1U71YSp"
 				}
 			],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 228,
-			"versionNonce": 769921899,
+			"version": 229,
+			"versionNonce": 970315877,
 			"isDeleted": false,
 			"id": "p1U71YSp",
 			"fillStyle": "solid",
@@ -471,7 +471,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -487,8 +487,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 267,
-			"versionNonce": 547974341,
+			"version": 268,
+			"versionNonce": 1499335787,
 			"isDeleted": false,
 			"id": "TZm7RFnx",
 			"fillStyle": "solid",
@@ -510,7 +510,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -526,8 +526,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 367,
-			"versionNonce": 713321995,
+			"version": 368,
+			"versionNonce": 2091353029,
 			"isDeleted": false,
 			"id": "juMq16so1JC8TglRyFzf5",
 			"fillStyle": "solid",
@@ -556,14 +556,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "HXbrMGl1"
 				}
 			],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 308,
-			"versionNonce": 13208613,
+			"version": 309,
+			"versionNonce": 643254027,
 			"isDeleted": false,
 			"id": "HXbrMGl1",
 			"fillStyle": "solid",
@@ -585,7 +585,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -601,8 +601,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 324,
-			"versionNonce": 1937798315,
+			"version": 325,
+			"versionNonce": 49070885,
 			"isDeleted": false,
 			"id": "sj8BGbVc",
 			"fillStyle": "solid",
@@ -624,7 +624,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -640,8 +640,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 458,
-			"versionNonce": 1517207429,
+			"version": 459,
+			"versionNonce": 26226091,
 			"isDeleted": false,
 			"id": "w5arLD6KnYGZS62ivU9GR",
 			"fillStyle": "solid",
@@ -670,14 +670,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "w7z9RaEp"
 				}
 			],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 402,
-			"versionNonce": 1484957515,
+			"version": 403,
+			"versionNonce": 1091769989,
 			"isDeleted": false,
 			"id": "w7z9RaEp",
 			"fillStyle": "solid",
@@ -699,7 +699,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -715,8 +715,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 440,
-			"versionNonce": 1675003621,
+			"version": 441,
+			"versionNonce": 1580417099,
 			"isDeleted": false,
 			"id": "86N7YlPU2sbDylatbJ8ZE",
 			"fillStyle": "solid",
@@ -747,14 +747,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 386,
-			"versionNonce": 1340442091,
+			"version": 387,
+			"versionNonce": 1104674277,
 			"isDeleted": false,
 			"id": "ALYWArbC",
 			"fillStyle": "solid",
@@ -774,7 +774,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -790,8 +790,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 231,
-			"versionNonce": 797860421,
+			"version": 232,
+			"versionNonce": 1713045227,
 			"isDeleted": false,
 			"id": "oI9vkstq",
 			"fillStyle": "solid",
@@ -811,7 +811,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -827,8 +827,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 1224,
-			"versionNonce": 617585291,
+			"version": 1225,
+			"versionNonce": 1548286277,
 			"isDeleted": false,
 			"id": "UAcjvopcZRjqv_hxKM_Mv",
 			"fillStyle": "solid",
@@ -850,7 +850,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303437,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -879,8 +879,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 428,
-			"versionNonce": 578015653,
+			"version": 429,
+			"versionNonce": 600959371,
 			"isDeleted": false,
 			"id": "6K16IajFGyqyb1KSb7kAk",
 			"fillStyle": "solid",
@@ -907,14 +907,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 421,
-			"versionNonce": 1286031147,
+			"version": 422,
+			"versionNonce": 700680357,
 			"isDeleted": false,
 			"id": "Gi0wgSjHoqOERbgeffuU8",
 			"fillStyle": "solid",
@@ -941,14 +941,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "PxK5JtFz"
 				}
 			],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 699684101,
+			"version": 183,
+			"versionNonce": 1821540395,
 			"isDeleted": false,
 			"id": "PxK5JtFz",
 			"fillStyle": "solid",
@@ -968,7 +968,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -984,8 +984,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 179,
-			"versionNonce": 975907275,
+			"version": 180,
+			"versionNonce": 1005923333,
 			"isDeleted": false,
 			"id": "Y9xLPD4N",
 			"fillStyle": "solid",
@@ -1005,7 +1005,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1021,8 +1021,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 135,
-			"versionNonce": 818768997,
+			"version": 136,
+			"versionNonce": 172442315,
 			"isDeleted": false,
 			"id": "9Pntq_mX0bmtOpCJa4KUC",
 			"fillStyle": "solid",
@@ -1053,14 +1053,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 88,
-			"versionNonce": 509196395,
+			"version": 89,
+			"versionNonce": 316367717,
 			"isDeleted": false,
 			"id": "8dmrl7sD",
 			"fillStyle": "solid",
@@ -1080,7 +1080,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1096,8 +1096,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 1468831685,
+			"version": 149,
+			"versionNonce": 629846379,
 			"isDeleted": false,
 			"id": "20SOmUBu",
 			"fillStyle": "solid",
@@ -1117,7 +1117,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1133,8 +1133,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 535,
-			"versionNonce": 978105291,
+			"version": 991,
+			"versionNonce": 330625067,
 			"isDeleted": false,
 			"id": "ALLr2jULkX0_rXisvwcQx",
 			"fillStyle": "solid",
@@ -1143,12 +1143,12 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5231.206913443708,
-			"y": -2585.168955694633,
+			"x": 5207.979470054171,
+			"y": -2584.107289174829,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 161.06008215648035,
-			"height": 660.6684211389156,
+			"width": 5.736853195146978,
+			"height": 459.1618086153585,
 			"seed": 959953275,
 			"groupIds": [],
 			"frameId": null,
@@ -1156,18 +1156,18 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303442,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "9Pntq_mX0bmtOpCJa4KUC",
-				"gap": 4.410414004297991,
-				"focus": -0.13936791466345821
+				"focus": 0.04011836183782724,
+				"gap": 5.472080524102012
 			},
 			"endBinding": {
-				"elementId": "j3V7K6RKEw_Nx_bu3LoyZ",
-				"gap": 5.689593625343036,
-				"focus": -0.31533170146372413
+				"elementId": "ViUdqh8UuCi9LrMx8wjji",
+				"focus": 0.031533302022098274,
+				"gap": 9.295853986048428
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1178,15 +1178,15 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					0
 				],
 				[
-					-161.06008215648035,
-					660.6684211389156
+					-5.736853195146978,
+					459.1618086153585
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 250,
-			"versionNonce": 1745835813,
+			"version": 251,
+			"versionNonce": 1873234955,
 			"isDeleted": false,
 			"id": "sl0lZT7P57Ylc-S-LFWXN",
 			"fillStyle": "solid",
@@ -1208,14 +1208,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 319,
-			"versionNonce": 1687214507,
+			"version": 320,
+			"versionNonce": 978030117,
 			"isDeleted": false,
 			"id": "V82hYxku",
 			"fillStyle": "solid",
@@ -1235,7 +1235,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741279,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1251,8 +1251,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 974,
-			"versionNonce": 214116997,
+			"version": 975,
+			"versionNonce": 211260075,
 			"isDeleted": false,
 			"id": "5cqgQHoo4hZU_tJdHHBZp",
 			"fillStyle": "solid",
@@ -1276,14 +1276,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 683,
-			"versionNonce": 1950248011,
+			"version": 684,
+			"versionNonce": 1482719621,
 			"isDeleted": false,
 			"id": "elFvMCn9",
 			"fillStyle": "solid",
@@ -1306,7 +1306,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1322,8 +1322,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 362,
-			"versionNonce": 1181061605,
+			"version": 363,
+			"versionNonce": 1023804747,
 			"isDeleted": false,
 			"id": "37AvBUc3",
 			"fillStyle": "solid",
@@ -1347,7 +1347,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1363,8 +1363,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 480,
-			"versionNonce": 1776331499,
+			"version": 481,
+			"versionNonce": 37751013,
 			"isDeleted": false,
 			"id": "2r-ujw4kK1is65kaYtYZl",
 			"fillStyle": "solid",
@@ -1395,14 +1395,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "7BTr1mgc"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037733379,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 360,
-			"versionNonce": 570690885,
+			"version": 361,
+			"versionNonce": 1213015019,
 			"isDeleted": false,
 			"id": "7BTr1mgc",
 			"fillStyle": "solid",
@@ -1426,7 +1426,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1442,8 +1442,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 378,
-			"versionNonce": 2046956939,
+			"version": 379,
+			"versionNonce": 158835781,
 			"isDeleted": false,
 			"id": "9bjU6iiG",
 			"fillStyle": "solid",
@@ -1467,7 +1467,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1483,8 +1483,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 446,
-			"versionNonce": 788274341,
+			"version": 447,
+			"versionNonce": 645361291,
 			"isDeleted": false,
 			"id": "U5DQATlFecz1B_J28-YDc",
 			"fillStyle": "solid",
@@ -1515,14 +1515,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "y406OXdE"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 388,
-			"versionNonce": 1675439147,
+			"version": 389,
+			"versionNonce": 837079973,
 			"isDeleted": false,
 			"id": "y406OXdE",
 			"fillStyle": "solid",
@@ -1546,7 +1546,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1562,8 +1562,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 426,
-			"versionNonce": 888881157,
+			"version": 427,
+			"versionNonce": 1782539563,
 			"isDeleted": false,
 			"id": "57VTVw4K",
 			"fillStyle": "solid",
@@ -1587,7 +1587,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1603,8 +1603,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 526,
-			"versionNonce": 459042507,
+			"version": 527,
+			"versionNonce": 1739921157,
 			"isDeleted": false,
 			"id": "zjs2Wq3Km__0icC5lb5qo",
 			"fillStyle": "solid",
@@ -1635,14 +1635,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "uuqY9vRM"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 468,
-			"versionNonce": 704575333,
+			"version": 469,
+			"versionNonce": 1796179915,
 			"isDeleted": false,
 			"id": "uuqY9vRM",
 			"fillStyle": "solid",
@@ -1666,7 +1666,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1682,8 +1682,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 483,
-			"versionNonce": 857365867,
+			"version": 484,
+			"versionNonce": 895872613,
 			"isDeleted": false,
 			"id": "jwognhOS",
 			"fillStyle": "solid",
@@ -1707,7 +1707,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1723,8 +1723,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 618,
-			"versionNonce": 1750385349,
+			"version": 619,
+			"versionNonce": 788682347,
 			"isDeleted": false,
 			"id": "n6Yr6QmqAnG0MY0k8UQEg",
 			"fillStyle": "solid",
@@ -1755,14 +1755,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "51TAwFTo"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 563,
-			"versionNonce": 107051019,
+			"version": 564,
+			"versionNonce": 2042943941,
 			"isDeleted": false,
 			"id": "51TAwFTo",
 			"fillStyle": "solid",
@@ -1786,7 +1786,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1802,8 +1802,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 473,
-			"versionNonce": 614081061,
+			"version": 474,
+			"versionNonce": 350376203,
 			"isDeleted": false,
 			"id": "vBSh6_8-Hze-WwVfCn3MR",
 			"fillStyle": "solid",
@@ -1833,14 +1833,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "yKmCuvXX"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 423,
-			"versionNonce": 590102187,
+			"version": 424,
+			"versionNonce": 1575967013,
 			"isDeleted": false,
 			"id": "yKmCuvXX",
 			"fillStyle": "solid",
@@ -1863,7 +1863,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1879,8 +1879,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 145,
-			"versionNonce": 599561605,
+			"version": 288,
+			"versionNonce": 1934646283,
 			"isDeleted": false,
 			"id": "j3V7K6RKEw_Nx_bu3LoyZ",
 			"fillStyle": "solid",
@@ -1889,8 +1889,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4377.978472049974,
-			"y": -1918.8109409303743,
+			"x": 8130.210919755385,
+			"y": -3197.4641594548916,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1671.9365450312512,
@@ -1909,14 +1909,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037826956,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 296,
-			"versionNonce": 1948594507,
+			"version": 439,
+			"versionNonce": 1486791339,
 			"isDeleted": false,
 			"id": "qgzhhTs0",
 			"fillStyle": "solid",
@@ -1925,8 +1925,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4995.840818051927,
-			"y": -2052.1138342087506,
+			"x": 8748.073265757339,
+			"y": -3330.767052733268,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 436.21185302734375,
@@ -1938,7 +1938,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037826956,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1954,8 +1954,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 348,
-			"versionNonce": 821664997,
+			"version": 501,
+			"versionNonce": 363533643,
 			"isDeleted": false,
 			"id": "HcIMWCEUH0YnTKGHQAzjL",
 			"fillStyle": "solid",
@@ -1964,8 +1964,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4947.921279942724,
-			"y": -802.8248027668878,
+			"x": 8700.153727648136,
+			"y": -2081.478021291405,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 503.8818626509851,
@@ -1984,14 +1984,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "zUongiHi"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037826956,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 302,
-			"versionNonce": 715575275,
+			"version": 445,
+			"versionNonce": 1775252459,
 			"isDeleted": false,
 			"id": "zUongiHi",
 			"fillStyle": "solid",
@@ -2000,8 +2000,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5105.6322536876505,
-			"y": -777.7213809566513,
+			"x": 8857.86470139306,
+			"y": -2056.374599481169,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 188.4599151611328,
@@ -2013,7 +2013,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037826956,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2029,8 +2029,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 1407105093,
+			"version": 229,
+			"versionNonce": 1159233163,
 			"isDeleted": false,
 			"id": "AC1ULsMY",
 			"fillStyle": "solid",
@@ -2039,8 +2039,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4606.116638233085,
-			"y": -1801.0564142770509,
+			"x": 8358.349085938495,
+			"y": -3079.709632801568,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 187.63194274902344,
@@ -2052,7 +2052,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037826956,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2068,8 +2068,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 270,
-			"versionNonce": 1757125259,
+			"version": 413,
+			"versionNonce": 842954027,
 			"isDeleted": false,
 			"id": "5wffmOGnuazeblk9fGPST",
 			"fillStyle": "solid",
@@ -2078,8 +2078,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4666.912262518008,
-			"y": -1626.111999689179,
+			"x": 8419.14471022342,
+			"y": -2904.7652182136962,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1129.6323452362203,
@@ -2098,14 +2098,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "BzDb4VNc"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037826956,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 127,
-			"versionNonce": 1179215781,
+			"version": 270,
+			"versionNonce": 11311051,
 			"isDeleted": false,
 			"id": "BzDb4VNc",
 			"fillStyle": "solid",
@@ -2114,8 +2114,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4671.912262518008,
-			"y": -1621.111999689179,
+			"x": 8424.14471022342,
+			"y": -2899.7652182136962,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 584.4957275390625,
@@ -2127,7 +2127,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037826956,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2143,8 +2143,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "text",
-			"version": 461,
-			"versionNonce": 723390763,
+			"version": 462,
+			"versionNonce": 1540038309,
 			"isDeleted": false,
 			"id": "fcNtmNUe",
 			"fillStyle": "solid",
@@ -2164,7 +2164,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2180,8 +2180,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 73,
-			"versionNonce": 711404293,
+			"version": 74,
+			"versionNonce": 1895254571,
 			"isDeleted": false,
 			"id": "T2bFBF7Ud92oyOKTRr8Mb",
 			"fillStyle": "solid",
@@ -2203,14 +2203,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 121,
-			"versionNonce": 1933095883,
+			"version": 122,
+			"versionNonce": 882508293,
 			"isDeleted": false,
 			"id": "mtx6UlL5tBsnEeuvfDu_Q",
 			"fillStyle": "solid",
@@ -2237,14 +2237,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"id": "kfjUeBlw"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 265,
-			"versionNonce": 11895397,
+			"version": 266,
+			"versionNonce": 2072169675,
 			"isDeleted": false,
 			"id": "kfjUeBlw",
 			"fillStyle": "solid",
@@ -2264,7 +2264,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037733380,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2280,8 +2280,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 325,
-			"versionNonce": 824574571,
+			"version": 776,
+			"versionNonce": 344239947,
 			"isDeleted": false,
 			"id": "oFggns6fZGfAWfhjFJuxE",
 			"fillStyle": "solid",
@@ -2290,14 +2290,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8372.387681326174,
-			"y": -3804.191242696226,
+			"x": 4030.843210249611,
+			"y": -1413.592958649569,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 465.7468505229098,
 			"height": 131.197698698983,
 			"seed": 1638035982,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -2310,16 +2312,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 				{
 					"id": "yIF1auVG5Q604ORt9xVgE",
 					"type": "arrow"
+				},
+				{
+					"id": "PojRhU0PZquWclZhQ41bU",
+					"type": "arrow"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 318,
-			"versionNonce": 1577184709,
+			"version": 764,
+			"versionNonce": 1418088235,
 			"isDeleted": false,
 			"id": "vXVRuslB",
 			"fillStyle": "solid",
@@ -2328,18 +2334,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8391.845197774152,
-			"y": -3791.0923933467343,
+			"x": 4050.3007266975883,
+			"y": -1400.4941093000775,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 426.8318176269531,
 			"height": 105,
 			"seed": 252387086,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2355,8 +2363,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 122,
-			"versionNonce": 1840282891,
+			"version": 568,
+			"versionNonce": 15282635,
 			"isDeleted": false,
 			"id": "NZMg5n9lLupEjyGjkXcTB",
 			"fillStyle": "solid",
@@ -2365,14 +2373,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8494.324081120221,
-			"y": -3564.9080386008527,
+			"x": 4152.779610043658,
+			"y": -1174.309754554196,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 221.87405093482084,
 			"height": 83.73665051539865,
 			"seed": 235131278,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -2395,14 +2405,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 1634331941,
+			"version": 557,
+			"versionNonce": 129528907,
 			"isDeleted": false,
 			"id": "Rql0ESqm",
 			"fillStyle": "solid",
@@ -2411,18 +2421,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8502.165151692612,
-			"y": -3558.0397133431534,
+			"x": 4160.620680616049,
+			"y": -1167.4414292964966,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 206.19190979003906,
 			"height": 70,
 			"seed": 234458638,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2438,8 +2450,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 616,
-			"versionNonce": 1514862155,
+			"version": 1968,
+			"versionNonce": 1410666885,
 			"isDeleted": false,
 			"id": "yIF1auVG5Q604ORt9xVgE",
 			"fillStyle": "solid",
@@ -2448,31 +2460,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8604.770892308203,
-			"y": -3670.7745611447094,
+			"x": 4263.2264212316395,
+			"y": -1280.1762770980527,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 3.5974364802277705,
 			"height": 101.18038842743954,
 			"seed": 674918802,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303458,
+			"updated": 1704037824466,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "oFggns6fZGfAWfhjFJuxE",
-				"gap": 2.2189828525333724,
-				"focus": 0.012335818471791075
+				"focus": 0.012335818473047745,
+				"gap": 2.2189828525333724
 			},
 			"endBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"gap": 4.686134116417179,
-				"focus": 0.04236089877555522
+				"focus": 0.042360898775540314,
+				"gap": 4.686134116417179
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2490,8 +2504,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 212,
-			"versionNonce": 1784348805,
+			"version": 658,
+			"versionNonce": 1822039435,
 			"isDeleted": false,
 			"id": "5IV3I5H0Mf1Sp0j6KxN4C",
 			"fillStyle": "solid",
@@ -2500,14 +2514,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8437.225378734824,
-			"y": -3351.9586929239645,
+			"x": 4095.6809076582604,
+			"y": -961.3604088773077,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 335.54187439124144,
 			"height": 115,
 			"seed": 1972315410,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -2526,14 +2542,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 313,
-			"versionNonce": 1027012171,
+			"version": 759,
+			"versionNonce": 827286891,
 			"isDeleted": false,
 			"id": "15YpLjk4",
 			"fillStyle": "solid",
@@ -2542,18 +2558,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8442.428383801538,
-			"y": -3329.4586929239645,
+			"x": 4100.883912724975,
+			"y": -938.8604088773077,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 325.1358642578125,
 			"height": 70,
 			"seed": 652836818,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2569,8 +2587,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 512,
-			"versionNonce": 1073644043,
+			"version": 1864,
+			"versionNonce": 1833448517,
 			"isDeleted": false,
 			"id": "UXJ7-QC_3JIo4QrpYAoo7",
 			"fillStyle": "solid",
@@ -2579,31 +2597,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8606.530348034345,
-			"y": -3476.046255085758,
+			"x": 4264.985876957781,
+			"y": -1085.447971039101,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 0.23427359990637342,
 			"height": 114.96911763899834,
 			"seed": 598038286,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303461,
+			"updated": 1704037824466,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"gap": 5.125132999696234,
-				"focus": -0.010569786643062688
+				"focus": -0.010569786643384054,
+				"gap": 5.125132999696234
 			},
 			"endBinding": {
 				"elementId": "5IV3I5H0Mf1Sp0j6KxN4C",
-				"gap": 9.118444522795016,
-				"focus": 0.011341212643877763
+				"focus": 0.011341212643861965,
+				"gap": 9.118444522795016
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2621,8 +2641,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 258,
-			"versionNonce": 1463284971,
+			"version": 704,
+			"versionNonce": 1304381099,
 			"isDeleted": false,
 			"id": "Pn0YoozQtSEwcguMicfsX",
 			"fillStyle": "solid",
@@ -2631,14 +2651,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8437.149459632605,
-			"y": -3124.1924924614573,
+			"x": 4095.6049885560415,
+			"y": -733.5942084148005,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 336.22329391005405,
 			"height": 115,
 			"seed": 933986318,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -2669,14 +2691,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 321,
-			"versionNonce": 1344168773,
+			"version": 767,
+			"versionNonce": 1674775147,
 			"isDeleted": false,
 			"id": "y1LJFR59",
 			"fillStyle": "solid",
@@ -2685,18 +2707,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8456.693174458725,
-			"y": -3101.6924924614573,
+			"x": 4115.148703382162,
+			"y": -711.0942084148005,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 297.1358642578125,
 			"height": 70,
 			"seed": 1318866510,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2712,8 +2736,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 574,
-			"versionNonce": 780379275,
+			"version": 1926,
+			"versionNonce": 1554097925,
 			"isDeleted": false,
 			"id": "4AYzGEyd-pk9Ob_5DeXUr",
 			"fillStyle": "solid",
@@ -2722,31 +2746,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8605.217301274266,
-			"y": -3229.3845443223568,
+			"x": 4263.672830197703,
+			"y": -838.7862602757,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 3.186062550159477,
 			"height": 101.55943332748757,
 			"seed": 1862834574,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303463,
+			"updated": 1704037824466,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "5IV3I5H0Mf1Sp0j6KxN4C",
-				"gap": 7.574148601608158,
-				"focus": 0.010735572022627506
+				"focus": 0.010735572023841356,
+				"gap": 7.574148601607703
 			},
 			"endBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"gap": 3.6326185334119145,
-				"focus": 0.029779940880881404
+				"focus": 0.02977994088088659,
+				"gap": 3.6326185334119145
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2764,8 +2790,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 813,
-			"versionNonce": 324776613,
+			"version": 1259,
+			"versionNonce": 1432202155,
 			"isDeleted": false,
 			"id": "N3in6thOdbTMOrU75DgSJ",
 			"fillStyle": "solid",
@@ -2774,15 +2800,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7532.209130748221,
-			"y": -2783.4288631438867,
+			"x": 3190.6646596716573,
+			"y": -392.83057909722993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 587.3464874506989,
 			"height": 490,
 			"seed": 1167550802,
 			"groupIds": [
-				"LO6Nh74I4-58NJFNkcxbz"
+				"LO6Nh74I4-58NJFNkcxbz",
+				"Q4A8d2EcVwNmscQRGqZtz"
 			],
 			"frameId": null,
 			"roundness": {
@@ -2802,14 +2829,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 621,
-			"versionNonce": 661255723,
+			"version": 1067,
+			"versionNonce": 1332225931,
 			"isDeleted": false,
 			"id": "DiReFZ9e",
 			"fillStyle": "solid",
@@ -2818,20 +2845,21 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7537.914540000914,
-			"y": -2778.4288631438867,
+			"x": 3196.3700689243506,
+			"y": -387.83057909722993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 575.9356689453125,
 			"height": 480,
 			"seed": 615504210,
 			"groupIds": [
-				"LO6Nh74I4-58NJFNkcxbz"
+				"LO6Nh74I4-58NJFNkcxbz",
+				"Q4A8d2EcVwNmscQRGqZtz"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2847,8 +2875,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 643,
-			"versionNonce": 1425544709,
+			"version": 1089,
+			"versionNonce": 112262699,
 			"isDeleted": false,
 			"id": "WUkshayA-X9HPpPkUeAPl",
 			"fillStyle": "solid",
@@ -2857,15 +2885,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8246.600093406596,
-			"y": -2783.4288631438867,
+			"x": 3905.0556223300327,
+			"y": -392.83057909722993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 694.2052231625107,
 			"height": 530,
 			"seed": 1366431118,
 			"groupIds": [
-				"LO6Nh74I4-58NJFNkcxbz"
+				"LO6Nh74I4-58NJFNkcxbz",
+				"Q4A8d2EcVwNmscQRGqZtz"
 			],
 			"frameId": null,
 			"roundness": {
@@ -2885,14 +2914,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741280,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 547,
-			"versionNonce": 650115275,
+			"version": 993,
+			"versionNonce": 1462667787,
 			"isDeleted": false,
 			"id": "xwZBROpe",
 			"fillStyle": "solid",
@@ -2901,20 +2930,21 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8260.558906159726,
-			"y": -2778.4288631438867,
+			"x": 3919.0144350831624,
+			"y": -387.83057909722993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 666.28759765625,
 			"height": 520,
 			"seed": 1844720590,
 			"groupIds": [
-				"LO6Nh74I4-58NJFNkcxbz"
+				"LO6Nh74I4-58NJFNkcxbz",
+				"Q4A8d2EcVwNmscQRGqZtz"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2930,8 +2960,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 605,
-			"versionNonce": 535891301,
+			"version": 1051,
+			"versionNonce": 1015484587,
 			"isDeleted": false,
 			"id": "2r96K-3joVT3jaL3LZOlx",
 			"fillStyle": "solid",
@@ -2940,15 +2970,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9067.849791776787,
-			"y": -2783.4288631438867,
+			"x": 4726.305320700224,
+			"y": -392.83057909722993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 609.7645345677812,
 			"height": 510,
 			"seed": 1690570510,
 			"groupIds": [
-				"LO6Nh74I4-58NJFNkcxbz"
+				"LO6Nh74I4-58NJFNkcxbz",
+				"Q4A8d2EcVwNmscQRGqZtz"
 			],
 			"frameId": null,
 			"roundness": {
@@ -2968,14 +2999,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 594,
-			"versionNonce": 1568450411,
+			"version": 1040,
+			"versionNonce": 1232055435,
 			"isDeleted": false,
 			"id": "EKl3yIRI",
 			"fillStyle": "solid",
@@ -2984,20 +3015,21 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9073.020236550912,
-			"y": -2778.4288631438867,
+			"x": 4731.475765474349,
+			"y": -387.83057909722993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 599.4236450195312,
 			"height": 500,
 			"seed": 130743630,
 			"groupIds": [
-				"LO6Nh74I4-58NJFNkcxbz"
+				"LO6Nh74I4-58NJFNkcxbz",
+				"Q4A8d2EcVwNmscQRGqZtz"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3013,8 +3045,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 619,
-			"versionNonce": 1133779141,
+			"version": 1065,
+			"versionNonce": 1065345835,
 			"isDeleted": false,
 			"id": "mKIuSWH_u9AdJ-elHBjeh",
 			"fillStyle": "solid",
@@ -3023,14 +3055,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8939.27603439277,
-			"y": -3143.919968080688,
+			"x": 4597.731563316206,
+			"y": -753.321684034031,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 327.9189533606351,
 			"height": 130,
 			"seed": 967080594,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -3043,14 +3077,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 780,
-			"versionNonce": 32145931,
+			"version": 1226,
+			"versionNonce": 817583211,
 			"isDeleted": false,
 			"id": "JqeW1KIo",
 			"fillStyle": "solid",
@@ -3059,18 +3093,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8954.131598719572,
-			"y": -3138.919968080688,
+			"x": 4612.587127643009,
+			"y": -748.321684034031,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 298.20782470703125,
 			"height": 120,
 			"seed": 613406546,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3086,8 +3122,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 811,
-			"versionNonce": 1349240779,
+			"version": 2163,
+			"versionNonce": 1758292421,
 			"isDeleted": false,
 			"id": "UvOjIm3aCof38iQvfK4Sy",
 			"fillStyle": "solid",
@@ -3096,29 +3132,31 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8753.760801131491,
-			"y": -3006.1501640911115,
+			"x": 4412.216330054928,
+			"y": -615.5518800444547,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 339.63962438295493,
 			"height": 215.33390239573282,
 			"seed": 2071369618,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018303474,
+			"updated": 1704037824467,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"gap": 3.0423283703457855,
-				"focus": -0.20481903472522212
+				"focus": -0.2048190347251885,
+				"gap": 3.0423283703457855
 			},
 			"endBinding": {
 				"elementId": "2r96K-3joVT3jaL3LZOlx",
-				"gap": 7.38739855149197,
-				"focus": 0.1902513088174727
+				"focus": 0.19025130881747052,
+				"gap": 7.38739855149197
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3136,8 +3174,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 791,
-			"versionNonce": 1652704587,
+			"version": 2143,
+			"versionNonce": 494369925,
 			"isDeleted": false,
 			"id": "QWra48uUobur5W7y_ox6E",
 			"fillStyle": "solid",
@@ -3146,29 +3184,31 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8606.667413170084,
-			"y": -3005.9375417252527,
+			"x": 4265.122942093521,
+			"y": -615.3392576785959,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 3.721718988093926,
 			"height": 216.7790575624649,
 			"seed": 981348882,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018303469,
+			"updated": 1704037824467,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"gap": 3.2549507362045915,
-				"focus": -0.01448480409568943
+				"focus": -0.014484804095679257,
+				"gap": 3.2549507362045915
 			},
 			"endBinding": {
 				"elementId": "WUkshayA-X9HPpPkUeAPl",
-				"gap": 5.729621018901071,
-				"focus": 0.013066981982038553
+				"focus": 0.013066981982046833,
+				"gap": 5.729621018901071
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3186,8 +3226,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 1203,
-			"versionNonce": 2145616587,
+			"version": 2555,
+			"versionNonce": 189521733,
 			"isDeleted": false,
 			"id": "sG11kpPqBGReuNSCddbSp",
 			"fillStyle": "solid",
@@ -3196,29 +3236,31 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8453.428200992037,
-			"y": -3007.8482383797204,
+			"x": 4111.883729915474,
+			"y": -617.2499543330637,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 356.21325900808915,
 			"height": 213.1839366977747,
 			"seed": 183741394,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018303465,
+			"updated": 1704037824467,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"gap": 1.3442540817368354,
-				"focus": 0.20253972912958332
+				"focus": 0.20253972912955792,
+				"gap": 1.3442540817368354
 			},
 			"endBinding": {
 				"elementId": "N3in6thOdbTMOrU75DgSJ",
-				"gap": 11.235438538059043,
-				"focus": -0.2230518624462008
+				"focus": -0.22305186244619896,
+				"gap": 11.235438538059043
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3236,8 +3278,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 274,
-			"versionNonce": 879999819,
+			"version": 720,
+			"versionNonce": 546588395,
 			"isDeleted": false,
 			"id": "olOaYrvl4_AQ1qvyBlbe1",
 			"fillStyle": "solid",
@@ -3246,14 +3288,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8903.555728952317,
-			"y": -3551.909436282118,
+			"x": 4562.0112578757535,
+			"y": -1161.3111522354611,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 302.93131745955,
 			"height": 61.89671776975092,
 			"seed": 763528082,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -3266,14 +3310,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 347,
-			"versionNonce": 1244705509,
+			"version": 793,
+			"versionNonce": 1062848555,
 			"isDeleted": false,
 			"id": "gwhA2BFN",
 			"fillStyle": "solid",
@@ -3282,18 +3326,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8917.16547642721,
-			"y": -3540.9610773972427,
+			"x": 4575.621005350647,
+			"y": -1150.362793350586,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 275.7118225097656,
 			"height": 40,
 			"seed": 1325631890,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3309,8 +3355,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 245,
-			"versionNonce": 2058630027,
+			"version": 1597,
+			"versionNonce": 133599749,
 			"isDeleted": false,
 			"id": "-v_0zNb95hzgjEb5Hq7RC",
 			"fillStyle": "solid",
@@ -3319,29 +3365,31 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8720.510018509083,
-			"y": -3520.9879058659126,
+			"x": 4378.96554743252,
+			"y": -1130.3896218192558,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 179.8097362157023,
 			"height": 2.7244845070795236,
 			"seed": 2062232654,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018303481,
+			"updated": 1704037824467,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"gap": 4.311886454041087,
-				"focus": 0.007016222194489418
+				"focus": 0.007016222960273285,
+				"gap": 4.311886454041087
 			},
 			"endBinding": {
 				"elementId": "olOaYrvl4_AQ1qvyBlbe1",
-				"gap": 3.235974227532097,
-				"focus": -0.15166034954832497
+				"focus": -0.15166034954832,
+				"gap": 3.2359742275311874
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3359,8 +3407,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 308,
-			"versionNonce": 566431301,
+			"version": 754,
+			"versionNonce": 1428158827,
 			"isDeleted": false,
 			"id": "ALQgJLBh9BGd2xMbsceuW",
 			"fillStyle": "solid",
@@ -3369,14 +3417,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8473.888835608825,
-			"y": -1571.6500115884753,
+			"x": 4132.344364532261,
+			"y": 818.9482724581812,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 261.99832960230015,
 			"height": 118.27430160157155,
 			"seed": 2144973778,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -3391,14 +3441,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 292,
-			"versionNonce": 443524235,
+			"version": 738,
+			"versionNonce": 1031461547,
 			"isDeleted": false,
 			"id": "M4IpPQ08",
 			"fillStyle": "solid",
@@ -3407,18 +3457,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8501.036056440247,
-			"y": -1565.0128607876895,
+			"x": 4159.491585363684,
+			"y": 825.5854232589672,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 207.70388793945312,
 			"height": 105,
 			"seed": 1134931598,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3434,8 +3486,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 271,
-			"versionNonce": 1093860773,
+			"version": 717,
+			"versionNonce": 37768523,
 			"isDeleted": false,
 			"id": "TRTqel4zJJp6TmMJMqedZ",
 			"fillStyle": "solid",
@@ -3444,14 +3496,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8402.489821675725,
-			"y": -1933.1341594938913,
+			"x": 4060.9453505991614,
+			"y": 457.4641245527655,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 405.78869987996325,
 			"height": 220,
 			"seed": 1292620562,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -3478,14 +3532,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 305,
-			"versionNonce": 1572920107,
+			"version": 751,
+			"versionNonce": 2127535723,
 			"isDeleted": false,
 			"id": "78aWKsZI",
 			"fillStyle": "solid",
@@ -3494,18 +3548,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8418.05027879344,
-			"y": -1928.1341594938913,
+			"x": 4076.505807716877,
+			"y": 462.4641245527655,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 374.66778564453125,
 			"height": 210,
 			"seed": 1764856658,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017741281,
+			"updated": 1704037824107,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3521,8 +3577,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 573,
-			"versionNonce": 1712625163,
+			"version": 1925,
+			"versionNonce": 1847825605,
 			"isDeleted": false,
 			"id": "ZopHZvIW-XiQOsKPB0rvK",
 			"fillStyle": "solid",
@@ -3531,31 +3587,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8603.057275033952,
-			"y": -2250.5351304290107,
+			"x": 4261.512803957389,
+			"y": 140.0631536176461,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 2.2300043848626956,
 			"height": 315.3339942667785,
 			"seed": 674288658,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303486,
+			"updated": 1704037824467,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "WUkshayA-X9HPpPkUeAPl",
-				"gap": 2.8937327148760232,
-				"focus": -0.03223448405923075
+				"focus": -0.03223448399827001,
+				"gap": 2.8937327148760232
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"gap": 2.0669766683408852,
-				"focus": -0.026264869543378554
+				"focus": -0.026264869543366688,
+				"gap": 2.0669766683408852
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3573,8 +3631,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 523,
-			"versionNonce": 1009307467,
+			"version": 1875,
+			"versionNonce": 1568597893,
 			"isDeleted": false,
 			"id": "5e6CnGUnEZnAajRbX-ZU6",
 			"fillStyle": "solid",
@@ -3583,31 +3641,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9132.399709513913,
-			"y": -2269.454595077045,
+			"x": 4790.85523843735,
+			"y": 121.14368896961196,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 374.1888507351232,
 			"height": 330.2294133600458,
 			"seed": 244951566,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303486,
+			"updated": 1704037824467,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "2r96K-3joVT3jaL3LZOlx",
-				"gap": 3.974268066841887,
-				"focus": -0.08944691986548231
+				"focus": -0.08944691530746868,
+				"gap": 3.974268066841887
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"gap": 6.091022223107757,
-				"focus": 0.06497542066234381
+				"focus": 0.06497542066234685,
+				"gap": 6.091022223107757
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3625,8 +3685,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 475,
-			"versionNonce": 519026827,
+			"version": 1827,
+			"versionNonce": 2058652229,
 			"isDeleted": false,
 			"id": "U3ZGSrlud6jSy5rfAeMrx",
 			"fillStyle": "solid",
@@ -3635,31 +3695,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8073.286123759832,
-			"y": -2285.4647078223406,
+			"x": 3731.7416526832685,
+			"y": 105.13357622431613,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 377.32921857473957,
 			"height": 347.2042131557441,
 			"seed": 1892299086,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303486,
+			"updated": 1704037824467,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "N3in6thOdbTMOrU75DgSJ",
-				"gap": 7.964155321546059,
-				"focus": 0.04912880785511977
+				"focus": 0.04912880439988445,
+				"gap": 7.964155321546059
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"gap": 5.1263351727052395,
-				"focus": -0.09196674185035239
+				"focus": -0.09196674185034877,
+				"gap": 5.1263351727052395
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3677,8 +3739,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 429,
-			"versionNonce": 628969931,
+			"version": 1781,
+			"versionNonce": 795901189,
 			"isDeleted": false,
 			"id": "Tdviut1XD64GQ_izRrWKk",
 			"fillStyle": "solid",
@@ -3687,31 +3749,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8605.403162179702,
-			"y": -1709.8249763100089,
+			"x": 4263.858691103139,
+			"y": 680.7733077366479,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1.4428028198908578,
 			"height": 136.91248200928203,
 			"seed": 1082424402,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303486,
+			"updated": 1704037824467,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"gap": 3.3091831838823964,
-				"focus": 0.005758671931351268
+				"focus": 0.005758671828977675,
+				"gap": 3.3091831838823964
 			},
 			"endBinding": {
 				"elementId": "ALQgJLBh9BGd2xMbsceuW",
-				"gap": 1.2624827122513125,
-				"focus": 0.019711425475881086
+				"focus": 0.01971142547588223,
+				"gap": 1.2624827122513125
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3729,8 +3793,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 498,
-			"versionNonce": 1849690699,
+			"version": 1850,
+			"versionNonce": 1784594373,
 			"isDeleted": false,
 			"id": "UJoQfZP6mHIVmQ5ER6Xqj",
 			"fillStyle": "solid",
@@ -3739,31 +3803,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 8780.509573737045,
-			"y": -3064.472739222265,
+			"x": 4438.9651026604815,
+			"y": -673.8744551756081,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 154.62012427925947,
 			"height": 6.435320265483824,
 			"seed": 220065234,
-			"groupIds": [],
+			"groupIds": [
+				"Q4A8d2EcVwNmscQRGqZtz"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303478,
+			"updated": 1704037824468,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"gap": 7.136820194386019,
-				"focus": 0.14750535395365655
+				"focus": 0.147505353943854,
+				"gap": 7.136820194386019
 			},
 			"endBinding": {
 				"elementId": "mKIuSWH_u9AdJ-elHBjeh",
-				"gap": 4.146336376464205,
-				"focus": -0.014136095406629438
+				"focus": -0.014136095406628859,
+				"gap": 4.146336376465115
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3781,79 +3847,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 96,
-			"versionNonce": 1745848075,
-			"isDeleted": false,
-			"id": "OqrJpci-QhcsWTm_Oe1oI",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 7973.004014209959,
-			"y": -1228.4091492281023,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1129.295011218128,
-			"height": 787.4924183297046,
-			"seed": 1839247442,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "2IG4ItYO"
-				}
-			],
-			"updated": 1704017741281,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 115,
-			"versionNonce": 131629861,
-			"isDeleted": false,
-			"id": "2IG4ItYO",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 8414.255584760429,
-			"y": -1223.4091492281023,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 246.7918701171875,
-			"height": 35,
-			"seed": 412950866,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1704017741281,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Profile utilisateur",
-			"rawText": "Profile utilisateur",
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"containerId": "OqrJpci-QhcsWTm_Oe1oI",
-			"originalText": "Profile utilisateur",
-			"lineHeight": 1.25,
-			"baseline": 25
-		},
-		{
-			"type": "rectangle",
-			"version": 609,
-			"versionNonce": 1338868965,
+			"version": 1076,
+			"versionNonce": 1704748747,
 			"isDeleted": false,
 			"id": "M8jJ4XXSIvN81WNIx9BCw",
 			"fillStyle": "solid",
@@ -3862,14 +3857,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10784.244692352713,
-			"y": -3540.954399584473,
+			"x": 5843.316076227027,
+			"y": -1409.0939524607552,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 465.7468505229098,
 			"height": 131.197698698983,
 			"seed": 1601619467,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -3882,16 +3879,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 				{
 					"id": "k8VN46VE76venZce6mb_0",
 					"type": "arrow"
+				},
+				{
+					"id": "C_Bg_Y-ZjI_WUZVK5kI8W",
+					"type": "arrow"
 				}
 			],
-			"updated": 1704017884518,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 603,
-			"versionNonce": 1541673733,
+			"version": 1064,
+			"versionNonce": 44640587,
 			"isDeleted": false,
 			"id": "OqXOrkRO",
 			"fillStyle": "solid",
@@ -3900,18 +3901,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10803.70220880069,
-			"y": -3527.8555502349814,
+			"x": 5862.773592675005,
+			"y": -1395.9951031112637,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 426.8318176269531,
 			"height": 105,
 			"seed": 141020331,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017884522,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3927,8 +3930,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 1325,
-			"versionNonce": 1946588875,
+			"version": 2724,
+			"versionNonce": 2106431301,
 			"isDeleted": false,
 			"id": "k8VN46VE76venZce6mb_0",
 			"fillStyle": "solid",
@@ -3937,31 +3940,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11012.839021988388,
-			"y": -3407.5377180329565,
+			"x": 6071.910405862702,
+			"y": -1275.6772709092388,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 4.325156047782002,
 			"height": 214.71796245644464,
 			"seed": 2109335691,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303494,
+			"updated": 1704037897460,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "M8jJ4XXSIvN81WNIx9BCw",
-				"gap": 2.2189828525333724,
-				"focus": 0.012438426930824488
+				"focus": 0.012438413643778725,
+				"gap": 2.2189828525333724
 			},
 			"endBinding": {
 				"elementId": "kw1GO7wJxpoJtUm1L09Se",
-				"gap": 8.166030584910914,
-				"focus": 0.017112320785344717
+				"focus": 0.017112320785339197,
+				"gap": 8.166030584910914
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3979,8 +3984,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 385,
-			"versionNonce": 1019424197,
+			"version": 846,
+			"versionNonce": 815895179,
 			"isDeleted": false,
 			"id": "kw1GO7wJxpoJtUm1L09Se",
 			"fillStyle": "solid",
@@ -3989,14 +3994,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10836.182879228283,
-			"y": -3184.653724991601,
+			"x": 5895.254263102597,
+			"y": -1052.7932778678833,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 336.22329391005405,
 			"height": 115,
 			"seed": 35113739,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -4019,14 +4026,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704018253395,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 477,
-			"versionNonce": 1443048741,
+			"version": 938,
+			"versionNonce": 1994028299,
 			"isDeleted": false,
 			"id": "y0FMb98H",
 			"fillStyle": "solid",
@@ -4035,18 +4042,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10846.262604796591,
-			"y": -3162.153724991601,
+			"x": 5905.3339886709055,
+			"y": -1030.2932778678833,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 316.0638427734375,
 			"height": 70,
 			"seed": 446706091,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018253395,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4062,8 +4071,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 823,
-			"versionNonce": 80187531,
+			"version": 1284,
+			"versionNonce": 1971166123,
 			"isDeleted": false,
 			"id": "5f01296OQpafnCYILgGmi",
 			"fillStyle": "solid",
@@ -4072,14 +4081,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11413.21932727928,
-			"y": -3210.494270771953,
+			"x": 6472.290711153593,
+			"y": -1078.6338236482352,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 327.9189533606351,
 			"height": 170,
 			"seed": 1382258347,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -4100,14 +4111,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704018301487,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1257,
-			"versionNonce": 238765867,
+			"version": 1718,
+			"versionNonce": 1599663659,
 			"isDeleted": false,
 			"id": "DvBOCzTk",
 			"fillStyle": "solid",
@@ -4116,18 +4127,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11421.442903080691,
-			"y": -3205.494270771953,
+			"x": 6480.514286955005,
+			"y": -1073.6338236482352,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 311.4718017578125,
 			"height": 160,
 			"seed": 1924237643,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018301487,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4143,8 +4156,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 1699,
-			"versionNonce": 308601227,
+			"version": 3098,
+			"versionNonce": 791300613,
 			"isDeleted": false,
 			"id": "_LnXDfNKJqc5F2F72Eyh5",
 			"fillStyle": "solid",
@@ -4153,29 +4166,31 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11004.31542361699,
-			"y": -3066.3987742553963,
+			"x": 6063.386807491304,
+			"y": -934.5383271316787,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 5.2149124879870214,
 			"height": 129.3757522072201,
 			"seed": 1108472459,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018509144,
+			"updated": 1704037897461,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "kw1GO7wJxpoJtUm1L09Se",
-				"gap": 3.2549507362045915,
-				"focus": -0.014484804080485986
+				"focus": -0.0144917758825217,
+				"gap": 3.2549507362045915
 			},
 			"endBinding": {
 				"elementId": "jDcb2OPFhfTzpxp5Ur06q",
-				"gap": 3.580244888854395,
-				"focus": -0.030333978630291376
+				"focus": -0.033620733902472305,
+				"gap": 3.580244888854395
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4193,8 +4208,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "rectangle",
-			"version": 936,
-			"versionNonce": 1806044843,
+			"version": 1397,
+			"versionNonce": 806199147,
 			"isDeleted": false,
 			"id": "IDHZsSdzaov94Z2FzOJIy",
 			"fillStyle": "solid",
@@ -4203,14 +4218,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10795.632404676619,
-			"y": -1855.7916242355427,
+			"x": 5854.703788550933,
+			"y": 276.06882288817496,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 449.49335725686797,
 			"height": 220,
 			"seed": 884079531,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -4229,14 +4246,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704018514217,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1020,
-			"versionNonce": 753205579,
+			"version": 1481,
+			"versionNonce": 1074246475,
 			"isDeleted": false,
 			"id": "6PijZk10",
 			"fillStyle": "solid",
@@ -4245,18 +4262,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 10840.451165824585,
-			"y": -1815.7916242355427,
+			"x": 5899.522549698899,
+			"y": 316.06882288817496,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 359.8558349609375,
 			"height": 140,
 			"seed": 669732427,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018514217,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4272,8 +4291,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 2689,
-			"versionNonce": 529524773,
+			"version": 4088,
+			"versionNonce": 902384837,
 			"isDeleted": false,
 			"id": "PbJmJ6tA6FAnXvVAL2YpE",
 			"fillStyle": "solid",
@@ -4282,30 +4301,32 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11002.396641596739,
-			"y": -2011.977375572836,
+			"x": 6061.468025471053,
+			"y": 119.8830715508816,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 6.535971816751044,
 			"height": 148.12094332473725,
 			"seed": 828198443,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018514705,
+			"updated": 1704037897461,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "jDcb2OPFhfTzpxp5Ur06q",
-				"focus": 0.030990095455811988,
+				"focus": 0.030990095455810086,
 				"gap": 11.465401586485768
 			},
 			"endBinding": {
 				"elementId": "IDHZsSdzaov94Z2FzOJIy",
-				"focus": -0.027163493501675205,
+				"focus": -0.027163493501679178,
 				"gap": 8.064808012556114
 			},
 			"lastCommittedPoint": null,
@@ -4324,8 +4345,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		},
 		{
 			"type": "arrow",
-			"version": 1026,
-			"versionNonce": 144809995,
+			"version": 2425,
+			"versionNonce": 1360437125,
 			"isDeleted": false,
 			"id": "MLL4T6EDGqZaNAAmdcJO1",
 			"fillStyle": "solid",
@@ -4334,31 +4355,33 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11179.542993332723,
-			"y": -3120.2110538450956,
+			"x": 6238.614377207037,
+			"y": -988.350606721378,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 229.52999757009093,
 			"height": 2.3424240782615016,
 			"seed": 1183539371,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704018303496,
+			"updated": 1704037897461,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "kw1GO7wJxpoJtUm1L09Se",
-				"gap": 7.136820194386019,
-				"focus": 0.147505351762662
+				"focus": 0.14744646648367143,
+				"gap": 7.136820194386019
 			},
 			"endBinding": {
 				"elementId": "5f01296OQpafnCYILgGmi",
-				"gap": 4.146336376464205,
-				"focus": -0.014136095406641621
+				"focus": -0.014136095406640466,
+				"gap": 4.146336376465115
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4377,8 +4400,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		{
 			"id": "jDcb2OPFhfTzpxp5Ur06q",
 			"type": "rectangle",
-			"x": 10539.275210695107,
-			"y": -2933.442777159322,
+			"x": 5598.346594569421,
+			"y": -801.5823300356042,
 			"width": 914.6664329638897,
 			"height": 910,
 			"angle": 0,
@@ -4389,14 +4412,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"seed": 1345624805,
-			"version": 660,
-			"versionNonce": 1627276299,
+			"version": 1121,
+			"versionNonce": 2100810539,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -4412,15 +4437,15 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704018509151,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "AaEbQPzt",
 			"type": "text",
-			"x": 10547.040739188771,
-			"y": -2928.442777159322,
+			"x": 5606.112123063085,
+			"y": -796.5823300356042,
 			"width": 899.1353759765625,
 			"height": 900,
 			"angle": 0,
@@ -4431,15 +4456,17 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"seed": 989263909,
-			"version": 636,
-			"versionNonce": 251592011,
+			"version": 1097,
+			"versionNonce": 1648983819,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704018509151,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false,
 			"text": "1. Plateforme de gestion de projets personnels : Concevez une application web ou mobile qui permet à l'utilisateur\nde gérer et de suivre ses projets personnels, y compris les side projects et les proof of concepts. L'application\npourrait inclure des fonctionnalités telles que la planification, le suivi des tâches, la gestion des ressources et\nla génération de rapports.\n\n2. Assistant virtuel pour développeurs : Créez un assistant virtuel basé sur l'intelligence artificielle qui peut\naider l'utilisateur à choisir les technologies appropriées pour ses side projects ou proof of concepts. L'assistant\npeut fournir des recommandations en fonction des besoins spécifiques de l'utilisateur et des tendances du\nmarché.\n\n3. Gestionnaire de bibliothèques de code : Développez une application qui permet à l'utilisateur d'organiser et de\ngérer ses bibliothèques de code, de snippets et de ressources utiles pour ses projets de développement.\nL'application pourrait également inclure une fonction de recherche avancée pour faciliter la réutilisation du code.\n\n4. Tableau de bord de suivi des technologies : Créez un tableau de bord interactif qui permet à l'utilisateur de\nsuivre les nouvelles technologies, les frameworks, les langages de programmation, etc. L'application pourrait\nagréger des informations pertinentes à partir de sources en ligne et fournir des recommandations en fonction des\nintérêts de l'utilisateur.\n\n5. Outil de génération de documentation technique : Développez un outil qui simplifie la création de\ndocumentation technique pour les projets de développement. L'utilisateur pourrait saisir des informations sur son\nprojet, et l'outil générerait automatiquement une documentation complète et structurée.\n\n6. Plateforme de collaboration pour les projets open source : Créez une plateforme en ligne qui permet aux\ndéveloppeurs de collaborer sur des projets open source, y compris des side projects et des proof of concepts.\nL'application pourrait faciliter la gestion des contributions, la communication entre les membres de l'équipe et le\nsuivi des problèmes.\n\n7. Système de gestion des tests automatisés : Concevez un système qui simplifie la création, l'exécution et le\nsuivi des tests automatisés pour les applications et les projets de développement. L'utilisateur pourrait\nconfigurer des tests personnalisés pour s'assurer de la qualité de ses side projects et de ses proof of\nconcepts.\n\n8. Outil de gestion des versions de code : Créez un outil de gestion des versions de code qui simplifie le\nprocessus de contrôle de version pour les side projects et les proof of concepts. L'outil pourrait être conçu\npour être convivial et adapté aux développeurs individuels.\n\n9. Plateforme de partage de ressources de développement : Développez une plateforme en ligne où les\ndéveloppeurs peuvent partager des ressources, des tutoriels, des templates et des exemples de code pour aider\nd'autres développeurs dans leurs side projects et proof of concepts.\n\n10. Système de suivi des tendances technologiques : Concevez un système qui surveille en permanence les\ntendances technologiques et fournit à l'utilisateur des mises à jour régulières sur les technologies pertinentes\npour ses projets de développement. L'utilisateur pourrait recevoir des recommandations basées sur ces\ntendances.",
@@ -4456,8 +4483,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		{
 			"id": "Uc1dgbMr7yfB6DUtDyMXD",
 			"type": "rectangle",
-			"x": 11713.995123365552,
-			"y": -3410.47556590039,
+			"x": 6545.2333967186305,
+			"y": -1267.083416012631,
 			"width": 104.67721382726268,
 			"height": 51.74945912190924,
 			"angle": 0,
@@ -4468,14 +4495,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"seed": 375128389,
-			"version": 183,
-			"versionNonce": 438743493,
+			"version": 718,
+			"versionNonce": 1920689579,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -4487,15 +4516,15 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704018041150,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "Tp8qDLG9",
 			"type": "text",
-			"x": 11727.40575176356,
-			"y": -3394.6008363394353,
+			"x": 6558.644025116638,
+			"y": -1251.2086864516764,
 			"width": 77.85595703125,
 			"height": 20,
 			"angle": 0,
@@ -4506,15 +4535,17 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"seed": 1097845509,
-			"version": 152,
-			"versionNonce": 238939109,
+			"version": 686,
+			"versionNonce": 261633771,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704018041151,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false,
 			"text": "année exp",
@@ -4531,10 +4562,10 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		{
 			"id": "b3CTfpI6Bp8mEBOFuX_K4",
 			"type": "arrow",
-			"x": 11764.10758095558,
-			"y": -3356.3731591328024,
-			"width": 137.32291291923684,
-			"height": 138.48926327704885,
+			"x": 6614.334462384031,
+			"y": -1212.9810092450434,
+			"width": 3.6099991615819818,
+			"height": 126.9575605130077,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4543,17 +4574,19 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"seed": 872180939,
-			"version": 496,
-			"versionNonce": 1377444043,
+			"version": 2086,
+			"versionNonce": 1170096709,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704018303514,
+			"updated": 1704037897461,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4562,8 +4595,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					0
 				],
 				[
-					-137.32291291923684,
-					138.48926327704885
+					-3.6099991615819818,
+					126.9575605130077
 				]
 			],
 			"lastCommittedPoint": [
@@ -4572,21 +4605,21 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			],
 			"startBinding": {
 				"elementId": "Uc1dgbMr7yfB6DUtDyMXD",
-				"gap": 2.3529476456783414,
-				"focus": -0.3303252770532604
+				"focus": -0.33095280670753296,
+				"gap": 2.3529476456783414
 			},
 			"endBinding": {
 				"elementId": "5f01296OQpafnCYILgGmi",
-				"gap": 7.389625083800638,
-				"focus": -0.1692114437445322
+				"focus": -0.16921144374451744,
+				"gap": 7.389625083800638
 			},
 			"startArrowhead": null,
 			"endArrowhead": null
 		},
 		{
 			"type": "rectangle",
-			"version": 335,
-			"versionNonce": 416143493,
+			"version": 892,
+			"versionNonce": 1377941547,
 			"isDeleted": false,
 			"id": "5kE1XetoGgpv0OlUxwp1a",
 			"fillStyle": "solid",
@@ -4595,14 +4628,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11923.754557167398,
-			"y": -3345.5488568761184,
+			"x": 6696.953863740768,
+			"y": -1234.5802997611233,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 104.67721382726268,
 			"height": 51.74945912190924,
 			"seed": 1199653669,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -4617,14 +4652,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704018058318,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 313,
-			"versionNonce": 418021349,
+			"version": 870,
+			"versionNonce": 1789651307,
 			"isDeleted": false,
 			"id": "sCKLw5Oh",
 			"fillStyle": "solid",
@@ -4633,18 +4668,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11932.021188373023,
-			"y": -3329.674127315164,
+			"x": 6705.220494946392,
+			"y": -1218.7055702001687,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 88.14395141601562,
 			"height": 20,
 			"seed": 2132252293,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018058318,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4661,10 +4698,10 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		{
 			"id": "XY4yJxvofl5Yq23o2AQLk",
 			"type": "arrow",
-			"x": 11956.707003734802,
-			"y": -3286.12002959607,
-			"width": 210.84487679439007,
-			"height": 99.02353805424309,
+			"x": 6762.735659817512,
+			"y": -1175.1514724810747,
+			"width": 52.28301648603701,
+			"height": 91.79380253234172,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4673,17 +4710,19 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"seed": 808178827,
-			"version": 170,
-			"versionNonce": 1792715275,
+			"version": 1761,
+			"versionNonce": 493630725,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704018303516,
+			"updated": 1704037897461,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4692,8 +4731,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					0
 				],
 				[
-					-210.84487679439007,
-					99.02353805424309
+					-52.28301648603701,
+					91.79380253234172
 				]
 			],
 			"lastCommittedPoint": [
@@ -4702,13 +4741,13 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			],
 			"startBinding": {
 				"elementId": "5kE1XetoGgpv0OlUxwp1a",
-				"gap": 7.6793681581393685,
-				"focus": -0.4845762292021841
+				"focus": -0.485338482775712,
+				"gap": 7.6793681581393685
 			},
 			"endBinding": {
 				"elementId": "5f01296OQpafnCYILgGmi",
-				"gap": 4.723846300498735,
-				"focus": 0.10876349801626452
+				"focus": 0.10876349801626554,
+				"gap": 4.723846300497826
 			},
 			"startArrowhead": null,
 			"endArrowhead": null
@@ -4716,8 +4755,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		{
 			"id": "j0qwHWUtP0Oy5EU10k7sx",
 			"type": "rectangle",
-			"x": 10880.312075843693,
-			"y": -1413.8694699220569,
+			"x": 5939.383459718007,
+			"y": 717.9909772016608,
 			"width": 274.88385484296305,
 			"height": 145,
 			"angle": 0,
@@ -4728,14 +4767,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"seed": 551024677,
-			"version": 123,
-			"versionNonce": 630227915,
+			"version": 584,
+			"versionNonce": 1959447211,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -4751,15 +4792,15 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704018514217,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "nzuIKuJZ",
 			"type": "text",
-			"x": 10889.724050262244,
-			"y": -1376.3694699220569,
+			"x": 5948.7954341365585,
+			"y": 755.4909772016608,
 			"width": 256.0599060058594,
 			"height": 70,
 			"angle": 0,
@@ -4770,15 +4811,17 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"seed": 127617701,
-			"version": 94,
-			"versionNonce": 1745080939,
+			"version": 555,
+			"versionNonce": 2010490507,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704018514217,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false,
 			"text": "Détaillage complet\ndu sujet",
@@ -4795,8 +4838,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		{
 			"id": "BRjXXavzzDetyEK6SgM_b",
 			"type": "arrow",
-			"x": 11020.88210794131,
-			"y": -1631.8211297613145,
+			"x": 6079.953491815624,
+			"y": 500.0393173624034,
 			"width": 3.643488249706934,
 			"height": 212.08821222182542,
 			"angle": 0,
@@ -4807,17 +4850,19 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"seed": 1214459909,
-			"version": 310,
-			"versionNonce": 1370874597,
+			"version": 1709,
+			"versionNonce": 1724676037,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704018514705,
+			"updated": 1704037897461,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4836,21 +4881,21 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			],
 			"startBinding": {
 				"elementId": "IDHZsSdzaov94Z2FzOJIy",
-				"focus": -0.01085852632801647,
-				"gap": 3.9704944742281896
+				"focus": -0.010858526328012475,
+				"gap": 3.970494474228417
 			},
 			"endBinding": {
 				"elementId": "j0qwHWUtP0Oy5EU10k7sx",
-				"focus": -0.013422980332192424,
-				"gap": 5.863447617432257
+				"focus": -0.013422980332192394,
+				"gap": 5.86344761743203
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
 		{
 			"type": "rectangle",
-			"version": 1384,
-			"versionNonce": 145605867,
+			"version": 1915,
+			"versionNonce": 876593099,
 			"isDeleted": false,
 			"id": "_rrAdXovIIzmuQ5lrIsJM",
 			"fillStyle": "solid",
@@ -4859,14 +4904,16 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11365.39047676168,
-			"y": -1530.0939003276665,
+			"x": 6335.289339196912,
+			"y": 608.5892034214557,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 327.9189533606351,
 			"height": 79.56341350718594,
 			"seed": 2049636197,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -4879,14 +4926,14 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					"type": "arrow"
 				}
 			],
-			"updated": 1704018514217,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1905,
-			"versionNonce": 874246027,
+			"version": 2436,
+			"versionNonce": 157583627,
 			"isDeleted": false,
 			"id": "7zqkNrw4",
 			"fillStyle": "solid",
@@ -4895,18 +4942,20 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 11409.470024853132,
-			"y": -1510.3121935740735,
+			"x": 6379.368887288363,
+			"y": 628.3709101750483,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 239.75985717773438,
 			"height": 40,
 			"seed": 1392558789,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704018514217,
+			"updated": 1704037897343,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4923,10 +4972,10 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		{
 			"id": "mCzIMLZFYi3LeQsfc-Fpg",
 			"type": "arrow",
-			"x": 11162.666989688374,
-			"y": -1370.4080150618568,
-			"width": 255.81895659818292,
-			"height": 75.4428799588386,
+			"x": 6221.738373562688,
+			"y": 755.8460072620073,
+			"width": 184.66751951560946,
+			"height": 63.013798533580484,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4935,17 +4984,19 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"5Xx8RaWl-sAspcBg5H6ML"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"seed": 1867983819,
-			"version": 1129,
-			"versionNonce": 757869989,
+			"version": 2668,
+			"versionNonce": 1972046469,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704018514705,
+			"updated": 1704037897461,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4954,8 +5005,8 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 					0
 				],
 				[
-					255.81895659818292,
-					-75.4428799588386
+					184.66751951560946,
+					-63.013798533580484
 				]
 			],
 			"lastCommittedPoint": [
@@ -4964,16 +5015,209 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 			],
 			"startBinding": {
 				"elementId": "j0qwHWUtP0Oy5EU10k7sx",
-				"focus": 0.12118052804720118,
+				"focus": 0.12398297283741788,
 				"gap": 7.471059001718459
 			},
 			"endBinding": {
 				"elementId": "_rrAdXovIIzmuQ5lrIsJM",
-				"focus": -0.1335082775165413,
+				"focus": -0.1335082775165348,
 				"gap": 4.6795917997851575
 			},
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "ViUdqh8UuCi9LrMx8wjji",
+			"type": "rectangle",
+			"x": 4977.853334474055,
+			"y": -2115.649626573422,
+			"width": 433.0971270801774,
+			"height": 139.05519651454256,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1762465259,
+			"version": 286,
+			"versionNonce": 213890827,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "vsjGwid6"
+				},
+				{
+					"id": "C_Bg_Y-ZjI_WUZVK5kI8W",
+					"type": "arrow"
+				},
+				{
+					"id": "PojRhU0PZquWclZhQ41bU",
+					"type": "arrow"
+				},
+				{
+					"id": "ALLr2jULkX0_rXisvwcQx",
+					"type": "arrow"
+				}
+			],
+			"updated": 1704037824107,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "vsjGwid6",
+			"type": "text",
+			"x": 5016.293957340316,
+			"y": -2063.622028316151,
+			"width": 356.21588134765625,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 833088037,
+			"version": 235,
+			"versionNonce": 1634377131,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1704037824107,
+			"link": null,
+			"locked": false,
+			"text": "Selon résultat custom IA",
+			"rawText": "Selon résultat custom IA",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 25,
+			"containerId": "ViUdqh8UuCi9LrMx8wjji",
+			"originalText": "Selon résultat custom IA",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "C_Bg_Y-ZjI_WUZVK5kI8W",
+			"type": "arrow",
+			"x": 5375.436491478895,
+			"y": -1973.7063487369896,
+			"width": 705.0606548547648,
+			"height": 553.3702259262002,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1127198571,
+			"version": 651,
+			"versionNonce": 1892628139,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1704037897343,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					705.0606548547648,
+					553.3702259262002
+				]
+			],
+			"lastCommittedPoint": [
+				806.5462305614128,
+				434.8718165119395
+			],
+			"startBinding": {
+				"elementId": "ViUdqh8UuCi9LrMx8wjji",
+				"focus": -0.29048685792579043,
+				"gap": 2.8880813218901267
+			},
+			"endBinding": {
+				"elementId": "M8jJ4XXSIvN81WNIx9BCw",
+				"focus": 0.32299262699504594,
+				"gap": 11.242170350034257
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "PojRhU0PZquWclZhQ41bU",
+			"type": "arrow",
+			"x": 5045.600579681452,
+			"y": -1970.7830930293899,
+			"width": 798.9355025891327,
+			"height": 550.5017565190386,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1398139723,
+			"version": 655,
+			"versionNonce": 525110085,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1704037824468,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-798.9355025891327,
+					550.5017565190386
+				]
+			],
+			"lastCommittedPoint": [
+				-825.96962378527,
+				439.0375023994851
+			],
+			"startBinding": {
+				"elementId": "ViUdqh8UuCi9LrMx8wjji",
+				"focus": 0.12431123826333386,
+				"gap": 5.811337029489891
+			},
+			"endBinding": {
+				"elementId": "oFggns6fZGfAWfhjFJuxE",
+				"focus": -0.37174604871863043,
+				"gap": 6.688377860782111
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -4982,7 +5226,7 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 0.5,
+		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 2,
 		"currentItemOpacity": 100,
@@ -4990,11 +5234,11 @@ Détail cette idée de projet informatique sous cette forme ^7zqkNrw4
 		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": null,
-		"scrollX": -5841.605943488947,
-		"scrollY": 4181.418695688479,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": -2164.6114332954676,
+		"scrollY": 1080.5624156823856,
 		"zoom": {
-			"value": 0.3665718011558055
+			"value": 0.4327955283783376
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
