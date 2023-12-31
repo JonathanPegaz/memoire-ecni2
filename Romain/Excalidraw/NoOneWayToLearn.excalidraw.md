@@ -4065,10 +4065,10 @@ Profile utilisateur ^2IG4ItYO
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": -7054.579053845323,
-		"scrollY": 3865.93053868407,
+		"scrollX": 1008.9226861843636,
+		"scrollY": 7705.37338095325,
 		"zoom": {
-			"value": 0.4512251170166825
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
