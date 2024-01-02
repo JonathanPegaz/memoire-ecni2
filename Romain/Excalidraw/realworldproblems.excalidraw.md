@@ -791,8 +791,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 229,
-			"versionNonce": 2070768389,
+			"version": 230,
+			"versionNonce": 1333801035,
 			"isDeleted": false,
 			"id": "F00rZxWy",
 			"fillStyle": "solid",
@@ -812,7 +812,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704046165330,
+			"updated": 1704172372053,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.369020257404546,
@@ -824,7 +824,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Vous travaillez pour une entreprise qui possède plusieurs salles de conférence dans un grand immeuble de bureaux. \nActuellement, la réservation de ces salles se fait manuellement via un registre physique ou par e-mail,\n ce qui conduit souvent à des conflits de réservation et à une utilisation inefficace de l'espace.",
 			"lineHeight": 1.25,
-			"baseline": 51
+			"baseline": 52
 		},
 		{
 			"type": "text",
