@@ -256,8 +256,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 667,
-			"versionNonce": 1918148651,
+			"version": 668,
+			"versionNonce": 1627855210,
 			"isDeleted": false,
 			"id": "fLiifcCM-Koo84fudyZhW",
 			"fillStyle": "solid",
@@ -266,7 +266,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3402.397386376692,
+			"x": 3402.3973863766923,
 			"y": 509.35853772735754,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -284,14 +284,14 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 					"id": "YJIxe1wm"
 				}
 			],
-			"updated": 1704017268993,
+			"updated": 1704271054150,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 326,
-			"versionNonce": 1388667595,
+			"version": 327,
+			"versionNonce": 1148476458,
 			"isDeleted": false,
 			"id": "YJIxe1wm",
 			"fillStyle": "solid",
@@ -300,7 +300,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3407.397386376692,
+			"x": 3407.3973863766923,
 			"y": 514.3585377273575,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -311,7 +311,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017268994,
+			"updated": 1704271054152,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -601,8 +601,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 172,
-			"versionNonce": 1836942998,
+			"version": 173,
+			"versionNonce": 1818767990,
 			"isDeleted": false,
 			"id": "qdZhZdLB",
 			"fillStyle": "solid",
@@ -622,7 +622,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347814,
+			"updated": 1704271203045,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -634,12 +634,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 1735976618,
+			"version": 73,
+			"versionNonce": 323147754,
 			"isDeleted": false,
 			"id": "RyqYWSXk",
 			"fillStyle": "solid",
@@ -664,7 +664,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701262583792,
+			"updated": 1704271203046,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -676,12 +676,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
-			"version": 53,
-			"versionNonce": 276579286,
+			"version": 54,
+			"versionNonce": 1491497910,
 			"isDeleted": false,
 			"id": "kWSdDEXC",
 			"fillStyle": "solid",
@@ -701,7 +701,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347815,
+			"updated": 1704271203046,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -713,12 +713,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Projet 1 - Système de Réservation de Salles de Conférence",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 2000358538,
+			"version": 171,
+			"versionNonce": 1706314410,
 			"isDeleted": false,
 			"id": "e7QFQsIQ",
 			"fillStyle": "solid",
@@ -738,7 +738,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347815,
+			"updated": 1704271203047,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -750,12 +750,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Objectifs",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 1999722774,
+			"version": 149,
+			"versionNonce": 915049718,
 			"isDeleted": false,
 			"id": "RRrXzYTA",
 			"fillStyle": "solid",
@@ -775,7 +775,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347815,
+			"updated": 1704271203047,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -787,12 +787,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Contexte",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 230,
-			"versionNonce": 1333801035,
+			"version": 231,
+			"versionNonce": 921265514,
 			"isDeleted": false,
 			"id": "F00rZxWy",
 			"fillStyle": "solid",
@@ -812,7 +812,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704172372053,
+			"updated": 1704271203049,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.369020257404546,
@@ -824,7 +824,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Vous travaillez pour une entreprise qui possède plusieurs salles de conférence dans un grand immeuble de bureaux. \nActuellement, la réservation de ces salles se fait manuellement via un registre physique ou par e-mail,\n ce qui conduit souvent à des conflits de réservation et à une utilisation inefficace de l'espace.",
 			"lineHeight": 1.25,
-			"baseline": 52
+			"baseline": 51
 		},
 		{
 			"type": "text",
@@ -985,8 +985,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 80,
-			"versionNonce": 252225750,
+			"version": 81,
+			"versionNonce": 316243510,
 			"isDeleted": false,
 			"id": "9lDGuib8",
 			"fillStyle": "solid",
@@ -1006,7 +1006,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347815,
+			"updated": 1704271203052,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1018,12 +1018,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Exigences Spécifiques\n\nInterface Utilisateur\n- Une interface web simple et intuitive pour réserver des salles.\n- Affichage du calendrier des disponibilités pour chaque salle.\n\nGestion des Réservations\n- Capacité à réserver une salle pour une date et une heure spécifiques.\n- Fonctionnalité pour modifier ou annuler une réservation existante.\n\nGestion des Conflits :\n- Le système doit automatiquement détecter et prévenir les conflits de réservation.\n- Proposer des solutions alternatives en cas de conflit (comme une autre salle ou un autre horaire).\n\nBase de Données :\n- Stockage sécurisé des informations de réservation.\n- Capacité à gérer plusieurs salles et réservations simultanées.\n\nAuthentification :\n- Système d'authentification pour les employés afin de sécuriser l'accès aux réservations.\nNotification :\n- Envoi automatique de confirmations de réservation et de rappels par e-mail\n\nDéfis Techniques :\n- Optimisation de l'algorithme de gestion des conflits pour garantir l'efficacité.\n- Conception d'une base de données capable de gérer de grandes quantités de données de réservation de manière efficace.\n- Assurer la sécurité des données et l'authentification des utilisateurs.\n\nLangages et Outils Suggérés :\nBackend : Java, Node.js, ou Python.\nFrontend : React, Angular, ou Vue.js.\nBase de données : MySQL, PostgreSQL, ou MongoDB.\nSécurité : JWT pour l'authentification, SSL pour la sécurisation des communications.\n\nCe projet vise à tester et à améliorer vos compétences en développement web, gestion de base de données,\n conception d'interface utilisateur, et résolution de problèmes complexes. Il vous donne également l'opportunité\n d'expérimenter avec différentes technologies et de comprendre les aspects pratiques de la gestion de\n projet informatique.",
 			"lineHeight": 1.25,
-			"baseline": 754
+			"baseline": 753
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 1104377738,
+			"version": 148,
+			"versionNonce": 1076701226,
 			"isDeleted": false,
 			"id": "HrB3TNFr",
 			"fillStyle": "solid",
@@ -1043,7 +1043,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347815,
+			"updated": 1704271203054,
 			"link": "https://www.github.com/",
 			"locked": false,
 			"fontSize": 20,
@@ -1055,7 +1055,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "🌐https://www.github.com/",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1095,8 +1095,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 64,
-			"versionNonce": 609220170,
+			"version": 65,
+			"versionNonce": 45631350,
 			"isDeleted": false,
 			"id": "2jhhaqbi",
 			"fillStyle": "solid",
@@ -1118,7 +1118,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347815,
+			"updated": 1704271203055,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1130,12 +1130,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Rendu",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
-			"version": 48,
-			"versionNonce": 25750358,
+			"version": 49,
+			"versionNonce": 1500156650,
 			"isDeleted": false,
 			"id": "zesrXouz",
 			"fillStyle": "solid",
@@ -1162,7 +1162,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1701249347815,
+			"updated": 1704271203056,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1174,7 +1174,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "0/100",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -1249,8 +1249,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 172,
-			"versionNonce": 1800039370,
+			"version": 173,
+			"versionNonce": 913041590,
 			"isDeleted": false,
 			"id": "ogGy4iWS",
 			"fillStyle": "solid",
@@ -1270,7 +1270,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347815,
+			"updated": 1704271203056,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1282,7 +1282,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Valeur ajouté Apprenant",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -1357,8 +1357,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 382,
-			"versionNonce": 303457046,
+			"version": 383,
+			"versionNonce": 623682986,
 			"isDeleted": false,
 			"id": "HAC4d7Oq",
 			"fillStyle": "solid",
@@ -1378,7 +1378,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347816,
+			"updated": 1704271203057,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1390,7 +1390,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Valeur ajouté Mentor",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -2143,8 +2143,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 417,
-			"versionNonce": 2034553195,
+			"version": 418,
+			"versionNonce": 917194474,
 			"isDeleted": false,
 			"id": "x9mSfmOCxcvsDKuSv-Spy",
 			"fillStyle": "solid",
@@ -2153,7 +2153,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3372.7795863462966,
+			"x": 3372.779586346297,
 			"y": -2127.9760266721705,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2171,14 +2171,14 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 					"id": "cWf6Sy0C"
 				}
 			],
-			"updated": 1704017269011,
+			"updated": 1704271054163,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 57,
-			"versionNonce": 119368715,
+			"version": 58,
+			"versionNonce": 3594666,
 			"isDeleted": false,
 			"id": "cWf6Sy0C",
 			"fillStyle": "solid",
@@ -2187,7 +2187,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3377.7795863462966,
+			"x": 3377.779586346297,
 			"y": -2122.9760266721705,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2198,7 +2198,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017269012,
+			"updated": 1704271054164,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2360,8 +2360,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 327,
-			"versionNonce": 273265323,
+			"version": 328,
+			"versionNonce": 541201514,
 			"isDeleted": false,
 			"id": "G97ZUZB-kHyAQjpeO8CM7",
 			"fillStyle": "solid",
@@ -2370,7 +2370,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3897.020197336152,
+			"x": 3897.0201973361513,
 			"y": -1230.5225651463327,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -2388,14 +2388,14 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 					"id": "6V6tTLXc"
 				}
 			],
-			"updated": 1704017269018,
+			"updated": 1704271054169,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 1165239627,
+			"version": 211,
+			"versionNonce": 2023225130,
 			"isDeleted": false,
 			"id": "6V6tTLXc",
 			"fillStyle": "solid",
@@ -2404,7 +2404,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3902.020197336152,
+			"x": 3902.0201973361513,
 			"y": -1204.192918172534,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -2415,7 +2415,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704017269019,
+			"updated": 1704271054169,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2458,8 +2458,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 199,
-			"versionNonce": 898498678,
+			"version": 200,
+			"versionNonce": 228155894,
 			"isDeleted": false,
 			"id": "ABeIlits",
 			"fillStyle": "solid",
@@ -2479,7 +2479,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701262595320,
+			"updated": 1704271203061,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2491,7 +2491,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "line",
@@ -2612,8 +2612,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 44,
-			"versionNonce": 1711476362,
+			"version": 45,
+			"versionNonce": 1017012330,
 			"isDeleted": false,
 			"id": "6u9sXhlt",
 			"fillStyle": "solid",
@@ -2633,7 +2633,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347817,
+			"updated": 1704271203062,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2645,7 +2645,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Henri",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "ellipse",
@@ -2678,8 +2678,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 107,
-			"versionNonce": 1819585866,
+			"version": 108,
+			"versionNonce": 725988150,
 			"isDeleted": false,
 			"id": "f4SOBKaF",
 			"fillStyle": "solid",
@@ -2699,7 +2699,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347817,
+			"updated": 1704271203062,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2711,7 +2711,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Jonathan",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -2773,8 +2773,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 178,
-			"versionNonce": 1525950870,
+			"version": 179,
+			"versionNonce": 1535820586,
 			"isDeleted": false,
 			"id": "NaXGqkcu",
 			"fillStyle": "solid",
@@ -2794,7 +2794,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347817,
+			"updated": 1704271203063,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2806,7 +2806,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Jonathan",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "ellipse",
@@ -3039,8 +3039,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 223,
-			"versionNonce": 1585426070,
+			"version": 224,
+			"versionNonce": 165010550,
 			"isDeleted": false,
 			"id": "pXFPAPXf",
 			"fillStyle": "solid",
@@ -3060,7 +3060,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347818,
+			"updated": 1704271203063,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3072,7 +3072,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "image",
@@ -3243,8 +3243,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 237,
-			"versionNonce": 998708598,
+			"version": 238,
+			"versionNonce": 207408618,
 			"isDeleted": false,
 			"id": "4h5ExWDW",
 			"fillStyle": "solid",
@@ -3264,7 +3264,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701262599741,
+			"updated": 1704271203064,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3276,7 +3276,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "line",
@@ -3353,8 +3353,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 225,
-			"versionNonce": 212236490,
+			"version": 226,
+			"versionNonce": 252632502,
 			"isDeleted": false,
 			"id": "qejLBS5V",
 			"fillStyle": "solid",
@@ -3374,7 +3374,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347818,
+			"updated": 1704271203065,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3386,7 +3386,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "image",
@@ -3562,8 +3562,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 280,
-			"versionNonce": 365800054,
+			"version": 281,
+			"versionNonce": 1411350698,
 			"isDeleted": false,
 			"id": "gLqasXin",
 			"fillStyle": "solid",
@@ -3583,7 +3583,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701262604598,
+			"updated": 1704271203066,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3595,7 +3595,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "line",
@@ -3672,8 +3672,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 269,
-			"versionNonce": 491045354,
+			"version": 270,
+			"versionNonce": 538294006,
 			"isDeleted": false,
 			"id": "Zf0BW2Qe",
 			"fillStyle": "solid",
@@ -3693,7 +3693,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701332884268,
+			"updated": 1704271203066,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3705,7 +3705,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "image",
@@ -4070,8 +4070,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "arrow",
-			"version": 300,
-			"versionNonce": 1105038987,
+			"version": 302,
+			"versionNonce": 1315943594,
 			"isDeleted": false,
 			"id": "-wgI-HAyUInU16uuIL0AM",
 			"fillStyle": "solid",
@@ -4093,7 +4093,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704017269033,
+			"updated": 1704271054179,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4122,8 +4122,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 119,
-			"versionNonce": 585030998,
+			"version": 120,
+			"versionNonce": 1585306474,
 			"isDeleted": false,
 			"id": "D8rYccDU",
 			"fillStyle": "solid",
@@ -4143,7 +4143,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347819,
+			"updated": 1704271203068,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4155,12 +4155,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "60/100",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
-			"version": 240,
-			"versionNonce": 621333258,
+			"version": 241,
+			"versionNonce": 896493622,
 			"isDeleted": false,
 			"id": "1ByGdymp",
 			"fillStyle": "solid",
@@ -4180,7 +4180,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347819,
+			"updated": 1704271203068,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4192,12 +4192,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Repo link",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 253,
-			"versionNonce": 621068950,
+			"version": 254,
+			"versionNonce": 700636714,
 			"isDeleted": false,
 			"id": "klZSwKxF",
 			"fillStyle": "solid",
@@ -4217,7 +4217,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249347819,
+			"updated": 1704271203069,
 			"link": "https://www.github.com/",
 			"locked": false,
 			"fontSize": 20,
@@ -4229,7 +4229,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "🌐https://www.github.com/",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -4262,8 +4262,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 289,
-			"versionNonce": 1477375510,
+			"version": 290,
+			"versionNonce": 1862332790,
 			"isDeleted": false,
 			"id": "adHSKCpe",
 			"fillStyle": "solid",
@@ -4283,7 +4283,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701250161220,
+			"updated": 1704271203069,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4295,12 +4295,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Exigences",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 380,
-			"versionNonce": 1511111882,
+			"version": 381,
+			"versionNonce": 853117162,
 			"isDeleted": false,
 			"id": "HkcP7RX2",
 			"fillStyle": "solid",
@@ -4320,7 +4320,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249399170,
+			"updated": 1704271203070,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4332,7 +4332,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Interface web simple et intuitive pour reserver une salle",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -4365,8 +4365,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 463,
-			"versionNonce": 1740962890,
+			"version": 464,
+			"versionNonce": 672092854,
 			"isDeleted": false,
 			"id": "0d9GrBjP",
 			"fillStyle": "solid",
@@ -4386,7 +4386,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249396569,
+			"updated": 1704271203070,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4398,7 +4398,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Affichage du calendrier des disponibilités pour chaque salle.",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -4607,8 +4607,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 458,
-			"versionNonce": 1693478602,
+			"version": 459,
+			"versionNonce": 558685098,
 			"isDeleted": false,
 			"id": "sfEATl7j",
 			"fillStyle": "solid",
@@ -4628,7 +4628,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249821798,
+			"updated": 1704271203071,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4640,12 +4640,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Capacité à réserver une salle pour une date et une heure spécifiques.\n",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "text",
-			"version": 349,
-			"versionNonce": 1477921750,
+			"version": 350,
+			"versionNonce": 188713974,
 			"isDeleted": false,
 			"id": "foTEWb1f",
 			"fillStyle": "solid",
@@ -4665,7 +4665,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249412778,
+			"updated": 1704271203071,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4677,12 +4677,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Interface utilisateur",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 443,
-			"versionNonce": 1126281750,
+			"version": 444,
+			"versionNonce": 1934087786,
 			"isDeleted": false,
 			"id": "2TUWhRuI",
 			"fillStyle": "solid",
@@ -4702,7 +4702,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249750234,
+			"updated": 1704271203071,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4714,12 +4714,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Gestion des reservations",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 577,
-			"versionNonce": 235770070,
+			"version": 578,
+			"versionNonce": 647404854,
 			"isDeleted": false,
 			"id": "YF7syQAi",
 			"fillStyle": "solid",
@@ -4739,7 +4739,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249875274,
+			"updated": 1704271203072,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4751,7 +4751,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Fonctionnalité pour modifier ou annuler une réservation existante.",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -5136,8 +5136,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 429,
-			"versionNonce": 200865290,
+			"version": 430,
+			"versionNonce": 697661738,
 			"isDeleted": false,
 			"id": "vOi26TlP",
 			"fillStyle": "solid",
@@ -5157,7 +5157,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701249938156,
+			"updated": 1704271203072,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5169,7 +5169,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Stéphane - Projet 3",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -5244,8 +5244,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 403,
-			"versionNonce": 988832598,
+			"version": 404,
+			"versionNonce": 2138670710,
 			"isDeleted": false,
 			"id": "u5kebmM2",
 			"fillStyle": "solid",
@@ -5265,7 +5265,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701250175529,
+			"updated": 1704271203073,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5277,12 +5277,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Liste des apprenants",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
-			"version": 726,
-			"versionNonce": 1967263830,
+			"version": 727,
+			"versionNonce": 1939915754,
 			"isDeleted": false,
 			"id": "g7sxvOr8",
 			"fillStyle": "solid",
@@ -5302,7 +5302,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701250397602,
+			"updated": 1704271203073,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5314,7 +5314,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Une autre fonctionnalité",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -5374,8 +5374,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 443,
-			"versionNonce": 371489654,
+			"version": 444,
+			"versionNonce": 648890294,
 			"isDeleted": false,
 			"id": "GScZ9DrU",
 			"fillStyle": "solid",
@@ -5395,7 +5395,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701332921674,
+			"updated": 1704271203074,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5407,7 +5407,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "line",
@@ -5484,8 +5484,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 433,
-			"versionNonce": 2056484586,
+			"version": 434,
+			"versionNonce": 1534375594,
 			"isDeleted": false,
 			"id": "noiVOT2p",
 			"fillStyle": "solid",
@@ -5505,7 +5505,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701332943759,
+			"updated": 1704271203074,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5517,7 +5517,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "image",
@@ -5692,8 +5692,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 117,
-			"versionNonce": 68673654,
+			"version": 118,
+			"versionNonce": 1280762102,
 			"isDeleted": false,
 			"id": "PUXgKzpI",
 			"fillStyle": "solid",
@@ -5715,7 +5715,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701333109560,
+			"updated": 1704271203076,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5727,7 +5727,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Robert\nExpert Mentor A+",
 			"lineHeight": 1.25,
-			"baseline": 77
+			"baseline": 76
 		},
 		{
 			"type": "image",
@@ -5864,8 +5864,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 445,
-			"versionNonce": 265603382,
+			"version": 446,
+			"versionNonce": 1908167018,
 			"isDeleted": false,
 			"id": "4hHe6KbM",
 			"fillStyle": "solid",
@@ -5885,7 +5885,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701333125837,
+			"updated": 1704271203077,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5897,12 +5897,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "text",
-			"version": 468,
-			"versionNonce": 2094460650,
+			"version": 469,
+			"versionNonce": 1408979510,
 			"isDeleted": false,
 			"id": "p0LNcYHi",
 			"fillStyle": "solid",
@@ -5922,7 +5922,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701333128094,
+			"updated": 1704271203077,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5934,7 +5934,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "line",
@@ -6011,8 +6011,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 435,
-			"versionNonce": 1605668086,
+			"version": 436,
+			"versionNonce": 2042795050,
 			"isDeleted": false,
 			"id": "66iUtYSR",
 			"fillStyle": "solid",
@@ -6032,7 +6032,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701333125837,
+			"updated": 1704271203078,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6044,12 +6044,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 458,
-			"versionNonce": 1266982698,
+			"version": 459,
+			"versionNonce": 1753193334,
 			"isDeleted": false,
 			"id": "meMea37S",
 			"fillStyle": "solid",
@@ -6069,7 +6069,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701333128094,
+			"updated": 1704271203078,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6081,7 +6081,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "image",
@@ -6330,8 +6330,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 166,
-			"versionNonce": 263846762,
+			"version": 167,
+			"versionNonce": 359825130,
 			"isDeleted": false,
 			"id": "hIlH8e4V",
 			"fillStyle": "solid",
@@ -6353,7 +6353,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701333173039,
+			"updated": 1704271203080,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -6365,7 +6365,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "David\nJunior Learner B+",
 			"lineHeight": 1.25,
-			"baseline": 77
+			"baseline": 76
 		},
 		{
 			"type": "image",

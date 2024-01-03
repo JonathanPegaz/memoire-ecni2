@@ -193,8 +193,8 @@ Selon résultat custom IA ^vsjGwid6
 	"elements": [
 		{
 			"type": "arrow",
-			"version": 1528,
-			"versionNonce": 405016549,
+			"version": 1530,
+			"versionNonce": 780659958,
 			"isDeleted": false,
 			"id": "UAcjvopcZRjqv_hxKM_Mv",
 			"fillStyle": "solid",
@@ -203,12 +203,12 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3791.0484421514134,
+			"x": 3790.876497800701,
 			"y": -3421.7222231064025,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 857.678562340518,
-			"height": 231.07182484834175,
+			"width": 857.8505066912303,
+			"height": 231.09195671835187,
 			"seed": 251318529,
 			"groupIds": [],
 			"frameId": null,
@@ -216,7 +216,7 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041129044,
+			"updated": 1704271054515,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -238,8 +238,8 @@ Selon résultat custom IA ^vsjGwid6
 					0
 				],
 				[
-					857.678562340518,
-					231.07182484834175
+					857.8505066912303,
+					231.09195671835187
 				]
 			]
 		},
@@ -350,8 +350,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 181,
-			"versionNonce": 203398629,
+			"version": 182,
+			"versionNonce": 1901531562,
 			"isDeleted": false,
 			"id": "Y9xLPD4N",
 			"fillStyle": "solid",
@@ -371,7 +371,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123166,
+			"updated": 1704271203082,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -383,7 +383,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Vous êtes le plus compatible avec les sides projects !",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -462,8 +462,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 150,
-			"versionNonce": 1544046987,
+			"version": 151,
+			"versionNonce": 1083946486,
 			"isDeleted": false,
 			"id": "20SOmUBu",
 			"fillStyle": "solid",
@@ -483,7 +483,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123166,
+			"updated": 1704271203082,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -495,12 +495,12 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Resultats du questionnaire",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "arrow",
-			"version": 992,
-			"versionNonce": 2124621989,
+			"version": 996,
+			"versionNonce": 1763854710,
 			"isDeleted": false,
 			"id": "ALLr2jULkX0_rXisvwcQx",
 			"fillStyle": "solid",
@@ -509,11 +509,11 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5207.979470054171,
+			"x": 5207.776776628616,
 			"y": -2584.107289174829,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 5.736853195146978,
+			"width": 5.564559743144855,
 			"height": 459.1618086153585,
 			"seed": 959953275,
 			"groupIds": [],
@@ -522,18 +522,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041123166,
+			"updated": 1704271054594,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "9Pntq_mX0bmtOpCJa4KUC",
-				"focus": 0.04011836183782724,
-				"gap": 5.472080524102012
+				"gap": 5.472080524102012,
+				"focus": 0.04011836183782724
 			},
 			"endBinding": {
 				"elementId": "ViUdqh8UuCi9LrMx8wjji",
-				"focus": 0.031533302022098274,
-				"gap": 9.295853986048428
+				"gap": 9.295853986048428,
+				"focus": 0.031533302022098274
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -544,7 +544,7 @@ Selon résultat custom IA ^vsjGwid6
 					0
 				],
 				[
-					-5.736853195146978,
+					-5.564559743144855,
 					459.1618086153585
 				]
 			]
@@ -580,8 +580,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 321,
-			"versionNonce": 333499397,
+			"version": 322,
+			"versionNonce": 1889225834,
 			"isDeleted": false,
 			"id": "V82hYxku",
 			"fillStyle": "solid",
@@ -601,7 +601,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123166,
+			"updated": 1704271203083,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -613,7 +613,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Auto évaluation",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "rectangle",
@@ -648,8 +648,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 685,
-			"versionNonce": 743637861,
+			"version": 686,
+			"versionNonce": 1927120694,
 			"isDeleted": false,
 			"id": "elFvMCn9",
 			"fillStyle": "solid",
@@ -672,7 +672,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123166,
+			"updated": 1704271203084,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -684,12 +684,12 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Questionnaire d'auto évaluation",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 364,
-			"versionNonce": 954012011,
+			"version": 365,
+			"versionNonce": 1493839658,
 			"isDeleted": false,
 			"id": "37AvBUc3",
 			"fillStyle": "solid",
@@ -713,7 +713,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123166,
+			"updated": 1704271203084,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -725,7 +725,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Age ?",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -808,8 +808,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 380,
-			"versionNonce": 1381707301,
+			"version": 381,
+			"versionNonce": 928198774,
 			"isDeleted": false,
 			"id": "9bjU6iiG",
 			"fillStyle": "solid",
@@ -833,7 +833,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123166,
+			"updated": 1704271203085,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -845,7 +845,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Cursus",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -928,8 +928,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 428,
-			"versionNonce": 821323083,
+			"version": 429,
+			"versionNonce": 2131671530,
 			"isDeleted": false,
 			"id": "57VTVw4K",
 			"fillStyle": "solid",
@@ -953,7 +953,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123166,
+			"updated": 1704271203085,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -965,7 +965,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Side project",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1048,8 +1048,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 485,
-			"versionNonce": 606815301,
+			"version": 486,
+			"versionNonce": 1237430710,
 			"isDeleted": false,
 			"id": "jwognhOS",
 			"fillStyle": "solid",
@@ -1073,7 +1073,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123167,
+			"updated": 1704271203086,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1085,7 +1085,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Open source contribution ?",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1281,8 +1281,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 478,
-			"versionNonce": 1857580453,
+			"version": 479,
+			"versionNonce": 1907616938,
 			"isDeleted": false,
 			"id": "qgzhhTs0",
 			"fillStyle": "solid",
@@ -1304,7 +1304,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041141263,
+			"updated": 1704271203086,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1316,7 +1316,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Side projects Dashboard",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "rectangle",
@@ -1356,8 +1356,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 484,
-			"versionNonce": 832243813,
+			"version": 485,
+			"versionNonce": 2098716342,
 			"isDeleted": false,
 			"id": "zUongiHi",
 			"fillStyle": "solid",
@@ -1366,8 +1366,8 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9221.196084224182,
-			"y": -2219.8490454764046,
+			"x": 9221.196084224184,
+			"y": -2219.849045476404,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 188.4599151611328,
@@ -1379,7 +1379,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041141263,
+			"updated": 1704271054503,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1395,8 +1395,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 268,
-			"versionNonce": 608613317,
+			"version": 269,
+			"versionNonce": 625871606,
 			"isDeleted": false,
 			"id": "AC1ULsMY",
 			"fillStyle": "solid",
@@ -1418,7 +1418,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041141263,
+			"updated": 1704271203087,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1430,12 +1430,12 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Dashboard",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 31
 		},
 		{
 			"type": "rectangle",
-			"version": 452,
-			"versionNonce": 1327887141,
+			"version": 453,
+			"versionNonce": 1196857334,
 			"isDeleted": false,
 			"id": "5wffmOGnuazeblk9fGPST",
 			"fillStyle": "solid",
@@ -1445,7 +1445,7 @@ Selon résultat custom IA ^vsjGwid6
 			"opacity": 100,
 			"angle": 0,
 			"x": 8782.476093054542,
-			"y": -3068.239664208932,
+			"y": -3068.2396642089325,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 1129.6323452362203,
@@ -1464,14 +1464,14 @@ Selon résultat custom IA ^vsjGwid6
 					"id": "BzDb4VNc"
 				}
 			],
-			"updated": 1704041141263,
+			"updated": 1704271054504,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 245778053,
+			"version": 310,
+			"versionNonce": 1676421430,
 			"isDeleted": false,
 			"id": "BzDb4VNc",
 			"fillStyle": "solid",
@@ -1481,7 +1481,7 @@ Selon résultat custom IA ^vsjGwid6
 			"opacity": 100,
 			"angle": 0,
 			"x": 8787.476093054542,
-			"y": -3063.239664208932,
+			"y": -3063.2396642089325,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 584.4957275390625,
@@ -1493,7 +1493,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041141263,
+			"updated": 1704271054505,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1540,8 +1540,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 573,
-			"versionNonce": 1861776709,
+			"version": 574,
+			"versionNonce": 648333162,
 			"isDeleted": false,
 			"id": "wI8Cbs5C",
 			"fillStyle": "solid",
@@ -1563,7 +1563,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041129043,
+			"updated": 1704271203087,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1575,12 +1575,12 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Meilleur type d'apprentissage informel selon votre profile",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 357,
-			"versionNonce": 824411301,
+			"version": 358,
+			"versionNonce": 410860598,
 			"isDeleted": false,
 			"id": "bibEFJAn",
 			"fillStyle": "solid",
@@ -1603,7 +1603,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041129043,
+			"updated": 1704271203088,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1615,7 +1615,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Age ?",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1696,8 +1696,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 373,
-			"versionNonce": 64301765,
+			"version": 374,
+			"versionNonce": 640436778,
 			"isDeleted": false,
 			"id": "G2zz7dWK",
 			"fillStyle": "solid",
@@ -1720,7 +1720,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041129043,
+			"updated": 1704271203088,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1732,7 +1732,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Cursus",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1813,8 +1813,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 421,
-			"versionNonce": 1483932901,
+			"version": 422,
+			"versionNonce": 1496597878,
 			"isDeleted": false,
 			"id": "TZm7RFnx",
 			"fillStyle": "solid",
@@ -1837,7 +1837,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041129043,
+			"updated": 1704271203089,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1849,7 +1849,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Side project",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1930,8 +1930,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 478,
-			"versionNonce": 1417253637,
+			"version": 479,
+			"versionNonce": 926250218,
 			"isDeleted": false,
 			"id": "sj8BGbVc",
 			"fillStyle": "solid",
@@ -1954,7 +1954,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041129043,
+			"updated": 1704271203089,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1966,7 +1966,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Open source contribution ?",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -2047,8 +2047,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "rectangle",
-			"version": 594,
-			"versionNonce": 146101541,
+			"version": 595,
+			"versionNonce": 306025078,
 			"isDeleted": false,
 			"id": "86N7YlPU2sbDylatbJ8ZE",
 			"fillStyle": "solid",
@@ -2058,7 +2058,7 @@ Selon résultat custom IA ^vsjGwid6
 			"opacity": 100,
 			"angle": 0,
 			"x": 3631.4743289561866,
-			"y": -3474.3783120688836,
+			"y": -3474.378312068884,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 416.8604872911567,
@@ -2081,14 +2081,14 @@ Selon résultat custom IA ^vsjGwid6
 					"type": "arrow"
 				}
 			],
-			"updated": 1704041129043,
+			"updated": 1704271054514,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 540,
-			"versionNonce": 1933757253,
+			"version": 541,
+			"versionNonce": 1680530998,
 			"isDeleted": false,
 			"id": "ALYWArbC",
 			"fillStyle": "solid",
@@ -2098,7 +2098,7 @@ Selon résultat custom IA ^vsjGwid6
 			"opacity": 100,
 			"angle": 0,
 			"x": 3781.8646174626047,
-			"y": -3465.1668283558024,
+			"y": -3465.166828355803,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 116.07991027832031,
@@ -2110,7 +2110,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041129044,
+			"updated": 1704271054515,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2126,8 +2126,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 385,
-			"versionNonce": 632494757,
+			"version": 386,
+			"versionNonce": 414721718,
 			"isDeleted": false,
 			"id": "oI9vkstq",
 			"fillStyle": "solid",
@@ -2149,7 +2149,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041129044,
+			"updated": 1704271203090,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2161,12 +2161,12 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Questionnaire pour déterminer le type d'apprentissage informel",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
-			"version": 615,
-			"versionNonce": 2015526405,
+			"version": 616,
+			"versionNonce": 189482922,
 			"isDeleted": false,
 			"id": "fcNtmNUe",
 			"fillStyle": "solid",
@@ -2188,7 +2188,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041129044,
+			"updated": 1704271203090,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2200,7 +2200,7 @@ Selon résultat custom IA ^vsjGwid6
 			"containerId": null,
 			"originalText": "Parmis tous les projets informatiques auxquels vous\navez participé (perso, profesionnel, POC, side project)\nlesquels vous ont le plus donné de plaisir à réaliser\net pourquoi ?\n\nCes informations nous permettrons de vous proposer\ndes exercices adapté à vos goûts.",
 			"lineHeight": 1.25,
-			"baseline": 168
+			"baseline": 167
 		},
 		{
 			"type": "rectangle",
@@ -2350,8 +2350,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 765,
-			"versionNonce": 117330827,
+			"version": 766,
+			"versionNonce": 2085305462,
 			"isDeleted": false,
 			"id": "vXVRuslB",
 			"fillStyle": "solid",
@@ -2360,7 +2360,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4050.3007266975883,
+			"x": 4050.300726697589,
 			"y": -1400.4941093000775,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2373,7 +2373,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123167,
+			"updated": 1704271054521,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2476,8 +2476,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 1969,
-			"versionNonce": 1900388869,
+			"version": 1973,
+			"versionNonce": 1018369782,
 			"isDeleted": false,
 			"id": "yIF1auVG5Q604ORt9xVgE",
 			"fillStyle": "solid",
@@ -2486,11 +2486,11 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4263.2264212316395,
+			"x": 4263.226421231639,
 			"y": -1280.1762770980527,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 3.5974364802277705,
+			"width": 3.59743648022868,
 			"height": 101.18038842743954,
 			"seed": 674918802,
 			"groupIds": [
@@ -2501,18 +2501,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041123167,
+			"updated": 1704271054523,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "oFggns6fZGfAWfhjFJuxE",
-				"focus": 0.012335818473047745,
-				"gap": 2.2189828525333724
+				"gap": 2.2189828525333724,
+				"focus": 0.012335818473047745
 			},
 			"endBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"focus": 0.042360898775540314,
-				"gap": 4.686134116417179
+				"gap": 4.686134116417179,
+				"focus": 0.042360898775540314
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2523,7 +2523,7 @@ Selon résultat custom IA ^vsjGwid6
 					0
 				],
 				[
-					3.5974364802277705,
+					3.59743648022868,
 					101.18038842743954
 				]
 			]
@@ -2613,8 +2613,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 1865,
-			"versionNonce": 760699755,
+			"version": 1869,
+			"versionNonce": 512681590,
 			"isDeleted": false,
 			"id": "UXJ7-QC_3JIo4QrpYAoo7",
 			"fillStyle": "solid",
@@ -2623,7 +2623,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4264.985876957781,
+			"x": 4264.985876957782,
 			"y": -1085.447971039101,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2638,18 +2638,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054526,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"focus": -0.010569786643384054,
-				"gap": 5.125132999696234
+				"gap": 5.125132999696234,
+				"focus": -0.010569786643384054
 			},
 			"endBinding": {
 				"elementId": "5IV3I5H0Mf1Sp0j6KxN4C",
-				"focus": 0.011341212643861965,
-				"gap": 9.118444522795016
+				"gap": 9.118444522795016,
+				"focus": 0.011341212643861965
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2762,8 +2762,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 1927,
-			"versionNonce": 1302840357,
+			"version": 1931,
+			"versionNonce": 568654710,
 			"isDeleted": false,
 			"id": "4AYzGEyd-pk9Ob_5DeXUr",
 			"fillStyle": "solid",
@@ -2773,11 +2773,11 @@ Selon résultat custom IA ^vsjGwid6
 			"opacity": 100,
 			"angle": 0,
 			"x": 4263.672830197703,
-			"y": -838.7862602757,
+			"y": -838.7862602757001,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 3.186062550159477,
-			"height": 101.55943332748757,
+			"width": 3.1860625501585673,
+			"height": 101.55943332748768,
 			"seed": 1862834574,
 			"groupIds": [
 				"Q4A8d2EcVwNmscQRGqZtz"
@@ -2787,18 +2787,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054530,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "5IV3I5H0Mf1Sp0j6KxN4C",
-				"focus": 0.010735572023841356,
-				"gap": 7.574148601607703
+				"gap": 7.574148601607703,
+				"focus": 0.010735572023841356
 			},
 			"endBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": 0.02977994088088659,
-				"gap": 3.6326185334119145
+				"gap": 3.6326185334119145,
+				"focus": 0.02977994088088659
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2809,8 +2809,8 @@ Selon résultat custom IA ^vsjGwid6
 					0
 				],
 				[
-					3.186062550159477,
-					101.55943332748757
+					3.1860625501585673,
+					101.55943332748768
 				]
 			]
 		},
@@ -2901,8 +2901,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "rectangle",
-			"version": 1090,
-			"versionNonce": 1381691211,
+			"version": 1091,
+			"versionNonce": 1224047542,
 			"isDeleted": false,
 			"id": "WUkshayA-X9HPpPkUeAPl",
 			"fillStyle": "solid",
@@ -2911,7 +2911,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3905.0556223300327,
+			"x": 3905.055622330033,
 			"y": -392.83057909722993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2940,14 +2940,14 @@ Selon résultat custom IA ^vsjGwid6
 					"type": "arrow"
 				}
 			],
-			"updated": 1704041123168,
+			"updated": 1704271054538,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 994,
-			"versionNonce": 1216790245,
+			"version": 995,
+			"versionNonce": 1799580150,
 			"isDeleted": false,
 			"id": "xwZBROpe",
 			"fillStyle": "solid",
@@ -2956,7 +2956,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3919.0144350831624,
+			"x": 3919.0144350831633,
 			"y": -387.83057909722993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2970,7 +2970,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054542,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3109,8 +3109,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 1227,
-			"versionNonce": 1383467429,
+			"version": 1228,
+			"versionNonce": 1926388406,
 			"isDeleted": false,
 			"id": "JqeW1KIo",
 			"fillStyle": "solid",
@@ -3119,7 +3119,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4612.587127643009,
+			"x": 4612.587127643008,
 			"y": -748.321684034031,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3132,7 +3132,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054549,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3148,8 +3148,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 2164,
-			"versionNonce": 1057263403,
+			"version": 2168,
+			"versionNonce": 2057167990,
 			"isDeleted": false,
 			"id": "UvOjIm3aCof38iQvfK4Sy",
 			"fillStyle": "solid",
@@ -3162,7 +3162,7 @@ Selon résultat custom IA ^vsjGwid6
 			"y": -615.5518800444547,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 339.63962438295493,
+			"width": 339.639624382954,
 			"height": 215.33390239573282,
 			"seed": 2071369618,
 			"groupIds": [
@@ -3171,18 +3171,18 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054544,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": -0.2048190347251885,
-				"gap": 3.0423283703457855
+				"gap": 3.0423283703457855,
+				"focus": -0.2048190347251885
 			},
 			"endBinding": {
 				"elementId": "2r96K-3joVT3jaL3LZOlx",
-				"focus": 0.19025130881747052,
-				"gap": 7.38739855149197
+				"gap": 7.38739855149197,
+				"focus": 0.19025130881747052
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3193,15 +3193,15 @@ Selon résultat custom IA ^vsjGwid6
 					0
 				],
 				[
-					339.63962438295493,
+					339.639624382954,
 					215.33390239573282
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2144,
-			"versionNonce": 212831493,
+			"version": 2148,
+			"versionNonce": 13010486,
 			"isDeleted": false,
 			"id": "QWra48uUobur5W7y_ox6E",
 			"fillStyle": "solid",
@@ -3223,18 +3223,18 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054539,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": -0.014484804095679257,
-				"gap": 3.2549507362045915
+				"gap": 3.2549507362045915,
+				"focus": -0.014484804095679257
 			},
 			"endBinding": {
 				"elementId": "WUkshayA-X9HPpPkUeAPl",
-				"focus": 0.013066981982046833,
-				"gap": 5.729621018901071
+				"gap": 5.729621018901071,
+				"focus": 0.013066981982046833
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3252,8 +3252,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 2556,
-			"versionNonce": 27226571,
+			"version": 2560,
+			"versionNonce": 333135862,
 			"isDeleted": false,
 			"id": "sG11kpPqBGReuNSCddbSp",
 			"fillStyle": "solid",
@@ -3275,18 +3275,18 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054533,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": 0.20253972912955792,
-				"gap": 1.3442540817368354
+				"gap": 1.3442540817368354,
+				"focus": 0.20253972912955792
 			},
 			"endBinding": {
 				"elementId": "N3in6thOdbTMOrU75DgSJ",
-				"focus": -0.22305186244619896,
-				"gap": 11.235438538059043
+				"gap": 11.235438538059043,
+				"focus": -0.22305186244619896
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3342,8 +3342,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 794,
-			"versionNonce": 327787,
+			"version": 795,
+			"versionNonce": 565808758,
 			"isDeleted": false,
 			"id": "gwhA2BFN",
 			"fillStyle": "solid",
@@ -3352,8 +3352,8 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4575.621005350647,
-			"y": -1150.362793350586,
+			"x": 4575.621005350646,
+			"y": -1150.3627933505857,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 275.7118225097656,
@@ -3365,7 +3365,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054552,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3381,8 +3381,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 1598,
-			"versionNonce": 790220741,
+			"version": 1602,
+			"versionNonce": 1379378486,
 			"isDeleted": false,
 			"id": "-v_0zNb95hzgjEb5Hq7RC",
 			"fillStyle": "solid",
@@ -3404,18 +3404,18 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054551,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"focus": 0.007016222960273285,
-				"gap": 4.311886454041087
+				"gap": 4.311886454041087,
+				"focus": 0.007016222960273285
 			},
 			"endBinding": {
 				"elementId": "olOaYrvl4_AQ1qvyBlbe1",
-				"focus": -0.15166034954832,
-				"gap": 3.2359742275311874
+				"gap": 3.2359742275311874,
+				"focus": -0.15166034954832
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3473,8 +3473,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 739,
-			"versionNonce": 1228246821,
+			"version": 740,
+			"versionNonce": 1121475126,
 			"isDeleted": false,
 			"id": "M4IpPQ08",
 			"fillStyle": "solid",
@@ -3483,8 +3483,8 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4159.491585363684,
-			"y": 825.5854232589672,
+			"x": 4159.491585363685,
+			"y": 825.585423258967,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 207.70388793945312,
@@ -3496,7 +3496,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054554,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3512,8 +3512,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "rectangle",
-			"version": 718,
-			"versionNonce": 973742507,
+			"version": 719,
+			"versionNonce": 108766070,
 			"isDeleted": false,
 			"id": "TRTqel4zJJp6TmMJMqedZ",
 			"fillStyle": "solid",
@@ -3522,7 +3522,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4060.9453505991614,
+			"x": 4060.945350599162,
 			"y": 457.4641245527655,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -3558,14 +3558,14 @@ Selon résultat custom IA ^vsjGwid6
 					"type": "arrow"
 				}
 			],
-			"updated": 1704041123168,
+			"updated": 1704271054556,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 752,
-			"versionNonce": 1549951621,
+			"version": 753,
+			"versionNonce": 2020290230,
 			"isDeleted": false,
 			"id": "78aWKsZI",
 			"fillStyle": "solid",
@@ -3574,7 +3574,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4076.505807716877,
+			"x": 4076.505807716878,
 			"y": 462.4641245527655,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -3587,7 +3587,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054560,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3603,8 +3603,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 1926,
-			"versionNonce": 1531884619,
+			"version": 1930,
+			"versionNonce": 87408118,
 			"isDeleted": false,
 			"id": "ZopHZvIW-XiQOsKPB0rvK",
 			"fillStyle": "solid",
@@ -3614,7 +3614,7 @@ Selon résultat custom IA ^vsjGwid6
 			"opacity": 100,
 			"angle": 0,
 			"x": 4261.512803957389,
-			"y": 140.0631536176461,
+			"y": 140.06315361764607,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 2.2300043848626956,
@@ -3628,18 +3628,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054556,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "WUkshayA-X9HPpPkUeAPl",
-				"focus": -0.03223448399827001,
-				"gap": 2.8937327148760232
+				"gap": 2.8937327148760232,
+				"focus": -0.03223448399827001
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"focus": -0.026264869543366688,
-				"gap": 2.0669766683408852
+				"gap": 2.0669766683408852,
+				"focus": -0.026264869543366688
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3657,8 +3657,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 1876,
-			"versionNonce": 1297992165,
+			"version": 1880,
+			"versionNonce": 319502454,
 			"isDeleted": false,
 			"id": "5e6CnGUnEZnAajRbX-ZU6",
 			"fillStyle": "solid",
@@ -3668,11 +3668,11 @@ Selon résultat custom IA ^vsjGwid6
 			"opacity": 100,
 			"angle": 0,
 			"x": 4790.85523843735,
-			"y": 121.14368896961196,
+			"y": 121.14368896961201,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 374.1888507351232,
-			"height": 330.2294133600458,
+			"height": 330.2294133600457,
 			"seed": 244951566,
 			"groupIds": [
 				"Q4A8d2EcVwNmscQRGqZtz"
@@ -3682,18 +3682,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054558,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "2r96K-3joVT3jaL3LZOlx",
-				"focus": -0.08944691530746868,
-				"gap": 3.974268066841887
+				"gap": 3.974268066841887,
+				"focus": -0.08944691530746868
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"focus": 0.06497542066234685,
-				"gap": 6.091022223107757
+				"gap": 6.091022223107757,
+				"focus": 0.06497542066234685
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3705,14 +3705,14 @@ Selon résultat custom IA ^vsjGwid6
 				],
 				[
 					-374.1888507351232,
-					330.2294133600458
+					330.2294133600457
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1828,
-			"versionNonce": 396882667,
+			"version": 1832,
+			"versionNonce": 1755583222,
 			"isDeleted": false,
 			"id": "U3ZGSrlud6jSy5rfAeMrx",
 			"fillStyle": "solid",
@@ -3722,7 +3722,7 @@ Selon résultat custom IA ^vsjGwid6
 			"opacity": 100,
 			"angle": 0,
 			"x": 3731.7416526832685,
-			"y": 105.13357622431613,
+			"y": 105.13357622431616,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 377.32921857473957,
@@ -3736,18 +3736,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054558,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "N3in6thOdbTMOrU75DgSJ",
-				"focus": 0.04912880439988445,
-				"gap": 7.964155321546059
+				"gap": 7.964155321546059,
+				"focus": 0.04912880439988445
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"focus": -0.09196674185034877,
-				"gap": 5.1263351727052395
+				"gap": 5.1263351727052395,
+				"focus": -0.09196674185034877
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3765,8 +3765,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 1782,
-			"versionNonce": 221594949,
+			"version": 1786,
+			"versionNonce": 883445110,
 			"isDeleted": false,
 			"id": "Tdviut1XD64GQ_izRrWKk",
 			"fillStyle": "solid",
@@ -3779,7 +3779,7 @@ Selon résultat custom IA ^vsjGwid6
 			"y": 680.7733077366479,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.4428028198908578,
+			"width": 1.4428028198917673,
 			"height": 136.91248200928203,
 			"seed": 1082424402,
 			"groupIds": [
@@ -3790,18 +3790,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054559,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"focus": 0.005758671828977675,
-				"gap": 3.3091831838823964
+				"gap": 3.3091831838823964,
+				"focus": 0.005758671828977675
 			},
 			"endBinding": {
 				"elementId": "ALQgJLBh9BGd2xMbsceuW",
-				"focus": 0.01971142547588223,
-				"gap": 1.2624827122513125
+				"gap": 1.2624827122513125,
+				"focus": 0.01971142547588223
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3812,15 +3812,15 @@ Selon résultat custom IA ^vsjGwid6
 					0
 				],
 				[
-					1.4428028198908578,
+					1.4428028198917673,
 					136.91248200928203
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1851,
-			"versionNonce": 2141216139,
+			"version": 1855,
+			"versionNonce": 1468332406,
 			"isDeleted": false,
 			"id": "UJoQfZP6mHIVmQ5ER6Xqj",
 			"fillStyle": "solid",
@@ -3844,18 +3844,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041123168,
+			"updated": 1704271054548,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": 0.147505353943854,
-				"gap": 7.136820194386019
+				"gap": 7.136820194386019,
+				"focus": 0.147505353943854
 			},
 			"endBinding": {
 				"elementId": "mKIuSWH_u9AdJ-elHBjeh",
-				"focus": -0.014136095406628859,
-				"gap": 4.146336376465115
+				"gap": 4.146336376465115,
+				"focus": -0.014136095406628859
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3917,8 +3917,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 1129,
-			"versionNonce": 1042370699,
+			"version": 1130,
+			"versionNonce": 466173174,
 			"isDeleted": false,
 			"id": "OqXOrkRO",
 			"fillStyle": "solid",
@@ -3927,7 +3927,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5928.130917827294,
+			"x": 5928.130917827295,
 			"y": -1400.4941093000775,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3940,7 +3940,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041151626,
+			"updated": 1704271054563,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3956,8 +3956,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 2919,
-			"versionNonce": 734138789,
+			"version": 2923,
+			"versionNonce": 2085653622,
 			"isDeleted": false,
 			"id": "k8VN46VE76venZce6mb_0",
 			"fillStyle": "solid",
@@ -3981,18 +3981,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041151626,
+			"updated": 1704271054565,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "M8jJ4XXSIvN81WNIx9BCw",
-				"focus": 0.012438413643778725,
-				"gap": 2.2189828525333724
+				"gap": 2.2189828525333724,
+				"focus": 0.012438413643778725
 			},
 			"endBinding": {
 				"elementId": "kw1GO7wJxpoJtUm1L09Se",
-				"focus": 0.017112320785339197,
-				"gap": 8.166030584910914
+				"gap": 8.166030584910914,
+				"focus": 0.017112320785339197
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4143,8 +4143,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 1783,
-			"versionNonce": 545445829,
+			"version": 1784,
+			"versionNonce": 1593265462,
 			"isDeleted": false,
 			"id": "DvBOCzTk",
 			"fillStyle": "solid",
@@ -4153,7 +4153,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6545.871612107295,
+			"x": 6545.871612107294,
 			"y": -1078.132829837049,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4166,7 +4166,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041151626,
+			"updated": 1704271054570,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4182,8 +4182,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 3293,
-			"versionNonce": 1066087179,
+			"version": 3297,
+			"versionNonce": 2107794934,
 			"isDeleted": false,
 			"id": "_LnXDfNKJqc5F2F72Eyh5",
 			"fillStyle": "solid",
@@ -4205,18 +4205,18 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041151626,
+			"updated": 1704271054574,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "kw1GO7wJxpoJtUm1L09Se",
-				"focus": -0.0144917758825217,
-				"gap": 3.2549507362045915
+				"gap": 3.2549507362045915,
+				"focus": -0.0144917758825217
 			},
 			"endBinding": {
 				"elementId": "jDcb2OPFhfTzpxp5Ur06q",
-				"focus": -0.033620733902472305,
-				"gap": 3.580244888854395
+				"gap": 3.580244888854395,
+				"focus": -0.033620733902472305
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4278,8 +4278,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 1546,
-			"versionNonce": 1026124421,
+			"version": 1547,
+			"versionNonce": 1584548726,
 			"isDeleted": false,
 			"id": "6PijZk10",
 			"fillStyle": "solid",
@@ -4288,7 +4288,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5964.879874851188,
+			"x": 5964.879874851187,
 			"y": 311.5698166993611,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4301,7 +4301,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041151626,
+			"updated": 1704271054573,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4317,8 +4317,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 4283,
-			"versionNonce": 341584971,
+			"version": 4287,
+			"versionNonce": 107864182,
 			"isDeleted": false,
 			"id": "PbJmJ6tA6FAnXvVAL2YpE",
 			"fillStyle": "solid",
@@ -4342,18 +4342,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041151626,
+			"updated": 1704271054575,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "jDcb2OPFhfTzpxp5Ur06q",
-				"focus": 0.030990095455810086,
-				"gap": 11.465401586485768
+				"gap": 11.465401586485768,
+				"focus": 0.030990095455810086
 			},
 			"endBinding": {
 				"elementId": "IDHZsSdzaov94Z2FzOJIy",
-				"focus": -0.027163493501679178,
-				"gap": 8.064808012556114
+				"gap": 8.064808012556114,
+				"focus": -0.027163493501679178
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4371,8 +4371,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "arrow",
-			"version": 2620,
-			"versionNonce": 268685797,
+			"version": 2624,
+			"versionNonce": 1470392054,
 			"isDeleted": false,
 			"id": "MLL4T6EDGqZaNAAmdcJO1",
 			"fillStyle": "solid",
@@ -4396,18 +4396,18 @@ Selon résultat custom IA ^vsjGwid6
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704041151626,
+			"updated": 1704271054568,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "kw1GO7wJxpoJtUm1L09Se",
-				"focus": 0.14744646648367143,
-				"gap": 7.136820194386019
+				"gap": 7.136820194386019,
+				"focus": 0.14744646648367143
 			},
 			"endBinding": {
 				"elementId": "5f01296OQpafnCYILgGmi",
-				"focus": -0.014136095406640466,
-				"gap": 4.146336376465115
+				"gap": 4.146336376465115,
+				"focus": -0.014136095406640466
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4424,20 +4424,24 @@ Selon résultat custom IA ^vsjGwid6
 			]
 		},
 		{
-			"id": "jDcb2OPFhfTzpxp5Ur06q",
 			"type": "rectangle",
-			"x": 5663.70391972171,
-			"y": -806.081336224418,
-			"width": 914.6664329638897,
-			"height": 910,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 1186,
+			"versionNonce": 500845893,
+			"isDeleted": false,
+			"id": "jDcb2OPFhfTzpxp5Ur06q",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 5663.70391972171,
+			"y": -806.081336224418,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 914.6664329638897,
+			"height": 910,
+			"seed": 1345624805,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
@@ -4445,10 +4449,6 @@ Selon résultat custom IA ^vsjGwid6
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1345624805,
-			"version": 1186,
-			"versionNonce": 500845893,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -4468,59 +4468,63 @@ Selon résultat custom IA ^vsjGwid6
 			"locked": false
 		},
 		{
-			"id": "AaEbQPzt",
 			"type": "text",
-			"x": 5671.4694482153745,
-			"y": -801.081336224418,
-			"width": 899.1353759765625,
-			"height": 900,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 1163,
+			"versionNonce": 1107714486,
+			"isDeleted": false,
+			"id": "AaEbQPzt",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 5671.469448215374,
+			"y": -801.081336224418,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 899.1353759765625,
+			"height": 900,
+			"seed": 989263909,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 989263909,
-			"version": 1162,
-			"versionNonce": 2108675467,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704041151626,
+			"boundElements": [],
+			"updated": 1704271054581,
 			"link": null,
 			"locked": false,
-			"text": "1. Plateforme de gestion de projets personnels : Concevez une application web ou mobile qui permet à l'utilisateur\nde gérer et de suivre ses projets personnels, y compris les side projects et les proof of concepts. L'application\npourrait inclure des fonctionnalités telles que la planification, le suivi des tâches, la gestion des ressources et\nla génération de rapports.\n\n2. Assistant virtuel pour développeurs : Créez un assistant virtuel basé sur l'intelligence artificielle qui peut\naider l'utilisateur à choisir les technologies appropriées pour ses side projects ou proof of concepts. L'assistant\npeut fournir des recommandations en fonction des besoins spécifiques de l'utilisateur et des tendances du\nmarché.\n\n3. Gestionnaire de bibliothèques de code : Développez une application qui permet à l'utilisateur d'organiser et de\ngérer ses bibliothèques de code, de snippets et de ressources utiles pour ses projets de développement.\nL'application pourrait également inclure une fonction de recherche avancée pour faciliter la réutilisation du code.\n\n4. Tableau de bord de suivi des technologies : Créez un tableau de bord interactif qui permet à l'utilisateur de\nsuivre les nouvelles technologies, les frameworks, les langages de programmation, etc. L'application pourrait\nagréger des informations pertinentes à partir de sources en ligne et fournir des recommandations en fonction des\nintérêts de l'utilisateur.\n\n5. Outil de génération de documentation technique : Développez un outil qui simplifie la création de\ndocumentation technique pour les projets de développement. L'utilisateur pourrait saisir des informations sur son\nprojet, et l'outil générerait automatiquement une documentation complète et structurée.\n\n6. Plateforme de collaboration pour les projets open source : Créez une plateforme en ligne qui permet aux\ndéveloppeurs de collaborer sur des projets open source, y compris des side projects et des proof of concepts.\nL'application pourrait faciliter la gestion des contributions, la communication entre les membres de l'équipe et le\nsuivi des problèmes.\n\n7. Système de gestion des tests automatisés : Concevez un système qui simplifie la création, l'exécution et le\nsuivi des tests automatisés pour les applications et les projets de développement. L'utilisateur pourrait\nconfigurer des tests personnalisés pour s'assurer de la qualité de ses side projects et de ses proof of\nconcepts.\n\n8. Outil de gestion des versions de code : Créez un outil de gestion des versions de code qui simplifie le\nprocessus de contrôle de version pour les side projects et les proof of concepts. L'outil pourrait être conçu\npour être convivial et adapté aux développeurs individuels.\n\n9. Plateforme de partage de ressources de développement : Développez une plateforme en ligne où les\ndéveloppeurs peuvent partager des ressources, des tutoriels, des templates et des exemples de code pour aider\nd'autres développeurs dans leurs side projects et proof of concepts.\n\n10. Système de suivi des tendances technologiques : Concevez un système qui surveille en permanence les\ntendances technologiques et fournit à l'utilisateur des mises à jour régulières sur les technologies pertinentes\npour ses projets de développement. L'utilisateur pourrait recevoir des recommandations basées sur ces\ntendances.",
-			"rawText": "1. Plateforme de gestion de projets personnels : Concevez une application web ou mobile qui permet à l'utilisateur de gérer et de suivre ses projets personnels, y compris les side projects et les proof of concepts. L'application pourrait inclure des fonctionnalités telles que la planification, le suivi des tâches, la gestion des ressources et la génération de rapports.\n\n2. Assistant virtuel pour développeurs : Créez un assistant virtuel basé sur l'intelligence artificielle qui peut aider l'utilisateur à choisir les technologies appropriées pour ses side projects ou proof of concepts. L'assistant peut fournir des recommandations en fonction des besoins spécifiques de l'utilisateur et des tendances du marché.\n\n3. Gestionnaire de bibliothèques de code : Développez une application qui permet à l'utilisateur d'organiser et de gérer ses bibliothèques de code, de snippets et de ressources utiles pour ses projets de développement. L'application pourrait également inclure une fonction de recherche avancée pour faciliter la réutilisation du code.\n\n4. Tableau de bord de suivi des technologies : Créez un tableau de bord interactif qui permet à l'utilisateur de suivre les nouvelles technologies, les frameworks, les langages de programmation, etc. L'application pourrait agréger des informations pertinentes à partir de sources en ligne et fournir des recommandations en fonction des intérêts de l'utilisateur.\n\n5. Outil de génération de documentation technique : Développez un outil qui simplifie la création de documentation technique pour les projets de développement. L'utilisateur pourrait saisir des informations sur son projet, et l'outil générerait automatiquement une documentation complète et structurée.\n\n6. Plateforme de collaboration pour les projets open source : Créez une plateforme en ligne qui permet aux développeurs de collaborer sur des projets open source, y compris des side projects et des proof of concepts. L'application pourrait faciliter la gestion des contributions, la communication entre les membres de l'équipe et le suivi des problèmes.\n\n7. Système de gestion des tests automatisés : Concevez un système qui simplifie la création, l'exécution et le suivi des tests automatisés pour les applications et les projets de développement. L'utilisateur pourrait configurer des tests personnalisés pour s'assurer de la qualité de ses side projects et de ses proof of concepts.\n\n8. Outil de gestion des versions de code : Créez un outil de gestion des versions de code qui simplifie le processus de contrôle de version pour les side projects et les proof of concepts. L'outil pourrait être conçu pour être convivial et adapté aux développeurs individuels.\n\n9. Plateforme de partage de ressources de développement : Développez une plateforme en ligne où les développeurs peuvent partager des ressources, des tutoriels, des templates et des exemples de code pour aider d'autres développeurs dans leurs side projects et proof of concepts.\n\n10. Système de suivi des tendances technologiques : Concevez un système qui surveille en permanence les tendances technologiques et fournit à l'utilisateur des mises à jour régulières sur les technologies pertinentes pour ses projets de développement. L'utilisateur pourrait recevoir des recommandations basées sur ces tendances.",
 			"fontSize": 16,
 			"fontFamily": 1,
+			"text": "1. Plateforme de gestion de projets personnels : Concevez une application web ou mobile qui permet à l'utilisateur\nde gérer et de suivre ses projets personnels, y compris les side projects et les proof of concepts. L'application\npourrait inclure des fonctionnalités telles que la planification, le suivi des tâches, la gestion des ressources et\nla génération de rapports.\n\n2. Assistant virtuel pour développeurs : Créez un assistant virtuel basé sur l'intelligence artificielle qui peut\naider l'utilisateur à choisir les technologies appropriées pour ses side projects ou proof of concepts. L'assistant\npeut fournir des recommandations en fonction des besoins spécifiques de l'utilisateur et des tendances du\nmarché.\n\n3. Gestionnaire de bibliothèques de code : Développez une application qui permet à l'utilisateur d'organiser et de\ngérer ses bibliothèques de code, de snippets et de ressources utiles pour ses projets de développement.\nL'application pourrait également inclure une fonction de recherche avancée pour faciliter la réutilisation du code.\n\n4. Tableau de bord de suivi des technologies : Créez un tableau de bord interactif qui permet à l'utilisateur de\nsuivre les nouvelles technologies, les frameworks, les langages de programmation, etc. L'application pourrait\nagréger des informations pertinentes à partir de sources en ligne et fournir des recommandations en fonction des\nintérêts de l'utilisateur.\n\n5. Outil de génération de documentation technique : Développez un outil qui simplifie la création de\ndocumentation technique pour les projets de développement. L'utilisateur pourrait saisir des informations sur son\nprojet, et l'outil générerait automatiquement une documentation complète et structurée.\n\n6. Plateforme de collaboration pour les projets open source : Créez une plateforme en ligne qui permet aux\ndéveloppeurs de collaborer sur des projets open source, y compris des side projects et des proof of concepts.\nL'application pourrait faciliter la gestion des contributions, la communication entre les membres de l'équipe et le\nsuivi des problèmes.\n\n7. Système de gestion des tests automatisés : Concevez un système qui simplifie la création, l'exécution et le\nsuivi des tests automatisés pour les applications et les projets de développement. L'utilisateur pourrait\nconfigurer des tests personnalisés pour s'assurer de la qualité de ses side projects et de ses proof of\nconcepts.\n\n8. Outil de gestion des versions de code : Créez un outil de gestion des versions de code qui simplifie le\nprocessus de contrôle de version pour les side projects et les proof of concepts. L'outil pourrait être conçu\npour être convivial et adapté aux développeurs individuels.\n\n9. Plateforme de partage de ressources de développement : Développez une plateforme en ligne où les\ndéveloppeurs peuvent partager des ressources, des tutoriels, des templates et des exemples de code pour aider\nd'autres développeurs dans leurs side projects et proof of concepts.\n\n10. Système de suivi des tendances technologiques : Concevez un système qui surveille en permanence les\ntendances technologiques et fournit à l'utilisateur des mises à jour régulières sur les technologies pertinentes\npour ses projets de développement. L'utilisateur pourrait recevoir des recommandations basées sur ces\ntendances.",
+			"rawText": "1. Plateforme de gestion de projets personnels : Concevez une application web ou mobile qui permet à l'utilisateur de gérer et de suivre ses projets personnels, y compris les side projects et les proof of concepts. L'application pourrait inclure des fonctionnalités telles que la planification, le suivi des tâches, la gestion des ressources et la génération de rapports.\n\n2. Assistant virtuel pour développeurs : Créez un assistant virtuel basé sur l'intelligence artificielle qui peut aider l'utilisateur à choisir les technologies appropriées pour ses side projects ou proof of concepts. L'assistant peut fournir des recommandations en fonction des besoins spécifiques de l'utilisateur et des tendances du marché.\n\n3. Gestionnaire de bibliothèques de code : Développez une application qui permet à l'utilisateur d'organiser et de gérer ses bibliothèques de code, de snippets et de ressources utiles pour ses projets de développement. L'application pourrait également inclure une fonction de recherche avancée pour faciliter la réutilisation du code.\n\n4. Tableau de bord de suivi des technologies : Créez un tableau de bord interactif qui permet à l'utilisateur de suivre les nouvelles technologies, les frameworks, les langages de programmation, etc. L'application pourrait agréger des informations pertinentes à partir de sources en ligne et fournir des recommandations en fonction des intérêts de l'utilisateur.\n\n5. Outil de génération de documentation technique : Développez un outil qui simplifie la création de documentation technique pour les projets de développement. L'utilisateur pourrait saisir des informations sur son projet, et l'outil générerait automatiquement une documentation complète et structurée.\n\n6. Plateforme de collaboration pour les projets open source : Créez une plateforme en ligne qui permet aux développeurs de collaborer sur des projets open source, y compris des side projects et des proof of concepts. L'application pourrait faciliter la gestion des contributions, la communication entre les membres de l'équipe et le suivi des problèmes.\n\n7. Système de gestion des tests automatisés : Concevez un système qui simplifie la création, l'exécution et le suivi des tests automatisés pour les applications et les projets de développement. L'utilisateur pourrait configurer des tests personnalisés pour s'assurer de la qualité de ses side projects et de ses proof of concepts.\n\n8. Outil de gestion des versions de code : Créez un outil de gestion des versions de code qui simplifie le processus de contrôle de version pour les side projects et les proof of concepts. L'outil pourrait être conçu pour être convivial et adapté aux développeurs individuels.\n\n9. Plateforme de partage de ressources de développement : Développez une plateforme en ligne où les développeurs peuvent partager des ressources, des tutoriels, des templates et des exemples de code pour aider d'autres développeurs dans leurs side projects et proof of concepts.\n\n10. Système de suivi des tendances technologiques : Concevez un système qui surveille en permanence les tendances technologiques et fournit à l'utilisateur des mises à jour régulières sur les technologies pertinentes pour ses projets de développement. L'utilisateur pourrait recevoir des recommandations basées sur ces tendances.",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 894,
 			"containerId": "jDcb2OPFhfTzpxp5Ur06q",
 			"originalText": "1. Plateforme de gestion de projets personnels : Concevez une application web ou mobile qui permet à l'utilisateur de gérer et de suivre ses projets personnels, y compris les side projects et les proof of concepts. L'application pourrait inclure des fonctionnalités telles que la planification, le suivi des tâches, la gestion des ressources et la génération de rapports.\n\n2. Assistant virtuel pour développeurs : Créez un assistant virtuel basé sur l'intelligence artificielle qui peut aider l'utilisateur à choisir les technologies appropriées pour ses side projects ou proof of concepts. L'assistant peut fournir des recommandations en fonction des besoins spécifiques de l'utilisateur et des tendances du marché.\n\n3. Gestionnaire de bibliothèques de code : Développez une application qui permet à l'utilisateur d'organiser et de gérer ses bibliothèques de code, de snippets et de ressources utiles pour ses projets de développement. L'application pourrait également inclure une fonction de recherche avancée pour faciliter la réutilisation du code.\n\n4. Tableau de bord de suivi des technologies : Créez un tableau de bord interactif qui permet à l'utilisateur de suivre les nouvelles technologies, les frameworks, les langages de programmation, etc. L'application pourrait agréger des informations pertinentes à partir de sources en ligne et fournir des recommandations en fonction des intérêts de l'utilisateur.\n\n5. Outil de génération de documentation technique : Développez un outil qui simplifie la création de documentation technique pour les projets de développement. L'utilisateur pourrait saisir des informations sur son projet, et l'outil générerait automatiquement une documentation complète et structurée.\n\n6. Plateforme de collaboration pour les projets open source : Créez une plateforme en ligne qui permet aux développeurs de collaborer sur des projets open source, y compris des side projects et des proof of concepts. L'application pourrait faciliter la gestion des contributions, la communication entre les membres de l'équipe et le suivi des problèmes.\n\n7. Système de gestion des tests automatisés : Concevez un système qui simplifie la création, l'exécution et le suivi des tests automatisés pour les applications et les projets de développement. L'utilisateur pourrait configurer des tests personnalisés pour s'assurer de la qualité de ses side projects et de ses proof of concepts.\n\n8. Outil de gestion des versions de code : Créez un outil de gestion des versions de code qui simplifie le processus de contrôle de version pour les side projects et les proof of concepts. L'outil pourrait être conçu pour être convivial et adapté aux développeurs individuels.\n\n9. Plateforme de partage de ressources de développement : Développez une plateforme en ligne où les développeurs peuvent partager des ressources, des tutoriels, des templates et des exemples de code pour aider d'autres développeurs dans leurs side projects et proof of concepts.\n\n10. Système de suivi des tendances technologiques : Concevez un système qui surveille en permanence les tendances technologiques et fournit à l'utilisateur des mises à jour régulières sur les technologies pertinentes pour ses projets de développement. L'utilisateur pourrait recevoir des recommandations basées sur ces tendances.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 894
 		},
 		{
-			"id": "Uc1dgbMr7yfB6DUtDyMXD",
 			"type": "rectangle",
-			"x": 6610.59072187092,
-			"y": -1271.5824222014448,
-			"width": 104.67721382726268,
-			"height": 51.74945912190924,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 783,
+			"versionNonce": 735243307,
+			"isDeleted": false,
+			"id": "Uc1dgbMr7yfB6DUtDyMXD",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6610.59072187092,
+			"y": -1271.5824222014448,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 104.67721382726268,
+			"height": 51.74945912190924,
+			"seed": 375128389,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
@@ -4528,10 +4532,6 @@ Selon résultat custom IA ^vsjGwid6
 			"roundness": {
 				"type": 3
 			},
-			"seed": 375128389,
-			"version": 783,
-			"versionNonce": 735243307,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -4547,59 +4547,63 @@ Selon résultat custom IA ^vsjGwid6
 			"locked": false
 		},
 		{
-			"id": "Tp8qDLG9",
 			"type": "text",
-			"x": 6624.001350268927,
-			"y": -1255.7076926404902,
-			"width": 77.85595703125,
-			"height": 20,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 752,
+			"versionNonce": 762770806,
+			"isDeleted": false,
+			"id": "Tp8qDLG9",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6624.001350268926,
+			"y": -1255.7076926404902,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 77.85595703125,
+			"height": 20,
+			"seed": 1097845509,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1097845509,
-			"version": 751,
-			"versionNonce": 1614905349,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704041151626,
+			"boundElements": [],
+			"updated": 1704271054584,
 			"link": null,
 			"locked": false,
-			"text": "année exp",
-			"rawText": "année exp",
 			"fontSize": 16,
 			"fontFamily": 1,
+			"text": "année exp",
+			"rawText": "année exp",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 14,
 			"containerId": "Uc1dgbMr7yfB6DUtDyMXD",
 			"originalText": "année exp",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 14
 		},
 		{
-			"id": "b3CTfpI6Bp8mEBOFuX_K4",
 			"type": "arrow",
-			"x": 6679.691787536321,
-			"y": -1217.4800154338573,
-			"width": 3.6099991615819818,
-			"height": 126.9575605130077,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 2285,
+			"versionNonce": 1800793142,
+			"isDeleted": false,
+			"id": "b3CTfpI6Bp8mEBOFuX_K4",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6679.6917875363215,
+			"y": -1217.4800154338573,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3.6099991615828912,
+			"height": 126.95756051300782,
+			"seed": 872180939,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
@@ -4607,40 +4611,33 @@ Selon résultat custom IA ^vsjGwid6
 			"roundness": {
 				"type": 2
 			},
-			"seed": 872180939,
-			"version": 2281,
-			"versionNonce": 1587162827,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704041151626,
+			"boundElements": [],
+			"updated": 1704271054583,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "Uc1dgbMr7yfB6DUtDyMXD",
+				"gap": 2.3529476456783414,
+				"focus": -0.3309528067075331
+			},
+			"endBinding": {
+				"elementId": "5f01296OQpafnCYILgGmi",
+				"gap": 7.389625083800411,
+				"focus": -0.16921144374451738
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					-3.6099991615819818,
-					126.9575605130077
+					-3.6099991615828912,
+					126.95756051300782
 				]
-			],
-			"lastCommittedPoint": [
-				-179.47832077546445,
-				179.18703084280105
-			],
-			"startBinding": {
-				"elementId": "Uc1dgbMr7yfB6DUtDyMXD",
-				"focus": -0.3309528067075331,
-				"gap": 2.3529476456783414
-			},
-			"endBinding": {
-				"elementId": "5f01296OQpafnCYILgGmi",
-				"focus": -0.16921144374451738,
-				"gap": 7.389625083800411
-			},
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
 			"type": "rectangle",
@@ -4684,8 +4681,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 935,
-			"versionNonce": 655033029,
+			"version": 936,
+			"versionNonce": 1125851446,
 			"isDeleted": false,
 			"id": "sCKLw5Oh",
 			"fillStyle": "solid",
@@ -4694,7 +4691,7 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6770.5778200986815,
+			"x": 6770.577820098681,
 			"y": -1223.2045763889826,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4707,7 +4704,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041151626,
+			"updated": 1704271054586,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4722,20 +4719,24 @@ Selon résultat custom IA ^vsjGwid6
 			"baseline": 14
 		},
 		{
-			"id": "XY4yJxvofl5Yq23o2AQLk",
 			"type": "arrow",
-			"x": 6828.092984969801,
-			"y": -1179.6504786698886,
-			"width": 52.28301648603701,
-			"height": 91.79380253234172,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 1960,
+			"versionNonce": 1594134518,
+			"isDeleted": false,
+			"id": "XY4yJxvofl5Yq23o2AQLk",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6828.092984969801,
+			"y": -1179.6504786698886,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 52.28301648603701,
+			"height": 91.79380253234172,
+			"seed": 808178827,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
@@ -4743,14 +4744,23 @@ Selon résultat custom IA ^vsjGwid6
 			"roundness": {
 				"type": 2
 			},
-			"seed": 808178827,
-			"version": 1956,
-			"versionNonce": 1697593355,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704041151626,
+			"boundElements": [],
+			"updated": 1704271054586,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "5kE1XetoGgpv0OlUxwp1a",
+				"gap": 7.6793681581393685,
+				"focus": -0.485338482775712
+			},
+			"endBinding": {
+				"elementId": "5f01296OQpafnCYILgGmi",
+				"gap": 4.723846300497826,
+				"focus": 0.10876349801626554
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -4760,39 +4770,27 @@ Selon résultat custom IA ^vsjGwid6
 					-52.28301648603701,
 					91.79380253234172
 				]
-			],
-			"lastCommittedPoint": [
-				-209.9109275785504,
-				96.1979729104778
-			],
-			"startBinding": {
-				"elementId": "5kE1XetoGgpv0OlUxwp1a",
-				"focus": -0.485338482775712,
-				"gap": 7.6793681581393685
-			},
-			"endBinding": {
-				"elementId": "5f01296OQpafnCYILgGmi",
-				"focus": 0.10876349801626554,
-				"gap": 4.723846300497826
-			},
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "j0qwHWUtP0Oy5EU10k7sx",
 			"type": "rectangle",
-			"x": 6004.740784870296,
-			"y": 713.491971012847,
-			"width": 274.88385484296305,
-			"height": 145,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 649,
+			"versionNonce": 1648492203,
+			"isDeleted": false,
+			"id": "j0qwHWUtP0Oy5EU10k7sx",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6004.740784870296,
+			"y": 713.491971012847,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 274.88385484296305,
+			"height": 145,
+			"seed": 551024677,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
@@ -4800,10 +4798,6 @@ Selon résultat custom IA ^vsjGwid6
 			"roundness": {
 				"type": 3
 			},
-			"seed": 551024677,
-			"version": 649,
-			"versionNonce": 1648492203,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -4823,59 +4817,63 @@ Selon résultat custom IA ^vsjGwid6
 			"locked": false
 		},
 		{
-			"id": "nzuIKuJZ",
 			"type": "text",
-			"x": 6014.152759288848,
-			"y": 750.991971012847,
-			"width": 256.0599060058594,
-			"height": 70,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 620,
+			"versionNonce": 1508038021,
+			"isDeleted": false,
+			"id": "nzuIKuJZ",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6014.152759288848,
+			"y": 750.991971012847,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 256.0599060058594,
+			"height": 70,
+			"seed": 127617701,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 127617701,
-			"version": 620,
-			"versionNonce": 1508038021,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1704041151626,
 			"link": null,
 			"locked": false,
-			"text": "Détaillage complet\ndu sujet",
-			"rawText": "Détaillage complet du sujet",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "Détaillage complet\ndu sujet",
+			"rawText": "Détaillage complet du sujet",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 60,
 			"containerId": "j0qwHWUtP0Oy5EU10k7sx",
 			"originalText": "Détaillage complet du sujet",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 60
 		},
 		{
-			"id": "BRjXXavzzDetyEK6SgM_b",
 			"type": "arrow",
-			"x": 6145.3108169679135,
-			"y": 495.54031117358954,
-			"width": 3.643488249706934,
-			"height": 212.08821222182542,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 1908,
+			"versionNonce": 115395510,
+			"isDeleted": false,
+			"id": "BRjXXavzzDetyEK6SgM_b",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6145.310816967914,
+			"y": 495.54031117358954,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3.643488249706934,
+			"height": 212.08821222182542,
+			"seed": 1214459909,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
@@ -4883,14 +4881,23 @@ Selon résultat custom IA ^vsjGwid6
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1214459909,
-			"version": 1904,
-			"versionNonce": 1250095435,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704041151626,
+			"boundElements": [],
+			"updated": 1704271054588,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "IDHZsSdzaov94Z2FzOJIy",
+				"gap": 3.970494474228417,
+				"focus": -0.010858526328012475
+			},
+			"endBinding": {
+				"elementId": "j0qwHWUtP0Oy5EU10k7sx",
+				"gap": 5.86344761743203,
+				"focus": -0.013422980332192394
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -4900,23 +4907,7 @@ Selon résultat custom IA ^vsjGwid6
 					-3.643488249706934,
 					212.08821222182542
 				]
-			],
-			"lastCommittedPoint": [
-				-4.539300154388911,
-				252.1681898405227
-			],
-			"startBinding": {
-				"elementId": "IDHZsSdzaov94Z2FzOJIy",
-				"focus": -0.010858526328012475,
-				"gap": 3.970494474228417
-			},
-			"endBinding": {
-				"elementId": "j0qwHWUtP0Oy5EU10k7sx",
-				"focus": -0.013422980332192394,
-				"gap": 5.86344761743203
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
 			"type": "rectangle",
@@ -4958,8 +4949,8 @@ Selon résultat custom IA ^vsjGwid6
 		},
 		{
 			"type": "text",
-			"version": 2501,
-			"versionNonce": 1702164549,
+			"version": 2502,
+			"versionNonce": 2082257398,
 			"isDeleted": false,
 			"id": "7zqkNrw4",
 			"fillStyle": "solid",
@@ -4968,8 +4959,8 @@ Selon résultat custom IA ^vsjGwid6
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6444.7262124406525,
-			"y": 623.8719039862344,
+			"x": 6444.726212440652,
+			"y": 623.8719039862349,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 239.75985717773438,
@@ -4981,7 +4972,7 @@ Selon résultat custom IA ^vsjGwid6
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704041151626,
+			"updated": 1704271054591,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4996,20 +4987,24 @@ Selon résultat custom IA ^vsjGwid6
 			"baseline": 34
 		},
 		{
-			"id": "mCzIMLZFYi3LeQsfc-Fpg",
 			"type": "arrow",
-			"x": 6287.0956987149775,
-			"y": 751.3470010731935,
-			"width": 184.66751951560946,
-			"height": 63.013798533580484,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 2867,
+			"versionNonce": 1215971510,
+			"isDeleted": false,
+			"id": "mCzIMLZFYi3LeQsfc-Fpg",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 6287.0956987149775,
+			"y": 751.3470010731935,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 184.66751951560946,
+			"height": 63.013798533580484,
+			"seed": 1867983819,
 			"groupIds": [
 				"5Xx8RaWl-sAspcBg5H6ML"
 			],
@@ -5017,14 +5012,23 @@ Selon résultat custom IA ^vsjGwid6
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1867983819,
-			"version": 2863,
-			"versionNonce": 313088651,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704041151626,
+			"boundElements": [],
+			"updated": 1704271054590,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "j0qwHWUtP0Oy5EU10k7sx",
+				"gap": 7.471059001718459,
+				"focus": 0.12398297283741788
+			},
+			"endBinding": {
+				"elementId": "_rrAdXovIIzmuQ5lrIsJM",
+				"gap": 4.6795917997851575,
+				"focus": -0.1335082775165348
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -5034,48 +5038,32 @@ Selon résultat custom IA ^vsjGwid6
 					184.66751951560946,
 					-63.013798533580484
 				]
-			],
-			"lastCommittedPoint": [
-				242.0539436316085,
-				1.17109545932135
-			],
-			"startBinding": {
-				"elementId": "j0qwHWUtP0Oy5EU10k7sx",
-				"focus": 0.12398297283741788,
-				"gap": 7.471059001718459
-			},
-			"endBinding": {
-				"elementId": "_rrAdXovIIzmuQ5lrIsJM",
-				"focus": -0.1335082775165348,
-				"gap": 4.6795917997851575
-			},
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "ViUdqh8UuCi9LrMx8wjji",
 			"type": "rectangle",
-			"x": 4977.853334474055,
-			"y": -2115.649626573422,
-			"width": 433.0971270801774,
-			"height": 139.05519651454256,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 287,
+			"versionNonce": 2022324357,
+			"isDeleted": false,
+			"id": "ViUdqh8UuCi9LrMx8wjji",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 4977.853334474055,
+			"y": -2115.649626573422,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 433.0971270801774,
+			"height": 139.05519651454256,
+			"seed": 1762465259,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1762465259,
-			"version": 287,
-			"versionNonce": 2022324357,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -5099,125 +5087,135 @@ Selon résultat custom IA ^vsjGwid6
 			"locked": false
 		},
 		{
-			"id": "vsjGwid6",
 			"type": "text",
-			"x": 5016.293957340316,
-			"y": -2063.622028316151,
-			"width": 356.21588134765625,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 833088037,
 			"version": 236,
 			"versionNonce": 1454849611,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704041123169,
-			"link": null,
-			"locked": false,
-			"text": "Selon résultat custom IA",
-			"rawText": "Selon résultat custom IA",
-			"fontSize": 28,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 25,
-			"containerId": "ViUdqh8UuCi9LrMx8wjji",
-			"originalText": "Selon résultat custom IA",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "C_Bg_Y-ZjI_WUZVK5kI8W",
-			"type": "arrow",
-			"x": 5384.392330024719,
-			"y": -1973.7063487369896,
-			"width": 755.9779208496784,
-			"height": 550.7377590768642,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"id": "vsjGwid6",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 5016.293957340316,
+			"y": -2063.622028316151,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 356.21588134765625,
+			"height": 35,
+			"seed": 833088037,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1704041123169,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "Selon résultat custom IA",
+			"rawText": "Selon résultat custom IA",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "ViUdqh8UuCi9LrMx8wjji",
+			"originalText": "Selon résultat custom IA",
+			"lineHeight": 1.25,
+			"baseline": 25
+		},
+		{
+			"type": "arrow",
+			"version": 782,
+			"versionNonce": 23278710,
+			"isDeleted": false,
+			"id": "C_Bg_Y-ZjI_WUZVK5kI8W",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5384.7628355066745,
+			"y": -1973.7063487369896,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 755.4056522209803,
+			"height": 548.8712197373864,
+			"seed": 1127198571,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1127198571,
-			"version": 778,
-			"versionNonce": 1953857477,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704041145217,
+			"boundElements": [],
+			"updated": 1704271054593,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "ViUdqh8UuCi9LrMx8wjji",
+				"gap": 2.8880813218901267,
+				"focus": -0.29048685792579043
+			},
+			"endBinding": {
+				"elementId": "M8jJ4XXSIvN81WNIx9BCw",
+				"gap": 11.242170350034257,
+				"focus": 0.32299262699504594
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					755.9779208496784,
-					550.7377590768642
+					755.4056522209803,
+					548.8712197373864
 				]
-			],
-			"lastCommittedPoint": [
-				806.5462305614128,
-				434.8718165119395
-			],
-			"startBinding": {
-				"elementId": "ViUdqh8UuCi9LrMx8wjji",
-				"focus": -0.29048685792579043,
-				"gap": 2.8880813218901267
-			},
-			"endBinding": {
-				"elementId": "M8jJ4XXSIvN81WNIx9BCw",
-				"focus": 0.32299262699504594,
-				"gap": 11.242170350034257
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "PojRhU0PZquWclZhQ41bU",
 			"type": "arrow",
-			"x": 5045.600579681452,
-			"y": -1970.7830930293899,
-			"width": 798.9355025891327,
-			"height": 550.5017565190386,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 660,
+			"versionNonce": 1714228982,
+			"isDeleted": false,
+			"id": "PojRhU0PZquWclZhQ41bU",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 5045.600579681452,
+			"y": -1970.7830930293899,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 798.9355025891327,
+			"height": 550.5017565190387,
+			"seed": 1398139723,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1398139723,
-			"version": 656,
-			"versionNonce": 1768897771,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704041123169,
+			"boundElements": [],
+			"updated": 1704271054594,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "ViUdqh8UuCi9LrMx8wjji",
+				"gap": 5.811337029489891,
+				"focus": 0.12431123826333386
+			},
+			"endBinding": {
+				"elementId": "oFggns6fZGfAWfhjFJuxE",
+				"gap": 6.688377860782111,
+				"focus": -0.37174604871863043
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -5225,25 +5223,9 @@ Selon résultat custom IA ^vsjGwid6
 				],
 				[
 					-798.9355025891327,
-					550.5017565190386
+					550.5017565190387
 				]
-			],
-			"lastCommittedPoint": [
-				-825.96962378527,
-				439.0375023994851
-			],
-			"startBinding": {
-				"elementId": "ViUdqh8UuCi9LrMx8wjji",
-				"focus": 0.12431123826333386,
-				"gap": 5.811337029489891
-			},
-			"endBinding": {
-				"elementId": "oFggns6fZGfAWfhjFJuxE",
-				"focus": -0.37174604871863043,
-				"gap": 6.688377860782111
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		}
 	],
 	"appState": {
@@ -5261,10 +5243,10 @@ Selon résultat custom IA ^vsjGwid6
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1990.575709950249,
-		"scrollY": 2159.1559584720894,
+		"scrollX": -191.571637542198,
+		"scrollY": 5959.670487813867,
 		"zoom": {
-			"value": 0.4967832619510595
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
