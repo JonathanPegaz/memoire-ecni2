@@ -1,0 +1,5 @@
+> p. 733
+> Percevoir un son, c’est percevoir l’effet des vibrations de l’air ambiant qui arrivent par l’oreille externe sur la membrane tympanique ; celle-ci transmet à la chaîne des osselets, située dans l’oreille moyenne, les vibrations de l’air qui sont transformées en énergie mécanique. Par l’intermédiaire de la fenêtre ovale, ces vibrations se propagent au liquide endolymphatique siégeant dans l’oreille interne, les vibrations dece  liquide  excitent  les  cellules  sensorielles  de  la  cochlée  au  niveau  de  l’organe  de Corti,  donnant  naissance  à  des  potentiels  nerveux  qui  se  regroupent  dans  le  noyau acoustique de Golgi. Dans le vide, on ne perçoit pas les sons.
+
+> p. 749
+> Dans  un  article  de  synthèse, Zatorre et al. (2002) avancent différents arguments montrant que l’aire auditive primaire de l’hémisphère gauche semble spécialisée dans le traitement des transitions acoustiques rapides et que l’aire auditive droite est préférentiellement impliquée dans les modifications spectrales « lentes ».
