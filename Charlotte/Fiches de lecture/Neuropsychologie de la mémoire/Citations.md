@@ -1,2 +1,3 @@
 > La cryptomnésie « du grec kruptos “caché”, “secret” et mnémè “mémoire”, “ souvenir”, littéralement “souvenir caché”, est un biais mémoriel par lequel une personne a l’impression erronée d’avoir produit une pensée (une idée, une chanson, une plaisanterie), alors que cette pensée a été en réalité produite par quelqu’un d’autre. La cryptomnésie peut conduire au plagiat involontaire, dont l’auteur fait une expérience mnésique qu’il ne peut distinguer d’une inspiration nouvelle. » Elle correspond donc à une attribution erronée de l’origine d’une pensée. Une telle mauvaise attribution n’est généralement pas consciente, elle est faite de « bonne foi ».
+> Chapitre 8, *p.203*
 
