@@ -7,3 +7,6 @@
 L'expérience musicale, et encore plus si elle est précoce, modifie l'organisation tonotopique du cortex auditif. (p. 292)
 > Avec la technique de Magnétoencéphalo-graphie (MEG), les chercheurs ont montré que l’organisation tonotopique du cortex auditif est modifi ée par l’expérience musicale, d’autant plus fortement que cette pratique est précoce (Pantev et al., 1998).
 
+> p. 292-293
+> Cette capacité d’oreille absolue a également été étudiée en TEP par Zatorre et collaborateurs (1998). Ils montrent, pour une tâche de jugement d’accords, que les musiciens qui ne possèdent pas l’oreille absolue présentent des activations pré-frontales, absentes chez les  musiciens ayant cette capacité. Ces activations pré-frontales seraient le reflet d’un effort supplémentaire en mémoire de travail réalisé par les musiciens n’ayant pas l’oreille absolue.
+
