@@ -25,3 +25,5 @@ L'expérience musicale, et encore plus si elle est précoce, modifie l'organisat
 
 ## Mémoire musicale 
 
+> p. 300
+> Cependant, l’autonomie fonctionnelle entre une mémoire musicale pure et une mémoire linguistique n’a pas encore été clairement démontrée, et une comparaison directe entre tâches d’identification linguistique et musicale à l’aide d’une technique d’imagerie métabolique reste à faire.
