@@ -1,4 +1,4 @@
-## 
+## Travaux sur la perception musicale 
 
 > p. 292
 > Ils confirment une répartition tonotopique (des groupes de neurones différents répondent à des fréquences sonores différentes) au niveau du cortex auditif primaire (gyrus temporal  supérieur gauche de Heschl)
@@ -22,3 +22,6 @@ L'expérience musicale, et encore plus si elle est précoce, modifie l'organisat
 > [...] des activations locales dans l’hémisphère gauche pour les tâches 
 > 
 > d’Identification/Familiarité (gyrus frontal inférieur et temporal supérieur) et de Rythme (aire de Broca et insula), et des activations principalement dans l’hémisphère droit pour la tâche de Timbre (gyrus précentral et frontal médian, occipital médian gauche).
+
+## Mémoire musicale 
+
