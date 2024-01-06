@@ -32,8 +32,6 @@ Questionnaire pour déterminer le type d'apprentissage informel ^oI9vkstq
 
 Vous êtes le plus compatible avec les sides projects ! ^Y9xLPD4N
 
-86 % ^PxK5JtFz
-
 Commencer ! ^8dmrl7sD
 
 Resultats du questionnaire ^20SOmUBu
@@ -70,11 +68,11 @@ Résultats ! ^yKmCuvXX
 
 Parmis tous les projets informatiques auxquels vous
 avez participé (perso, profesionnel, POC, side project)
-lesquels vous ont le plus donné de plaisir à réaliser
+lesquels vous ont apporté le plus de plaisir à réaliser
 et pourquoi ?
 
 Ces informations nous permettrons de vous proposer
-des exercices adapté à vos goûts. ^fcNtmNUe
+des exercices adapté à votre profil ^fcNtmNUe
 
 Source d'information regroupant les dernières technologies tendance. ^kfjUeBlw
 
@@ -207,6 +205,10 @@ Apprentissage informel le plus efficace ^LwTKGrI5
 
 Les 5 plus probables ^L2FSVN5Y
 
+83 % ^zWebweXN
+
+17 % ^RvsfzzTe
+
 %%
 # Drawing
 ```json
@@ -217,8 +219,8 @@ Les 5 plus probables ^L2FSVN5Y
 	"elements": [
 		{
 			"type": "arrow",
-			"version": 1550,
-			"versionNonce": 200775328,
+			"version": 1761,
+			"versionNonce": 613723808,
 			"isDeleted": false,
 			"id": "UAcjvopcZRjqv_hxKM_Mv",
 			"fillStyle": "solid",
@@ -227,12 +229,12 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3790.8707345652456,
-			"y": -3421.7222231064025,
+			"x": 3992.7154029214353,
+			"y": -3210.5940873081922,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 857.8562699266859,
-			"height": 231.0926314198864,
+			"width": 707.4805293096961,
+			"height": 22.451110573810183,
 			"seed": 251318529,
 			"groupIds": [],
 			"frameId": null,
@@ -240,19 +242,11 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125150,
+			"updated": 1704576837631,
 			"link": null,
 			"locked": false,
-			"startBinding": {
-				"elementId": "86N7YlPU2sbDylatbJ8ZE",
-				"gap": 9.233121536319459,
-				"focus": 0.5670943766310554
-			},
-			"endBinding": {
-				"elementId": "6K16IajFGyqyb1KSb7kAk",
-				"gap": 10.314475800113087,
-				"focus": 0.17974423938951237
-			},
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -262,269 +256,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					857.8562699266859,
-					231.0926314198864
+					707.4805293096961,
+					22.451110573810183
 				]
 			]
 		},
 		{
-			"type": "rectangle",
-			"version": 432,
-			"versionNonce": 776196330,
-			"isDeleted": false,
-			"id": "6K16IajFGyqyb1KSb7kAk",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 4659.041480292045,
-			"y": -3407.39841094244,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1100.3020441571855,
-			"height": 961.6210378050272,
-			"seed": 1752675265,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"id": "UAcjvopcZRjqv_hxKM_Mv",
-					"type": "arrow"
-				}
-			],
-			"updated": 1704287811087,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "ellipse",
-			"version": 425,
-			"versionNonce": 625838774,
-			"isDeleted": false,
-			"id": "Gi0wgSjHoqOERbgeffuU8",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 4983.433453111222,
-			"y": -3172.194981014526,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 432.74395720827533,
-			"height": 432.74395720827533,
-			"seed": 439654363,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "PxK5JtFz"
-				}
-			],
-			"updated": 1704287811087,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 186,
-			"versionNonce": 1210983338,
-			"isDeleted": false,
-			"id": "PxK5JtFz",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5148.615344672244,
-			"y": -2978.3210957401247,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 102.38398742675781,
-			"height": 45,
-			"seed": 741867093,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1704287811087,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "86 %",
-			"rawText": "86 %",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "Gi0wgSjHoqOERbgeffuU8",
-			"originalText": "86 %",
-			"lineHeight": 1.25,
-			"baseline": 32
-		},
-		{
-			"type": "text",
-			"version": 184,
-			"versionNonce": 871810038,
-			"isDeleted": false,
-			"id": "Y9xLPD4N",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 4942.270224033984,
-			"y": -3281.4064769928546,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 538.0795288085938,
-			"height": 25,
-			"seed": 1630820219,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1704287811087,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Vous êtes le plus compatible avec les sides projects !",
-			"rawText": "Vous êtes le plus compatible avec les sides projects !",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Vous êtes le plus compatible avec les sides projects !",
-			"lineHeight": 1.25,
-			"baseline": 18
-		},
-		{
-			"type": "rectangle",
-			"version": 139,
-			"versionNonce": 1052778090,
-			"isDeleted": false,
-			"id": "9Pntq_mX0bmtOpCJa4KUC",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5038.018344717811,
-			"y": -2664.6759349411477,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c9",
-			"width": 354.83127076947494,
-			"height": 75.09656524221691,
-			"seed": 315079541,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "8dmrl7sD"
-				},
-				{
-					"id": "ALLr2jULkX0_rXisvwcQx",
-					"type": "arrow"
-				}
-			],
-			"updated": 1704287811087,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 92,
-			"versionNonce": 598136118,
-			"isDeleted": false,
-			"id": "8dmrl7sD",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5111.8800173950285,
-			"y": -2649.6276523200395,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 207.10792541503906,
-			"height": 45,
-			"seed": 1647918901,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1704287811087,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "Commencer !",
-			"rawText": "Commencer !",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "9Pntq_mX0bmtOpCJa4KUC",
-			"originalText": "Commencer !",
-			"lineHeight": 1.25,
-			"baseline": 32
-		},
-		{
-			"type": "text",
-			"version": 153,
-			"versionNonce": 1858388266,
-			"isDeleted": false,
-			"id": "20SOmUBu",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 5001.011753232673,
-			"y": -3511.0952335714037,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c9",
-			"width": 482.9398193359375,
-			"height": 45,
-			"seed": 1226363925,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1704287811087,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "Resultats du questionnaire",
-			"rawText": "Resultats du questionnaire",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Resultats du questionnaire",
-			"lineHeight": 1.25,
-			"baseline": 32
-		},
-		{
 			"type": "arrow",
-			"version": 1288,
-			"versionNonce": 183450464,
+			"version": 1336,
+			"versionNonce": 1004336800,
 			"isDeleted": false,
 			"id": "ALLr2jULkX0_rXisvwcQx",
 			"fillStyle": "solid",
@@ -533,12 +273,12 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5208.904263809168,
-			"y": -2584.107289174829,
+			"x": 4732.222546510147,
+			"y": -2400.95534835385,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 3.3997205506047976,
-			"height": 254.46200468078496,
+			"width": 3.422413262658665,
+			"height": 254.4620046807845,
 			"seed": 959953275,
 			"groupIds": [],
 			"frameId": null,
@@ -546,19 +286,11 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376225847,
+			"updated": 1704576833367,
 			"link": null,
 			"locked": false,
-			"startBinding": {
-				"elementId": "9Pntq_mX0bmtOpCJa4KUC",
-				"gap": 5.472080524102012,
-				"focus": 0.04011836183782724
-			},
-			"endBinding": {
-				"elementId": "ViUdqh8UuCi9LrMx8wjji",
-				"gap": 9.295853986048428,
-				"focus": 0.031533302022098274
-			},
+			"startBinding": null,
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -568,15 +300,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					3.3997205506047976,
-					254.46200468078496
+					3.422413262658665,
+					254.4620046807845
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 475,
-			"versionNonce": 1671891946,
+			"version": 477,
+			"versionNonce": 1218273952,
 			"isDeleted": false,
 			"id": "sl0lZT7P57Ylc-S-LFWXN",
 			"fillStyle": "solid",
@@ -598,14 +330,14 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 324,
-			"versionNonce": 1460633526,
+			"version": 326,
+			"versionNonce": 609720160,
 			"isDeleted": false,
 			"id": "V82hYxku",
 			"fillStyle": "solid",
@@ -625,7 +357,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -641,8 +373,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1085,
-			"versionNonce": 57802410,
+			"version": 1087,
+			"versionNonce": 538447520,
 			"isDeleted": false,
 			"id": "5cqgQHoo4hZU_tJdHHBZp",
 			"fillStyle": "solid",
@@ -666,14 +398,14 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 795,
-			"versionNonce": 598874358,
+			"version": 797,
+			"versionNonce": 405646176,
 			"isDeleted": false,
 			"id": "elFvMCn9",
 			"fillStyle": "solid",
@@ -696,7 +428,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -712,8 +444,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 474,
-			"versionNonce": 986749290,
+			"version": 476,
+			"versionNonce": 190659232,
 			"isDeleted": false,
 			"id": "37AvBUc3",
 			"fillStyle": "solid",
@@ -737,7 +469,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -753,8 +485,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 591,
-			"versionNonce": 187664950,
+			"version": 593,
+			"versionNonce": 1344356192,
 			"isDeleted": false,
 			"id": "2r-ujw4kK1is65kaYtYZl",
 			"fillStyle": "solid",
@@ -785,14 +517,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "7BTr1mgc"
 				}
 			],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 471,
-			"versionNonce": 688774186,
+			"version": 473,
+			"versionNonce": 756868768,
 			"isDeleted": false,
 			"id": "7BTr1mgc",
 			"fillStyle": "solid",
@@ -816,7 +548,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -832,8 +564,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 490,
-			"versionNonce": 476894070,
+			"version": 492,
+			"versionNonce": 1820480352,
 			"isDeleted": false,
 			"id": "9bjU6iiG",
 			"fillStyle": "solid",
@@ -857,7 +589,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -873,8 +605,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 557,
-			"versionNonce": 1276430058,
+			"version": 559,
+			"versionNonce": 1376195232,
 			"isDeleted": false,
 			"id": "U5DQATlFecz1B_J28-YDc",
 			"fillStyle": "solid",
@@ -905,14 +637,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "y406OXdE"
 				}
 			],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 499,
-			"versionNonce": 1101984950,
+			"version": 501,
+			"versionNonce": 60876640,
 			"isDeleted": false,
 			"id": "y406OXdE",
 			"fillStyle": "solid",
@@ -936,7 +668,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -952,8 +684,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 538,
-			"versionNonce": 745560490,
+			"version": 540,
+			"versionNonce": 818658976,
 			"isDeleted": false,
 			"id": "57VTVw4K",
 			"fillStyle": "solid",
@@ -977,7 +709,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -993,8 +725,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 637,
-			"versionNonce": 1419439606,
+			"version": 639,
+			"versionNonce": 1640823648,
 			"isDeleted": false,
 			"id": "zjs2Wq3Km__0icC5lb5qo",
 			"fillStyle": "solid",
@@ -1025,14 +757,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "uuqY9vRM"
 				}
 			],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 579,
-			"versionNonce": 155948138,
+			"version": 581,
+			"versionNonce": 706407072,
 			"isDeleted": false,
 			"id": "uuqY9vRM",
 			"fillStyle": "solid",
@@ -1056,7 +788,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1072,8 +804,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 595,
-			"versionNonce": 842383158,
+			"version": 597,
+			"versionNonce": 1230409568,
 			"isDeleted": false,
 			"id": "jwognhOS",
 			"fillStyle": "solid",
@@ -1097,7 +829,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1113,8 +845,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 730,
-			"versionNonce": 74544938,
+			"version": 732,
+			"versionNonce": 145004192,
 			"isDeleted": false,
 			"id": "n6Yr6QmqAnG0MY0k8UQEg",
 			"fillStyle": "solid",
@@ -1145,14 +877,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "51TAwFTo"
 				}
 			],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 675,
-			"versionNonce": 1323591798,
+			"version": 677,
+			"versionNonce": 848143200,
 			"isDeleted": false,
 			"id": "51TAwFTo",
 			"fillStyle": "solid",
@@ -1176,7 +908,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1192,8 +924,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 584,
-			"versionNonce": 1313669610,
+			"version": 586,
+			"versionNonce": 1092141728,
 			"isDeleted": false,
 			"id": "vBSh6_8-Hze-WwVfCn3MR",
 			"fillStyle": "solid",
@@ -1223,14 +955,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "yKmCuvXX"
 				}
 			],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 534,
-			"versionNonce": 1248586166,
+			"version": 536,
+			"versionNonce": 197277536,
 			"isDeleted": false,
 			"id": "yKmCuvXX",
 			"fillStyle": "solid",
@@ -1253,7 +985,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1269,8 +1001,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 329,
-			"versionNonce": 1374237866,
+			"version": 331,
+			"versionNonce": 841445024,
 			"isDeleted": false,
 			"id": "j3V7K6RKEw_Nx_bu3LoyZ",
 			"fillStyle": "solid",
@@ -1299,14 +1031,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 481,
-			"versionNonce": 66142966,
+			"version": 483,
+			"versionNonce": 2034518880,
 			"isDeleted": false,
 			"id": "qgzhhTs0",
 			"fillStyle": "solid",
@@ -1328,7 +1060,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1344,8 +1076,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 542,
-			"versionNonce": 1626410858,
+			"version": 544,
+			"versionNonce": 1686149792,
 			"isDeleted": false,
 			"id": "HcIMWCEUH0YnTKGHQAzjL",
 			"fillStyle": "solid",
@@ -1374,14 +1106,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "zUongiHi"
 				}
 			],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 487,
-			"versionNonce": 771322934,
+			"version": 489,
+			"versionNonce": 358866784,
 			"isDeleted": false,
 			"id": "zUongiHi",
 			"fillStyle": "solid",
@@ -1403,7 +1135,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1419,8 +1151,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 271,
-			"versionNonce": 1605341738,
+			"version": 273,
+			"versionNonce": 1255425696,
 			"isDeleted": false,
 			"id": "AC1ULsMY",
 			"fillStyle": "solid",
@@ -1442,7 +1174,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1458,8 +1190,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 455,
-			"versionNonce": 1651080566,
+			"version": 457,
+			"versionNonce": 812708704,
 			"isDeleted": false,
 			"id": "5wffmOGnuazeblk9fGPST",
 			"fillStyle": "solid",
@@ -1488,14 +1220,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "BzDb4VNc"
 				}
 			],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 312,
-			"versionNonce": 1896856810,
+			"version": 314,
+			"versionNonce": 30569120,
 			"isDeleted": false,
 			"id": "BzDb4VNc",
 			"fillStyle": "solid",
@@ -1517,7 +1249,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1532,9 +1264,48 @@ Les 5 plus probables ^L2FSVN5Y
 			"baseline": 32
 		},
 		{
+			"type": "text",
+			"version": 548,
+			"versionNonce": 280725344,
+			"isDeleted": false,
+			"id": "oI9vkstq",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3547.3302500605855,
+			"y": -3535.8500364742013,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 611.3193969726562,
+			"height": 25,
+			"seed": 343429589,
+			"groupIds": [
+				"ZbltXFtAzSV6lGWZ2zaef"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1704576822791,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Questionnaire pour déterminer le type d'apprentissage informel",
+			"rawText": "Questionnaire pour déterminer le type d'apprentissage informel",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Questionnaire pour déterminer le type d'apprentissage informel",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
 			"type": "rectangle",
-			"version": 1050,
-			"versionNonce": 914775734,
+			"version": 1094,
+			"versionNonce": 271261344,
 			"isDeleted": false,
 			"id": "pKsl7wyQqUnUayB3pdVxi",
 			"fillStyle": "solid",
@@ -1543,29 +1314,30 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3522.151478100024,
-			"y": -4149.766656613849,
+			"x": 3534.3854614624966,
+			"y": -4364.526896489804,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 637.2089741688327,
 			"height": 763.8197938427838,
 			"seed": 972358447,
 			"groupIds": [
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 576,
-			"versionNonce": 580685738,
+			"version": 619,
+			"versionNonce": 848534368,
 			"isDeleted": false,
 			"id": "wI8Cbs5C",
 			"fillStyle": "solid",
@@ -1574,20 +1346,21 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3562.9762410633466,
-			"y": -4116.098266750484,
+			"x": 3575.210224425819,
+			"y": -4330.8585066264395,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 555.5594482421875,
 			"height": 25,
 			"seed": 85324319,
 			"groupIds": [
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1603,8 +1376,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 360,
-			"versionNonce": 1324685302,
+			"version": 403,
+			"versionNonce": 646859424,
 			"isDeleted": false,
 			"id": "bibEFJAn",
 			"fillStyle": "solid",
@@ -1613,8 +1386,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3583.3688490460995,
-			"y": -4039.8576648961603,
+			"x": 3595.602832408572,
+			"y": -4254.617904772116,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 53.39996337890625,
@@ -1622,12 +1395,13 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 1593435487,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811087,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1643,8 +1417,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 477,
-			"versionNonce": 411109994,
+			"version": 520,
+			"versionNonce": 139013984,
 			"isDeleted": false,
 			"id": "KUh-vgbuLIbQlo3uUa44V",
 			"fillStyle": "solid",
@@ -1653,8 +1427,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3650.1430813227807,
-			"y": -4044.8576648961603,
+			"x": 3662.3770646852536,
+			"y": -4259.617904772116,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 448.0000000000002,
@@ -1662,7 +1436,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 1056340209,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": {
@@ -1674,14 +1449,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "txrSQL5j"
 				}
 			],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 357,
-			"versionNonce": 1941612854,
+			"version": 401,
+			"versionNonce": 1605105312,
 			"isDeleted": false,
 			"id": "txrSQL5j",
 			"fillStyle": "solid",
@@ -1690,8 +1465,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4068.14309658157,
-			"y": -4039.8576648961603,
+			"x": 4080.3770799440426,
+			"y": -4254.617904772116,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 24.999984741210938,
@@ -1699,12 +1474,13 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 1049238897,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1720,8 +1496,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 376,
-			"versionNonce": 965225770,
+			"version": 419,
+			"versionNonce": 975979360,
 			"isDeleted": false,
 			"id": "G2zz7dWK",
 			"fillStyle": "solid",
@@ -1730,8 +1506,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3583.3688490460995,
-			"y": -3980.794810000304,
+			"x": 3595.602832408572,
+			"y": -4195.55504987626,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 65.919921875,
@@ -1739,12 +1515,13 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 1424435569,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1760,8 +1537,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 443,
-			"versionNonce": 607916662,
+			"version": 486,
+			"versionNonce": 3416736,
 			"isDeleted": false,
 			"id": "SNE7uE9dwrjI0OzFIHn5V",
 			"fillStyle": "solid",
@@ -1770,8 +1547,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3741.12936679001,
-			"y": -3985.794810000304,
+			"x": 3753.363350152482,
+			"y": -4200.55504987626,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 357.0137145327714,
@@ -1779,7 +1556,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 660954111,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": {
@@ -1791,14 +1569,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "p1U71YSp"
 				}
 			],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 384,
-			"versionNonce": 1528625130,
+			"version": 427,
+			"versionNonce": 1720506208,
 			"isDeleted": false,
 			"id": "p1U71YSp",
 			"fillStyle": "solid",
@@ -1807,8 +1585,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3879.6062481652825,
-			"y": -3980.794810000304,
+			"x": 3891.8402315277544,
+			"y": -4195.55504987626,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 80.05995178222656,
@@ -1816,12 +1594,13 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 1032179807,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1837,8 +1616,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 424,
-			"versionNonce": 725504950,
+			"version": 467,
+			"versionNonce": 920047264,
 			"isDeleted": false,
 			"id": "TZm7RFnx",
 			"fillStyle": "solid",
@@ -1847,8 +1626,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3583.3688490460995,
-			"y": -3925.069395723877,
+			"x": 3595.602832408572,
+			"y": -4139.829635599832,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 117.23988342285156,
@@ -1856,12 +1635,13 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 1618256351,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1877,8 +1657,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 523,
-			"versionNonce": 1833593514,
+			"version": 566,
+			"versionNonce": 1639639904,
 			"isDeleted": false,
 			"id": "juMq16so1JC8TglRyFzf5",
 			"fillStyle": "solid",
@@ -1887,8 +1667,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3741.12936679001,
-			"y": -3930.069395723877,
+			"x": 3753.363350152482,
+			"y": -4144.829635599832,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 357.0137145327714,
@@ -1896,7 +1676,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 733528671,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": {
@@ -1908,14 +1689,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "HXbrMGl1"
 				}
 			],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 464,
-			"versionNonce": 853961974,
+			"version": 507,
+			"versionNonce": 1547958944,
 			"isDeleted": false,
 			"id": "HXbrMGl1",
 			"fillStyle": "solid",
@@ -1924,8 +1705,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3879.6062481652825,
-			"y": -3925.069395723877,
+			"x": 3891.8402315277544,
+			"y": -4139.829635599832,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 80.05995178222656,
@@ -1933,12 +1714,13 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 89071231,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1954,8 +1736,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 481,
-			"versionNonce": 649823594,
+			"version": 524,
+			"versionNonce": 1980137312,
 			"isDeleted": false,
 			"id": "sj8BGbVc",
 			"fillStyle": "solid",
@@ -1964,8 +1746,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3583.3688490460995,
-			"y": -3872.589269891834,
+			"x": 3595.602832408572,
+			"y": -4087.3495097677896,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 259.2197570800781,
@@ -1973,12 +1755,13 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 461680273,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1994,8 +1777,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 614,
-			"versionNonce": 1488543286,
+			"version": 657,
+			"versionNonce": 858498720,
 			"isDeleted": false,
 			"id": "w5arLD6KnYGZS62ivU9GR",
 			"fillStyle": "solid",
@@ -2004,8 +1787,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3863.6325002775175,
-			"y": -3877.589269891834,
+			"x": 3875.8664836399894,
+			"y": -4092.3495097677896,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 234.5105810452636,
@@ -2013,7 +1796,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 217232497,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": {
@@ -2025,14 +1809,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "w7z9RaEp"
 				}
 			],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 558,
-			"versionNonce": 817580074,
+			"version": 601,
+			"versionNonce": 599757664,
 			"isDeleted": false,
 			"id": "w7z9RaEp",
 			"fillStyle": "solid",
@@ -2041,8 +1825,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3940.857814909036,
-			"y": -3872.589269891834,
+			"x": 3953.0917982715077,
+			"y": -4087.3495097677896,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 80.05995178222656,
@@ -2050,12 +1834,13 @@ Les 5 plus probables ^L2FSVN5Y
 			"seed": 308608593,
 			"groupIds": [
 				"0ux6RHF5OEuwAtmPw3tiF",
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2071,8 +1856,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 597,
-			"versionNonce": 1100752758,
+			"version": 640,
+			"versionNonce": 675140256,
 			"isDeleted": false,
 			"id": "86N7YlPU2sbDylatbJ8ZE",
 			"fillStyle": "solid",
@@ -2081,15 +1866,16 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3631.4743289561866,
-			"y": -3474.378312068884,
+			"x": 3643.7083123186594,
+			"y": -3689.1385519448395,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 416.8604872911567,
 			"height": 43.42296742616213,
 			"seed": 1749685951,
 			"groupIds": [
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": {
@@ -2105,14 +1891,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 543,
-			"versionNonce": 1395962602,
+			"version": 586,
+			"versionNonce": 1630938976,
 			"isDeleted": false,
 			"id": "ALYWArbC",
 			"fillStyle": "solid",
@@ -2121,20 +1907,21 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3781.8646174626047,
-			"y": -3465.166828355803,
+			"x": 3794.0986008250775,
+			"y": -3679.9270682317583,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 116.07991027832031,
 			"height": 25,
 			"seed": 1121049855,
 			"groupIds": [
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2150,47 +1937,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "text",
-			"version": 388,
-			"versionNonce": 768854198,
-			"isDeleted": false,
-			"id": "oI9vkstq",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 3515.9499520094273,
-			"y": -4226.3625323883025,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 611.3193969726562,
-			"height": 25,
-			"seed": 343429589,
-			"groupIds": [
-				"0jtZIYhuQjZ-RoXmSE9p5"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1704287811088,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Questionnaire pour déterminer le type d'apprentissage informel",
-			"rawText": "Questionnaire pour déterminer le type d'apprentissage informel",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Questionnaire pour déterminer le type d'apprentissage informel",
-			"lineHeight": 1.25,
-			"baseline": 18
-		},
-		{
-			"type": "text",
-			"version": 618,
-			"versionNonce": 548586922,
+			"version": 719,
+			"versionNonce": 304774816,
 			"isDeleted": false,
 			"id": "fcNtmNUe",
 			"fillStyle": "solid",
@@ -2199,37 +1947,38 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3583.603323889215,
-			"y": -3824.3423778398983,
+			"x": 3595.8373072516874,
+			"y": -4039.1026177158537,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 530.0394287109375,
+			"width": 537.1594848632812,
 			"height": 175,
 			"seed": 832548434,
 			"groupIds": [
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Parmis tous les projets informatiques auxquels vous\navez participé (perso, profesionnel, POC, side project)\nlesquels vous ont le plus donné de plaisir à réaliser\net pourquoi ?\n\nCes informations nous permettrons de vous proposer\ndes exercices adapté à vos goûts.",
-			"rawText": "Parmis tous les projets informatiques auxquels vous\navez participé (perso, profesionnel, POC, side project)\nlesquels vous ont le plus donné de plaisir à réaliser\net pourquoi ?\n\nCes informations nous permettrons de vous proposer\ndes exercices adapté à vos goûts.",
+			"text": "Parmis tous les projets informatiques auxquels vous\navez participé (perso, profesionnel, POC, side project)\nlesquels vous ont apporté le plus de plaisir à réaliser\net pourquoi ?\n\nCes informations nous permettrons de vous proposer\ndes exercices adapté à votre profil",
+			"rawText": "Parmis tous les projets informatiques auxquels vous\navez participé (perso, profesionnel, POC, side project)\nlesquels vous ont apporté le plus de plaisir à réaliser\net pourquoi ?\n\nCes informations nous permettrons de vous proposer\ndes exercices adapté à votre profil",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Parmis tous les projets informatiques auxquels vous\navez participé (perso, profesionnel, POC, side project)\nlesquels vous ont le plus donné de plaisir à réaliser\net pourquoi ?\n\nCes informations nous permettrons de vous proposer\ndes exercices adapté à vos goûts.",
+			"originalText": "Parmis tous les projets informatiques auxquels vous\navez participé (perso, profesionnel, POC, side project)\nlesquels vous ont apporté le plus de plaisir à réaliser\net pourquoi ?\n\nCes informations nous permettrons de vous proposer\ndes exercices adapté à votre profil",
 			"lineHeight": 1.25,
 			"baseline": 168
 		},
 		{
 			"type": "rectangle",
-			"version": 229,
-			"versionNonce": 218448374,
+			"version": 271,
+			"versionNonce": 1522154336,
 			"isDeleted": false,
 			"id": "T2bFBF7Ud92oyOKTRr8Mb",
 			"fillStyle": "solid",
@@ -2238,29 +1987,30 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3592.6581273891093,
-			"y": -3637.104206882498,
+			"x": 3604.8921107515816,
+			"y": -3851.8644467584536,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 494.4944183211528,
 			"height": 135.53273114640479,
 			"seed": 987091598,
 			"groupIds": [
-				"0jtZIYhuQjZ-RoXmSE9p5"
+				"8Evqfb97WVhLeu7WZnXPB",
+				"ZbltXFtAzSV6lGWZ2zaef"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822791,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 125,
-			"versionNonce": 576749674,
+			"version": 127,
+			"versionNonce": 1906420384,
 			"isDeleted": false,
 			"id": "mtx6UlL5tBsnEeuvfDu_Q",
 			"fillStyle": "solid",
@@ -2287,14 +2037,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"id": "kfjUeBlw"
 				}
 			],
-			"updated": 1704287811088,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 269,
-			"versionNonce": 305500982,
+			"version": 271,
+			"versionNonce": 849071968,
 			"isDeleted": false,
 			"id": "kfjUeBlw",
 			"fillStyle": "solid",
@@ -2314,7 +2064,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2330,8 +2080,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 912,
-			"versionNonce": 409428640,
+			"version": 914,
+			"versionNonce": 827545248,
 			"isDeleted": false,
 			"id": "oFggns6fZGfAWfhjFJuxE",
 			"fillStyle": "solid",
@@ -2366,14 +2116,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376213320,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 914,
-			"versionNonce": 1721896608,
+			"version": 916,
+			"versionNonce": 1093329760,
 			"isDeleted": false,
 			"id": "vXVRuslB",
 			"fillStyle": "solid",
@@ -2393,7 +2143,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376213320,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2409,8 +2159,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 705,
-			"versionNonce": 1727546016,
+			"version": 708,
+			"versionNonce": 1710195360,
 			"isDeleted": false,
 			"id": "NZMg5n9lLupEjyGjkXcTB",
 			"fillStyle": "solid",
@@ -2419,7 +2169,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4130.414446997293,
+			"x": 4130.4144469972925,
 			"y": -1188.6704843907041,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -2449,14 +2199,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376426857,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 694,
-			"versionNonce": 1880551072,
+			"version": 697,
+			"versionNonce": 1421309792,
 			"isDeleted": false,
 			"id": "Rql0ESqm",
 			"fillStyle": "solid",
@@ -2465,7 +2215,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4165.319450220376,
+			"x": 4165.319450220375,
 			"y": -1181.8021591330048,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -2476,7 +2226,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376426857,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2488,12 +2238,12 @@ Les 5 plus probables ^L2FSVN5Y
 			"containerId": "NZMg5n9lLupEjyGjkXcTB",
 			"originalText": "Extraction des mots clés",
 			"lineHeight": 1.25,
-			"baseline": 59
+			"baseline": 60
 		},
 		{
 			"type": "arrow",
-			"version": 2538,
-			"versionNonce": 1927530144,
+			"version": 2544,
+			"versionNonce": 237383328,
 			"isDeleted": false,
 			"id": "yIF1auVG5Q604ORt9xVgE",
 			"fillStyle": "solid",
@@ -2502,11 +2252,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4276.157514735038,
+			"x": 4276.156060666273,
 			"y": -1310.4836870743914,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.3423820141297256,
+			"width": 1.3413526665681275,
 			"height": 117.12706856727004,
 			"seed": 674918802,
 			"groupIds": [],
@@ -2515,7 +2265,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376426857,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2537,15 +2287,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					-1.3423820141297256,
+					-1.3413526665681275,
 					117.12706856727004
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 899,
-			"versionNonce": 982019936,
+			"version": 902,
+			"versionNonce": 1905363808,
 			"isDeleted": false,
 			"id": "5IV3I5H0Mf1Sp0j6KxN4C",
 			"fillStyle": "solid",
@@ -2554,7 +2304,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3995.757703046819,
+			"x": 3995.7577030468187,
 			"y": -981.7165905396283,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2580,14 +2330,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376448352,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1307,
-			"versionNonce": 1652786016,
+			"version": 1309,
+			"versionNonce": 1386699424,
 			"isDeleted": false,
 			"id": "15YpLjk4",
 			"fillStyle": "solid",
@@ -2607,7 +2357,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376448352,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2623,8 +2373,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2652,
-			"versionNonce": 1296182112,
+			"version": 2658,
+			"versionNonce": 302587744,
 			"isDeleted": false,
 			"id": "UXJ7-QC_3JIo4QrpYAoo7",
 			"fillStyle": "solid",
@@ -2633,11 +2383,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4271.062924411127,
+			"x": 4271.013154725912,
 			"y": -1099.8087008756092,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 2.586134303038307,
+			"width": 2.614346653114808,
 			"height": 108.97366581318602,
 			"seed": 598038286,
 			"groupIds": [],
@@ -2646,7 +2396,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376448352,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2668,15 +2418,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					2.586134303038307,
+					2.614346653114808,
 					108.97366581318602
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 708,
-			"versionNonce": 305200682,
+			"version": 710,
+			"versionNonce": 1176700576,
 			"isDeleted": false,
 			"id": "Pn0YoozQtSEwcguMicfsX",
 			"fillStyle": "solid",
@@ -2723,14 +2473,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811088,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 771,
-			"versionNonce": 604295542,
+			"version": 773,
+			"versionNonce": 1718498144,
 			"isDeleted": false,
 			"id": "y1LJFR59",
 			"fillStyle": "solid",
@@ -2750,7 +2500,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2766,8 +2516,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2448,
-			"versionNonce": 1182192480,
+			"version": 2454,
+			"versionNonce": 625554080,
 			"isDeleted": false,
 			"id": "4AYzGEyd-pk9Ob_5DeXUr",
 			"fillStyle": "solid",
@@ -2776,12 +2526,12 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4269.2692643631735,
-			"y": -824.1424419380207,
+			"x": 4269.233863088852,
+			"y": -824.1424419380206,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.3170376062307696,
-			"height": 86.91561498980832,
+			"width": 0.2964919891755926,
+			"height": 86.9156149898082,
 			"seed": 1862834574,
 			"groupIds": [],
 			"frameId": null,
@@ -2789,7 +2539,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376448352,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2811,15 +2561,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					-0.3170376062307696,
-					86.91561498980832
+					-0.2964919891755926,
+					86.9156149898082
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 1281,
-			"versionNonce": 1368863414,
+			"version": 1283,
+			"versionNonce": 353421152,
 			"isDeleted": false,
 			"id": "N3in6thOdbTMOrU75DgSJ",
 			"fillStyle": "solid",
@@ -2856,14 +2606,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811088,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1089,
-			"versionNonce": 481491882,
+			"version": 1091,
+			"versionNonce": 382328480,
 			"isDeleted": false,
 			"id": "DiReFZ9e",
 			"fillStyle": "solid",
@@ -2885,7 +2635,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2901,8 +2651,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1121,
-			"versionNonce": 1063752352,
+			"version": 1124,
+			"versionNonce": 2051070816,
 			"isDeleted": false,
 			"id": "WUkshayA-X9HPpPkUeAPl",
 			"fillStyle": "solid",
@@ -2911,7 +2661,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3905.0556223300327,
+			"x": 3905.055622330033,
 			"y": -392.83057909722993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2939,14 +2689,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376125169,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1016,
-			"versionNonce": 1558836842,
+			"version": 1018,
+			"versionNonce": 1800735392,
 			"isDeleted": false,
 			"id": "xwZBROpe",
 			"fillStyle": "solid",
@@ -2968,7 +2718,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811088,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2984,8 +2734,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1073,
-			"versionNonce": 933657910,
+			"version": 1075,
+			"versionNonce": 1749970784,
 			"isDeleted": false,
 			"id": "2r96K-3joVT3jaL3LZOlx",
 			"fillStyle": "solid",
@@ -3022,14 +2772,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1062,
-			"versionNonce": 1509136682,
+			"version": 1064,
+			"versionNonce": 1570420384,
 			"isDeleted": false,
 			"id": "EKl3yIRI",
 			"fillStyle": "solid",
@@ -3051,7 +2801,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3067,8 +2817,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1076,
-			"versionNonce": 1525555872,
+			"version": 1078,
+			"versionNonce": 1737065312,
 			"isDeleted": false,
 			"id": "mKIuSWH_u9AdJ-elHBjeh",
 			"fillStyle": "solid",
@@ -3117,14 +2867,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376130747,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1231,
-			"versionNonce": 859497450,
+			"version": 1233,
+			"versionNonce": 1380639392,
 			"isDeleted": false,
 			"id": "JqeW1KIo",
 			"fillStyle": "solid",
@@ -3144,7 +2894,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3160,8 +2910,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2243,
-			"versionNonce": 1870731936,
+			"version": 2249,
+			"versionNonce": 1984042848,
 			"isDeleted": false,
 			"id": "UvOjIm3aCof38iQvfK4Sy",
 			"fillStyle": "solid",
@@ -3181,7 +2931,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376125174,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3210,8 +2960,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2223,
-			"versionNonce": 425421472,
+			"version": 2229,
+			"versionNonce": 404065952,
 			"isDeleted": false,
 			"id": "QWra48uUobur5W7y_ox6E",
 			"fillStyle": "solid",
@@ -3231,7 +2981,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376125170,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3260,8 +3010,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2635,
-			"versionNonce": 430476960,
+			"version": 2641,
+			"versionNonce": 1221077856,
 			"isDeleted": false,
 			"id": "sG11kpPqBGReuNSCddbSp",
 			"fillStyle": "solid",
@@ -3281,7 +3031,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376125165,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3310,8 +3060,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 733,
-			"versionNonce": 1547947680,
+			"version": 735,
+			"versionNonce": 665500320,
 			"isDeleted": false,
 			"id": "olOaYrvl4_AQ1qvyBlbe1",
 			"fillStyle": "solid",
@@ -3340,14 +3090,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376428789,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 807,
-			"versionNonce": 1276181152,
+			"version": 809,
+			"versionNonce": 158056288,
 			"isDeleted": false,
 			"id": "gwhA2BFN",
 			"fillStyle": "solid",
@@ -3367,7 +3117,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376428789,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3383,8 +3133,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 1925,
-			"versionNonce": 1221251744,
+			"version": 1931,
+			"versionNonce": 1673160352,
 			"isDeleted": false,
 			"id": "-v_0zNb95hzgjEb5Hq7RC",
 			"fillStyle": "solid",
@@ -3394,17 +3144,17 @@ Les 5 plus probables ^L2FSVN5Y
 			"opacity": 100,
 			"angle": 0,
 			"x": 4410.728249687538,
-			"y": -1140.9375540487686,
+			"y": -1141.1177154347788,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 148.04703396068453,
-			"height": 5.458711961953213,
+			"height": 5.554046200171115,
 			"seed": 2062232654,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376428789,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3427,14 +3177,14 @@ Les 5 plus probables ^L2FSVN5Y
 				],
 				[
 					148.04703396068453,
-					5.458711961953213
+					5.554046200171115
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 785,
-			"versionNonce": 1886210912,
+			"version": 787,
+			"versionNonce": 410833760,
 			"isDeleted": false,
 			"id": "ALQgJLBh9BGd2xMbsceuW",
 			"fillStyle": "solid",
@@ -3469,14 +3219,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376332124,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 769,
-			"versionNonce": 849476448,
+			"version": 771,
+			"versionNonce": 1492423328,
 			"isDeleted": false,
 			"id": "M4IpPQ08",
 			"fillStyle": "solid",
@@ -3496,7 +3246,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376281046,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3512,8 +3262,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 821,
-			"versionNonce": 860487520,
+			"version": 824,
+			"versionNonce": 1280010080,
 			"isDeleted": false,
 			"id": "TRTqel4zJJp6TmMJMqedZ",
 			"fillStyle": "solid",
@@ -3522,7 +3272,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3880.053183622959,
+			"x": 3880.0531836229593,
 			"y": 439.1928621283854,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -3560,14 +3310,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376461353,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 986,
-			"versionNonce": 1821578080,
+			"version": 989,
+			"versionNonce": 2114535072,
 			"isDeleted": false,
 			"id": "78aWKsZI",
 			"fillStyle": "solid",
@@ -3576,7 +3326,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3904.0538118672685,
+			"x": 3904.053811867269,
 			"y": 479.1928621283854,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -3587,7 +3337,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376461353,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3599,12 +3349,12 @@ Les 5 plus probables ^L2FSVN5Y
 			"containerId": "TRTqel4zJJp6TmMJMqedZ",
 			"originalText": "Convergence\n\nRécupération des idées les plus pertinentes\n\nQui correspond le plus avec les témoignages (vector search)\n\n(Self-improvement)",
 			"lineHeight": 1.25,
-			"baseline": 269
+			"baseline": 270
 		},
 		{
 			"type": "arrow",
-			"version": 2179,
-			"versionNonce": 615365472,
+			"version": 2185,
+			"versionNonce": 824671072,
 			"isDeleted": false,
 			"id": "ZopHZvIW-XiQOsKPB0rvK",
 			"fillStyle": "solid",
@@ -3613,12 +3363,12 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4259.961021800418,
-			"y": 140.0631536176461,
+			"x": 4259.958275546015,
+			"y": 140.06315361764615,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 3.883229515291532,
-			"height": 297.0627318423984,
+			"width": 3.881509856057164,
+			"height": 297.06273184239836,
 			"seed": 674288658,
 			"groupIds": [],
 			"frameId": null,
@@ -3626,7 +3376,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376461354,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3648,15 +3398,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					-3.883229515291532,
-					297.0627318423984
+					-3.881509856057164,
+					297.06273184239836
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2129,
-			"versionNonce": 1144939360,
+			"version": 2135,
+			"versionNonce": 1940417184,
 			"isDeleted": false,
 			"id": "5e6CnGUnEZnAajRbX-ZU6",
 			"fillStyle": "solid",
@@ -3665,11 +3415,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4814.964909352504,
+			"x": 4814.772090714907,
 			"y": 121.14368896961196,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 322.0215561121413,
+			"width": 321.9035532375983,
 			"height": 311.9581509356657,
 			"seed": 244951566,
 			"groupIds": [],
@@ -3678,7 +3428,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376461354,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3700,15 +3450,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					-322.0215561121413,
+					-321.9035532375983,
 					311.9581509356657
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2081,
-			"versionNonce": 1707412320,
+			"version": 2087,
+			"versionNonce": 1231097696,
 			"isDeleted": false,
 			"id": "U3ZGSrlud6jSy5rfAeMrx",
 			"fillStyle": "solid",
@@ -3717,12 +3467,12 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3706.622543807919,
-			"y": 105.13357622431616,
+			"x": 3706.802508945648,
+			"y": 105.13357622431619,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 323.544847743884,
-			"height": 328.93295073136403,
+			"width": 323.4332853992446,
+			"height": 328.932950731364,
 			"seed": 1892299086,
 			"groupIds": [],
 			"frameId": null,
@@ -3730,7 +3480,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376461354,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3752,15 +3502,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					323.544847743884,
-					328.93295073136403
+					323.4332853992446,
+					328.932950731364
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2108,
-			"versionNonce": 63026016,
+			"version": 2114,
+			"versionNonce": 1149376160,
 			"isDeleted": false,
 			"id": "Tdviut1XD64GQ_izRrWKk",
 			"fillStyle": "solid",
@@ -3769,11 +3519,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4267.343322899045,
+			"x": 4267.342848227618,
 			"y": 810.1207696264437,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.3738906967855655,
+			"width": 1.3735550613746454,
 			"height": 147.6268284700917,
 			"seed": 1082424402,
 			"groupIds": [],
@@ -3782,7 +3532,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376461354,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3804,15 +3554,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					-1.3738906967855655,
+					-1.3735550613746454,
 					147.6268284700917
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1894,
-			"versionNonce": 1833880224,
+			"version": 1900,
+			"versionNonce": 1296573280,
 			"isDeleted": false,
 			"id": "UJoQfZP6mHIVmQ5ER6Xqj",
 			"fillStyle": "solid",
@@ -3834,7 +3584,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125180,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3863,8 +3613,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1146,
-			"versionNonce": 1787353578,
+			"version": 1148,
+			"versionNonce": 625361568,
 			"isDeleted": false,
 			"id": "M8jJ4XXSIvN81WNIx9BCw",
 			"fillStyle": "solid",
@@ -3899,14 +3649,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1135,
-			"versionNonce": 41521590,
+			"version": 1137,
+			"versionNonce": 1798092640,
 			"isDeleted": false,
 			"id": "OqXOrkRO",
 			"fillStyle": "solid",
@@ -3926,7 +3676,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3942,8 +3692,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2966,
-			"versionNonce": 226632352,
+			"version": 2972,
+			"versionNonce": 883224224,
 			"isDeleted": false,
 			"id": "k8VN46VE76venZce6mb_0",
 			"fillStyle": "solid",
@@ -3965,7 +3715,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125198,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3994,8 +3744,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 914,
-			"versionNonce": 1007282934,
+			"version": 916,
+			"versionNonce": 123652960,
 			"isDeleted": false,
 			"id": "kw1GO7wJxpoJtUm1L09Se",
 			"fillStyle": "solid",
@@ -4034,14 +3784,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1006,
-			"versionNonce": 1377232746,
+			"version": 1008,
+			"versionNonce": 994974368,
 			"isDeleted": false,
 			"id": "y0FMb98H",
 			"fillStyle": "solid",
@@ -4061,7 +3811,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4077,8 +3827,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1353,
-			"versionNonce": 750591030,
+			"version": 1355,
+			"versionNonce": 2083413856,
 			"isDeleted": false,
 			"id": "5f01296OQpafnCYILgGmi",
 			"fillStyle": "solid",
@@ -4119,14 +3869,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1787,
-			"versionNonce": 1582983722,
+			"version": 1789,
+			"versionNonce": 1811007136,
 			"isDeleted": false,
 			"id": "DvBOCzTk",
 			"fillStyle": "solid",
@@ -4146,7 +3896,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4162,8 +3912,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 3336,
-			"versionNonce": 2015562400,
+			"version": 3342,
+			"versionNonce": 1508602720,
 			"isDeleted": false,
 			"id": "_LnXDfNKJqc5F2F72Eyh5",
 			"fillStyle": "solid",
@@ -4183,7 +3933,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376125206,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4212,8 +3962,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1465,
-			"versionNonce": 77567210,
+			"version": 1467,
+			"versionNonce": 591393440,
 			"isDeleted": false,
 			"id": "IDHZsSdzaov94Z2FzOJIy",
 			"fillStyle": "solid",
@@ -4248,14 +3998,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1550,
-			"versionNonce": 1182795446,
+			"version": 1552,
+			"versionNonce": 652609376,
 			"isDeleted": false,
 			"id": "6PijZk10",
 			"fillStyle": "solid",
@@ -4275,7 +4025,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4291,8 +4041,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 4326,
-			"versionNonce": 60351136,
+			"version": 4332,
+			"versionNonce": 669556384,
 			"isDeleted": false,
 			"id": "PbJmJ6tA6FAnXvVAL2YpE",
 			"fillStyle": "solid",
@@ -4314,7 +4064,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125206,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4343,8 +4093,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2663,
-			"versionNonce": 1846672032,
+			"version": 2669,
+			"versionNonce": 527309664,
 			"isDeleted": false,
 			"id": "MLL4T6EDGqZaNAAmdcJO1",
 			"fillStyle": "solid",
@@ -4366,7 +4116,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125200,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4395,8 +4145,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1190,
-			"versionNonce": 1006297706,
+			"version": 1192,
+			"versionNonce": 1788594848,
 			"isDeleted": false,
 			"id": "jDcb2OPFhfTzpxp5Ur06q",
 			"fillStyle": "solid",
@@ -4431,14 +4181,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1166,
-			"versionNonce": 1063932214,
+			"version": 1168,
+			"versionNonce": 1976807264,
 			"isDeleted": false,
 			"id": "AaEbQPzt",
 			"fillStyle": "solid",
@@ -4458,7 +4208,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4474,8 +4224,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 788,
-			"versionNonce": 460074,
+			"version": 790,
+			"versionNonce": 1175025312,
 			"isDeleted": false,
 			"id": "Uc1dgbMr7yfB6DUtDyMXD",
 			"fillStyle": "solid",
@@ -4506,14 +4256,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 757,
-			"versionNonce": 733395574,
+			"version": 759,
+			"versionNonce": 308724576,
 			"isDeleted": false,
 			"id": "Tp8qDLG9",
 			"fillStyle": "solid",
@@ -4533,7 +4283,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4549,8 +4299,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2326,
-			"versionNonce": 1568193184,
+			"version": 2332,
+			"versionNonce": 1054974624,
 			"isDeleted": false,
 			"id": "b3CTfpI6Bp8mEBOFuX_K4",
 			"fillStyle": "solid",
@@ -4572,7 +4322,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125214,
+			"updated": 1704576822792,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4601,8 +4351,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 968,
-			"versionNonce": 1025768374,
+			"version": 970,
+			"versionNonce": 1400330080,
 			"isDeleted": false,
 			"id": "5kE1XetoGgpv0OlUxwp1a",
 			"fillStyle": "solid",
@@ -4633,14 +4383,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 947,
-			"versionNonce": 334709418,
+			"version": 949,
+			"versionNonce": 1137987232,
 			"isDeleted": false,
 			"id": "sCKLw5Oh",
 			"fillStyle": "solid",
@@ -4660,7 +4410,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4676,8 +4426,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2016,
-			"versionNonce": 1933742752,
+			"version": 2022,
+			"versionNonce": 1297443680,
 			"isDeleted": false,
 			"id": "XY4yJxvofl5Yq23o2AQLk",
 			"fillStyle": "solid",
@@ -4699,7 +4449,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125216,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4728,8 +4478,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 652,
-			"versionNonce": 847863146,
+			"version": 654,
+			"versionNonce": 1838250656,
 			"isDeleted": false,
 			"id": "j0qwHWUtP0Oy5EU10k7sx",
 			"fillStyle": "solid",
@@ -4764,14 +4514,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 623,
-			"versionNonce": 458556982,
+			"version": 625,
+			"versionNonce": 173080416,
 			"isDeleted": false,
 			"id": "nzuIKuJZ",
 			"fillStyle": "solid",
@@ -4791,7 +4541,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811089,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4807,8 +4557,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 1947,
-			"versionNonce": 1383492256,
+			"version": 1953,
+			"versionNonce": 1053370016,
 			"isDeleted": false,
 			"id": "BRjXXavzzDetyEK6SgM_b",
 			"fillStyle": "solid",
@@ -4830,7 +4580,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125217,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4859,8 +4609,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1983,
-			"versionNonce": 42127222,
+			"version": 1985,
+			"versionNonce": 1253708640,
 			"isDeleted": false,
 			"id": "_rrAdXovIIzmuQ5lrIsJM",
 			"fillStyle": "solid",
@@ -4889,14 +4639,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811089,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2505,
-			"versionNonce": 2003602154,
+			"version": 2507,
+			"versionNonce": 1680560800,
 			"isDeleted": false,
 			"id": "7zqkNrw4",
 			"fillStyle": "solid",
@@ -4916,7 +4666,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811090,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4932,8 +4682,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 2906,
-			"versionNonce": 1125915296,
+			"version": 2912,
+			"versionNonce": 1155573600,
 			"isDeleted": false,
 			"id": "mCzIMLZFYi3LeQsfc-Fpg",
 			"fillStyle": "solid",
@@ -4955,7 +4705,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125220,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4984,8 +4734,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 417,
-			"versionNonce": 189812576,
+			"version": 421,
+			"versionNonce": 2059914912,
 			"isDeleted": false,
 			"id": "ViUdqh8UuCi9LrMx8wjji",
 			"fillStyle": "solid",
@@ -4995,7 +4745,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"opacity": 100,
 			"angle": 0,
 			"x": 4989.950752531493,
-			"y": -2320.349430507996,
+			"y": -2320.3494305079957,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 433.0971270801774,
@@ -5020,22 +4770,18 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				},
 				{
-					"id": "ALLr2jULkX0_rXisvwcQx",
-					"type": "arrow"
-				},
-				{
 					"id": "QSWFrwkoUVCLoYwP20x51",
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376231019,
+			"updated": 1704576833367,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 365,
-			"versionNonce": 342879072,
+			"version": 368,
+			"versionNonce": 1695857504,
 			"isDeleted": false,
 			"id": "vsjGwid6",
 			"fillStyle": "solid",
@@ -5045,7 +4791,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"opacity": 100,
 			"angle": 0,
 			"x": 5028.391375397754,
-			"y": -2268.321832250725,
+			"y": -2268.3218322507246,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 356.21588134765625,
@@ -5055,7 +4801,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376225846,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5067,12 +4813,12 @@ Les 5 plus probables ^L2FSVN5Y
 			"containerId": "ViUdqh8UuCi9LrMx8wjji",
 			"originalText": "Selon résultat custom IA",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "arrow",
-			"version": 1078,
-			"versionNonce": 1832162144,
+			"version": 1084,
+			"versionNonce": 808397472,
 			"isDeleted": false,
 			"id": "C_Bg_Y-ZjI_WUZVK5kI8W",
 			"fillStyle": "solid",
@@ -5081,11 +4827,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5366.731546826047,
+			"x": 5366.729827931727,
 			"y": -2178.406152671563,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 791.7296088073026,
+			"width": 791.7312094606978,
 			"height": 753.387922198767,
 			"seed": 1127198571,
 			"groupIds": [],
@@ -5094,7 +4840,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376225847,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5116,15 +4862,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					791.7296088073026,
+					791.7312094606978,
 					753.387922198767
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1966,
-			"versionNonce": 2118148960,
+			"version": 1972,
+			"versionNonce": 229003104,
 			"isDeleted": false,
 			"id": "PojRhU0PZquWclZhQ41bU",
 			"fillStyle": "solid",
@@ -5133,11 +4879,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4490.6976918380615,
+			"x": 4490.697691838062,
 			"y": -1793.464752236173,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 231.1664084987451,
+			"width": 231.16640849874602,
 			"height": 335.7598987585825,
 			"seed": 1398139723,
 			"groupIds": [],
@@ -5146,18 +4892,18 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376253184,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "6o4-bPOiAmNZ08S4mLRpu",
-				"focus": 0.48317480431318205,
-				"gap": 8.81769518776946
+				"gap": 8.81769518776946,
+				"focus": 0.48317480431318205
 			},
 			"endBinding": {
 				"elementId": "oFggns6fZGfAWfhjFJuxE",
-				"focus": -0.25888674997116284,
-				"gap": 6.855059335716078
+				"gap": 6.855059335716078,
+				"focus": -0.25888674997116284
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -5168,15 +4914,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					-231.1664084987451,
+					-231.16640849874602,
 					335.7598987585825
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 1017,
-			"versionNonce": 1009761066,
+			"version": 1019,
+			"versionNonce": 1110496928,
 			"isDeleted": false,
 			"id": "UdMU1VB2Gn24J9aFm6ztS",
 			"fillStyle": "solid",
@@ -5207,14 +4953,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811090,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1002,
-			"versionNonce": 740058230,
+			"version": 1004,
+			"versionNonce": 1457873760,
 			"isDeleted": false,
 			"id": "yH24Y1Tf",
 			"fillStyle": "solid",
@@ -5234,7 +4980,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811090,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5250,8 +4996,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 85,
-			"versionNonce": 1197439648,
+			"version": 91,
+			"versionNonce": 2132607648,
 			"isDeleted": false,
 			"id": "2urKHCUJQXLXY7c6TVrhf",
 			"fillStyle": "solid",
@@ -5273,7 +5019,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125226,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5302,8 +5048,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1264,
-			"versionNonce": 1841084064,
+			"version": 1266,
+			"versionNonce": 1327626080,
 			"isDeleted": false,
 			"id": "6lp_cMXz-UdSOwdwEBP1r",
 			"fillStyle": "solid",
@@ -5334,14 +5080,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704375990153,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1248,
-			"versionNonce": 237822624,
+			"version": 1250,
+			"versionNonce": 631484064,
 			"isDeleted": false,
 			"id": "PLLWSPeX",
 			"fillStyle": "solid",
@@ -5361,7 +5107,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704375990153,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5377,8 +5123,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1100,
-			"versionNonce": 1675817014,
+			"version": 1102,
+			"versionNonce": 984353632,
 			"isDeleted": false,
 			"id": "f1RXouhEXbBNG9NosenD7",
 			"fillStyle": "solid",
@@ -5409,14 +5155,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704287811090,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1096,
-			"versionNonce": 1949029930,
+			"version": 1098,
+			"versionNonce": 510974624,
 			"isDeleted": false,
 			"id": "wnAiXqJv",
 			"fillStyle": "solid",
@@ -5436,7 +5182,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704287811090,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5452,8 +5198,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 82,
-			"versionNonce": 855452320,
+			"version": 88,
+			"versionNonce": 1406377824,
 			"isDeleted": false,
 			"id": "4p7Z4uf6HlzI2RHO-M5r8",
 			"fillStyle": "solid",
@@ -5475,7 +5221,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125230,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5504,8 +5250,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 505,
-			"versionNonce": 578376352,
+			"version": 511,
+			"versionNonce": 1010861728,
 			"isDeleted": false,
 			"id": "8D4HGgX3hNJ-EMGtDmwgA",
 			"fillStyle": "solid",
@@ -5514,12 +5260,12 @@ Les 5 plus probables ^L2FSVN5Y
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4884.383235347971,
-			"y": -889.055810333264,
+			"x": 4884.383037755437,
+			"y": -889.0558103332639,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 78.41848374540314,
-			"height": 129.3083009061761,
+			"width": 78.41835665465624,
+			"height": 129.308300906176,
 			"seed": 1735647402,
 			"groupIds": [],
 			"frameId": null,
@@ -5527,7 +5273,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376125228,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5549,15 +5295,15 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					-78.41848374540314,
-					129.3083009061761
+					-78.41835665465624,
+					129.308300906176
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 1196,
-			"versionNonce": 1389901472,
+			"version": 1198,
+			"versionNonce": 183022432,
 			"isDeleted": false,
 			"id": "OHHtrppVURH-oEcG_9dNt",
 			"fillStyle": "solid",
@@ -5588,14 +5334,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376276276,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1175,
-			"versionNonce": 1138254496,
+			"version": 1177,
+			"versionNonce": 2075570848,
 			"isDeleted": false,
 			"id": "Yr3NeuoV",
 			"fillStyle": "solid",
@@ -5615,7 +5361,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376276276,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5631,8 +5377,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "arrow",
-			"version": 540,
-			"versionNonce": 2025085792,
+			"version": 546,
+			"versionNonce": 1178290016,
 			"isDeleted": false,
 			"id": "Bpt1jGm-sQsZu4FG-qqwm",
 			"fillStyle": "solid",
@@ -5642,11 +5388,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"opacity": 100,
 			"angle": 0,
 			"x": 4897.133838176939,
-			"y": 605.2295070621594,
+			"y": 605.1883088555206,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 238.83300451161722,
-			"height": 21.69116194550884,
+			"height": 21.708874897077862,
 			"seed": 1356159402,
 			"groupIds": [],
 			"frameId": null,
@@ -5654,7 +5400,7 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704376461354,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5677,14 +5423,14 @@ Les 5 plus probables ^L2FSVN5Y
 				],
 				[
 					-238.83300451161722,
-					21.69116194550884
+					21.708874897077862
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 1297,
-			"versionNonce": 2008305504,
+			"version": 1299,
+			"versionNonce": 1132945056,
 			"isDeleted": false,
 			"id": "6na5Vdxa-ZgECQegrCZYs",
 			"fillStyle": "solid",
@@ -5715,14 +5461,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376149620,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1288,
-			"versionNonce": 1328767840,
+			"version": 1290,
+			"versionNonce": 572218208,
 			"isDeleted": false,
 			"id": "qBoymQRj",
 			"fillStyle": "solid",
@@ -5742,7 +5488,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376149620,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5758,8 +5504,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1341,
-			"versionNonce": 2136206176,
+			"version": 1343,
+			"versionNonce": 610437792,
 			"isDeleted": false,
 			"id": "BL4feo-NkQ7iHeoqDrb8C",
 			"fillStyle": "solid",
@@ -5790,14 +5536,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376148535,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1343,
-			"versionNonce": 2021621600,
+			"version": 1345,
+			"versionNonce": 819523424,
 			"isDeleted": false,
 			"id": "0iZvRIVy",
 			"fillStyle": "solid",
@@ -5817,7 +5563,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376148535,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5835,9 +5581,9 @@ Les 5 plus probables ^L2FSVN5Y
 			"id": "LX6EPC4aRJIx1GrETYSQr",
 			"type": "arrow",
 			"x": 5027.738932546827,
-			"y": -854.583694744688,
-			"width": 164.6602760484493,
-			"height": 97.45911034088056,
+			"y": -854.5848090265197,
+			"width": 164.66103119112813,
+			"height": 97.46022462271219,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -5852,11 +5598,11 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"seed": 612029280,
-			"version": 137,
-			"versionNonce": 2004487008,
+			"version": 143,
+			"versionNonce": 418920096,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704376149621,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5865,8 +5611,8 @@ Les 5 plus probables ^L2FSVN5Y
 					0
 				],
 				[
-					-164.6602760484493,
-					97.45911034088056
+					-164.66103119112813,
+					97.46022462271219
 				]
 			],
 			"lastCommittedPoint": [
@@ -5890,9 +5636,9 @@ Les 5 plus probables ^L2FSVN5Y
 			"id": "0DV0vhz0H0cZKJbrlQkPZ",
 			"type": "arrow",
 			"x": 5084.961296122189,
-			"y": -759.3152693539781,
+			"y": -759.38796464112,
 			"width": 154.04871644048217,
-			"height": 55.78942859662527,
+			"height": 55.83208575533297,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -5907,11 +5653,11 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"seed": 120911712,
-			"version": 136,
-			"versionNonce": 1500456800,
+			"version": 142,
+			"versionNonce": 985924448,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704376148536,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5921,7 +5667,7 @@ Les 5 plus probables ^L2FSVN5Y
 				],
 				[
 					-154.04871644048217,
-					55.78942859662527
+					55.83208575533297
 				]
 			],
 			"lastCommittedPoint": [
@@ -5943,8 +5689,8 @@ Les 5 plus probables ^L2FSVN5Y
 		},
 		{
 			"type": "rectangle",
-			"version": 1414,
-			"versionNonce": 389015392,
+			"version": 1416,
+			"versionNonce": 1173906080,
 			"isDeleted": false,
 			"id": "cVzRsGKyYT8M3JW7nbdA8",
 			"fillStyle": "solid",
@@ -5975,14 +5721,14 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376147021,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1492,
-			"versionNonce": 729545568,
+			"version": 1494,
+			"versionNonce": 2116851552,
 			"isDeleted": false,
 			"id": "G60eSTRl",
 			"fillStyle": "solid",
@@ -6002,7 +5748,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704376147021,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -6020,9 +5766,9 @@ Les 5 plus probables ^L2FSVN5Y
 			"id": "8j5j7jOzc1jJFWVSxqqUg",
 			"type": "arrow",
 			"x": 4930.968533829439,
-			"y": -648.8259975813468,
+			"y": -649.0550065431565,
 			"width": 162.5167749750135,
-			"height": 28.76089428332307,
+			"height": 28.93485347422302,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -6037,11 +5783,11 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"seed": 654105440,
-			"version": 229,
-			"versionNonce": 477930336,
+			"version": 235,
+			"versionNonce": 974327456,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704376147021,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6051,7 +5797,7 @@ Les 5 plus probables ^L2FSVN5Y
 				],
 				[
 					162.5167749750135,
-					28.76089428332307
+					28.93485347422302
 				]
 			],
 			"lastCommittedPoint": [
@@ -6092,8 +5838,8 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 3
 			},
 			"seed": 1317714784,
-			"version": 357,
-			"versionNonce": 1107549856,
+			"version": 359,
+			"versionNonce": 1868737376,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -6109,7 +5855,7 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376246667,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
@@ -6132,11 +5878,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"seed": 1261238112,
-			"version": 336,
-			"versionNonce": 525273760,
+			"version": 338,
+			"versionNonce": 771242656,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704376246667,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"text": "Apprentissage informel le\nplus efficace",
@@ -6171,11 +5917,11 @@ Les 5 plus probables ^L2FSVN5Y
 				"type": 2
 			},
 			"seed": 529421984,
-			"version": 353,
-			"versionNonce": 2119974752,
+			"version": 359,
+			"versionNonce": 2025209696,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704376248912,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6194,13 +5940,13 @@ Les 5 plus probables ^L2FSVN5Y
 			],
 			"startBinding": {
 				"elementId": "ViUdqh8UuCi9LrMx8wjji",
-				"focus": 0.04496480778736029,
-				"gap": 3.2789205796455008
+				"gap": 3.2789205796455008,
+				"focus": 0.04496480778736029
 			},
 			"endBinding": {
 				"elementId": "6o4-bPOiAmNZ08S4mLRpu",
-				"focus": 0.2699728521173775,
-				"gap": 2.7810578296048334
+				"gap": 2.7810578296048334,
+				"focus": 0.2699728521173775
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -6209,7 +5955,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"id": "A3cBQgYnsGbRbOTdQfUrl",
 			"type": "rectangle",
 			"x": 4693.632642840153,
-			"y": 955.7365286038465,
+			"y": 955.7365286038466,
 			"width": 378.41229366307925,
 			"height": 123.29869974318353,
 			"angle": 0,
@@ -6224,8 +5970,8 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"seed": 570137248,
-			"version": 113,
-			"versionNonce": 1440353952,
+			"version": 116,
+			"versionNonce": 1146611360,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -6237,7 +5983,7 @@ Les 5 plus probables ^L2FSVN5Y
 					"type": "arrow"
 				}
 			],
-			"updated": 1704376338145,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false
 		},
@@ -6245,7 +5991,7 @@ Les 5 plus probables ^L2FSVN5Y
 			"id": "L2FSVN5Y",
 			"type": "text",
 			"x": 4780.968886107239,
-			"y": 1004.8858784754383,
+			"y": 1004.8858784754384,
 			"width": 203.73980712890625,
 			"height": 25,
 			"angle": 0,
@@ -6260,11 +6006,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"seed": 1200830112,
-			"version": 78,
-			"versionNonce": 954153632,
+			"version": 81,
+			"versionNonce": 980898656,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704376338145,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"text": "Les 5 plus probables",
@@ -6282,9 +6028,9 @@ Les 5 plus probables ^L2FSVN5Y
 			"id": "OYgIztgoHu9S6ldWlaqNY",
 			"type": "arrow",
 			"x": 4689.095218415707,
-			"y": 1020.192607658116,
+			"y": 1020.157876730825,
 			"width": 287.6617889332292,
-			"height": 4.058416691049388,
+			"height": 4.08289895391988,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -6297,11 +6043,11 @@ Les 5 plus probables ^L2FSVN5Y
 			"frameId": null,
 			"roundness": null,
 			"seed": 1268535968,
-			"version": 114,
-			"versionNonce": 118035104,
+			"version": 120,
+			"versionNonce": 1239552672,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1704376338146,
+			"updated": 1704576822793,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6311,7 +6057,7 @@ Les 5 plus probables ^L2FSVN5Y
 				],
 				[
 					-287.6617889332292,
-					4.058416691049388
+					4.08289895391988
 				]
 			],
 			"lastCommittedPoint": [
@@ -6320,14 +6066,481 @@ Les 5 plus probables ^L2FSVN5Y
 			],
 			"startBinding": {
 				"elementId": "A3cBQgYnsGbRbOTdQfUrl",
-				"focus": -0.0003324028089031927,
-				"gap": 4.537424424445817
+				"gap": 4.537424424445817,
+				"focus": -0.0003324028089031927
 			},
 			"endBinding": {
 				"elementId": "ALQgJLBh9BGd2xMbsceuW",
-				"focus": 0.13395868600307645,
-				"gap": 6.969108854403203
+				"gap": 6.969108854403203,
+				"focus": 0.13395868600307645
 			},
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "text",
+			"version": 158,
+			"versionNonce": 1405348704,
+			"isDeleted": false,
+			"id": "20SOmUBu",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4967.5334182553925,
+			"y": -3510.8998425424493,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 482.9398193359375,
+			"height": 45,
+			"seed": 1226363925,
+			"groupIds": [
+				"nn-IBKGOY36qwyW8r1Sjb"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1704576851450,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "Resultats du questionnaire",
+			"rawText": "Resultats du questionnaire",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Resultats du questionnaire",
+			"lineHeight": 1.25,
+			"baseline": 32
+		},
+		{
+			"type": "rectangle",
+			"version": 514,
+			"versionNonce": 726334112,
+			"isDeleted": false,
+			"id": "6K16IajFGyqyb1KSb7kAk",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4818.930685937216,
+			"y": -3407.042356858325,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 780.1452839722906,
+			"height": 915.0128561691407,
+			"seed": 1752675265,
+			"groupIds": [
+				"8PuYcj1PL2gaiDik7-YyB",
+				"nn-IBKGOY36qwyW8r1Sjb"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1704576851450,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 437,
+			"versionNonce": 1055883104,
+			"isDeleted": false,
+			"id": "Gi0wgSjHoqOERbgeffuU8",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4983.567673224163,
+			"y": -3171.9995899855717,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#b2f2bb",
+			"width": 432.74395720827533,
+			"height": 432.74395720827533,
+			"seed": 439654363,
+			"groupIds": [
+				"8PuYcj1PL2gaiDik7-YyB",
+				"nn-IBKGOY36qwyW8r1Sjb"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [
+				{
+					"id": "ayfZq4dT3Nj9zzOMxFtal",
+					"type": "arrow"
+				}
+			],
+			"updated": 1704576851450,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 189,
+			"versionNonce": 156411552,
+			"isDeleted": false,
+			"id": "Y9xLPD4N",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4942.270224033984,
+			"y": -3281.2110859639,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 538.0795288085938,
+			"height": 25,
+			"seed": 1630820219,
+			"groupIds": [
+				"8PuYcj1PL2gaiDik7-YyB",
+				"nn-IBKGOY36qwyW8r1Sjb"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1704576851450,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Vous êtes le plus compatible avec les sides projects !",
+			"rawText": "Vous êtes le plus compatible avec les sides projects !",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Vous êtes le plus compatible avec les sides projects !",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "rectangle",
+			"version": 145,
+			"versionNonce": 1737003872,
+			"isDeleted": false,
+			"id": "9Pntq_mX0bmtOpCJa4KUC",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5038.018344717811,
+			"y": -2664.4805439121933,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"width": 354.83127076947494,
+			"height": 75.09656524221691,
+			"seed": 315079541,
+			"groupIds": [
+				"8PuYcj1PL2gaiDik7-YyB",
+				"nn-IBKGOY36qwyW8r1Sjb"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "8dmrl7sD"
+				}
+			],
+			"updated": 1704576851450,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 97,
+			"versionNonce": 562352800,
+			"isDeleted": false,
+			"id": "8dmrl7sD",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5111.8800173950285,
+			"y": -2649.432261291085,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 207.10792541503906,
+			"height": 45,
+			"seed": 1647918901,
+			"groupIds": [
+				"8PuYcj1PL2gaiDik7-YyB",
+				"nn-IBKGOY36qwyW8r1Sjb"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1704576851450,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "Commencer !",
+			"rawText": "Commencer !",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "9Pntq_mX0bmtOpCJa4KUC",
+			"originalText": "Commencer !",
+			"lineHeight": 1.25,
+			"baseline": 32
+		},
+		{
+			"id": "zWebweXN",
+			"type": "text",
+			"x": 5187.670133469431,
+			"y": -2904.1488360033304,
+			"width": 103.8599853515625,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [
+				"8PuYcj1PL2gaiDik7-YyB",
+				"nn-IBKGOY36qwyW8r1Sjb"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1598751392,
+			"version": 152,
+			"versionNonce": 1138698080,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1704576851451,
+			"link": null,
+			"locked": false,
+			"text": "83 %",
+			"rawText": "83 %",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32,
+			"containerId": null,
+			"originalText": "83 %",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 279,
+			"versionNonce": 1251049120,
+			"isDeleted": false,
+			"id": "RvsfzzTe",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5119.620548911042,
+			"y": -3081.2082638892166,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 44.959991455078125,
+			"height": 25,
+			"seed": 677247840,
+			"groupIds": [
+				"8PuYcj1PL2gaiDik7-YyB",
+				"nn-IBKGOY36qwyW8r1Sjb"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1704576851451,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "17 %",
+			"rawText": "17 %",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "17 %",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"id": "ayfZq4dT3Nj9zzOMxFtal",
+			"type": "arrow",
+			"x": 5198.635400645803,
+			"y": -3171.899771990042,
+			"width": 187.21802684942122,
+			"height": 202.58998488197494,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [
+				"8PuYcj1PL2gaiDik7-YyB",
+				"nn-IBKGOY36qwyW8r1Sjb"
+			],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1086163808,
+			"version": 193,
+			"versionNonce": 4406112,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1704576851451,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.036727332708323956,
+					202.58998488197494
+				],
+				[
+					-187.21802684942122,
+					101.70407624939844
+				]
+			],
+			"lastCommittedPoint": [
+				-187.21802684942122,
+				101.70407624939844
+			],
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "Gi0wgSjHoqOERbgeffuU8",
+				"focus": -0.05272380760163842,
+				"gap": 4.232861025646912
+			},
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "XcYWBamClMjPojP9vUXHB",
+			"type": "line",
+			"x": 5018.790346361902,
+			"y": -3073.414770363131,
+			"width": 182.39728240355453,
+			"height": 222.93108833442193,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1094592352,
+			"version": 166,
+			"versionNonce": 1257629536,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1704576822793,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					179.7675871602778,
+					125.73309205953319
+				],
+				[
+					182.39728240355453,
+					-97.19799627488874
+				]
+			],
+			"lastCommittedPoint": [
+				182.39728240355453,
+				-97.19799627488874
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "pOujoPiXtRvkZErN0q8zl",
+			"type": "arrow",
+			"x": 5198.354760156596,
+			"y": -3170.2393702758177,
+			"width": 187.79297335874162,
+			"height": 198.36013267390172,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 919966368,
+			"version": 563,
+			"versionNonce": 657844896,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1704576822793,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-4.8975625245548144,
+					198.36013267390172
+				],
+				[
+					-187.79297335874162,
+					110.10000493892267
+				],
+				[
+					-108.47593164385216,
+					23.181594508067064
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": [
+				-5.415916970790931,
+				0.0549545386961654
+			],
+			"startBinding": null,
+			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
 		}
@@ -6336,10 +6549,10 @@ Les 5 plus probables ^L2FSVN5Y
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
+		"currentItemBackgroundColor": "#a5d8ff",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "dashed",
+		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 2,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
@@ -6347,10 +6560,10 @@ Les 5 plus probables ^L2FSVN5Y
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": -2562.263194643464,
-		"scrollY": 1699.4742198355855,
+		"scrollX": -3829.583658772386,
+		"scrollY": 3659.8995780117734,
 		"zoom": {
-			"value": 0.37577869470652464
+			"value": 0.512996865250139
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
