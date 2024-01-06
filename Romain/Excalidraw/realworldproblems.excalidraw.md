@@ -256,8 +256,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 668,
-			"versionNonce": 1627855210,
+			"version": 669,
+			"versionNonce": 585751200,
 			"isDeleted": false,
 			"id": "fLiifcCM-Koo84fudyZhW",
 			"fillStyle": "solid",
@@ -266,7 +266,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3402.3973863766923,
+			"x": 3402.397386376692,
 			"y": 509.35853772735754,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -284,14 +284,14 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 					"id": "YJIxe1wm"
 				}
 			],
-			"updated": 1704271054150,
+			"updated": 1704375924227,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 327,
-			"versionNonce": 1148476458,
+			"version": 328,
+			"versionNonce": 1779795616,
 			"isDeleted": false,
 			"id": "YJIxe1wm",
 			"fillStyle": "solid",
@@ -300,7 +300,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3407.3973863766923,
+			"x": 3407.397386376692,
 			"y": 514.3585377273575,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -311,7 +311,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271054152,
+			"updated": 1704375924228,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -634,7 +634,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -676,7 +676,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "text",
@@ -713,7 +713,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Projet 1 - Système de Réservation de Salles de Conférence",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -750,7 +750,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Objectifs",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -787,7 +787,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Contexte",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -824,7 +824,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Vous travaillez pour une entreprise qui possède plusieurs salles de conférence dans un grand immeuble de bureaux. \nActuellement, la réservation de ces salles se fait manuellement via un registre physique ou par e-mail,\n ce qui conduit souvent à des conflits de réservation et à une utilisation inefficace de l'espace.",
 			"lineHeight": 1.25,
-			"baseline": 51
+			"baseline": 52
 		},
 		{
 			"type": "text",
@@ -1018,7 +1018,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Exigences Spécifiques\n\nInterface Utilisateur\n- Une interface web simple et intuitive pour réserver des salles.\n- Affichage du calendrier des disponibilités pour chaque salle.\n\nGestion des Réservations\n- Capacité à réserver une salle pour une date et une heure spécifiques.\n- Fonctionnalité pour modifier ou annuler une réservation existante.\n\nGestion des Conflits :\n- Le système doit automatiquement détecter et prévenir les conflits de réservation.\n- Proposer des solutions alternatives en cas de conflit (comme une autre salle ou un autre horaire).\n\nBase de Données :\n- Stockage sécurisé des informations de réservation.\n- Capacité à gérer plusieurs salles et réservations simultanées.\n\nAuthentification :\n- Système d'authentification pour les employés afin de sécuriser l'accès aux réservations.\nNotification :\n- Envoi automatique de confirmations de réservation et de rappels par e-mail\n\nDéfis Techniques :\n- Optimisation de l'algorithme de gestion des conflits pour garantir l'efficacité.\n- Conception d'une base de données capable de gérer de grandes quantités de données de réservation de manière efficace.\n- Assurer la sécurité des données et l'authentification des utilisateurs.\n\nLangages et Outils Suggérés :\nBackend : Java, Node.js, ou Python.\nFrontend : React, Angular, ou Vue.js.\nBase de données : MySQL, PostgreSQL, ou MongoDB.\nSécurité : JWT pour l'authentification, SSL pour la sécurisation des communications.\n\nCe projet vise à tester et à améliorer vos compétences en développement web, gestion de base de données,\n conception d'interface utilisateur, et résolution de problèmes complexes. Il vous donne également l'opportunité\n d'expérimenter avec différentes technologies et de comprendre les aspects pratiques de la gestion de\n projet informatique.",
 			"lineHeight": 1.25,
-			"baseline": 753
+			"baseline": 754
 		},
 		{
 			"type": "text",
@@ -1055,7 +1055,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "🌐https://www.github.com/",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1130,12 +1130,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Rendu",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "text",
-			"version": 49,
-			"versionNonce": 1500156650,
+			"version": 50,
+			"versionNonce": 2132607840,
 			"isDeleted": false,
 			"id": "zesrXouz",
 			"fillStyle": "solid",
@@ -1162,7 +1162,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1704271203056,
+			"updated": 1704549213919,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1249,8 +1249,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 173,
-			"versionNonce": 913041590,
+			"version": 174,
+			"versionNonce": 1336894112,
 			"isDeleted": false,
 			"id": "ogGy4iWS",
 			"fillStyle": "solid",
@@ -1270,7 +1270,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271203056,
+			"updated": 1704549213922,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1357,8 +1357,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 383,
-			"versionNonce": 623682986,
+			"version": 384,
+			"versionNonce": 1332057952,
 			"isDeleted": false,
 			"id": "HAC4d7Oq",
 			"fillStyle": "solid",
@@ -1378,7 +1378,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271203057,
+			"updated": 1704549213924,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2143,8 +2143,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 418,
-			"versionNonce": 917194474,
+			"version": 419,
+			"versionNonce": 652980896,
 			"isDeleted": false,
 			"id": "x9mSfmOCxcvsDKuSv-Spy",
 			"fillStyle": "solid",
@@ -2153,7 +2153,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3372.779586346297,
+			"x": 3372.7795863462966,
 			"y": -2127.9760266721705,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2171,14 +2171,14 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 					"id": "cWf6Sy0C"
 				}
 			],
-			"updated": 1704271054163,
+			"updated": 1704375924245,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 58,
-			"versionNonce": 3594666,
+			"version": 59,
+			"versionNonce": 1075601056,
 			"isDeleted": false,
 			"id": "cWf6Sy0C",
 			"fillStyle": "solid",
@@ -2187,7 +2187,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3377.779586346297,
+			"x": 3377.7795863462966,
 			"y": -2122.9760266721705,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2198,7 +2198,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271054164,
+			"updated": 1704375924246,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2360,8 +2360,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 328,
-			"versionNonce": 541201514,
+			"version": 329,
+			"versionNonce": 1180142240,
 			"isDeleted": false,
 			"id": "G97ZUZB-kHyAQjpeO8CM7",
 			"fillStyle": "solid",
@@ -2370,7 +2370,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3897.0201973361513,
+			"x": 3897.020197336152,
 			"y": -1230.5225651463327,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -2388,14 +2388,14 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 					"id": "6V6tTLXc"
 				}
 			],
-			"updated": 1704271054169,
+			"updated": 1704375924251,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 2023225130,
+			"version": 212,
+			"versionNonce": 877475488,
 			"isDeleted": false,
 			"id": "6V6tTLXc",
 			"fillStyle": "solid",
@@ -2404,7 +2404,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3902.0201973361513,
+			"x": 3902.020197336152,
 			"y": -1204.192918172534,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
@@ -2415,7 +2415,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271054169,
+			"updated": 1704375924252,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2491,7 +2491,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "line",
@@ -2612,8 +2612,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 45,
-			"versionNonce": 1017012330,
+			"version": 46,
+			"versionNonce": 1961496224,
 			"isDeleted": false,
 			"id": "6u9sXhlt",
 			"fillStyle": "solid",
@@ -2633,7 +2633,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271203062,
+			"updated": 1704549213954,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2678,8 +2678,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 725988150,
+			"version": 109,
+			"versionNonce": 830188384,
 			"isDeleted": false,
 			"id": "f4SOBKaF",
 			"fillStyle": "solid",
@@ -2699,7 +2699,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271203062,
+			"updated": 1704549213956,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2773,8 +2773,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 179,
-			"versionNonce": 1535820586,
+			"version": 180,
+			"versionNonce": 1978612384,
 			"isDeleted": false,
 			"id": "NaXGqkcu",
 			"fillStyle": "solid",
@@ -2794,7 +2794,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271203063,
+			"updated": 1704549213958,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3072,7 +3072,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "image",
@@ -3276,7 +3276,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "line",
@@ -3386,7 +3386,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "image",
@@ -3595,7 +3595,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "line",
@@ -3705,7 +3705,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "image",
@@ -4070,8 +4070,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "arrow",
-			"version": 302,
-			"versionNonce": 1315943594,
+			"version": 304,
+			"versionNonce": 1143475872,
 			"isDeleted": false,
 			"id": "-wgI-HAyUInU16uuIL0AM",
 			"fillStyle": "solid",
@@ -4093,7 +4093,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704271054179,
+			"updated": 1704375924263,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4155,12 +4155,12 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "60/100",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "text",
-			"version": 241,
-			"versionNonce": 896493622,
+			"version": 242,
+			"versionNonce": 263143264,
 			"isDeleted": false,
 			"id": "1ByGdymp",
 			"fillStyle": "solid",
@@ -4180,7 +4180,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271203068,
+			"updated": 1704549213980,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4229,7 +4229,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "🌐https://www.github.com/",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -4262,8 +4262,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 290,
-			"versionNonce": 1862332790,
+			"version": 291,
+			"versionNonce": 1970202272,
 			"isDeleted": false,
 			"id": "adHSKCpe",
 			"fillStyle": "solid",
@@ -4283,7 +4283,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271203069,
+			"updated": 1704549213985,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4332,7 +4332,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Interface web simple et intuitive pour reserver une salle",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -4398,7 +4398,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Affichage du calendrier des disponibilités pour chaque salle.",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "freedraw",
@@ -4640,7 +4640,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Capacité à réserver une salle pour une date et une heure spécifiques.\n",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -4677,7 +4677,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Interface utilisateur",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -4714,7 +4714,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Gestion des reservations",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -4751,7 +4751,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Fonctionnalité pour modifier ou annuler une réservation existante.",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -5136,8 +5136,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		},
 		{
 			"type": "text",
-			"version": 430,
-			"versionNonce": 697661738,
+			"version": 431,
+			"versionNonce": 173036384,
 			"isDeleted": false,
 			"id": "vOi26TlP",
 			"fillStyle": "solid",
@@ -5157,7 +5157,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704271203072,
+			"updated": 1704549214003,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5277,7 +5277,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Liste des apprenants",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "text",
@@ -5314,7 +5314,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Une autre fonctionnalité",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -5407,7 +5407,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "line",
@@ -5517,7 +5517,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "image",
@@ -5727,7 +5727,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Robert\nExpert Mentor A+",
 			"lineHeight": 1.25,
-			"baseline": 76
+			"baseline": 77
 		},
 		{
 			"type": "image",
@@ -5897,7 +5897,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "text",
@@ -5934,7 +5934,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "RealWorldProblems",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "line",
@@ -6044,7 +6044,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -6081,7 +6081,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "Mon compte",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "image",
@@ -6365,7 +6365,7 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 			"containerId": null,
 			"originalText": "David\nJunior Learner B+",
 			"lineHeight": 1.25,
-			"baseline": 76
+			"baseline": 77
 		},
 		{
 			"type": "image",
@@ -6418,8 +6418,8 @@ e0eb832ba2810c3001af50453b67a90a03c8a182: [[Pasted Image 20231128141734_407.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": null,
-		"scrollX": 3056.6154777792326,
-		"scrollY": 3997.0027876628264,
+		"scrollX": 2041.6154777792326,
+		"scrollY": 3327.0027876628264,
 		"zoom": {
 			"value": 0.1
 		},
