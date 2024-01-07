@@ -137,7 +137,7 @@ Récupération des idées les plus pertinentes
 
 Qui correspond le plus avec les témoignages (Recherche sémantique par vecteur) ^78aWKsZI
 
-Réalisation de side project, de poc pour tester des technologies. ^OqXOrkRO
+Témoignage ^OqXOrkRO
 
 Recherche de projet en lien avec l'énoncé ^y0FMb98H
 
@@ -313,50 +313,6 @@ Schéma des réponses correspondantes ^XZLfX7NM
 				[
 					707.4805293096961,
 					22.451110573810183
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 1391,
-			"versionNonce": 1519249248,
-			"isDeleted": false,
-			"id": "ALLr2jULkX0_rXisvwcQx",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 4285.769604653831,
-			"y": -2504.7786023079675,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 3.422413262658665,
-			"height": 254.4620046807845,
-			"seed": 959953275,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1704579088367,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.422413262658665,
-					254.4620046807845
 				]
 			]
 		},
@@ -1908,8 +1864,8 @@ Schéma des réponses correspondantes ^XZLfX7NM
 		},
 		{
 			"type": "rectangle",
-			"version": 1187,
-			"versionNonce": 735124128,
+			"version": 1188,
+			"versionNonce": 1920300896,
 			"isDeleted": false,
 			"id": "M8jJ4XXSIvN81WNIx9BCw",
 			"fillStyle": "solid",
@@ -1938,20 +1894,16 @@ Schéma des réponses correspondantes ^XZLfX7NM
 				{
 					"id": "k8VN46VE76venZce6mb_0",
 					"type": "arrow"
-				},
-				{
-					"id": "C_Bg_Y-ZjI_WUZVK5kI8W",
-					"type": "arrow"
 				}
 			],
-			"updated": 1704579088371,
+			"updated": 1704662298730,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1177,
-			"versionNonce": 156983136,
+			"version": 1188,
+			"versionNonce": 254147232,
 			"isDeleted": false,
 			"id": "OqXOrkRO",
 			"fillStyle": "solid",
@@ -1960,35 +1912,35 @@ Schéma des réponses correspondantes ^XZLfX7NM
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6430.357613923386,
-			"y": -1363.1785887171695,
+			"x": 6566.647553803758,
+			"y": -1328.1785887171695,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 426.8318176269531,
-			"height": 105,
+			"width": 154.25193786621094,
+			"height": 35,
 			"seed": 141020331,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704579088371,
+			"updated": 1704662290868,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "Réalisation de side project, de\npoc pour tester des\ntechnologies.",
-			"rawText": "Réalisation de side project, de poc pour tester des technologies.",
+			"text": "Témoignage",
+			"rawText": "Témoignage",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "M8jJ4XXSIvN81WNIx9BCw",
-			"originalText": "Réalisation de side project, de poc pour tester des technologies.",
+			"originalText": "Témoignage",
 			"lineHeight": 1.25,
-			"baseline": 95
+			"baseline": 25
 		},
 		{
 			"type": "arrow",
-			"version": 3103,
-			"versionNonce": 2082397856,
+			"version": 3105,
+			"versionNonce": 2142780256,
 			"isDeleted": false,
 			"id": "k8VN46VE76venZce6mb_0",
 			"fillStyle": "solid",
@@ -2010,7 +1962,7 @@ Schéma des réponses correspondantes ^XZLfX7NM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704618910082,
+			"updated": 1704662291689,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3024,54 +2976,6 @@ Schéma des réponses correspondantes ^XZLfX7NM
 				[
 					184.66751951560946,
 					-63.013798533580484
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 1283,
-			"versionNonce": 711480992,
-			"isDeleted": false,
-			"id": "C_Bg_Y-ZjI_WUZVK5kI8W",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": 4786.735786590556,
-			"y": -2038.9056119356942,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1744.071843874679,
-			"height": 651.3860035189989,
-			"seed": 1127198571,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1704618910079,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "M8jJ4XXSIvN81WNIx9BCw",
-				"gap": 11.242170350034257,
-				"focus": 0.2271024035062008
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1744.071843874679,
-					651.3860035189989
 				]
 			]
 		},
@@ -8605,6 +8509,98 @@ Schéma des réponses correspondantes ^XZLfX7NM
 			"lineHeight": 1.25
 		},
 		{
+			"type": "arrow",
+			"version": 1392,
+			"versionNonce": 1481056096,
+			"isDeleted": true,
+			"id": "ALLr2jULkX0_rXisvwcQx",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4285.769604653831,
+			"y": -2504.7786023079675,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3.422413262658665,
+			"height": 254.4620046807845,
+			"seed": 959953275,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1704662300673,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.422413262658665,
+					254.4620046807845
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 1285,
+			"versionNonce": 122782368,
+			"isDeleted": true,
+			"id": "C_Bg_Y-ZjI_WUZVK5kI8W",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4786.735786590556,
+			"y": -2038.9056119356942,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1744.071843874679,
+			"height": 651.3860035189989,
+			"seed": 1127198571,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1704662298729,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "M8jJ4XXSIvN81WNIx9BCw",
+				"gap": 11.242170350034257,
+				"focus": 0.2271024035062008
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1744.071843874679,
+					651.3860035189989
+				]
+			]
+		},
+		{
 			"type": "text",
 			"version": 197,
 			"versionNonce": 1939266400,
@@ -8657,10 +8653,10 @@ Schéma des réponses correspondantes ^XZLfX7NM
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 892.7245424411747,
-		"scrollY": 4.6817068225095335,
+		"scrollX": -14.572746445770463,
+		"scrollY": 6153.911032064425,
 		"zoom": {
-			"value": 0.5452713871583724
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
