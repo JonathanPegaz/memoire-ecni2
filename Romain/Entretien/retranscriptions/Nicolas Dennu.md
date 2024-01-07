@@ -52,3 +52,4 @@ Le side project est selon lui le type d'apprentissage informel qui lui a permis 
 Puis ensuite c'est les discussions qu'il a pu avoir au boulot concernant les side-projects
 
 Le plagiat légal (juste copié-collé) n'est pas un outil pour l'apprentissage informel car il ne permet pas de développer de connaissance. En revanche aller comprendre concrètement ce que le code trouvé produit et engendre est bien plus instructif. 
+
