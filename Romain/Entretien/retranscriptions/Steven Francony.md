@@ -22,7 +22,7 @@ Pas de notion de plagiat selon lui du côté de somfy sur les feature. 
 
 (Éventuellement rarement via des réponses stack overflow) ou sur certain repo github mais ça reste vraiment rare (utilisation du gist en haut du code) 
 
-Contribution open-source avec DJI, seule remarquable, sinon pas mal de création d’issue lors de bug rencontré.   
+Contribution open-source avec DJI, seule remarquable, sinon pas mal de création d’issue lors de bug rencontré.
 
 GLTF viewer contribution de chargement des modèles en asynchrone mais n’a pas été accepté car feature trop volumineuse.  
 
