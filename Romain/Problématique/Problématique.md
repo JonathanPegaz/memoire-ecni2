@@ -24,7 +24,7 @@ Les développeurs ont des styles de programmation différent,
 **Problématique**
 Il a été constaté que certains types d'apprentissage informel ne sont pas efficaces pour les développeurs, ce qui peut impacter leur capacité à acquérir des compétences extra-éducatives essentielles à leur évolution professionnelle.
 
-**En quoi l’apprentissage informel impacte il la capacité à acquérir des compétences ?** 
+**En quoi l’apprentissage informel impacte il la capacité à acquérir des compétences ?**
 
 **Question centrale de la recherche**
 Existe-t-il des types d'apprentissage informel pertinent afin d'aider les développeur à développer des compétences extra-éducatif ?
