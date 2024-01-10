@@ -1866,8 +1866,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 1191,
-			"versionNonce": 1350034224,
+			"version": 1226,
+			"versionNonce": 923611943,
 			"isDeleted": false,
 			"id": "M8jJ4XXSIvN81WNIx9BCw",
 			"fillStyle": "solid",
@@ -1876,8 +1876,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6410.900097475408,
-			"y": -1376.277438066661,
+			"x": 9650.47346173322,
+			"y": 692.1679965036515,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 465.7468505229098,
@@ -1898,14 +1898,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1191,
-			"versionNonce": 2110728144,
+			"version": 1226,
+			"versionNonce": 225064519,
 			"isDeleted": false,
 			"id": "OqXOrkRO",
 			"fillStyle": "solid",
@@ -1914,8 +1914,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6566.647553803758,
-			"y": -1328.1785887171695,
+			"x": 9806.220918061568,
+			"y": 740.266845853143,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 154.25193786621094,
@@ -1925,7 +1925,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1941,8 +1941,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 3112,
-			"versionNonce": 1744043312,
+			"version": 3223,
+			"versionNonce": 878354633,
 			"isDeleted": false,
 			"id": "k8VN46VE76venZce6mb_0",
 			"fillStyle": "solid",
@@ -1951,8 +1951,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6639.459220404226,
-			"y": -1242.8607565151447,
+			"x": 9879.032584662036,
+			"y": 825.5846780551678,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 4.439081004132277,
@@ -1964,18 +1964,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784838,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "M8jJ4XXSIvN81WNIx9BCw",
-				"gap": 2.2189828525333724,
-				"focus": 0.012438413643781676
+				"focus": 0.012438413643781676,
+				"gap": 2.2189828525333724
 			},
 			"endBinding": {
 				"elementId": "kw1GO7wJxpoJtUm1L09Se",
-				"gap": 8.166030584910914,
-				"focus": 0.01711232078533849
+				"focus": 0.01711232078533312,
+				"gap": 8.166030584910914
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1993,8 +1993,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 958,
-			"versionNonce": 1060744656,
+			"version": 993,
+			"versionNonce": 777185191,
 			"isDeleted": false,
 			"id": "kw1GO7wJxpoJtUm1L09Se",
 			"fillStyle": "solid",
@@ -2003,8 +2003,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6462.654963594584,
-			"y": -1019.7936620005962,
+			"x": 9702.228327852396,
+			"y": 1048.6517725697163,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 336.22329391005405,
@@ -2033,14 +2033,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1051,
-			"versionNonce": 752670512,
+			"version": 1086,
+			"versionNonce": 1795513031,
 			"isDeleted": false,
 			"id": "y0FMb98H",
 			"fillStyle": "solid",
@@ -2049,8 +2049,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6472.734689162892,
-			"y": -997.2936620005962,
+			"x": 9712.308053420704,
+			"y": 1071.1517725697163,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 316.0638427734375,
@@ -2060,7 +2060,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2076,8 +2076,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 1397,
-			"versionNonce": 1029927888,
+			"version": 1432,
+			"versionNonce": 1772764999,
 			"isDeleted": false,
 			"id": "5f01296OQpafnCYILgGmi",
 			"fillStyle": "solid",
@@ -2086,8 +2086,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7039.69141164558,
-			"y": -1045.6342077809481,
+			"x": 10279.264775903392,
+			"y": 1022.8112267893644,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 327.9189533606351,
@@ -2118,14 +2118,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1831,
-			"versionNonce": 1402630448,
+			"version": 1866,
+			"versionNonce": 1557184103,
 			"isDeleted": false,
 			"id": "DvBOCzTk",
 			"fillStyle": "solid",
@@ -2134,8 +2134,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7047.914987446991,
-			"y": -1040.6342077809481,
+			"x": 10287.488351704804,
+			"y": 1027.8112267893644,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 311.4718017578125,
@@ -2145,7 +2145,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2161,8 +2161,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 3480,
-			"versionNonce": 509901264,
+			"version": 3591,
+			"versionNonce": 1612563081,
 			"isDeleted": false,
 			"id": "_LnXDfNKJqc5F2F72Eyh5",
 			"fillStyle": "solid",
@@ -2171,8 +2171,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6630.787507983291,
-			"y": -901.5387112643916,
+			"x": 9870.360872241103,
+			"y": 1166.9067233059209,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 5.2149124879870214,
@@ -2182,18 +2182,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784838,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "kw1GO7wJxpoJtUm1L09Se",
-				"gap": 3.2549507362045915,
-				"focus": -0.0144917758825217
+				"focus": -0.0144917758825217,
+				"gap": 3.2549507362045915
 			},
 			"endBinding": {
 				"elementId": "jDcb2OPFhfTzpxp5Ur06q",
-				"gap": 3.580244888854395,
-				"focus": -0.033620733902472305
+				"focus": -0.0336207339024704,
+				"gap": 3.580244888854395
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2211,8 +2211,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 1509,
-			"versionNonce": 1133824816,
+			"version": 1544,
+			"versionNonce": 1680770343,
 			"isDeleted": false,
 			"id": "IDHZsSdzaov94Z2FzOJIy",
 			"fillStyle": "solid",
@@ -2221,8 +2221,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6422.104489042919,
-			"y": 309.068438755462,
+			"x": 9661.677853300731,
+			"y": 2377.5138733257745,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 449.49335725686797,
@@ -2247,14 +2247,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1595,
-			"versionNonce": 89440208,
+			"version": 1630,
+			"versionNonce": 1855014983,
 			"isDeleted": false,
 			"id": "6PijZk10",
 			"fillStyle": "solid",
@@ -2263,8 +2263,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6466.923250190885,
-			"y": 349.068438755462,
+			"x": 9706.496614448697,
+			"y": 2417.5138733257745,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 359.8558349609375,
@@ -2274,7 +2274,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2290,8 +2290,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 4470,
-			"versionNonce": 926147888,
+			"version": 4581,
+			"versionNonce": 257127497,
 			"isDeleted": false,
 			"id": "PbJmJ6tA6FAnXvVAL2YpE",
 			"fillStyle": "solid",
@@ -2300,8 +2300,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6628.868725963041,
-			"y": 152.88268741816864,
+			"x": 9868.442090220851,
+			"y": 2221.328121988481,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 6.535971816751044,
@@ -2313,18 +2313,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784838,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "jDcb2OPFhfTzpxp5Ur06q",
-				"gap": 11.465401586485768,
-				"focus": 0.030990095455810086
+				"focus": 0.030990095455808178,
+				"gap": 11.465401586485768
 			},
 			"endBinding": {
 				"elementId": "IDHZsSdzaov94Z2FzOJIy",
-				"gap": 8.064808012556114,
-				"focus": -0.027163493501679178
+				"focus": -0.027163493501683133,
+				"gap": 8.064808012556114
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2342,8 +2342,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 2807,
-			"versionNonce": 1917601232,
+			"version": 2918,
+			"versionNonce": 1385674249,
 			"isDeleted": false,
 			"id": "MLL4T6EDGqZaNAAmdcJO1",
 			"fillStyle": "solid",
@@ -2352,8 +2352,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6806.015077699024,
-			"y": -955.3509908540909,
+			"x": 10045.588441956836,
+			"y": 1113.0944437162216,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 229.52999757009093,
@@ -2365,18 +2365,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784838,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "kw1GO7wJxpoJtUm1L09Se",
-				"gap": 7.136820194386019,
-				"focus": 0.14744646648367143
+				"focus": 0.14744646648367143,
+				"gap": 7.136820194386019
 			},
 			"endBinding": {
 				"elementId": "5f01296OQpafnCYILgGmi",
-				"gap": 4.146336376465115,
-				"focus": -0.014136095406640466
+				"focus": -0.014136095406640356,
+				"gap": 4.146336376466024
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2394,8 +2394,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 1234,
-			"versionNonce": 1541390128,
+			"version": 1269,
+			"versionNonce": 2008562663,
 			"isDeleted": false,
 			"id": "jDcb2OPFhfTzpxp5Ur06q",
 			"fillStyle": "solid",
@@ -2404,8 +2404,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6165.747295061407,
-			"y": -768.5827141683171,
+			"x": 9405.320659319219,
+			"y": 1299.8627204019954,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 914.6664329638897,
@@ -2430,14 +2430,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1210,
-			"versionNonce": 576916432,
+			"version": 1245,
+			"versionNonce": 1026959111,
 			"isDeleted": false,
 			"id": "AaEbQPzt",
 			"fillStyle": "solid",
@@ -2446,8 +2446,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6173.512823555071,
-			"y": -763.5827141683171,
+			"x": 9413.086187812882,
+			"y": 1304.8627204019954,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 899.1353759765625,
@@ -2457,7 +2457,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2473,8 +2473,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 832,
-			"versionNonce": 1912625456,
+			"version": 867,
+			"versionNonce": 1809027175,
 			"isDeleted": false,
 			"id": "Uc1dgbMr7yfB6DUtDyMXD",
 			"fillStyle": "solid",
@@ -2483,8 +2483,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7112.817417967011,
-			"y": -1234.2669016185368,
+			"x": 10352.390782224822,
+			"y": 834.1785329517757,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 104.67721382726268,
@@ -2505,14 +2505,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 801,
-			"versionNonce": 1873875408,
+			"version": 836,
+			"versionNonce": 737340295,
 			"isDeleted": false,
 			"id": "Tp8qDLG9",
 			"fillStyle": "solid",
@@ -2521,8 +2521,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7126.228046365018,
-			"y": -1218.3921720575822,
+			"x": 10365.80141062283,
+			"y": 850.0532625127303,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 77.85595703125,
@@ -2532,7 +2532,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2548,8 +2548,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 2470,
-			"versionNonce": 1828565808,
+			"version": 2581,
+			"versionNonce": 1132890057,
 			"isDeleted": false,
 			"id": "b3CTfpI6Bp8mEBOFuX_K4",
 			"fillStyle": "solid",
@@ -2558,8 +2558,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7181.902903904951,
-			"y": -1180.1644948509493,
+			"x": 10421.476268162762,
+			"y": 888.2809397193632,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 3.715936897202482,
@@ -2571,18 +2571,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784839,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Uc1dgbMr7yfB6DUtDyMXD",
-				"gap": 2.3529476456783414,
-				"focus": -0.33095280670756544
+				"focus": -0.33095280670754845,
+				"gap": 2.3529476456783414
 			},
 			"endBinding": {
 				"elementId": "5f01296OQpafnCYILgGmi",
-				"gap": 7.389625083800411,
-				"focus": -0.1692114437445182
+				"focus": -0.16921144374452912,
+				"gap": 7.389625083800411
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2600,8 +2600,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 1012,
-			"versionNonce": 827217872,
+			"version": 1047,
+			"versionNonce": 1734386919,
 			"isDeleted": false,
 			"id": "5kE1XetoGgpv0OlUxwp1a",
 			"fillStyle": "solid",
@@ -2610,8 +2610,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7259.355034712663,
-			"y": -1201.5807935354371,
+			"x": 10498.928398970475,
+			"y": 866.8646410348754,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 104.67721382726268,
@@ -2632,14 +2632,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 991,
-			"versionNonce": 322948400,
+			"version": 1026,
+			"versionNonce": 1307144199,
 			"isDeleted": false,
 			"id": "sCKLw5Oh",
 			"fillStyle": "solid",
@@ -2648,8 +2648,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7267.621665918286,
-			"y": -1185.7060639744825,
+			"x": 10507.195030176099,
+			"y": 882.73937059583,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 88.14395141601562,
@@ -2659,7 +2659,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2675,8 +2675,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 2160,
-			"versionNonce": 458415568,
+			"version": 2271,
+			"versionNonce": 1153165705,
 			"isDeleted": false,
 			"id": "XY4yJxvofl5Yq23o2AQLk",
 			"fillStyle": "solid",
@@ -2685,8 +2685,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7325.6335119577925,
-			"y": -1142.0218075608668,
+			"x": 10565.206876215605,
+			"y": 926.4236270094457,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 50.116303698754564,
@@ -2698,18 +2698,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784839,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "5kE1XetoGgpv0OlUxwp1a",
-				"gap": 7.809526852661065,
-				"focus": -0.48642378668435143
+				"focus": -0.48642378668435143,
+				"gap": 7.809526852661065
 			},
 			"endBinding": {
 				"elementId": "5f01296OQpafnCYILgGmi",
-				"gap": 4.593687605976129,
-				"focus": 0.10910129959482799
+				"focus": 0.10910129959482799,
+				"gap": 4.593687605976129
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2727,8 +2727,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 696,
-			"versionNonce": 506373936,
+			"version": 731,
+			"versionNonce": 1132427623,
 			"isDeleted": false,
 			"id": "j0qwHWUtP0Oy5EU10k7sx",
 			"fillStyle": "solid",
@@ -2737,8 +2737,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6506.784160209993,
-			"y": 750.9905930689479,
+			"x": 9746.357524467805,
+			"y": 2819.4360276392604,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 274.88385484296305,
@@ -2763,14 +2763,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 668,
-			"versionNonce": 517383120,
+			"version": 703,
+			"versionNonce": 1480176775,
 			"isDeleted": false,
 			"id": "nzuIKuJZ",
 			"fillStyle": "solid",
@@ -2779,8 +2779,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6516.196134628545,
-			"y": 788.4905930689479,
+			"x": 9755.769498886357,
+			"y": 2856.9360276392604,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 256.0599060058594,
@@ -2790,7 +2790,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2806,8 +2806,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 2091,
-			"versionNonce": 1513242928,
+			"version": 2202,
+			"versionNonce": 1104403273,
 			"isDeleted": false,
 			"id": "BRjXXavzzDetyEK6SgM_b",
 			"fillStyle": "solid",
@@ -2816,8 +2816,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6647.354192307612,
-			"y": 533.0389332296904,
+			"x": 9886.927556565424,
+			"y": 2601.484367800003,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 3.643488249706934,
@@ -2829,18 +2829,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784839,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "IDHZsSdzaov94Z2FzOJIy",
-				"gap": 3.970494474228417,
-				"focus": -0.010858526328016486
+				"focus": -0.010858526328016486,
+				"gap": 3.970494474228417
 			},
 			"endBinding": {
 				"elementId": "j0qwHWUtP0Oy5EU10k7sx",
-				"gap": 5.86344761743203,
-				"focus": -0.013422980332185837
+				"focus": -0.013422980332179278,
+				"gap": 5.86344761743203
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2858,8 +2858,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 2027,
-			"versionNonce": 1240574416,
+			"version": 2062,
+			"versionNonce": 1879292167,
 			"isDeleted": false,
 			"id": "_rrAdXovIIzmuQ5lrIsJM",
 			"fillStyle": "solid",
@@ -2868,8 +2868,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6902.690039688899,
-			"y": 641.5888192887428,
+			"x": 10142.26340394671,
+			"y": 2710.0342538590553,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 327.9189533606351,
@@ -2888,14 +2888,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 2549,
-			"versionNonce": 1186110256,
+			"version": 2584,
+			"versionNonce": 1431633959,
 			"isDeleted": false,
 			"id": "7zqkNrw4",
 			"fillStyle": "solid",
@@ -2904,8 +2904,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6946.769587780349,
-			"y": 661.3705260423358,
+			"x": 10186.342952038161,
+			"y": 2729.8159606126483,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 239.75985717773438,
@@ -2915,7 +2915,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2931,8 +2931,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 3050,
-			"versionNonce": 666628048,
+			"version": 3161,
+			"versionNonce": 1869241609,
 			"isDeleted": false,
 			"id": "mCzIMLZFYi3LeQsfc-Fpg",
 			"fillStyle": "solid",
@@ -2941,8 +2941,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 6789.139074054675,
-			"y": 788.8456231292944,
+			"x": 10028.712438312486,
+			"y": 2857.291057699607,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 184.66751951560946,
@@ -2954,18 +2954,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784839,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "j0qwHWUtP0Oy5EU10k7sx",
-				"gap": 7.471059001718459,
-				"focus": 0.12398297283741788
+				"focus": 0.12398297283741788,
+				"gap": 7.471059001718459
 			},
 			"endBinding": {
 				"elementId": "_rrAdXovIIzmuQ5lrIsJM",
-				"gap": 4.6795917997851575,
-				"focus": -0.1335082775165348
+				"focus": -0.1335082775165316,
+				"gap": 4.6795917997851575
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2983,8 +2983,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 1061,
-			"versionNonce": 907523376,
+			"version": 1096,
+			"versionNonce": 711425415,
 			"isDeleted": false,
 			"id": "UdMU1VB2Gn24J9aFm6ztS",
 			"fillStyle": "solid",
@@ -2993,8 +2993,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7447.0967274826535,
-			"y": -1089.6899069741228,
+			"x": 10686.670091740465,
+			"y": 978.7555275961897,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 104.67721382726268,
@@ -3015,14 +3015,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1046,
-			"versionNonce": 541947344,
+			"version": 1081,
+			"versionNonce": 130823335,
 			"isDeleted": false,
 			"id": "yH24Y1Tf",
 			"fillStyle": "solid",
@@ -3031,8 +3031,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7473.067361068648,
-			"y": -1073.8151774131682,
+			"x": 10712.640725326459,
+			"y": 994.6302571571443,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 52.73594665527344,
@@ -3042,7 +3042,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784818,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3058,8 +3058,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 229,
-			"versionNonce": 1841925936,
+			"version": 340,
+			"versionNonce": 186347209,
 			"isDeleted": false,
 			"id": "2urKHCUJQXLXY7c6TVrhf",
 			"fillStyle": "solid",
@@ -3068,8 +3068,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 7445.457635672287,
-			"y": -1060.1284455071404,
+			"x": 10685.030999930099,
+			"y": 1008.3169890631721,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 73.67074817488628,
@@ -3081,18 +3081,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883784840,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "UdMU1VB2Gn24J9aFm6ztS",
-				"gap": 1.6390918103661534,
-				"focus": 0.7079758973249323
+				"focus": 0.7079758973249225,
+				"gap": 1.6390918103652439
 			},
 			"endBinding": {
 				"elementId": "5f01296OQpafnCYILgGmi",
-				"gap": 4.176522491186006,
-				"focus": 0.7207600763567009
+				"focus": 0.7207600763567035,
+				"gap": 4.176522491186006
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3189,8 +3189,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 800,
-			"versionNonce": 321274320,
+			"version": 801,
+			"versionNonce": 1648125575,
 			"isDeleted": false,
 			"id": "NZMg5n9lLupEjyGjkXcTB",
 			"fillStyle": "solid",
@@ -3199,7 +3199,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4321.0501418736285,
+			"x": 4321.050141873628,
 			"y": -1220.2412913241458,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -3229,14 +3229,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033314,
+			"updated": 1704883772323,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 790,
-			"versionNonce": 1253278512,
+			"version": 791,
+			"versionNonce": 223433831,
 			"isDeleted": false,
 			"id": "Rql0ESqm",
 			"fillStyle": "solid",
@@ -3245,7 +3245,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4326.499143814973,
+			"x": 4326.499143814972,
 			"y": -1215.2412913241458,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -3256,7 +3256,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883772325,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3272,8 +3272,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 3353,
-			"versionNonce": 245204944,
+			"version": 3357,
+			"versionNonce": 1446752455,
 			"isDeleted": false,
 			"id": "yIF1auVG5Q604ORt9xVgE",
 			"fillStyle": "solid",
@@ -3295,18 +3295,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033314,
+			"updated": 1704883772324,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "oFggns6fZGfAWfhjFJuxE",
-				"focus": -0.013609835622818795,
-				"gap": 2.308612991690893
+				"gap": 2.308612991690893,
+				"focus": -0.013609835622818795
 			},
 			"endBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"focus": 0.020509915443704767,
-				"gap": 4.187773541139222
+				"gap": 4.187773541139222,
+				"focus": 0.020509915443704767
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3324,8 +3324,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 1013,
-			"versionNonce": 1505467696,
+			"version": 1014,
+			"versionNonce": 1628974983,
 			"isDeleted": false,
 			"id": "5IV3I5H0Mf1Sp0j6KxN4C",
 			"fillStyle": "solid",
@@ -3334,7 +3334,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4182.322096057659,
+			"x": 4182.322096057658,
 			"y": -1018.3586905017032,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3360,14 +3360,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033315,
+			"updated": 1704883772326,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1419,
-			"versionNonce": 1731988944,
+			"version": 1420,
+			"versionNonce": 2093390631,
 			"isDeleted": false,
 			"id": "15YpLjk4",
 			"fillStyle": "solid",
@@ -3376,7 +3376,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4199.141187882356,
+			"x": 4199.141187882355,
 			"y": -978.3586905017032,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3387,7 +3387,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772327,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3403,8 +3403,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 3131,
-			"versionNonce": 1152415536,
+			"version": 3135,
+			"versionNonce": 91830727,
 			"isDeleted": false,
 			"id": "UXJ7-QC_3JIo4QrpYAoo7",
 			"fillStyle": "solid",
@@ -3426,18 +3426,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772326,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"focus": 0.026606916869767957,
-				"gap": 4.047209685979624
+				"gap": 4.047209685979624,
+				"focus": 0.026606916869767957
 			},
 			"endBinding": {
 				"elementId": "5IV3I5H0Mf1Sp0j6KxN4C",
-				"focus": 0.019269513066025836,
-				"gap": 7.7531873923960575
+				"gap": 7.7531873923960575,
+				"focus": 0.019269513066025836
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3546,8 +3546,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 3147,
-			"versionNonce": 827251152,
+			"version": 3151,
+			"versionNonce": 2012822887,
 			"isDeleted": false,
 			"id": "4AYzGEyd-pk9Ob_5DeXUr",
 			"fillStyle": "solid",
@@ -3569,18 +3569,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772328,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "5IV3I5H0Mf1Sp0j6KxN4C",
-				"focus": -0.024529033058427102,
-				"gap": 4.4834280542041824
+				"gap": 4.4834280542041824,
+				"focus": -0.024529033058427102
 			},
 			"endBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": 0.016933768291376054,
-				"gap": 4.343422303874604
+				"gap": 4.343422303874604,
+				"focus": 0.016933768291376054
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3940,8 +3940,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 2766,
-			"versionNonce": 966349616,
+			"version": 2770,
+			"versionNonce": 489726375,
 			"isDeleted": false,
 			"id": "UvOjIm3aCof38iQvfK4Sy",
 			"fillStyle": "solid",
@@ -3961,18 +3961,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772346,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": -0.2048188918099659,
-				"gap": 3.0423283703457855
+				"gap": 3.0423283703457855,
+				"focus": -0.2048188918099659
 			},
 			"endBinding": {
 				"elementId": "2r96K-3joVT3jaL3LZOlx",
-				"focus": 0.1902513088174696,
-				"gap": 7.38739855149197
+				"gap": 7.38739855149197,
+				"focus": 0.1902513088174696
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3990,8 +3990,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 2806,
-			"versionNonce": 1169995728,
+			"version": 2810,
+			"versionNonce": 1444408615,
 			"isDeleted": false,
 			"id": "QWra48uUobur5W7y_ox6E",
 			"fillStyle": "solid",
@@ -4000,7 +4000,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4470.743813787891,
+			"x": 4470.743813787892,
 			"y": -604.2477088273534,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4011,18 +4011,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772341,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": -0.03666866163204938,
-				"gap": 1
+				"gap": 1,
+				"focus": -0.03666866163204938
 			},
 			"endBinding": {
 				"elementId": "WUkshayA-X9HPpPkUeAPl",
-				"focus": -0.004421107289313279,
-				"gap": 5.729621018901128
+				"gap": 5.729621018901128,
+				"focus": -0.004421107289313279
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4040,8 +4040,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 3176,
-			"versionNonce": 191327536,
+			"version": 3180,
+			"versionNonce": 1000405159,
 			"isDeleted": false,
 			"id": "sG11kpPqBGReuNSCddbSp",
 			"fillStyle": "solid",
@@ -4055,24 +4055,24 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 369.16630338694404,
-			"height": 192.887198655781,
+			"height": 192.88719865578094,
 			"seed": 183741394,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772337,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": 0.04582433906401953,
-				"gap": 4.76984570511604
+				"gap": 4.76984570511604,
+				"focus": 0.04582433906401953
 			},
 			"endBinding": {
 				"elementId": "N3in6thOdbTMOrU75DgSJ",
-				"focus": -0.32053898970195266,
-				"gap": 11.235438538058986
+				"gap": 11.235438538058986,
+				"focus": -0.32053898970195266
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4084,7 +4084,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				],
 				[
 					-369.16630338694404,
-					192.887198655781
+					192.88719865578094
 				]
 			]
 		},
@@ -4163,8 +4163,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 2304,
-			"versionNonce": 1932329936,
+			"version": 2308,
+			"versionNonce": 509932455,
 			"isDeleted": false,
 			"id": "-v_0zNb95hzgjEb5Hq7RC",
 			"fillStyle": "solid",
@@ -4184,18 +4184,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772353,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NZMg5n9lLupEjyGjkXcTB",
-				"focus": 0.004454188981026808,
-				"gap": 4.311886454041542
+				"gap": 4.311886454041542,
+				"focus": 0.004454188981026808
 			},
 			"endBinding": {
 				"elementId": "olOaYrvl4_AQ1qvyBlbe1",
-				"focus": -0.15166034954832766,
-				"gap": 3.2359742275311874
+				"gap": 3.2359742275311874,
+				"focus": -0.15166034954832766
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4383,8 +4383,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 2740,
-			"versionNonce": 225400112,
+			"version": 2744,
+			"versionNonce": 317311591,
 			"isDeleted": false,
 			"id": "ZopHZvIW-XiQOsKPB0rvK",
 			"fillStyle": "solid",
@@ -4397,7 +4397,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"y": 136.74548872269384,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 6.930664504275228,
+			"width": 6.9306645042761374,
 			"height": 338.1250283732179,
 			"seed": 674288658,
 			"groupIds": [],
@@ -4406,18 +4406,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772357,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "WUkshayA-X9HPpPkUeAPl",
-				"focus": 0.09629495462402979,
-				"gap": 3.100714651091266
+				"gap": 3.100714651091266,
+				"focus": 0.09629495462402979
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"focus": 0.016274351402588386,
-				"gap": 11.345999484090044
+				"gap": 11.345999484090044,
+				"focus": 0.016274351402588386
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4428,15 +4428,15 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					0
 				],
 				[
-					6.930664504275228,
+					6.9306645042761374,
 					338.1250283732179
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2594,
-			"versionNonce": 1136645584,
+			"version": 2598,
+			"versionNonce": 1342807207,
 			"isDeleted": false,
 			"id": "5e6CnGUnEZnAajRbX-ZU6",
 			"fillStyle": "solid",
@@ -4445,11 +4445,11 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5015.3905048049955,
+			"x": 5015.390504804996,
 			"y": 117.61904213844446,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 421.52897140768346,
+			"width": 421.52897140768437,
 			"height": 362.50645221844957,
 			"seed": 244951566,
 			"groupIds": [],
@@ -4458,18 +4458,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772358,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "2r96K-3joVT3jaL3LZOlx",
-				"focus": -0.08944690790190017,
-				"gap": 3.974268066841887
+				"gap": 3.974268066841887,
+				"focus": -0.08944690790190017
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"focus": 0.06497542066234822,
-				"gap": 6.091022223107757
+				"gap": 6.091022223107757,
+				"focus": 0.06497542066234822
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4480,15 +4480,15 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					0
 				],
 				[
-					-421.52897140768346,
+					-421.52897140768437,
 					362.50645221844957
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2546,
-			"versionNonce": 959262512,
+			"version": 2550,
+			"versionNonce": 1015668455,
 			"isDeleted": false,
 			"id": "U3ZGSrlud6jSy5rfAeMrx",
 			"fillStyle": "solid",
@@ -4510,18 +4510,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772358,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "N3in6thOdbTMOrU75DgSJ",
-				"focus": 0.04912881107412702,
-				"gap": 7.964155321546087
+				"gap": 7.964155321546087,
+				"focus": 0.04912881107412702
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"focus": -0.09196674185034831,
-				"gap": 5.1263351727052395
+				"gap": 5.1263351727052395,
+				"focus": -0.09196674185034831
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4539,8 +4539,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 2579,
-			"versionNonce": 518298576,
+			"version": 2583,
+			"versionNonce": 1863225639,
 			"isDeleted": false,
 			"id": "Tdviut1XD64GQ_izRrWKk",
 			"fillStyle": "solid",
@@ -4549,11 +4549,11 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4462.579883191566,
+			"x": 4462.579883191567,
 			"y": 670.4460693234055,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.0950803718396855,
+			"width": 1.095080371840595,
 			"height": 134.32480042665736,
 			"seed": 1082424402,
 			"groupIds": [],
@@ -4562,18 +4562,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772358,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"focus": -0.013727684694239057,
-				"gap": 10.927907498058403
+				"gap": 10.927907498058403,
+				"focus": -0.013727684694239057
 			},
 			"endBinding": {
 				"elementId": "ALQgJLBh9BGd2xMbsceuW",
-				"focus": 0.014772201447171762,
-				"gap": 1.1432581782152056
+				"gap": 1.1432581782152056,
+				"focus": 0.014772201447171762
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4584,15 +4584,15 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					0
 				],
 				[
-					-1.0950803718396855,
+					-1.095080371840595,
 					134.32480042665736
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 2479,
-			"versionNonce": 606062896,
+			"version": 2483,
+			"versionNonce": 1376458279,
 			"isDeleted": false,
 			"id": "UJoQfZP6mHIVmQ5ER6Xqj",
 			"fillStyle": "solid",
@@ -4614,18 +4614,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772350,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Pn0YoozQtSEwcguMicfsX",
-				"focus": 0.14281740031919052,
-				"gap": 7.136820194386019
+				"gap": 7.136820194386019,
+				"focus": 0.14281740031919052
 			},
 			"endBinding": {
 				"elementId": "mKIuSWH_u9AdJ-elHBjeh",
-				"focus": -0.014136095406626472,
-				"gap": 4.146336376465115
+				"gap": 4.146336376465115,
+				"focus": -0.014136095406626472
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4643,8 +4643,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 571,
-			"versionNonce": 92316112,
+			"version": 572,
+			"versionNonce": 1784589959,
 			"isDeleted": false,
 			"id": "ViUdqh8UuCi9LrMx8wjji",
 			"fillStyle": "solid",
@@ -4653,7 +4653,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4209.237503977273,
+			"x": 4209.237503977274,
 			"y": -2003.4827904485905,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4679,14 +4679,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033315,
+			"updated": 1704883772360,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 563,
-			"versionNonce": 162472752,
+			"version": 564,
+			"versionNonce": 1444890599,
 			"isDeleted": false,
 			"id": "vsjGwid6",
 			"fillStyle": "solid",
@@ -4695,7 +4695,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4249.405195450716,
+			"x": 4249.405195450717,
 			"y": -1978.9551921913194,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4706,7 +4706,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772362,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4722,8 +4722,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 3186,
-			"versionNonce": 111929296,
+			"version": 3190,
+			"versionNonce": 1685981895,
 			"isDeleted": false,
 			"id": "PojRhU0PZquWclZhQ41bU",
 			"fillStyle": "solid",
@@ -4745,18 +4745,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772375,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "6o4-bPOiAmNZ08S4mLRpu",
-				"focus": 0.049853461144132846,
-				"gap": 12.599890227721062
+				"gap": 12.599890227721062,
+				"focus": 0.049853461144132846
 			},
 			"endBinding": {
 				"elementId": "oFggns6fZGfAWfhjFJuxE",
-				"focus": 0.03710359984086673,
-				"gap": 1.0047017021082638
+				"gap": 1.0047017021082638,
+				"focus": 0.03710359984086673
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4924,8 +4924,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 343,
-			"versionNonce": 152678704,
+			"version": 347,
+			"versionNonce": 1213504615,
 			"isDeleted": false,
 			"id": "4p7Z4uf6HlzI2RHO-M5r8",
 			"fillStyle": "solid",
@@ -4938,7 +4938,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"y": -890.4384342408974,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 48.72138650435318,
+			"width": 48.721386504354086,
 			"height": 116.81238266996843,
 			"seed": 1295682410,
 			"groupIds": [],
@@ -4947,18 +4947,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772365,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "f1RXouhEXbBNG9NosenD7",
-				"focus": 0.05935138480823885,
-				"gap": 10.004549553378183
+				"gap": 10.004549553378183,
+				"focus": 0.05935138480823885
 			},
 			"endBinding": {
 				"elementId": "mKIuSWH_u9AdJ-elHBjeh",
-				"focus": -0.13682023741605648,
-				"gap": 3.8782348838481084
+				"gap": 3.8782348838481084,
+				"focus": -0.13682023741605648
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4969,15 +4969,15 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					0
 				],
 				[
-					48.72138650435318,
+					48.721386504354086,
 					116.81238266996843
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 984,
-			"versionNonce": 1937324496,
+			"version": 988,
+			"versionNonce": 1327348263,
 			"isDeleted": false,
 			"id": "8D4HGgX3hNJ-EMGtDmwgA",
 			"fillStyle": "solid",
@@ -4987,11 +4987,11 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"opacity": 100,
 			"angle": 0,
 			"x": 5029.00293033131,
-			"y": -891.5614102065833,
+			"y": -891.5614102065834,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 27.05192394560345,
-			"height": 115.3877681264454,
+			"height": 115.38776812644551,
 			"seed": 1735647402,
 			"groupIds": [],
 			"frameId": null,
@@ -4999,18 +4999,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772363,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "6lp_cMXz-UdSOwdwEBP1r",
-				"focus": 0.3671219627572195,
-				"gap": 5.387133742532569
+				"gap": 5.387133742532569,
+				"focus": 0.3671219627572195
 			},
 			"endBinding": {
 				"elementId": "mKIuSWH_u9AdJ-elHBjeh",
-				"focus": 0.004709522887934457,
-				"gap": 6.425825393057039
+				"gap": 6.425825393057039,
+				"focus": 0.004709522887934457
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -5022,7 +5022,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				],
 				[
 					-27.05192394560345,
-					115.3877681264454
+					115.38776812644551
 				]
 			]
 		},
@@ -5103,8 +5103,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 1107,
-			"versionNonce": 98772272,
+			"version": 1111,
+			"versionNonce": 40365735,
 			"isDeleted": false,
 			"id": "Bpt1jGm-sQsZu4FG-qqwm",
 			"fillStyle": "solid",
@@ -5126,18 +5126,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772367,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "OHHtrppVURH-oEcG_9dNt",
-				"focus": 0.3079459401397556,
-				"gap": 9.395442212725357
+				"gap": 9.395442212725357,
+				"focus": 0.3079459401397556
 			},
 			"endBinding": {
 				"elementId": "TRTqel4zJJp6TmMJMqedZ",
-				"focus": 0.20270940588831973,
-				"gap": 10.674616209994383
+				"gap": 10.674616209994383,
+				"focus": 0.20270940588831973
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -5305,8 +5305,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 444,
-			"versionNonce": 879088080,
+			"version": 448,
+			"versionNonce": 1694216423,
 			"isDeleted": false,
 			"id": "LX6EPC4aRJIx1GrETYSQr",
 			"fillStyle": "solid",
@@ -5316,11 +5316,11 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"opacity": 100,
 			"angle": 0,
 			"x": 5195.611100436262,
-			"y": -866.4838689171947,
+			"y": -866.4838689171951,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 129.31616612366452,
-			"height": 92.93315186033738,
+			"width": 129.31616612366543,
+			"height": 92.93315186033772,
 			"seed": 612029280,
 			"groupIds": [],
 			"frameId": null,
@@ -5328,18 +5328,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772369,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "6na5Vdxa-ZgECQegrCZYs",
-				"focus": 0.48078172330422864,
-				"gap": 3.3019666474774567
+				"gap": 3.3019666474774567,
+				"focus": 0.48078172330422864
 			},
 			"endBinding": {
 				"elementId": "mKIuSWH_u9AdJ-elHBjeh",
-				"focus": -0.05426667452260994,
-				"gap": 3.8029003697764665
+				"gap": 3.8029003697764665,
+				"focus": -0.05426667452260994
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -5350,15 +5350,15 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					0
 				],
 				[
-					-129.31616612366452,
-					92.93315186033738
+					-129.31616612366543,
+					92.93315186033772
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 459,
-			"versionNonce": 183825200,
+			"version": 463,
+			"versionNonce": 1051976487,
 			"isDeleted": false,
 			"id": "0DV0vhz0H0cZKJbrlQkPZ",
 			"fillStyle": "solid",
@@ -5380,18 +5380,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033315,
+			"updated": 1704883772371,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "BL4feo-NkQ7iHeoqDrb8C",
-				"focus": 0.44835612072037695,
-				"gap": 6.0032286502992065
+				"gap": 6.0032286502992065,
+				"focus": 0.44835612072037695
 			},
 			"endBinding": {
 				"elementId": "mKIuSWH_u9AdJ-elHBjeh",
-				"focus": 0.37048300240549714,
-				"gap": 5.262063004865922
+				"gap": 5.262063004865922,
+				"focus": 0.37048300240549714
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -5484,8 +5484,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 534,
-			"versionNonce": 1238867408,
+			"version": 538,
+			"versionNonce": 87328103,
 			"isDeleted": false,
 			"id": "8j5j7jOzc1jJFWVSxqqUg",
 			"fillStyle": "solid",
@@ -5495,11 +5495,11 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"opacity": 100,
 			"angle": 0,
 			"x": 5153.639233916713,
-			"y": -655.3483807694793,
+			"y": -655.3483807694794,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 177.4471376003712,
-			"height": 41.31085914996481,
+			"height": 41.31085914996493,
 			"seed": 654105440,
 			"groupIds": [],
 			"frameId": null,
@@ -5507,18 +5507,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883772373,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "mKIuSWH_u9AdJ-elHBjeh",
-				"focus": 0.09683475676840946,
-				"gap": 5.318017152598259
+				"gap": 5.318017152598259,
+				"focus": 0.09683475676840946
 			},
 			"endBinding": {
 				"elementId": "cVzRsGKyYT8M3JW7nbdA8",
-				"focus": -0.4693934096053432,
-				"gap": 7.07700582976031
+				"gap": 7.07700582976031,
+				"focus": -0.4693934096053432
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -5530,14 +5530,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				],
 				[
 					177.4471376003712,
-					41.31085914996481
+					41.31085914996493
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 605,
-			"versionNonce": 391505712,
+			"version": 606,
+			"versionNonce": 929906823,
 			"isDeleted": false,
 			"id": "6o4-bPOiAmNZ08S4mLRpu",
 			"fillStyle": "solid",
@@ -5546,7 +5546,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4237.352743163284,
+			"x": 4237.352743163285,
 			"y": -1728.3956517902698,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
@@ -5572,14 +5572,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883772375,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 617,
-			"versionNonce": 516121552,
+			"version": 618,
+			"versionNonce": 114363431,
 			"isDeleted": false,
 			"id": "LwTKGrI5",
 			"fillStyle": "solid",
@@ -5588,7 +5588,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4265.191190934113,
+			"x": 4265.191190934114,
 			"y": -1700.8956517902698,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
@@ -5599,7 +5599,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883772376,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5615,8 +5615,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 1306,
-			"versionNonce": 745636144,
+			"version": 1310,
+			"versionNonce": 1125205255,
 			"isDeleted": false,
 			"id": "QSWFrwkoUVCLoYwP20x51",
 			"fillStyle": "solid",
@@ -5625,11 +5625,11 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4454.014423313579,
+			"x": 4454.01442331358,
 			"y": -1861.148673354403,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 3.3642610609649637,
+			"width": 3.364261060964054,
 			"height": 131.01457728419018,
 			"seed": 529421984,
 			"groupIds": [],
@@ -5638,18 +5638,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883772375,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "ViUdqh8UuCi9LrMx8wjji",
-				"focus": 0.02744940047518537,
-				"gap": 3.2789205796451597
+				"gap": 3.2789205796451597,
+				"focus": 0.02744940047518537
 			},
 			"endBinding": {
 				"elementId": "6o4-bPOiAmNZ08S4mLRpu",
-				"focus": 0.0010463323356623643,
-				"gap": 1.7384442799429962
+				"gap": 1.7384442799429962,
+				"focus": 0.0010463323356623643
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -5660,7 +5660,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					0
 				],
 				[
-					3.3642610609649637,
+					3.364261060964054,
 					131.01457728419018
 				]
 			]
@@ -5740,8 +5740,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 489,
-			"versionNonce": 595111888,
+			"version": 493,
+			"versionNonce": 1692102247,
 			"isDeleted": false,
 			"id": "OYgIztgoHu9S6ldWlaqNY",
 			"fillStyle": "solid",
@@ -5751,7 +5751,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"opacity": 100,
 			"angle": 0,
 			"x": 4863.397400416378,
-			"y": 858.8601299391973,
+			"y": 858.8601299391976,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 266.3780267690945,
@@ -5761,18 +5761,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883772377,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "A3cBQgYnsGbRbOTdQfUrl",
-				"focus": -0.00033764999537807557,
-				"gap": 4.537424424445817
+				"gap": 4.537424424445817,
+				"focus": -0.00033764999537807557
 			},
 			"endBinding": {
 				"elementId": "ALQgJLBh9BGd2xMbsceuW",
-				"focus": 0.133958686003081,
-				"gap": 6.969108854403203
+				"gap": 6.969108854403203,
+				"focus": 0.133958686003081
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -5790,8 +5790,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "text",
-			"version": 171,
-			"versionNonce": 1904670000,
+			"version": 204,
+			"versionNonce": 1587636807,
 			"isDeleted": false,
 			"id": "20SOmUBu",
 			"fillStyle": "solid",
@@ -5800,8 +5800,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4967.5334182553925,
-			"y": -3510.8998425424493,
+			"x": 4896.068269329611,
+			"y": -5027.424042981902,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 482.9398193359375,
@@ -5813,7 +5813,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883793499,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5829,8 +5829,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 527,
-			"versionNonce": 108148176,
+			"version": 560,
+			"versionNonce": 531269991,
 			"isDeleted": false,
 			"id": "6K16IajFGyqyb1KSb7kAk",
 			"fillStyle": "solid",
@@ -5839,8 +5839,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4818.930685937216,
-			"y": -3407.042356858325,
+			"x": 4747.465537011435,
+			"y": -4923.566557297778,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 780.1452839722906,
@@ -5855,14 +5855,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883793499,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 450,
-			"versionNonce": 2035339056,
+			"version": 483,
+			"versionNonce": 478332039,
 			"isDeleted": false,
 			"id": "Gi0wgSjHoqOERbgeffuU8",
 			"fillStyle": "solid",
@@ -5871,8 +5871,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4983.567673224163,
-			"y": -3171.9995899855717,
+			"x": 4912.1025242983815,
+			"y": -4688.523790425024,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
 			"width": 432.74395720827533,
@@ -5892,14 +5892,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883793499,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 202,
-			"versionNonce": 474676176,
+			"version": 235,
+			"versionNonce": 1560448711,
 			"isDeleted": false,
 			"id": "Y9xLPD4N",
 			"fillStyle": "solid",
@@ -5908,8 +5908,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4942.270224033984,
-			"y": -3281.2110859639,
+			"x": 4870.805075108203,
+			"y": -4797.735286403353,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 538.0795288085938,
@@ -5922,7 +5922,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883793499,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5938,8 +5938,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 159,
-			"versionNonce": 1590651184,
+			"version": 192,
+			"versionNonce": 1869815271,
 			"isDeleted": false,
 			"id": "9Pntq_mX0bmtOpCJa4KUC",
 			"fillStyle": "solid",
@@ -5948,8 +5948,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5038.018344717811,
-			"y": -2664.480543912193,
+			"x": 4966.553195792029,
+			"y": -4181.004744351645,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 354.83127076947494,
@@ -5969,14 +5969,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"id": "8dmrl7sD"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883793499,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 1192952272,
+			"version": 144,
+			"versionNonce": 2135214343,
 			"isDeleted": false,
 			"id": "8dmrl7sD",
 			"fillStyle": "solid",
@@ -5985,8 +5985,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5111.8800173950285,
-			"y": -2649.4322612910846,
+			"x": 5040.414868469247,
+			"y": -4165.956461730537,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 207.10792541503906,
@@ -5999,7 +5999,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883793499,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -6015,8 +6015,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 225100592,
+			"version": 198,
+			"versionNonce": 2046038055,
 			"isDeleted": false,
 			"id": "zWebweXN",
 			"fillStyle": "solid",
@@ -6025,8 +6025,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5187.670133469431,
-			"y": -2904.1488360033304,
+			"x": 5116.2049845436495,
+			"y": -4420.673036442783,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 103.8599853515625,
@@ -6039,7 +6039,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883793499,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -6055,8 +6055,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "text",
-			"version": 292,
-			"versionNonce": 1710901200,
+			"version": 325,
+			"versionNonce": 1768780615,
 			"isDeleted": false,
 			"id": "RvsfzzTe",
 			"fillStyle": "solid",
@@ -6065,8 +6065,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5119.620548911042,
-			"y": -3081.2082638892166,
+			"x": 5048.15539998526,
+			"y": -4597.732464328669,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 44.959991455078125,
@@ -6079,7 +6079,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883793499,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6095,8 +6095,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 206,
-			"versionNonce": 1133174064,
+			"version": 273,
+			"versionNonce": 2040410729,
 			"isDeleted": false,
 			"id": "ayfZq4dT3Nj9zzOMxFtal",
 			"fillStyle": "solid",
@@ -6105,8 +6105,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 5198.635400645803,
-			"y": -3171.899771990042,
+			"x": 5127.170251720022,
+			"y": -4688.423972429495,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 187.21802684942122,
@@ -6119,14 +6119,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883793500,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "Gi0wgSjHoqOERbgeffuU8",
-				"focus": -0.05272380760163842,
-				"gap": 4.232861025646912
+				"focus": -0.05272380760163458,
+				"gap": 4.23286102564694
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -6475,8 +6475,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 310,
-			"versionNonce": 1026203440,
+			"version": 333,
+			"versionNonce": 182033257,
 			"isDeleted": false,
 			"id": "Tud-ctxmM1AJhpuj3qBvy",
 			"fillStyle": "solid",
@@ -6485,8 +6485,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1788.3832322860349,
-			"y": 552.0195307437768,
+			"x": 43.17456834560517,
+			"y": -1076.759460955442,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 253.19149683557498,
@@ -6522,14 +6522,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 312,
-			"versionNonce": 2008427472,
+			"version": 335,
+			"versionNonce": 1040079305,
 			"isDeleted": false,
 			"id": "qc4lAriI",
 			"fillStyle": "solid",
@@ -6538,8 +6538,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1809.9590756134903,
-			"y": 586.2596370304864,
+			"x": 64.75041167306063,
+			"y": -1042.5193546687324,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 210.03981018066406,
@@ -6552,7 +6552,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6568,8 +6568,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 510,
-			"versionNonce": 653211952,
+			"version": 585,
+			"versionNonce": 728437223,
 			"isDeleted": false,
 			"id": "2edHNg0N3-40lom7qLU7T",
 			"fillStyle": "solid",
@@ -6578,8 +6578,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1659.8048653522092,
-			"y": 506.7043935784385,
+			"x": -85.40379858822052,
+			"y": -1122.0745981207801,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 120.94057991053478,
@@ -6594,18 +6594,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789609,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "iRw5dX9oNG_jGA_srOpsI",
-				"gap": 7.438904872926059,
-				"focus": -0.02994300698576899
+				"focus": -0.029943006985768135,
+				"gap": 7.438904872926059
 			},
 			"endBinding": {
 				"elementId": "Tud-ctxmM1AJhpuj3qBvy",
-				"gap": 7.637787023290912,
-				"focus": -0.12843657114048665
+				"focus": -0.1284365711404877,
+				"gap": 7.637787023290912
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -6623,8 +6623,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 1428,
-			"versionNonce": 1839215056,
+			"version": 1451,
+			"versionNonce": 484916105,
 			"isDeleted": false,
 			"id": "2Koj4dgoVepCPnxlta_pZ",
 			"fillStyle": "solid",
@@ -6633,8 +6633,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1437.8392222262776,
-			"y": 648.0098406770658,
+			"x": -307.3694417141521,
+			"y": -980.769151022153,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 131.48439537471492,
@@ -6658,14 +6658,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1438,
-			"versionNonce": 1628476208,
+			"version": 1461,
+			"versionNonce": 1087548745,
 			"isDeleted": false,
 			"id": "R2Rq4Tvk",
 			"fillStyle": "solid",
@@ -6674,8 +6674,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1448.4914693521116,
-			"y": 665.5098406770658,
+			"x": -296.7171945883181,
+			"y": -963.269151022153,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 110.17990112304688,
@@ -6688,7 +6688,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6704,8 +6704,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 413,
-			"versionNonce": 1683584976,
+			"version": 488,
+			"versionNonce": 1736377383,
 			"isDeleted": false,
 			"id": "b65wsyM9Gxl0MrhRaBI1-",
 			"fillStyle": "solid",
@@ -6714,8 +6714,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1572.4003015070243,
-			"y": 678.0690579930676,
+			"x": -172.80836243340536,
+			"y": -950.7099337061511,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 208.0751208120373,
@@ -6730,18 +6730,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789610,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "2Koj4dgoVepCPnxlta_pZ",
-				"gap": 3.0766839060318034,
-				"focus": 0.3714466025983149
+				"focus": 0.371446602598315,
+				"gap": 3.0766839060318176
 			},
 			"endBinding": {
 				"elementId": "Tud-ctxmM1AJhpuj3qBvy",
-				"gap": 7.907809966973218,
-				"focus": 0.0793265180541526
+				"focus": 0.0793265180541526,
+				"gap": 7.907809966973218
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -6759,8 +6759,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 663,
-			"versionNonce": 1106685232,
+			"version": 686,
+			"versionNonce": 375172873,
 			"isDeleted": false,
 			"id": "1_DRrhKAY6LougOB933UT",
 			"fillStyle": "solid",
@@ -6769,8 +6769,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2144.8040234551618,
-			"y": 324.3856674324776,
+			"x": 399.5953595147321,
+			"y": -1304.3933242667413,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 272.30423742890224,
@@ -6790,14 +6790,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"id": "VH4e1Tqc"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 869,
-			"versionNonce": 2147089872,
+			"version": 892,
+			"versionNonce": 115598825,
 			"isDeleted": false,
 			"id": "VH4e1Tqc",
 			"fillStyle": "solid",
@@ -6806,8 +6806,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2157.916217548031,
-			"y": 329.3856674324776,
+			"x": 412.7075536076013,
+			"y": -1299.3933242667413,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
 			"width": 246.07984924316406,
@@ -6820,7 +6820,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6836,8 +6836,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "rectangle",
-			"version": 748,
-			"versionNonce": 319391536,
+			"version": 771,
+			"versionNonce": 320946377,
 			"isDeleted": false,
 			"id": "T4djymNMlVrICEpyyuQ2h",
 			"fillStyle": "solid",
@@ -6846,8 +6846,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2143.2760384444964,
-			"y": 617.3259374957695,
+			"x": 398.0673745040667,
+			"y": -1011.4530542034493,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 272.30423742890224,
@@ -6867,14 +6867,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"id": "x3HH0VcL"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 916,
-			"versionNonce": 563725264,
+			"version": 939,
+			"versionNonce": 682639273,
 			"isDeleted": false,
 			"id": "x3HH0VcL",
 			"fillStyle": "solid",
@@ -6883,8 +6883,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2156.3882325373656,
-			"y": 634.8259374957695,
+			"x": 411.17956859693595,
+			"y": -993.9530542034493,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#b2f2bb",
 			"width": 246.07984924316406,
@@ -6897,7 +6897,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6913,8 +6913,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "ellipse",
-			"version": 192,
-			"versionNonce": 816914736,
+			"version": 215,
+			"versionNonce": 1975280265,
 			"isDeleted": false,
 			"id": "3VIlWkmiLvC1iomBaGF-i",
 			"fillStyle": "solid",
@@ -6923,8 +6923,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2135.5810033006205,
-			"y": 466.9116619592903,
+			"x": 390.37233936019084,
+			"y": -1161.8673297399284,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 293.2605093626007,
@@ -6948,14 +6948,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 229,
-			"versionNonce": 1196476880,
+			"version": 252,
+			"versionNonce": 99787561,
 			"isDeleted": false,
 			"id": "sQydl9pAxa6sjF8XZG8Qf",
 			"fillStyle": "solid",
@@ -6964,8 +6964,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2135.436256812783,
-			"y": 617.1354162951468,
+			"x": 390.2275928723534,
+			"y": -1011.643575404072,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 293.2605093626007,
@@ -6989,14 +6989,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883789592,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 290,
-			"versionNonce": 710245168,
+			"version": 363,
+			"versionNonce": 2087413351,
 			"isDeleted": false,
 			"id": "kSsGEqTnK9BBwd0ntptk1",
 			"fillStyle": "solid",
@@ -7005,8 +7005,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2047.636280622466,
-			"y": 583.315077103142,
+			"x": 302.4276166820364,
+			"y": -1045.4639145960768,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 106.68078151574082,
@@ -7021,18 +7021,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789610,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Tud-ctxmM1AJhpuj3qBvy",
-				"gap": 6.06155150085624,
-				"focus": 0.4920938446500487
+				"focus": 0.4920938446500473,
+				"gap": 6.06155150085624
 			},
 			"endBinding": {
 				"elementId": "3VIlWkmiLvC1iomBaGF-i",
-				"gap": 2.7137677771229534,
-				"focus": 0.5560920473683792
+				"focus": 0.5560920473683795,
+				"gap": 2.2085588371100044
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -7050,8 +7050,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 374,
-			"versionNonce": 1815547856,
+			"version": 447,
+			"versionNonce": 47462567,
 			"isDeleted": false,
 			"id": "HjcY-kLa9C8e26gAX6cmL",
 			"fillStyle": "solid",
@@ -7060,12 +7060,12 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2049.3824066900233,
-			"y": 607.4645319655884,
+			"x": 304.1737427495932,
+			"y": -1021.3144597336303,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 85.3079595513077,
-			"height": 44.8186128979479,
+			"width": 85.30795955130816,
+			"height": 44.818612897948015,
 			"seed": 1657203360,
 			"groupIds": [
 				"QOhfnu9pT5SQ6roKn3SPC",
@@ -7076,18 +7076,18 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789610,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Tud-ctxmM1AJhpuj3qBvy",
-				"gap": 7.807677568413055,
-				"focus": -0.5466408115164724
+				"focus": -0.5466408115164724,
+				"gap": 7.807677568413055
 			},
 			"endBinding": {
 				"elementId": "sQydl9pAxa6sjF8XZG8Qf",
-				"gap": 1,
-				"focus": -0.8778664533157756
+				"focus": -0.8778664533157756,
+				"gap": 1
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -7098,15 +7098,15 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					0
 				],
 				[
-					85.3079595513077,
-					44.8186128979479
+					85.30795955130816,
+					44.818612897948015
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 448,
-			"versionNonce": 1650365744,
+			"version": 471,
+			"versionNonce": 1505397129,
 			"isDeleted": false,
 			"id": "iRw5dX9oNG_jGA_srOpsI",
 			"fillStyle": "solid",
@@ -7115,8 +7115,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1378.1968899862334,
-			"y": 383.59310075064263,
+			"x": -367.0117739541963,
+			"y": -1245.1858909485761,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 274.16907049304973,
@@ -7141,14 +7141,14 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883789593,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 483,
-			"versionNonce": 1751422416,
+			"version": 506,
+			"versionNonce": 1605008201,
 			"isDeleted": false,
 			"id": "0QeOefeh",
 			"fillStyle": "solid",
@@ -7157,8 +7157,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1480.2414472054145,
-			"y": 388.59310075064263,
+			"x": -264.9672167350152,
+			"y": -1240.1858909485761,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
 			"width": 70.0799560546875,
@@ -7172,7 +7172,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789593,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7188,8 +7188,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "text",
-			"version": 53,
-			"versionNonce": 775188272,
+			"version": 76,
+			"versionNonce": 892217897,
 			"isDeleted": false,
 			"id": "NPTUIKf1",
 			"fillStyle": "solid",
@@ -7198,8 +7198,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1419.6315000008246,
-			"y": 344.6549469017367,
+			"x": -325.57716393960504,
+			"y": -1284.124044797482,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 191.2998504638672,
@@ -7213,7 +7213,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789593,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7229,8 +7229,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "text",
-			"version": 70,
-			"versionNonce": 1357994960,
+			"version": 93,
+			"versionNonce": 1075379465,
 			"isDeleted": false,
 			"id": "VzMvDS0k",
 			"fillStyle": "solid",
@@ -7239,8 +7239,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2509.4757648753284,
-			"y": 567.6257674559308,
+			"x": 764.2671009348987,
+			"y": -1061.153224243288,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 124.29191589355469,
@@ -7262,7 +7262,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 					"type": "arrow"
 				}
 			],
-			"updated": 1704792033316,
+			"updated": 1704883789593,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -7278,8 +7278,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 121,
-			"versionNonce": 1983842608,
+			"version": 192,
+			"versionNonce": 979204839,
 			"isDeleted": false,
 			"id": "SeW6C2HpIyDfWDYzaQ6Pd",
 			"fillStyle": "solid",
@@ -7288,8 +7288,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2502.052676725496,
-			"y": 563.9678344627964,
+			"x": 756.8440127850663,
+			"y": -1064.8111572364223,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 70.58953571778511,
@@ -7304,7 +7304,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789610,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7333,8 +7333,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 113,
-			"versionNonce": 1475699152,
+			"version": 184,
+			"versionNonce": 1235954983,
 			"isDeleted": false,
 			"id": "3iuZRnkf8ifDeMgcFUnPW",
 			"fillStyle": "solid",
@@ -7343,8 +7343,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2504.1659378751856,
-			"y": 606.2390484820057,
+			"x": 758.9572739347559,
+			"y": -1022.539943217213,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 71.29541128324172,
@@ -7359,7 +7359,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789610,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7388,8 +7388,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 1441162032,
+			"version": 109,
+			"versionNonce": 458012521,
 			"isDeleted": false,
 			"id": "CG1eA2kd",
 			"fillStyle": "solid",
@@ -7398,8 +7398,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1754.276383277949,
-			"y": 772.99121266274,
+			"x": 9.067719337519293,
+			"y": -855.7877790364787,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 503.41180419921875,
@@ -7411,7 +7411,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883789593,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -7520,8 +7520,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 871,
-			"versionNonce": 1522740688,
+			"version": 875,
+			"versionNonce": 1548630951,
 			"isDeleted": false,
 			"id": "hjVVKgOZJFBo2h9atJmjO",
 			"fillStyle": "solid",
@@ -7546,7 +7546,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033316,
+			"updated": 1704883772405,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7656,8 +7656,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 776,
-			"versionNonce": 832106800,
+			"version": 780,
+			"versionNonce": 1280476967,
 			"isDeleted": false,
 			"id": "mveK4DKgek1xo1lwxk-r5",
 			"fillStyle": "solid",
@@ -7667,11 +7667,11 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"opacity": 100,
 			"angle": 0,
 			"x": -232.63276289252605,
-			"y": 687.9996782751232,
+			"y": 687.9996394339821,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 208.1995638341571,
-			"height": 51.89086599374923,
+			"height": 51.89084168457134,
 			"seed": 78813024,
 			"groupIds": [
 				"0SVQybmizsJ61Cl9sVmc4",
@@ -7682,7 +7682,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033317,
+			"updated": 1704883772399,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7705,7 +7705,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				],
 				[
 					208.1995638341571,
-					-51.89086599374923
+					-51.89084168457134
 				]
 			]
 		},
@@ -7910,8 +7910,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 651,
-			"versionNonce": 476987184,
+			"version": 653,
+			"versionNonce": 527995559,
 			"isDeleted": false,
 			"id": "jcdlm3HGSRJwzJ6KtAvSy",
 			"fillStyle": "solid",
@@ -7936,7 +7936,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033317,
+			"updated": 1704883772396,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7965,8 +7965,8 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		},
 		{
 			"type": "arrow",
-			"version": 774,
-			"versionNonce": 1476168656,
+			"version": 778,
+			"versionNonce": 779757927,
 			"isDeleted": false,
 			"id": "EynSRlHrBlXozgP15I5BY",
 			"fillStyle": "solid",
@@ -7975,12 +7975,12 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 244.47378531259278,
-			"y": 618.5043670838432,
+			"x": 244.47378531259284,
+			"y": 618.5012309318364,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 103.2343335478804,
-			"height": 55.817923181698575,
+			"height": 55.81987136263854,
 			"seed": 555562848,
 			"groupIds": [
 				"0SVQybmizsJ61Cl9sVmc4",
@@ -7991,7 +7991,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1704792033317,
+			"updated": 1704883772403,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8014,7 +8014,7 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 				],
 				[
 					103.2343335478804,
-					55.817923181698575
+					55.81987136263854
 				]
 			]
 		},
@@ -8459,10 +8459,10 @@ Ressources pertinente pour le machine learning ^4lknHbxH
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -3517.555402185556,
-		"scrollY": 4466.5095427135875,
+		"scrollX": -3336.3053337295955,
+		"scrollY": 1596.700229960976,
 		"zoom": {
-			"value": 0.11241530187427999
+			"value": 0.38160555273294444
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
